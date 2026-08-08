@@ -85,11 +85,6 @@
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/casman.png" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
-  <channel id="Canal Sur HD">
-    <display-name lang="es">Canal Sur HD</display-name>
-    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/csurhd.png" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
   <channel id="La 7">
     <display-name lang="es">La 7</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/cyltv.png" />
@@ -3546,36 +3541,30 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4493169" />
   </programme>
-  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="M+ Vamos">
+  <programme start="20260808130000 +0200" stop="20260808152000 +0200" channel="M+ Vamos">
     <title lang="es">Premier Padel. Londres: Fernández/Calvo - Josemaría/González</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260808150000 +0200" stop="20260808170000 +0200" channel="M+ Vamos">
+  <programme start="20260808152000 +0200" stop="20260808184400 +0200" channel="M+ Vamos">
     <title lang="es">Premier Padel. Londres: Triay/Brea - Sánchez/Ustero</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260808170000 +0200" stop="20260808185500 +0200" channel="M+ Vamos">
+  <programme start="20260808184400 +0200" stop="20260808204400 +0200" channel="M+ Vamos">
     <title lang="es">Premier Padel. Londres: Tapia/Coello - Di Nenno/Navarro</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459242" />
   </programme>
-  <programme start="20260808185500 +0200" stop="20260808192500 +0200" channel="M+ Vamos">
+  <programme start="20260808204400 +0200" stop="20260808205500 +0200" channel="M+ Vamos">
     <title lang="es">Bakalá</title>
     <desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414957" />
     <episode-num system="onscreen">T25/26 Ep.25</episode-num>
-  </programme>
-  <programme start="20260808192500 +0200" stop="20260808205500 +0200" channel="M+ Vamos">
-    <title lang="es">Andrés Iniesta. El héroe inesperado</title>
-    <desc lang="es">Una mirada íntima a la vida y carrera de Andrés Iniesta, abarcando el inicio de su trayectoria en La Masía, la academia juvenil del FC Barcelona, hasta su ascenso meteórico a la fama jugando para el Barça y la Selección Española, donde sus habilidades en el campo llevaron al conjunto nacional a llevarse el Mundial en 2010, y su llegada al Vissel Kobe en Japón. Junto al testimonio del propio Iniesta, el documental le rinde homenaje con entrevistas a jugadores de renombre mundial como Lionel Messi, Neymar, Luis Suárez, Pep Guardiola o Xavi Hernández. El documental está escrito por el periodista Marcos López, quien ha seguido de cerca la carrera de Iniesta y escribió su biografía oficial.</desc>
-    <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3958170" />
   </programme>
   <programme start="20260808205500 +0200" stop="20260808230000 +0200" channel="M+ Vamos">
     <title lang="es">Brasileirao: Gremio - São Paulo</title>
@@ -22009,12 +21998,7 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2422799V4170763" />
   </programme>
-  <programme start="20260808080000 +0200" stop="20260808090000 +0200" channel="M+ Vamos 2">
-    <title lang="es">M+ Vamos 2</title>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2422799V4170763" />
-  </programme>
-  <programme start="20260808090000 +0200" stop="20260808094100 +0200" channel="M+ Vamos 2">
+  <programme start="20260808080000 +0200" stop="20260808094100 +0200" channel="M+ Vamos 2">
     <title lang="es">Todo sobre Roland-Garros</title>
     <desc lang="es">Esta serie documental nos sumerge en el corazón del Grand Slam más emblemático, uno de los mayores eventos deportivos del planeta.</desc>
     <category lang="es">Documentales</category>
@@ -22075,13 +22059,13 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4467735" />
   </programme>
-  <programme start="20260808200000 +0200" stop="20260809010000 +0200" channel="M+ Vamos 2">
+  <programme start="20260808200000 +0200" stop="20260809011000 +0200" channel="M+ Vamos 2">
     <title lang="es">Professional Fighters League: Velada Completa Charlotte</title>
     <desc lang="es">Las World Series of Fighting son una promotora de artes marciales mixtas auspiciada por la NBC. La velada 35 se celebra en el Turning Stone Resort Casino de Verona, en Nueva York. Destacan los combates entre Ivanov y Jordan; Palmer vs Harrison; o Magomedov vs Frelow.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490303" />
   </programme>
-  <programme start="20260809010000 +0200" stop="20260809080000 +0200" channel="M+ Vamos 2">
+  <programme start="20260809011000 +0200" stop="20260809080000 +0200" channel="M+ Vamos 2">
     <title lang="es">M+ Vamos 2</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2422799V4170763" />
@@ -22237,13 +22221,13 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380292" />
   </programme>
-  <programme start="20260808221500 +0200" stop="20260809001500 +0200" channel="M+ Vamos 3">
-    <title lang="es">Premier Padel. Londres: Semifinal Femenina 1</title>
+  <programme start="20260808221500 +0200" stop="20260809002000 +0200" channel="M+ Vamos 3">
+    <title lang="es">Premier Padel. Londres: Fernández/Calvo - Josemaría/González</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260809001500 +0200" stop="20260809080000 +0200" channel="M+ Vamos 3">
+  <programme start="20260809002000 +0200" stop="20260809080000 +0200" channel="M+ Vamos 3">
     <title lang="es">M+ Vamos 3</title>
     <desc lang="es">Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
     <category lang="es">Deportes</category>
@@ -22936,25 +22920,25 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4486348" />
   </programme>
-  <programme start="20260808230000 +0200" stop="20260809000000 +0200" channel="M+ Liga de Campeones">
+  <programme start="20260808230000 +0200" stop="20260809000500 +0200" channel="M+ Liga de Campeones">
     <title lang="es">Magazine Europa League</title>
     <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4419596" />
     <episode-num system="onscreen">T25/26 Ep.22</episode-num>
   </programme>
-  <programme start="20260809000000 +0200" stop="20260809010000 +0200" channel="M+ Liga de Campeones">
+  <programme start="20260809000500 +0200" stop="20260809020500 +0200" channel="M+ Liga de Campeones">
+    <title lang="es">Liga Argentina. Torneo Clausura: Boca - Vélez</title>
+    <desc lang="es">El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4492676" />
+  </programme>
+  <programme start="20260809020500 +0200" stop="20260809030000 +0200" channel="M+ Liga de Campeones">
     <title lang="es">Magazine Champions League</title>
     <desc lang="es">Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4307593" />
     <episode-num system="onscreen">T25/26 Ep.36</episode-num>
-  </programme>
-  <programme start="20260809010000 +0200" stop="20260809030000 +0200" channel="M+ Liga de Campeones">
-    <title lang="es">Brasileirao: Gremio - São Paulo</title>
-    <desc lang="es">El fútbol en Brasil es más que un deporte, es una religión. Su liga es una factoría inagotable de jugadores, muchos de los cuales emigran a Europa para triunfar. El Sao Paulo, el Palmeiras, el Cruzeiro, el Santos o el Gremio son los habituales aspirantes al título.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4486348" />
   </programme>
   <programme start="20260809030000 +0200" stop="20260809040000 +0200" channel="M+ Liga de Campeones">
     <title lang="es">Magazine Europa League</title>
@@ -23234,13 +23218,13 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4487653" />
   </programme>
-  <programme start="20260808181700 +0200" stop="20260808202200 +0200" channel="M+ Deportes">
+  <programme start="20260808181700 +0200" stop="20260808202100 +0200" channel="M+ Deportes">
     <title lang="es">Premier Padel. Londres: Fernández/Calvo - Josemaría/González</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260808202200 +0200" stop="20260808205000 +0200" channel="M+ Deportes">
+  <programme start="20260808202100 +0200" stop="20260808205000 +0200" channel="M+ Deportes">
     <title lang="es">ATP Tour This Week</title>
     <desc lang="es">ATP Tour This Week.</desc>
     <category lang="es">Deportes</category>
@@ -23260,20 +23244,20 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2628246V4279634" />
     <episode-num system="onscreen">T18</episode-num>
   </programme>
-  <programme start="20260808234500 +0200" stop="20260809015000 +0200" channel="M+ Deportes">
-    <title lang="es">Premier Padel. Londres: Semifinal Femenina 2</title>
+  <programme start="20260808234500 +0200" stop="20260809025000 +0200" channel="M+ Deportes">
+    <title lang="es">Premier Padel. Londres: Triay/Brea - Sánchez/Ustero</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260809015000 +0200" stop="20260809035500 +0200" channel="M+ Deportes">
-    <title lang="es">Premier Padel. Londres: Semifinal Masculina 1</title>
+  <programme start="20260809025000 +0200" stop="20260809045000 +0200" channel="M+ Deportes">
+    <title lang="es">Premier Padel. Londres: Tapia/Coello - Di Nenno/Navarro</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459242" />
   </programme>
-  <programme start="20260809035500 +0200" stop="20260809060000 +0200" channel="M+ Deportes">
-    <title lang="es">Premier Padel. Londres: Semifinal Masculina 2</title>
+  <programme start="20260809045000 +0200" stop="20260809060000 +0200" channel="M+ Deportes">
+    <title lang="es">Premier Padel. Londres: Augsburger/Lebron - Chingotto/Galan</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459242" />
@@ -23521,31 +23505,31 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
   </programme>
-  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808130000 +0200" stop="20260808152000 +0200" channel="M+ Deportes 3">
     <title lang="es">Premier Padel. Londres: Fernández/Calvo - Josemaría/González</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260808150000 +0200" stop="20260808170000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808152000 +0200" stop="20260808184400 +0200" channel="M+ Deportes 3">
     <title lang="es">Premier Padel. Londres: Triay/Brea - Sánchez/Ustero</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459236" />
   </programme>
-  <programme start="20260808170000 +0200" stop="20260808190000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808184400 +0200" stop="20260808204400 +0200" channel="M+ Deportes 3">
     <title lang="es">Premier Padel. Londres: Tapia/Coello - Di Nenno/Navarro</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459242" />
   </programme>
-  <programme start="20260808190000 +0200" stop="20260808220000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808204400 +0200" stop="20260808234400 +0200" channel="M+ Deportes 3">
     <title lang="es">Premier Padel. Londres: Augsburger/Lebron - Chingotto/Galan</title>
     <desc lang="es">Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4459242" />
   </programme>
-  <programme start="20260808220000 +0200" stop="20260809010000 +0200" channel="M+ Deportes 3">
+  <programme start="20260808234400 +0200" stop="20260809010000 +0200" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
@@ -90986,49 +90970,49 @@
     <desc lang="es">Tres vídeos, tres finals impossibles i un únic objectiu: aconseguir els premis del "Zona Zàping Club" amb l'ajuda de la seva intuïció. I, per acabar, una cita que es repetirà a cada programa: tots els tertulians acomiaden l'espai amb un ball final al ritme de la música del DJ Frande.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20260808143000 +0200" stop="20260808153620 +0200" channel="TV3_CAT">
+  <programme start="20260808143000 +0200" stop="20260808153601 +0200" channel="TV3_CAT">
     <title lang="es">Telenotícies migdia</title>
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20260808153620 +0200" stop="20260808173538 +0200" channel="TV3_CAT">
+  <programme start="20260808153601 +0200" stop="20260808173523 +0200" channel="TV3_CAT">
     <title lang="es">Tarda de cine - Els pares d'ell</title>
     <desc lang="es">ELS PARES D'ELL "Meet the Fockers"Direcció: Jay RoachGuió: John Hamburg, Jim HerzfeldProducció: Universal PicturesAny: 2004Durada: 115País: Estats UnitsMúsica: Randy NewmanFotografia: John SchwartzmanIntèrprets: Ben Stiller, Robert De Niro, Dustin Hoffman, Barbra Streisand, Blythe Danner, Teri Polo, Alanna Ubach, Owen Wilson, Ray SantiagoEl Greg Fullat i la seva promesa, la Pam Byrnes, volen que els seus pares es coneguin per fixar tots junts la data del casament. Així doncs, l'estricte exagent de la CIA Jack Byrnes i la seva dona, la Dina, viatgen a Florida per passar un cap de setmana amb els pares del Greg, el Bernie i la Roz. El Jack es pensa que els seus futurs consogres són advocat i doctora, però en realitat el Bernie va deixar la professió per dedicar-se a fer de pare i la Roz és terapeuta sexual de gent gran. Les diferències entre totes dues famílies generen situacions còmiques i tensions, i posaran a prova la relació del Greg i la Pam.</desc>
   </programme>
-  <programme start="20260808173538 +0200" stop="20260808191218 +0200" channel="TV3_CAT">
+  <programme start="20260808173523 +0200" stop="20260808191222 +0200" channel="TV3_CAT">
     <title lang="es">Tarda de cine - Ara els pares són ells</title>
     <desc lang="es">ARA ELS PARES SÓN ELLS "Little Fockers"Direcció: Paul WeitzGuió: John Hamburg, Larry StuckeyProducció: Universal Pictures, Paramount Pictures, Relativity Studios, Tribeca Productions, Everyman PicturesAny: 2010Durada: 98País: Estats UnitsMúsica: Stephen TraskFotografia: Remi AdefarasinIntèrprets: Robert De Niro, Ben Stiller, Jessica Alba, Teri Polo, Owen Wilson, Dustin Hoffman, Barbra Streisand, Blythe Danner, Harvey Keitel, Laura Dern, Kevin Hart, Daisy Tahan, Jordan PeeleA en Greg li ha costat deu anys, dos petits Fullat que ha tingut amb la seva dona, la Pam, i una infinitat d'embolics, guanyar-se en Jack, el seu sogre hermètic. Ara que necessiten diners, en Greg ha agafat una feina per promocionar un fàrmac, però les sospites d'en Jack sobre el seu gendre tornen a aparèixer. Quan en Greg i tot el clan de la Pam -que inclou el seu ex que pateix desamor, en Kevin (Owen Wilson)- es troben per la festa d'aniversari dels bessons, en Greg ha de demostrar al seu sogre escèptic que és perfectament capaç de ser l'home de la casa. Però amb tots els malentesos, les missions encobertes i l'espionatge, en Greg podrà superar la prova final d'en Jack i convertir-se en el nou patriarca de la família, o el Cercle de Confiança es trencarà definitivament?</desc>
   </programme>
-  <programme start="20260808191218 +0200" stop="20260808191838 +0200" channel="TV3_CAT">
+  <programme start="20260808191222 +0200" stop="20260808191842 +0200" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20260808191838 +0200" stop="20260808194138 +0200" channel="TV3_CAT">
+  <programme start="20260808191842 +0200" stop="20260808194142 +0200" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20260808194138 +0200" stop="20260808200000 +0200" channel="TV3_CAT">
+  <programme start="20260808194142 +0200" stop="20260808200000 +0200" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20260808200000 +0200" stop="20260808205500 +0200" channel="TV3_CAT">
+  <programme start="20260808200000 +0200" stop="20260808205903 +0200" channel="TV3_CAT">
     <title lang="es">Telenotícies vespre</title>
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20260808205500 +0200" stop="20260808230313 +0200" channel="TV3_CAT">
+  <programme start="20260808205903 +0200" stop="20260808230717 +0200" channel="TV3_CAT">
     <title lang="es">Futbol - Triangular Udine: FC Barcelona-Nottingham Forest i Udinese-FC Barcelona / Pretemporada 2026-27</title>
     <sub-title lang="es">Partits amistosos, tornejos d'estiu, el Trofeu Joan Gamper... Fes la pretemporada amb el FC Barcelona a Esport3!</sub-title>
     <desc lang="es">El FC Barcelona participa en el torneig triangular Friuli Venezia Giulia Cup. Els rivals són l'Udinese i el Nottingham Forest. Cada equip disputa dos partits de 45 minuts i suma 3 punts per victòria, i 2 si és als penals.</desc>
   </programme>
-  <programme start="20260808230313 +0200" stop="20260809010549 +0200" channel="TV3_CAT">
+  <programme start="20260808230717 +0200" stop="20260809010953 +0200" channel="TV3_CAT">
     <title lang="es">Nit d'Oscars - Carros de foc</title>
     <desc lang="es">CARROS DE FOC (Chariots of Fire)Producció: Allied Stars, Enigma i 2oth Century Fox, 1981Direcció: Hugh Hudson / Durada: 125 minutsGuió: Colin WellandFotografia: David Watkin (color)Música: VangelisIntèrprets: Ben Cross (Harold Abrahams), Ian Charleson (Eric Liddell), Nigel Havers (Andrew Lindsey), \tNick Farrell (Aubrey Montague), Daniel Gerroll (Henry Stallard), Cheryl Campbell (Jennie) El 1924 se celebren els Jocs Olímpics a París. Entre els atletes britànics que competeixen en les curses dels cent metres, hi ha dos estudiants: Harold Abrahams, d'origen jueu, i Eric Liddell, fill d'un missioner escocès. Tots dos es proposen arribar al límit de les seves forces per aconseguir la medalla d'or per motivacions diverses. Abrahams vol clavar un cop definitiu a la humiliació que han hagut de patir ell i el seu pare pel fet de ser jueus i Liddell, que també es vol dedicar al sacerdoci, com el seu pare, ho fa pel Déu que inspira totes les seves accions. En l'ambient dels anys 20 a Europa, el triomf esportiu dels dos joves s'enfronta a l'emergència del feixisme i el nazisme i a l'oportunisme amb què governs europeus democràtics toleren aquests moviments.</desc>
   </programme>
-  <programme start="20260809010549 +0200" stop="20260809044536 +0200" channel="TV3_CAT">
+  <programme start="20260809010953 +0200" stop="20260809044536 +0200" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
@@ -91692,43 +91676,43 @@
     <desc lang="es">Comença la versió estiuenca del "Zona Zàping Club.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20260808100951 +0200" stop="20260808104322 +0200" channel="Esport3_CAT">
+  <programme start="20260808100951 +0200" stop="20260808104324 +0200" channel="Esport3_CAT">
     <title lang="es">Zona Zàping Club - Jordi Montalbo rep una declaració d'amor que no veu venir</title>
     <desc lang="es">El presentador del "TN Esports" participa en el concurs "Això acaba...</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20260808104322 +0200" stop="20260808122526 +0200" channel="Esport3_CAT">
+  <programme start="20260808104324 +0200" stop="20260808122528 +0200" channel="Esport3_CAT">
     <title lang="es">Futbol - Girona FC-CE Sabadell/ Pretemporada 2026-27</title>
     <sub-title lang="es">Segueix els partits de pretemporada del Girona FC a Esport3 i 3Cat!</sub-title>
     <desc lang="es">Segueix els partits i les gires de pretemporada del Girona FC a Esport3 i viu un estiu blanc-i-vermell!</desc>
   </programme>
-  <programme start="20260808122526 +0200" stop="20260808135802 +0200" channel="Esport3_CAT">
+  <programme start="20260808122528 +0200" stop="20260808135804 +0200" channel="Esport3_CAT">
     <title lang="es">Onze - Rodri, camí del Barça</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Irati Vidal, Joan Poquí, Carles Fité i David Ibáñez analitzen la més que possible arribada de Rodri al Barça, després de descartar el Reial Madrid. La situació de Julián Álvarez i Ferran, també a debat.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20260808135802 +0200" stop="20260808145700 +0200" channel="Esport3_CAT">
+  <programme start="20260808135804 +0200" stop="20260808145711 +0200" channel="Esport3_CAT">
     <title lang="es">Núñez - No és un dels nostres</title>
     <desc lang="es">La història de Núñez des de la seva arribada a Catalunya fill d'un duaner humil, la seva ascensió a la societat catalana com a constructor immobiliari, la seva victòria a les eleccions del Barça contra pronòstic i enmig d'una de les campanyes més fosques que es recorden i el seu primer gran títol com a president. Una final que va marcar un abans i un després a la història del club i en la personalitat del propi Núñez: la final de Basilea.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/1/3/1702979486431.jpg" />
   </programme>
-  <programme start="20260808145700 +0200" stop="20260808165033 +0200" channel="Esport3_CAT">
+  <programme start="20260808145711 +0200" stop="20260808165025 +0200" channel="Esport3_CAT">
     <title lang="es">Rugbi - Huddersfield Giants-Dracs Catalans / Super League / J22</title>
     <sub-title lang="es">Els Dracs Catalans de Perpinyà disputen la Super League de rugbi a 13. Esport3 és al seu costat!</sub-title>
     <desc lang="es">Els de Perpinyà visiten el camp dels Giants amb l'objectiu de repetir la victòria aconseguida en el precedent del Gilbert Brutus (26-10). La narració, a càrrec de Sebastià Girard.</desc>
   </programme>
-  <programme start="20260808165033 +0200" stop="20260808175028 +0200" channel="Esport3_CAT">
+  <programme start="20260808165025 +0200" stop="20260808175020 +0200" channel="Esport3_CAT">
     <title lang="es">Núñez - El patrimoni no fa la felicitat</title>
     <desc lang="es">Impulsat per l'èxit de Basilea, Núñez intenta fer del Barça el millor club d'Europa. Però malgrat els grans fitxatges d'estrelles com Schuster, Maradona i Quini i la quantitat astronòmica de diners invertits, sempre trobarà un impediment o altre que s'interposarà en el camí cap al seu somni. El segrest de Quini, el caràcter problemàtic de Schuster, l'hepatitis de Maradona i la seva posterior lesió, els problemes del vestidor amb les drogues... Fins que decideix prendre una decisió impopular, vendre al crack argentí, que al cap i a la fi el conduirà contra pronòstic a conquerir l'any següent la seva primera Lliga. Ara, només queda un pas per fer realitat el Barça triomfant que va prometre a les eleccions: guanyar la copa d'Europa en una final a Sevilla, contra un rival desconegut i amb la grada plena d'aficionats del Barça. El somni de Núñez, i de tot el barcelonisme, és més a tocar que mai.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/1/3/1702979486431.jpg" />
   </programme>
-  <programme start="20260808175028 +0200" stop="20260808182500 +0200" channel="Esport3_CAT">
+  <programme start="20260808175020 +0200" stop="20260808183207 +0200" channel="Esport3_CAT">
     <title lang="es">Zona Zàping Club - Carla Rubio posa a prova la seva intuïció viral</title>
     <desc lang="es">Tres vídeos, tres finals impossibles i un únic objectiu: aconseguir els premis del "Zona Zàping Club" amb l'ajuda de la seva intuïció. I, per acabar, una cita que es repetirà a cada programa: tots els tertulians acomiaden l'espai amb un ball final al ritme de la música del DJ Frande.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20260808182500 +0200" stop="20260808202500 +0200" channel="Esport3_CAT">
+  <programme start="20260808183207 +0200" stop="20260808202500 +0200" channel="Esport3_CAT">
     <title lang="es">Futbol - Coventry-RCD Espanyol / Pretemporada 2026-27</title>
     <sub-title lang="es">Viu els partits de preparació del RCD Espanyol a Esport3 i tenyeix el teu estiu de blanc-i-blau!</sub-title>
     <desc lang="es">El RCD Espanyol disputa el darrer amistós de pretemporada al Coventry Building Society Arena, contra l'equip recentment ascendit a la Premier League.</desc>
@@ -92099,30 +92083,6 @@
     <title lang="es">Futbol - Gimnàstic de Tarragona-Girona FC / Pretemporada 2026-27</title>
     <sub-title lang="es">Segueix els partits de pretemporada del Girona FC a Esport3 i 3Cat!</sub-title>
     <desc lang="es">Tarragonins i gironins es preparen per afrontar una temporada exigent amb l'objectiu de pujar a Segona i Primera Divisió.</desc>
-  </programme>
-  <programme start="20260808190000 +0200" stop="20260808190000 +0200" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
-  </programme>
-  <programme start="20260808190000 +0200" stop="20260808190000 +0200" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
-  </programme>
-  <programme start="20260808190000 +0200" stop="20260808190000 +0200" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
-  </programme>
-  <programme start="20260808190000 +0200" stop="20260808190000 +0200" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
   </programme>
   <programme start="20260808015324 +0200" stop="20260808020423 +0200" channel="BonDia.TV">
     <title lang="es">D_Rap - El rumb de la cançó</title>
@@ -94350,6 +94310,10 @@
     <title lang="es">ARAGÓN NOTICIAS 1 - 08/08/2026</title>
     <desc lang="es">Todos los días, de lunes a viernes, a las 14.00 horas, comienza el informativo Aragón Noticias 1,  como jefe de Informativos Javier de Sola, el equipo de editores formado por Ainhoa Iragorri y Nerea Resa, de lunes a viernes, y en fin de semana Carlos López.  De lunes a viernes: Presentan Noemí Núñez y Javier Gastón, los deportes Pedro Hernández y El tiempo Eva Berlanga. El fin de semana, Marimar Cariñena, Deportes con Pilar Soro y El tiempo Cristina López de Val.</desc>
   </programme>
+  <programme start="20260808181500 +0000" stop="20260808191500 +0000" channel="Aragón Noticias 1">
+    <title lang="es">ARAGÓN NOTICIAS 2 ACCESIBLE - 08/08/2026</title>
+    <desc lang="es">Emisión en lenguaje de signos. \nTodos los días de lunes a viernes a las 20:30 horas, comienza el informativo Aragón Noticias 2, Aragón Deportes 2 y El Tiempo.</desc>
+  </programme>
   <programme start="20260808002100 +0000" stop="20260808010600 +0000" channel="El_Campo_Nuestro.TV">
     <title lang="es">EL CAMPO ES NUESTRO - 2026-01-23</title>
   </programme>
@@ -94436,5 +94400,26 @@
   </programme>
   <programme start="20260808232900 +0000" stop="20260809001600 +0000" channel="El_Campo_Nuestro.TV">
     <title lang="es">EL CAMPO ES NUESTRO - 2026-03-09</title>
+  </programme>
+  <programme start="20260809001600 +0000" stop="20260809010100 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-10</title>
+  </programme>
+  <programme start="20260809010100 +0000" stop="20260809014600 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-11</title>
+  </programme>
+  <programme start="20260809014600 +0000" stop="20260809023100 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-12</title>
+  </programme>
+  <programme start="20260809023100 +0000" stop="20260809031600 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-13</title>
+  </programme>
+  <programme start="20260809031600 +0000" stop="20260809040200 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-16</title>
+  </programme>
+  <programme start="20260809040200 +0000" stop="20260809044700 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-17</title>
+  </programme>
+  <programme start="20260809044700 +0000" stop="20260809053300 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-18</title>
   </programme>
 </tv>
