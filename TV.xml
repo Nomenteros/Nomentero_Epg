@@ -300,6 +300,11 @@
     <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/atlat.png" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
+  <channel id="Canal_RED.tv">
+    <display-name lang="es">Canal_RED.tv</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/red.png" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
   <channel id="Promesa.TV">
     <display-name lang="es">Promesa.TV</display-name>
     <url>http://www.Nomentero_EPG</url>
@@ -440,7 +445,6 @@
   </channel>
   <channel id="Xarxa_Televisio_Hospitalet.TV">
     <display-name lang="es">Televisio_de_Hospitalet</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
   <channel id="Xarxa_LleidaTV.TV">
@@ -1122,7 +1126,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3969780" />
     <episode-num system="onscreen">T1</episode-num>
   </programme>
-  <programme start="20260808080000 +0200" stop="20260808090500 +0200" channel="La2.TV">
+  <programme start="20260808080000 +0200" stop="20260808091000 +0200" channel="La2.TV">
     <title lang="es">Los conciertos de La 2</title>
     <sub-title lang="es">Coproducción Hacia el paraíso</sub-title>
     <desc lang="es">Retransmisión de un concierto de la Orquesta Sinfónica y el Coro de RTVE. Nacida en 1965, pronto se convirtió en una orquesta de primerísima fila. Su repertorio es el clásico-romántico, la música española y el servicio a la creación musical de nuestro tiempo.</desc>
@@ -1130,14 +1134,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4306340" />
     <episode-num system="onscreen">T25/26</episode-num>
   </programme>
-  <programme start="20260808090500 +0200" stop="20260808101000 +0200" channel="La2.TV">
+  <programme start="20260808091000 +0200" stop="20260808101200 +0200" channel="La2.TV">
     <title lang="es">Habaneras</title>
     <desc lang="es">Retransmisión del Certamen Internacional de Habaneras y Polifonía de Torrevieja. Se podrán ver las actuaciones de una selección de corales participantes y la entrega de premios del Certamen.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4376209" />
     <episode-num system="onscreen">T2026 Ep.2</episode-num>
   </programme>
-  <programme start="20260808101000 +0200" stop="20260808110000 +0200" channel="La2.TV">
+  <programme start="20260808101200 +0200" stop="20260808110400 +0200" channel="La2.TV">
     <title lang="es">Reduce tu huella</title>
     <sub-title lang="es">Los oficios del olvido</sub-title>
     <desc lang="es">Adela Úcar explora la Navarra más profunda para darle voz a los pocos supervivientes que siguen realizando los oficios tradicionales de la zona, labores que en la actualidad están cada vez más olvidadas y en riesgo de peligro de extinción.</desc>
@@ -1145,7 +1149,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3139605" />
     <episode-num system="onscreen">T3</episode-num>
   </programme>
-  <programme start="20260808110000 +0200" stop="20260808120000 +0200" channel="La2.TV">
+  <programme start="20260808110400 +0200" stop="20260808120000 +0200" channel="La2.TV">
     <title lang="es">Reduce tu huella</title>
     <sub-title lang="es">Gerês-Xurés: donde el tiempo se detuvo</sub-title>
     <desc lang="es">A lomos de un caballo Adela Úcar se adentra en la reserva de biosfera transfronteriza Gêres-Xurés, una zona compartida entre España y Portugal que lucha ante el abandono de sus oficios tradicionales y su despoblación.</desc>
@@ -1841,20 +1845,20 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P3033572" />
   </programme>
-  <programme start="20260808080100 +0200" stop="20260808083000 +0200" channel="Telecinco.TV">
+  <programme start="20260808080100 +0200" stop="20260808083300 +0200" channel="Telecinco.TV">
     <title lang="es">Love Shopping TV</title>
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MBEMADP3341503" />
   </programme>
-  <programme start="20260808083000 +0200" stop="20260808084500 +0200" channel="Telecinco.TV">
+  <programme start="20260808083300 +0200" stop="20260808084600 +0200" channel="Telecinco.TV">
     <title lang="es">Got Talent España. Momentazos</title>
     <desc lang="es">La adaptación española del formato internacional ''Got Talent'' busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P2122839" />
     <episode-num system="onscreen">T8 Ep.2</episode-num>
   </programme>
-  <programme start="20260808084500 +0200" stop="20260808112000 +0200" channel="Telecinco.TV">
+  <programme start="20260808084600 +0200" stop="20260808112000 +0200" channel="Telecinco.TV">
     <title lang="es">Got Talent España</title>
     <desc lang="es">Concurso que busca nuevas promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor, entre otros. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Lorena Castell, Carlos Latre, Paula Echevarría y Risto Mejide.</desc>
     <category lang="es">Entretenimiento</category>
@@ -2159,7 +2163,6 @@
     <sub-title lang="es">Fosas de casa</sub-title>
     <desc lang="es">Aidita quiere ir a Misuri para aprender inglés. Soraya, que no quiere que se marche, decide chantajearla: solo se podrá ir si logra adelgazar cinco kilos. Pero pese a los obstáculos de su madre, que no para de ofrecerle bollos y comida repleta de calorías, Aidita se toma muy en serio su dieta.</desc>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MFDFICP1132658" />
     <episode-num system="onscreen">T12 Ep.221</episode-num>
   </programme>
   <programme start="20260808114000 +0200" stop="20260808131200 +0200" channel="FDF.TV">
@@ -19121,106 +19124,109 @@
     <desc lang="eu">Abentura eta natura hainbat eszenatoki zeharkatzen dituen entrega batean konbinatzen dira. Eskaladak lehen erreportajea egin zuen Frouxeira gaztelutik, Luis Penin, Ana Rubinos eta Marcos Lopezen eskutik. Sil ibaiko paddlea Nolo Esmorisen eta Galaicako gidarien eskutik iristen da. Gainera, La Foz del Infierno esploratzen da Guillem Perellorekin, X Project lehiaketa errepasatzen da St Moritzenen eta mendiko bizikletarekin ixten da La Molinan.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8832e8b7-9caa-4fc3-8134-9b9f9e1a6a9f.jpg" />
   </programme>
-  <programme start="20260808120000 +0000" stop="20260808123500 +0000" channel="ETB1.TV">
+  <programme start="20260808120000 +0000" stop="20260808123319 +0000" channel="ETB1.TV">
     <title lang="eu">Gaur egun</title>
+    <sub-title lang="eu">2026-08-08 12:00:00</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/88254b05-255d-4dfc-af13-6a01ac8207a5.jpg" />
   </programme>
-  <programme start="20260808123500 +0000" stop="20260808125141 +0000" channel="ETB1.TV">
+  <programme start="20260808123319 +0000" stop="20260808124727 +0000" channel="ETB1.TV">
     <title lang="eu">Kirolak</title>
+    <sub-title lang="eu">2026-08-08 12:33:19</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/7813dbe0-44f2-4ff7-bce6-53980c97ab64.jpg" />
   </programme>
-  <programme start="20260808125141 +0000" stop="20260808130524 +0000" channel="ETB1.TV">
+  <programme start="20260808124727 +0000" stop="20260808130110 +0000" channel="ETB1.TV">
     <title lang="eu">Eguraldia</title>
+    <sub-title lang="eu">2026-08-08 12:47:27</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808130524 +0000" stop="20260808150048 +0000" channel="ETB1.TV">
+  <programme start="20260808130110 +0000" stop="20260808145634 +0000" channel="ETB1.TV">
     <title lang="eu">Txirrindularitza;</title>
     <sub-title lang="eu">5. etapa: Caleruega-Lagunas de Neila (137 km)</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/226cebb7-aca6-4b39-aa1a-ba39c885db72.jpg" />
   </programme>
-  <programme start="20260808150048 +0000" stop="20260808160129 +0000" channel="ETB1.TV">
+  <programme start="20260808145634 +0000" stop="20260808155725 +0000" channel="ETB1.TV">
     <title lang="eu">Txirrindularitza: Emakumezkoen Frantziako Tourra</title>
     <sub-title lang="eu">8. etapa: Sisteron-Niza (171.9 km)</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/69344b9e-39ea-4a0c-a5dc-80b4f95cc422.jpg" />
   </programme>
-  <programme start="20260808160129 +0000" stop="20260808161707 +0000" channel="ETB1.TV">
+  <programme start="20260808155725 +0000" stop="20260808161303 +0000" channel="ETB1.TV">
     <title lang="eu">Estropadak: Euskotren Liga 2026</title>
     <sub-title lang="eu">Emakuezkoen Euskotren Liga 2026, Ondarroako Bandera</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9d1152a4-2539-4d89-a74b-53c4018ab924.jpg" />
   </programme>
-  <programme start="20260808161707 +0000" stop="20260808180206 +0000" channel="ETB1.TV">
+  <programme start="20260808161303 +0000" stop="20260808175802 +0000" channel="ETB1.TV">
     <title lang="eu">Estropadak: Eusko Label Liga 2026</title>
     <sub-title lang="eu">XLII. Ondarroako Bandera - Cikautxo Sari Nagusia</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/6852110c-d818-48e6-bf9f-bb560b07e1aa.jpg" />
   </programme>
-  <programme start="20260808180206 +0000" stop="20260808183706 +0000" channel="ETB1.TV">
+  <programme start="20260808175802 +0000" stop="20260808183302 +0000" channel="ETB1.TV">
     <title lang="eu">Gaur egun</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/88254b05-255d-4dfc-af13-6a01ac8207a5.jpg" />
   </programme>
-  <programme start="20260808183706 +0000" stop="20260808185401 +0000" channel="ETB1.TV">
+  <programme start="20260808183302 +0000" stop="20260808184957 +0000" channel="ETB1.TV">
     <title lang="eu">Kirolak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/7813dbe0-44f2-4ff7-bce6-53980c97ab64.jpg" />
   </programme>
-  <programme start="20260808185401 +0000" stop="20260808190747 +0000" channel="ETB1.TV">
+  <programme start="20260808184957 +0000" stop="20260808190343 +0000" channel="ETB1.TV">
     <title lang="eu">Eguraldia</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808190747 +0000" stop="20260808201707 +0000" channel="ETB1.TV">
+  <programme start="20260808190343 +0000" stop="20260808201303 +0000" channel="ETB1.TV">
     <title lang="eu">Pilota; Andre Maria Zuria Torneoa 2026</title>
     <sub-title lang="eu">B Seriea; Murua-Eskuza/Amiano-Landa; -- A Seriea; Zabala-Zabaleta/Larrazabal-MariezkurrenaII</sub-title>
     <desc lang="eu">Gasteiz.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5f7b5414-3bf3-44ac-8374-64f0322a3519.jpg" />
   </programme>
-  <programme start="20260808201707 +0000" stop="20260808211006 +0000" channel="ETB1.TV">
+  <programme start="20260808201303 +0000" stop="20260808210602 +0000" channel="ETB1.TV">
     <title lang="eu">Donostiako su artifizialak</title>
     <sub-title lang="eu">Pirotecnia Alpujarreña (Granada)</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5c5fb48f-577b-4c85-bd9b-6c175a071355.jpg" />
   </programme>
-  <programme start="20260808211006 +0000" stop="20260808223032 +0000" channel="ETB1.TV">
+  <programme start="20260808210602 +0000" stop="20260808222628 +0000" channel="ETB1.TV">
     <title lang="eu">Pilota; Andre Maria Zuria Torneoa 2026</title>
     <sub-title lang="eu">B Seriea; Murua-Eskuza/Amiano-Landa; -- A Seriea; Zabala-Zabaleta/Larrazabal-MariezkurrenaII</sub-title>
     <desc lang="eu">Gasteiz.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5f7b5414-3bf3-44ac-8374-64f0322a3519.jpg" />
   </programme>
-  <programme start="20260808223032 +0000" stop="20260808234424 +0000" channel="ETB1.TV">
+  <programme start="20260808222628 +0000" stop="20260808234020 +0000" channel="ETB1.TV">
     <title lang="eu">Herri Txiki Infernu Handi</title>
     <sub-title lang="eu">Abartzuza</sub-title>
     <desc lang="eu">Taldeak Abartzuza bisitatzen du: Pagadik Gaizkaren pudina dastatzen du, Iñigo pilotariarekin eta patxaran fabrika batekin ezagutzen da, eta Loreari erronka berezi batean laguntzen dio. Zuhaitzek Ageditarekin gosaltzen du, Anarekin topo egiten du puntilla egiten, eta Iñaki elkarrizketatzen du, udak bertan ematen dituen azpeitiarra.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/71bddded-d466-4af8-80b5-7e7a70817f7e.jpg" />
   </programme>
-  <programme start="20260808234424 +0000" stop="20260809005238 +0000" channel="ETB1.TV">
+  <programme start="20260808234020 +0000" stop="20260809004835 +0000" channel="ETB1.TV">
     <title lang="eu">Herri Txiki Infernu Handi</title>
     <sub-title lang="eu">Amarotz</sub-title>
     <desc lang="eu">Hauek dira Amarotzen elkarrizketatuko dituzten pertsonak: Jon Garmendia, Ander Astigarraga, Iñigo Cabieces, Joxe Sagastibeltza, Pilar Insausti, Pili Alamo eta Ramon Zubeldia.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/71bddded-d466-4af8-80b5-7e7a70817f7e.jpg" />
   </programme>
-  <programme start="20260809005238 +0000" stop="20260809020631 +0000" channel="ETB1.TV">
+  <programme start="20260809004835 +0000" stop="20260809020227 +0000" channel="ETB1.TV">
     <title lang="eu">Herri Txiki Infernu Handi</title>
     <sub-title lang="eu">Barasoain</sub-title>
     <desc lang="eu">Pagadik herriko pasadizoak ezagutzen ditu Oihanekin, Ainhoarekin bizikletan ibiltzen da, Virginiarekin telebista-lehiaketez hitz egiten du eta Asierrekin nekazaritza ezagutzen du. Zuhaitzek Maiken musika tresnak ezagutzen ditu, Iratxeren bidez zeinu hizkuntza eta bere sei seme-alabak ezagutzen ditu, eta Mitxelekin suhiltzaile garaiko bizipenak berreskuratzen ditu.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/71bddded-d466-4af8-80b5-7e7a70817f7e.jpg" />
   </programme>
-  <programme start="20260809020631 +0000" stop="20260809025041 +0000" channel="ETB1.TV">
+  <programme start="20260809020227 +0000" stop="20260809024637 +0000" channel="ETB1.TV">
     <title lang="eu">WAZEMANK</title>
     <sub-title lang="eu">7. atala</sub-title>
     <desc lang="eu">Joxeren neska-lagun zaharra agertzen da Arregitarrak saioan , eta Atsoak Lurdesera joaten dira txangoan. ETBko programen parodiak ere badaude, Goenkale eta Kalaka zappingarekin. Tolosa-Euzkitzen bakarrik daudenentzat menu berezia prestatzen da, eta Mañukortak propaganda banatzen du eta lekukoekin negoziatzen du lehiaketan. Gainera, Bar Lombrandon telepulpoari buruz hitz egiten da, eta esketx libreak aurkezten dira. Azkenik, toma faltsuak.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5ece2780-4d87-4f06-8325-70c83dcde24b.jpg" />
   </programme>
-  <programme start="20260809025041 +0000" stop="20260809033632 +0000" channel="ETB1.TV">
+  <programme start="20260809024637 +0000" stop="20260809033228 +0000" channel="ETB1.TV">
     <title lang="eu">WAZEMANK</title>
     <sub-title lang="eu">8. atala</sub-title>
     <desc lang="eu">Arregitarrak saioan zombiak baserrira iristen dira, eta Atsoak Arantzazura joaten dira Pello Zabalarekin. ETBko programen parodiak, hala nola Kortatu Eko-n, eta zapping-a Maite Kuttuna eta Dultze Maria-rekin. Tolosa-Euzkitzen tripakiak prestatzen irakasten da, eta Bar Lombrandon Patxi eta Ruleta agertzen dira. Mañukortak lekuko batekin egoera bitxia bizi du lehiaketan. Gainera, esketx libreak eta toma faltsuak.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5ece2780-4d87-4f06-8325-70c83dcde24b.jpg" />
   </programme>
-  <programme start="20260809033632 +0000" stop="20260809043034 +0000" channel="ETB1.TV">
+  <programme start="20260809033228 +0000" stop="20260809042630 +0000" channel="ETB1.TV">
     <title lang="eu">Mihiluze</title>
     <sub-title lang="eu">Mihiluze 149</sub-title>
     <desc lang="eu">Ilaski Serranok eta Antton Telleriak aurkeztutako lehiaketa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d7526b45-ffcd-45e6-9178-0be8b56f3be3.jpg" />
   </programme>
-  <programme start="20260809043034 +0000" stop="20260809044500 +0000" channel="ETB1.TV">
+  <programme start="20260809042630 +0000" stop="20260809044500 +0000" channel="ETB1.TV">
     <title lang="eu">Euskal Herritik</title>
     <sub-title lang="eu">Eltziego</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8401483e-8764-4fd3-8e60-e3e098988cb3.jpg" />
@@ -19635,87 +19641,87 @@
     <title lang="eu">Kirolak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/2c87fd96-6a63-4911-b74e-bb3e9eba7046.jpg" />
   </programme>
-  <programme start="20260808135615 +0000" stop="20260808141628 +0000" channel="ETB2.TV">
+  <programme start="20260808135615 +0000" stop="20260808141622 +0000" channel="ETB2.TV">
     <title lang="eu">Eguraldia</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808141628 +0000" stop="20260808160440 +0000" channel="ETB2.TV">
+  <programme start="20260808141622 +0000" stop="20260808160434 +0000" channel="ETB2.TV">
     <title lang="eu">ENDEAVOUR</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/ee310613-eabf-4c31-8074-185a0ceb151a.jpg" />
   </programme>
-  <programme start="20260808160440 +0000" stop="20260808171317 +0000" channel="ETB2.TV">
+  <programme start="20260808160434 +0000" stop="20260808171311 +0000" channel="ETB2.TV">
     <title lang="eu">Artillero</title>
     <sub-title lang="eu">Artillero 2026</sub-title>
     <desc lang="eu">Donostiako Aste Nagusiaren hasiera iragartzen duen Artilleroaren ekitaldia eta kanoikada.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5fc1e026-6439-4f18-8088-4a48db8f62ab.jpg" />
   </programme>
-  <programme start="20260808171317 +0000" stop="20260808190000 +0000" channel="ETB2.TV">
+  <programme start="20260808171311 +0000" stop="20260808185953 +0000" channel="ETB2.TV">
     <title lang="eu">Inspectora Marleau: Grand Hotel</title>
     <sub-title lang="eu">2025-04-27 14:15:32</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/1d83b01e-9b2b-4e49-b096-3a67336ab8cb.jpg" />
   </programme>
-  <programme start="20260808190000 +0000" stop="20260808194000 +0000" channel="ETB2.TV">
+  <programme start="20260808185953 +0000" stop="20260808193953 +0000" channel="ETB2.TV">
     <title lang="eu">Teleberri</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/55c547e4-5ad8-4b92-a5e7-3adb5ed55b03.jpg" />
   </programme>
-  <programme start="20260808194000 +0000" stop="20260808195950 +0000" channel="ETB2.TV">
+  <programme start="20260808193953 +0000" stop="20260808195943 +0000" channel="ETB2.TV">
     <title lang="eu">Kirolak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/2c87fd96-6a63-4911-b74e-bb3e9eba7046.jpg" />
   </programme>
-  <programme start="20260808195950 +0000" stop="20260808201022 +0000" channel="ETB2.TV">
+  <programme start="20260808195943 +0000" stop="20260808201016 +0000" channel="ETB2.TV">
     <title lang="eu">Eguraldia</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808201022 +0000" stop="20260808215002 +0000" channel="ETB2.TV">
+  <programme start="20260808201016 +0000" stop="20260808214956 +0000" channel="ETB2.TV">
     <title lang="eu">BROKENWOOD MYSTERIES S.8 (1): FROM THE CRADLE TO THE GR</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/19ad81d6-ac68-406a-8fae-f9fe9f114982.jpg" />
   </programme>
-  <programme start="20260808215002 +0000" stop="20260808233457 +0000" channel="ETB2.TV">
+  <programme start="20260808214956 +0000" stop="20260808233451 +0000" channel="ETB2.TV">
     <title lang="eu">El cazador de recompensas</title>
     <sub-title lang="eu">2025-09-09 21:04:53</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8aea5fdf-08e1-4d62-9ada-2eadf868154e.jpg" />
   </programme>
-  <programme start="20260808233457 +0000" stop="20260809002100 +0000" channel="ETB2.TV">
+  <programme start="20260808233451 +0000" stop="20260809002053 +0000" channel="ETB2.TV">
     <title lang="eu">PROFESSOR T, S.3</title>
     <sub-title lang="eu">2025-08-02 20:56:55</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/6a9f3e9a-28be-4b9e-97f8-e0b0b617034e.jpg" />
   </programme>
-  <programme start="20260809002100 +0000" stop="20260809010550 +0000" channel="ETB2.TV">
+  <programme start="20260809002053 +0000" stop="20260809010543 +0000" channel="ETB2.TV">
     <title lang="eu">Atrápame si puedes finde</title>
     <sub-title lang="eu">11. atala</sub-title>
     <desc lang="eu">Lehiakideak: Maialen Labandibar, Marcela Damborenea, Asier Urcelay, Anartz Duoandikoetxea eta Aner Gorrotxategi.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/37e96b2f-6384-4fe5-bbc2-b536c8aee2d6.jpg" />
   </programme>
-  <programme start="20260809010550 +0000" stop="20260809015653 +0000" channel="ETB2.TV">
+  <programme start="20260809010543 +0000" stop="20260809015647 +0000" channel="ETB2.TV">
     <title lang="eu">Historias a Bocados</title>
     <sub-title lang="eu">Samaniego</sub-title>
     <desc lang="eu">Luis Larreak, Bartolo izenekoak, lurpeko upategia erakutsi du Matarredo auzoan, eta labanda-zuzia egin du, neguko solstizioaren tradizioa. Teo (Doroteo) Saenz de Samaniegok, Ostatu upategien sortzaileak, mahastiaren sekretuak partekatzen ditu. Regina Berganzak eta bere iloba Juana Navaridasek Pazko Igandeko arroskilla tipikoak prestatzen dituzte.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809015653 +0000" stop="20260809024936 +0000" channel="ETB2.TV">
+  <programme start="20260809015647 +0000" stop="20260809024930 +0000" channel="ETB2.TV">
     <title lang="eu">Historias a Bocados</title>
     <sub-title lang="eu">Astigarraga</sub-title>
     <desc lang="eu">Txaro Zapiain, Roxario jatetxe-sagardotegiaren jabea, bat dator sagarren aukeraketarekin eta bakailao-tortilla bere familiaren errezetarekin. Simon Goikoetxeak sagardoaren eta txalapartaren arteko lotura azaleratzen du. Txalaparta Aritz semearekin batera jotzen du. Rezola sagardotegian, Jose Ramon Rezolak eta Igor Arrietak sagardotegi tradizional handi baten funtzionamendua erakusten dute eta txuletoi bat prestatzen dute.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809024936 +0000" stop="20260809034050 +0000" channel="ETB2.TV">
+  <programme start="20260809024930 +0000" stop="20260809034044 +0000" channel="ETB2.TV">
     <title lang="eu">Historias a Bocados</title>
     <sub-title lang="eu">Ubide</sub-title>
     <desc lang="eu">Mari Loli Lejarretak, astero, janari ibiltari dendarekin egiten du bidea Zeanuritik; Aser Astorganok, berriz, Pagobietako gaztandegia eta Galloway arrazako txerriak, idiak eta behiak hazten ditu. Fran Valle arkeologoak Bilbo utzi eta Ubiden kokatu zen. Bertan, Aditu Arkeologia enpresak Nafarroako euskaldunen bizitza ikertzen du.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809034050 +0000" stop="20260809043346 +0000" channel="ETB2.TV">
+  <programme start="20260809034044 +0000" stop="20260809043340 +0000" channel="ETB2.TV">
     <title lang="eu">Historias a Bocados</title>
     <sub-title lang="eu">Idiazabal</sub-title>
     <desc lang="eu">Idiazabal, jatorri-deitura duen gazta ospetsuari izena ematen dion herria. Jesus eta Juanjo Aranburu anaiek beren gaztandegiko ateak irekitzen dituzte Latxa ardi-esne gordinez egindako artisau-elaborazioa erakusteko, eta Joseba Baezek behi-gaztaren ekoizle gisa duen esperientzia partekatzen du. Lourdes Intxausti, udalerriko aguazila, barazkien errezeta batekin batera etorri da bisitara, txirlak saltsa berdean.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809043346 +0000" stop="20260809044924 +0000" channel="ETB2.TV">
+  <programme start="20260809043340 +0000" stop="20260809044918 +0000" channel="ETB2.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Getaria</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809044924 +0000" stop="20260809045000 +0000" channel="ETB2.TV">
+  <programme start="20260809044918 +0000" stop="20260809045000 +0000" channel="ETB2.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Ibarrangelu</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
@@ -28674,6 +28680,300 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MATLATP4350350" />
   </programme>
+  <programme start="20260808080000 +0200" stop="20260808090000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808090000 +0200" stop="20260808100000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808100000 +0200" stop="20260808110000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260808110000 +0200" stop="20260808120000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260808120000 +0200" stop="20260808130000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260808130000 +0200" stop="20260808133000 +0200" channel="Canal_RED.tv">
+    <title lang="es">En ocasiones veo fraudes</title>
+    <desc lang="es">Programa de actualidad y análisis sobre los derechos de los consumidores y los fraudes que se producen en el mercado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241677" />
+  </programme>
+  <programme start="20260808133000 +0200" stop="20260808140000 +0200" channel="Canal_RED.tv">
+    <title lang="es">En ocasiones veo fraudes</title>
+    <desc lang="es">Programa de actualidad y análisis sobre los derechos de los consumidores y los fraudes que se producen en el mercado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241677" />
+  </programme>
+  <programme start="20260808140000 +0200" stop="20260808150000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808150000 +0200" stop="20260808160000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808160000 +0200" stop="20260808170000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260808170000 +0200" stop="20260808180000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260808180000 +0200" stop="20260808183000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Tu amigo y vecino</title>
+    <desc lang="es">Espacio de entrevistas semanales presentado por Rubén Sánchez. El líder de FACUA charla con figuras de la política y la cultura sobre poder, consumo y periodismo con su característico estilo crítico.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4259098" />
+  </programme>
+  <programme start="20260808183000 +0200" stop="20260808190000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Tu amigo y vecino</title>
+    <desc lang="es">Espacio de entrevistas semanales presentado por Rubén Sánchez. El líder de FACUA charla con figuras de la política y la cultura sobre poder, consumo y periodismo con su característico estilo crítico.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4259098" />
+  </programme>
+  <programme start="20260808190000 +0200" stop="20260808200000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260808200000 +0200" stop="20260808210000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808220000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808220000 +0200" stop="20260808230000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260808230000 +0200" stop="20260809000000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809000000 +0200" stop="20260809010000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809010000 +0200" stop="20260809020000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809020000 +0200" stop="20260809030000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809030000 +0200" stop="20260809040000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809040000 +0200" stop="20260809050000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260809050000 +0200" stop="20260809060000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260809060000 +0200" stop="20260809070000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809070000 +0200" stop="20260809080000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809080000 +0200" stop="20260809090000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809090000 +0200" stop="20260809100000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809100000 +0200" stop="20260809110000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809110000 +0200" stop="20260809120000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809120000 +0200" stop="20260809130000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260809130000 +0200" stop="20260809133000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Tu amigo y vecino</title>
+    <desc lang="es">Espacio de entrevistas semanales presentado por Rubén Sánchez. El líder de FACUA charla con figuras de la política y la cultura sobre poder, consumo y periodismo con su característico estilo crítico.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4259098" />
+  </programme>
+  <programme start="20260809133000 +0200" stop="20260809140000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Tu amigo y vecino</title>
+    <desc lang="es">Espacio de entrevistas semanales presentado por Rubén Sánchez. El líder de FACUA charla con figuras de la política y la cultura sobre poder, consumo y periodismo con su característico estilo crítico.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4259098" />
+  </programme>
+  <programme start="20260809140000 +0200" stop="20260809150000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809150000 +0200" stop="20260809160000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809160000 +0200" stop="20260809170000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809170000 +0200" stop="20260809180000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260809180000 +0200" stop="20260809183000 +0200" channel="Canal_RED.tv">
+    <title lang="es">En ocasiones veo fraudes</title>
+    <desc lang="es">Programa de actualidad y análisis sobre los derechos de los consumidores y los fraudes que se producen en el mercado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241677" />
+  </programme>
+  <programme start="20260809183000 +0200" stop="20260809190000 +0200" channel="Canal_RED.tv">
+    <title lang="es">En ocasiones veo fraudes</title>
+    <desc lang="es">Programa de actualidad y análisis sobre los derechos de los consumidores y los fraudes que se producen en el mercado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241677" />
+  </programme>
+  <programme start="20260809190000 +0200" stop="20260809200000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260809200000 +0200" stop="20260809210000 +0200" channel="Canal_RED.tv">
+    <title lang="es">Al lío</title>
+    <desc lang="es">Programa que aborda la actualidad social y política desde una mirada crítica y cercana a los movimientos sociales. El espacio analiza conflictos laborales, feminismo, vivienda y luchas ciudadanas, dando voz a colectivos invisibilizados y fomentando el debate.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241637" />
+  </programme>
+  <programme start="20260809210000 +0200" stop="20260809220000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809220000 +0200" stop="20260809230000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260809230000 +0200" stop="20260810000000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260810000000 +0200" stop="20260810010000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260810010000 +0200" stop="20260810020000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260810020000 +0200" stop="20260810030000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
+  <programme start="20260810030000 +0200" stop="20260810040000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base América Latina</title>
+    <desc lang="es">Programa de análisis político y geopolítico que examina la agenda latinoamericana e internacional con una mirada crítica. Con Inna Afinogenova, Marco Teruggi y Estefanía Veloz, combina datos, historia y entrevistas para entender los conflictos actuales.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241689" />
+  </programme>
+  <programme start="20260810040000 +0200" stop="20260810050000 +0200" channel="Canal_RED.tv">
+    <title lang="es">La base</title>
+    <desc lang="es">Programa de actualidad e historia política que analiza un tema central de la agenda del día mediante datos, revisión mediática y una mirada internacional. Cada emisión concluye con una entrevista a una persona experta que profundiza en el asunto tratado.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MREDP4241685" />
+  </programme>
   <programme start="20260808003200 +0200" stop="20260808013000 +0200" channel="Promesa.TV">
     <title lang="es">Episodio 409</title>
     <desc lang="es">Margarita sabe que ha llegado el momento y toma una decisión definitiva de su boda con Ayala. El tiempo de María Antonia en La Promesa llega a su fin. Amparo Piñero,Andrea del Río,Arturo García Sancho,Carmen Asecas,Carmen Flores,Enrique Fortún,Guillermo Serrano,Isabel Serrano,Joaquín Climent,Manuel Regueiro,Marga Martínez,María Castro,Marta Costa,Sara Molina,Teresa Quintero,Xavi Lock.</desc>
@@ -35151,17 +35451,85 @@
     <title lang="es">115 dies</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2675254b32d340f3a14ba2bcad4200b0/Images/a7b2c1dfb3ff488eb459d2e8cb5c0cb7" />
   </programme>
-  <programme start="20260808200554 +0000" stop="20260809110000 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20260808200554 +0000" stop="20260808214500 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">NEX cap de setmana</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
+  </programme>
+  <programme start="20260808214500 +0000" stop="20260808224500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'ILLA DELS FLAMENCS: EL MILLOR DE LA SETMANA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LILLA-DELS-FLAMENCS--CARRUSSEL-LAXARXA-1064x609px_1783762385835" />
+  </programme>
+  <programme start="20260808224500 +0000" stop="20260809001500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">FESTES MAJORS DE MASDENVERGE 2026: PREGÓ DE FESTES</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+  </programme>
+  <programme start="20260809001500 +0000" stop="20260809004500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+  </programme>
+  <programme start="20260809004500 +0000" stop="20260809020000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">FESTES MAJORS DE DELTEBRE 2026: PRESENTACIÓ DE LES PUBILLES I PREGÓ</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+  </programme>
+  <programme start="20260809020000 +0000" stop="20260809023000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">LA FINESTRA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+  </programme>
+  <programme start="20260809023000 +0000" stop="20260809033000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'ILLA DELS FLAMENCS: EL MILLOR DE LA SETMANA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LILLA-DELS-FLAMENCS--CARRUSSEL-LAXARXA-1064x609px_1783762385835" />
+  </programme>
+  <programme start="20260809033000 +0000" stop="20260809040000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+  </programme>
+  <programme start="20260809040000 +0000" stop="20260809051500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">FESTES MAJORS DE DELTEBRE 2026: PRESENTACIÓ DE LES PUBILLES I PREGÓ</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+  </programme>
+  <programme start="20260809051500 +0000" stop="20260809061500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'ILLA DELS FLAMENCS: EL MILLOR DE LA SETMANA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LILLA-DELS-FLAMENCS--CARRUSSEL-LAXARXA-1064x609px_1783762385835" />
+  </programme>
+  <programme start="20260809061500 +0000" stop="20260809064500 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
+  </programme>
+  <programme start="20260809064500 +0000" stop="20260809070000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">LA FINESTRA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+  </programme>
+  <programme start="20260809070000 +0000" stop="20260809073000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">LA CADIRA. HORTA DE SANT JOAN</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+  </programme>
+  <programme start="20260809073000 +0000" stop="20260809083000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">DOCUMENTAL 'L'ECLIPSI DE L'EBRE'</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
+  </programme>
+  <programme start="20260809083000 +0000" stop="20260809090000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">CARRETERES SECUNDÀRIES</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d144d7e25f5a4470850ccb8580dea691/Images/750d946a7cd1433ea9c4b9895bc95e7d" />
+  </programme>
+  <programme start="20260809090000 +0000" stop="20260809103000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">MISSA DE MONTSERRAT</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
+  </programme>
+  <programme start="20260809103000 +0000" stop="20260809110000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
   </programme>
   <programme start="20260809110000 +0000" stop="20260809180000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Missa de Montserrat</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df" />
   </programme>
-  <programme start="20260809180000 +0000" stop="20260809193000 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20260809180000 +0000" stop="20260809190000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Històries de proximitat - Documental 'Sau, la memòria submergida' (R)</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
+  </programme>
+  <programme start="20260809190000 +0000" stop="20260809193000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">DOCUMENTAL 'L'ECLIPSI DE L'EBRE'</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
   </programme>
   <programme start="20260809193000 +0000" stop="20260809203000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">115 dies</title>
@@ -35172,108 +35540,92 @@
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/34793baf017f4b9f9afb43efadeaa4af" />
   </programme>
   <programme start="20260809220000 +0000" stop="20260809223000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
+    <title lang="es">Vinum, de la vinya al paladar</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/710d65f34a6743fbb78127c83f98e75a/Images/94e291d8d6c2495dbcf77683f4899c06" />
   </programme>
-  <programme start="20260809223000 +0000" stop="20260809230000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">TERRENY DESCONEGUT</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bf36390ac9d74f6f973b4cba44fc3fb2/Images/0d8392a8345342e0baef20cf3ad3e2ca" />
+  <programme start="20260809223000 +0000" stop="20260809225700 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Pista Oberta</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/f6eaec3682374e5989c999d86c0eb252/Images/970585096fa240da928d93d7f56d4446" />
   </programme>
-  <programme start="20260809230000 +0000" stop="20260809233000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
+  <programme start="20260809225700 +0000" stop="20260809230000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Emissió en proves de Cugat TV</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
   </programme>
-  <programme start="20260809233000 +0000" stop="20260809235700 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">QUESTIÓ DE FONS ESTIU</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+  <programme start="20260809230000 +0000" stop="20260809235700 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Objectiu Sagrada Família</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/ec069238817c449f8c1c37c9e3a51956/Images/e4ea600781384577bd58855c832ace6a" />
   </programme>
   <programme start="20260809235700 +0000" stop="20260810003000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Emissió en proves de Cugat TV</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
   </programme>
   <programme start="20260810003000 +0000" stop="20260810010000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">CARRETERES SECUNDÀRIES</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d144d7e25f5a4470850ccb8580dea691/Images/750d946a7cd1433ea9c4b9895bc95e7d" />
+    <title lang="es">Torna-la a tocar, Sam</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c" />
   </programme>
-  <programme start="20260810010000 +0000" stop="20260810013000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-  </programme>
-  <programme start="20260810013000 +0000" stop="20260810020000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">DE TRAMUNTANA A MESTRAL. CAPÍTOL 1</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-  </programme>
-  <programme start="20260810020000 +0000" stop="20260810023000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-  </programme>
-  <programme start="20260810023000 +0000" stop="20260810030000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">QUESTIÓ DE FONS ESTIU</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-  </programme>
-  <programme start="20260810030000 +0000" stop="20260810033000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-  </programme>
-  <programme start="20260810033000 +0000" stop="20260810040000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">FOT-LI ESTIU</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-  </programme>
-  <programme start="20260810040000 +0000" stop="20260810043000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Resum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA CON LOGO_1757514266059" />
-  </programme>
-  <programme start="20260810043000 +0000" stop="20260810050000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">AVENTURÍSTIC</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+  <programme start="20260810010000 +0000" stop="20260810050000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Redifusió</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/88d46f70659f45cf9e14cace3e05b77b" />
   </programme>
   <programme start="20260810050000 +0000" stop="20260810053000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">ACTIVA'T</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ACTIVAT_1769082581980" />
+    <title lang="es">SPi+Tv</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df" />
   </programme>
-  <programme start="20260810053000 +0000" stop="20260810063000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">HISTÒRIES DE PROXIMITAT</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+  <programme start="20260810053000 +0000" stop="20260810060000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Veus que inspiren</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/0a6de9ab924c427d965a0069deaafbda" />
+  </programme>
+  <programme start="20260810060000 +0000" stop="20260810063000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Moving</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a3415f09a9364c668205903c8af51d3e/Images/18a247db168c4cde9f5fd20064775a53" />
   </programme>
   <programme start="20260810063000 +0000" stop="20260810070000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">ACTIVA'T</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ACTIVAT_1769082581980" />
+    <title lang="es">Som-hi!!!!</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SOM-HI_1746622705579" />
   </programme>
   <programme start="20260810070000 +0000" stop="20260810083000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">EFECTE MOSAIC. MATÍ</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
   </programme>
   <programme start="20260810083000 +0000" stop="20260810090000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">VINUM. DE LA VINYA AL PALADAR</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/710d65f34a6743fbb78127c83f98e75a/Images/94e291d8d6c2495dbcf77683f4899c06" />
+    <title lang="es">El Mig-mig</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/vlcsnap-00006_1750702297644" />
   </programme>
-  <programme start="20260810090000 +0000" stop="20260810100000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">OBJECTIU SAGRADA FAMÍLIA</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/ec069238817c449f8c1c37c9e3a51956/Images/e4ea600781384577bd58855c832ace6a" />
+  <programme start="20260810090000 +0000" stop="20260810093000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Torna-la a tocar, Sam</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c" />
   </programme>
-  <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">EFECTE MOSAIC. MATÍ</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543" />
+  <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Aventurístic</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/5304500dd5184b19a2a8fd12de7438d0" />
+  </programme>
+  <programme start="20260810100000 +0000" stop="20260810103000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Va passar aquí. Catalunya</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c6903b72cf6a404783bb3d440d6cd9d5/Images/e437a5beafab41659227f1cdecbab625" />
+  </programme>
+  <programme start="20260810103000 +0000" stop="20260810110000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">El Mig-mig</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/vlcsnap-00006_1750702297644" />
   </programme>
   <programme start="20260810110000 +0000" stop="20260810120000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Com Més Serem (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cms_1785508562338" />
+    <title lang="es">Objectiu Sagrada Família</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/ec069238817c449f8c1c37c9e3a51956/Images/e4ea600781384577bd58855c832ace6a" />
   </programme>
   <programme start="20260810120000 +0000" stop="20260810123000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Migdia</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340665456" />
+    <title lang="es">Blau Notícies</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME BLAU NOTICIES (1)_1713878268021" />
   </programme>
   <programme start="20260810123000 +0000" stop="20260810130000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">115 DIES</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2675254b32d340f3a14ba2bcad4200b0/Images/a7b2c1dfb3ff488eb459d2e8cb5c0cb7" />
+    <title lang="es">El Mig-mig</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/vlcsnap-00006_1750702297644" />
   </programme>
-  <programme start="20260810130000 +0000" stop="20260810133000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340704729" />
-  </programme>
-  <programme start="20260810133000 +0000" stop="20260810143000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">OBJECTIU SAGRADA FAMÍLIA</title>
+  <programme start="20260810130000 +0000" stop="20260810140000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Objectiu Sagrada Família</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/ec069238817c449f8c1c37c9e3a51956/Images/e4ea600781384577bd58855c832ace6a" />
+  </programme>
+  <programme start="20260810140000 +0000" stop="20260810143000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Blau Notícies</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME BLAU NOTICIES (1)_1713878268021" />
   </programme>
   <programme start="20260810143000 +0000" stop="20260810160000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">EFECTE MOSAIC. TARDA</title>
@@ -35292,32 +35644,28 @@
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/dd70c4dd363248139743dde6a437f3c8" />
   </programme>
   <programme start="20260810180000 +0000" stop="20260810183000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340696155" />
+    <title lang="es">L'Informatiu</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
   <programme start="20260810183000 +0000" stop="20260810190000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">VIDEOPODCASTS: CONVERSES CANAL REUS</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+    <title lang="es">En Imatges</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
   <programme start="20260810190000 +0000" stop="20260810193000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340704729" />
+    <title lang="es">En Imatges</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
-  <programme start="20260810193000 +0000" stop="20260810200000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">VIDEOPODCASTS: CONVERSES CANAL REUS</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-  </programme>
-  <programme start="20260810200000 +0000" stop="20260810203000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340704729" />
+  <programme start="20260810193000 +0000" stop="20260810203000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">La Taronjada</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
   <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">VIDEOPODCASTS: CONVERSES CANAL REUS</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+    <title lang="es">L'Informatiu</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
   <programme start="20260810210000 +0000" stop="20260810213000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES MIGDIA MARC CAMARA_1757340704729" />
+    <title lang="es">En Imatges</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/64c66ade56614af8a30a8c09ce218927/Images/6cb9315de3ca4c59aa9365e9e6f8ca5b" />
   </programme>
   <programme start="20260808012409 +0000" stop="20260808070102 +0000" channel="Xarxa_ETV.TV">
     <title lang="es">Noctàmbuls del Llobregat</title>
@@ -39287,57 +39635,37 @@
     <title lang="es">Banyoles Comerç i Turisme</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ABCT_1715274620664" />
   </programme>
-  <programme start="20260808213000 +0000" stop="20260808214500 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260808213000 +0000" stop="20260808220000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Tribu Mix</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20260808214500 +0000" stop="20260808223000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">L'ILLA DELS FLAMENCS: EL MILLOR DE LA SETMANA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LILLA-DELS-FLAMENCS--CARRUSSEL-LAXARXA-1064x609px_1783762385835" />
-  </programme>
-  <programme start="20260808223000 +0000" stop="20260808230000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Banyoles TV MIX</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  <programme start="20260808220000 +0000" stop="20260808230000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">La Mar De Bé (R)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LA MAR DE BÃ\u0089_1784198328067" />
   </programme>
   <programme start="20260808230000 +0000" stop="20260808233000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Banyoles TV MIX</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20260808233000 +0000" stop="20260809001500 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260808233000 +0000" stop="20260809003000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Resum Setmanal - Pla de l'Estany</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20260809001500 +0000" stop="20260809003000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
-  </programme>
-  <programme start="20260809003000 +0000" stop="20260809040000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260809003000 +0000" stop="20260809050000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">MusicBox</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20260809040000 +0000" stop="20260809050000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">FESTES MAJORS DE DELTEBRE 2026: PRESENTACIÓ DE LES PUBILLES I PREGÓ</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
-  </programme>
-  <programme start="20260809050000 +0000" stop="20260809051500 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260809050000 +0000" stop="20260809060000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">MusicBox</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
-  </programme>
-  <programme start="20260809051500 +0000" stop="20260809060000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">L'ILLA DELS FLAMENCS: EL MILLOR DE LA SETMANA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/LILLA-DELS-FLAMENCS--CARRUSSEL-LAXARXA-1064x609px_1783762385835" />
   </programme>
   <programme start="20260809060000 +0000" stop="20260809070000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Resum Setmanal - Pla de l'Estany</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20260809070000 +0000" stop="20260809073000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260809070000 +0000" stop="20260809080000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Resum Setmanal - Pla de l'Estany</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
-  </programme>
-  <programme start="20260809073000 +0000" stop="20260809080000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">DOCUMENTAL 'L'ECLIPSI DE L'EBRE'</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c" />
   </programme>
   <programme start="20260809080000 +0000" stop="20260809090000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Banyoles TV MIX</title>
@@ -39436,8 +39764,8 @@
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
   <programme start="20260810000000 +0000" stop="20260810003000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">LA FINESTRA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
+    <title lang="es">La setmana</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Laura La setmana 2_1742558703086" />
   </programme>
   <programme start="20260810003000 +0000" stop="20260810050000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">MusicBox</title>
@@ -39459,13 +39787,9 @@
     <title lang="es">Club Natació Banyoles</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cnb_1715274751721" />
   </programme>
-  <programme start="20260810090000 +0000" stop="20260810093000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20260810090000 +0000" stop="20260810100000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">L'entrevista - Resum Setmanal</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
-  </programme>
-  <programme start="20260810093000 +0000" stop="20260810100000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">LA FINESTRA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
   </programme>
   <programme start="20260810100000 +0000" stop="20260810110000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Tribu Mix</title>
@@ -44352,11 +44676,6 @@ De planteamiento irregular y extraño, pero con una acción hipnótica y contagi
   <programme start="20260808220000 +0200" stop="20260808223000 +0200" channel="Informacion.TV">
     <title lang="es">La Entrevista</title>
     <desc lang="es">Programa de entrevistas con diferentes personas de diversos panoramas en Información TV.</desc>
-    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
-  </programme>
-  <programme start="20260808223000 +0200" stop="20260808223000 +0200" channel="Informacion.TV">
-    <title lang="es">Colegio de Ingenieros</title>
-    <desc lang="es">Colegio de Ingenieros.</desc>
     <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
   </programme>
   <programme start="20260808223000 +0200" stop="20260808223000 +0200" channel="Informacion.TV">
@@ -55277,6 +55596,37 @@ Viviana Barnatan (colaborador externo).</desc>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://metadata.agiletv.es/_assets/94/d2/94d2090126156fc147dcfb9435cec0dc692bd33d0f72f89847846c24e6ce8814.jpg" />
   </programme>
+  <programme start="20260810113000 +0000" stop="20260810120000 +0000" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20260810120000 +0000" stop="20260810123000 +0000" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20260810123000 +0000" stop="20260810133000 +0000" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20260810133000 +0000" stop="20260810140000 +0000" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20260810140000 +0000" stop="20260810160000 +0000" channel="Vinx.TV">
+    <title lang="es">Campeonato de España de Montaña - Ribeira Sacra Chantada 2026. La Camarina</title>
+    <desc lang="es">Ribeira Sacra Chantada 2026. La Camarina.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/3c/ac/3caccaa9d2839830aa22dd395dca076bb4de6b8581676f716bbf75c782740e37.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
+  </programme>
+  <programme start="20260810160000 +0000" stop="20260810163000 +0000" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
   <programme start="20260810163000 +0000" stop="20260810170000 +0000" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
@@ -55286,6 +55636,26 @@ Viviana Barnatan (colaborador externo).</desc>
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://metadata.agiletv.es/_assets/94/d2/94d2090126156fc147dcfb9435cec0dc692bd33d0f72f89847846c24e6ce8814.jpg" />
+  </programme>
+  <programme start="20260810180000 +0000" stop="20260810200000 +0000" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20260810200000 +0000" stop="20260810203000 +0000" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20260810203000 +0000" stop="20260810210000 +0000" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20260810210000 +0000" stop="20260810230000 +0000" channel="Vinx.TV">
+    <title lang="es">Los Loros. La Camarina</title>
+    <desc lang="es">Prueba automovilística de montaña en la isla de Tenerife.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
   <programme start="20260808050000 +0000" stop="20260808053000 +0000" channel="Medi1.TV">
     <title lang="es">Adabo almarid</title>
@@ -55670,6 +56040,11 @@ Viviana Barnatan (colaborador externo).</desc>
   <programme start="20260810094500 +0000" stop="20260810101500 +0000" channel="Medi1.TV">
     <title lang="es">Chhiwa whkaya</title>
     <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20260810101500 +0000" stop="20260810103000 +0000" channel="Medi1.TV">
+    <title lang="es">wlad bladi</title>
+    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
   <programme start="20260810103000 +0000" stop="20260810110000 +0000" channel="Medi1.TV">
@@ -57938,73 +58313,80 @@ Viviana Barnatan (colaborador externo).</desc>
     <desc lang="eu">Aurkezleak: Zigor Iturrieta eta Patrizia Vitelli  Errezeta: haragi gisatua Cadiz erara Errezeta: euskal txerri tripakiak saltsan.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/fb6e6297-50d0-44ac-8c2a-c83a1ade80b9.jpg" />
   </programme>
-  <programme start="20260808120000 +0000" stop="20260808123500 +0000" channel="ETB1ON.TV">
+  <programme start="20260808120000 +0000" stop="20260808123320 +0000" channel="ETB1ON.TV">
     <title lang="eu">Gaur egun</title>
+    <sub-title lang="eu">2026-08-08 12:00:00</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/88254b05-255d-4dfc-af13-6a01ac8207a5.jpg" />
   </programme>
-  <programme start="20260808123500 +0000" stop="20260808125139 +0000" channel="ETB1ON.TV">
+  <programme start="20260808123320 +0000" stop="20260808124727 +0000" channel="ETB1ON.TV">
     <title lang="eu">Kirolak</title>
+    <sub-title lang="eu">2026-08-08 12:33:19</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/7813dbe0-44f2-4ff7-bce6-53980c97ab64.jpg" />
   </programme>
-  <programme start="20260808125139 +0000" stop="20260808130610 +0000" channel="ETB1ON.TV">
+  <programme start="20260808124727 +0000" stop="20260808130125 +0000" channel="ETB1ON.TV">
     <title lang="eu">Eguraldia</title>
+    <sub-title lang="eu">2026-08-08 12:47:27</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808130610 +0000" stop="20260808140312 +0000" channel="ETB1ON.TV">
+  <programme start="20260808130125 +0000" stop="20260808130253 +0000" channel="ETB1ON.TV">
+    <title lang="eu">Glaziarrak</title>
+    <icon src="https://cdnstorage.primeran.eus/directus/eitb/8d7a68a3-9d2f-4051-8328-830dbffb1979.jpg" />
+  </programme>
+  <programme start="20260808130253 +0000" stop="20260808140019 +0000" channel="ETB1ON.TV">
     <title lang="eu">Irabazi arte</title>
     <sub-title lang="eu">3 - Zalantzak</sub-title>
     <desc lang="eu">Arene eta Jonek harremana hasiko dute.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/f7873841-f089-45cd-bb33-51959c4a6a37.jpg" />
   </programme>
-  <programme start="20260808140312 +0000" stop="20260808150015 +0000" channel="ETB1ON.TV">
+  <programme start="20260808140019 +0000" stop="20260808145810 +0000" channel="ETB1ON.TV">
     <title lang="eu">Irabazi arte</title>
     <sub-title lang="eu">4 - Iruzurrak</sub-title>
     <desc lang="eu">Printzesak ligako ekipo txapeldunaren aurka jokatuko dute, Olazarraren aurka.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/f7873841-f089-45cd-bb33-51959c4a6a37.jpg" />
   </programme>
-  <programme start="20260808150015 +0000" stop="20260808150607 +0000" channel="ETB1ON.TV">
+  <programme start="20260808145810 +0000" stop="20260808150402 +0000" channel="ETB1ON.TV">
     <title lang="eu">Artefaktua pasarteak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d3a669b3-b2d0-4ccf-bb35-d7b31e359c78.jpg" />
   </programme>
-  <programme start="20260808150607 +0000" stop="20260808151204 +0000" channel="ETB1ON.TV">
+  <programme start="20260808150402 +0000" stop="20260808151000 +0000" channel="ETB1ON.TV">
     <title lang="eu">Artefaktua pasarteak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d3a669b3-b2d0-4ccf-bb35-d7b31e359c78.jpg" />
   </programme>
-  <programme start="20260808151204 +0000" stop="20260808161242 +0000" channel="ETB1ON.TV">
+  <programme start="20260808151000 +0000" stop="20260808161037 +0000" channel="ETB1ON.TV">
     <title lang="eu">Estropadak: Euskotren Liga 2026</title>
     <sub-title lang="eu">Emakuezkoen Euskotren Liga 2026, Ondarroako Bandera</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9d1152a4-2539-4d89-a74b-53c4018ab924.jpg" />
   </programme>
-  <programme start="20260808161242 +0000" stop="20260808165521 +0000" channel="ETB1ON.TV">
+  <programme start="20260808161037 +0000" stop="20260808165317 +0000" channel="ETB1ON.TV">
     <title lang="eu">Estropadak: Eusko Label Liga 2026</title>
     <sub-title lang="eu">XLII. Ondarroako Bandera - Cikautxo Sari Nagusia</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/6852110c-d818-48e6-bf9f-bb560b07e1aa.jpg" />
   </programme>
-  <programme start="20260808165521 +0000" stop="20260808165809 +0000" channel="ETB1ON.TV">
+  <programme start="20260808165317 +0000" stop="20260808165604 +0000" channel="ETB1ON.TV">
     <title lang="eu">Glaziarrak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8d7a68a3-9d2f-4051-8328-830dbffb1979.jpg" />
   </programme>
-  <programme start="20260808165809 +0000" stop="20260808172819 +0000" channel="ETB1ON.TV">
+  <programme start="20260808165604 +0000" stop="20260808172614 +0000" channel="ETB1ON.TV">
     <title lang="eu">Estropadak: Eusko Label Liga 2026</title>
     <sub-title lang="eu">XLII. Ondarroako Bandera - Cikautxo Sari Nagusia</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/6852110c-d818-48e6-bf9f-bb560b07e1aa.jpg" />
   </programme>
-  <programme start="20260808172819 +0000" stop="20260808173115 +0000" channel="ETB1ON.TV">
+  <programme start="20260808172614 +0000" stop="20260808172910 +0000" channel="ETB1ON.TV">
     <title lang="eu">Euskal Herria hegan. Paisaiak</title>
     <sub-title lang="eu">EUSKAL HERRIA HEGAN. PAISAIAK_23_ZUMAIA</sub-title>
     <desc lang="eu">Euskal Herria Hegan dokumental sortatik ateratako Zumaiari buruzko irudiak.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5b3df05b-eb1b-4cd8-a1c4-934e9961f28a.jpg" />
   </programme>
-  <programme start="20260808173115 +0000" stop="20260808180204 +0000" channel="ETB1ON.TV">
+  <programme start="20260808172910 +0000" stop="20260808180000 +0000" channel="ETB1ON.TV">
     <title lang="eu">Estropadak: Eusko Label Liga 2026</title>
     <sub-title lang="eu">XLII. Ondarroako Bandera - Cikautxo Sari Nagusia</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/6852110c-d818-48e6-bf9f-bb560b07e1aa.jpg" />
   </programme>
-  <programme start="20260808180204 +0000" stop="20260808183500 +0000" channel="ETB1ON.TV">
+  <programme start="20260808180000 +0000" stop="20260808183500 +0000" channel="ETB1ON.TV">
     <title lang="eu">Gaur egun</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/88254b05-255d-4dfc-af13-6a01ac8207a5.jpg" />
   </programme>
@@ -58572,134 +58954,134 @@ Viviana Barnatan (colaborador externo).</desc>
     <title lang="eu">Kirolak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/2c87fd96-6a63-4911-b74e-bb3e9eba7046.jpg" />
   </programme>
-  <programme start="20260808140011 +0000" stop="20260808141016 +0000" channel="ETB2ON.TV">
+  <programme start="20260808140011 +0000" stop="20260808141010 +0000" channel="ETB2ON.TV">
     <title lang="eu">Eguraldia</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808141016 +0000" stop="20260808151003 +0000" channel="ETB2ON.TV">
+  <programme start="20260808141010 +0000" stop="20260808150957 +0000" channel="ETB2ON.TV">
     <title lang="eu">Pintxo pote</title>
     <sub-title lang="eu">Vitoria-Gasteiz</sub-title>
     <desc lang="eu">Ibilbide gastronomiko sortzailea hainbat taberna ospetsutan. Mitxel Sagredo, Marisa Barrio, Imanol Latorre eta Juan Manriquek beren pintxo originalak aurkezten dituzte: Sol-ete, Sopes de pato con snetido, Raburguesa antekerana eta Entre tinta y brasa. Gainera, zerbitzariak, jabeak eta senideak parte hartzen dute, sukaldaritzarekiko grina eta anekdotak giro hurbil eta jai giroan partekatuz.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/873901bd-6ab2-48ce-b68d-4756d4ebbe43.jpg" />
   </programme>
-  <programme start="20260808151003 +0000" stop="20260808160235 +0000" channel="ETB2ON.TV">
+  <programme start="20260808150957 +0000" stop="20260808160229 +0000" channel="ETB2ON.TV">
     <title lang="eu">Estropadak: Euskotren Liga 2026</title>
     <sub-title lang="eu">Emakuezkoen Euskotren Liga 2026, Ondarroako Bandera</sub-title>
     <desc lang="eu">Ondarroa.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9d1152a4-2539-4d89-a74b-53c4018ab924.jpg" />
   </programme>
-  <programme start="20260808160235 +0000" stop="20260808164716 +0000" channel="ETB2ON.TV">
+  <programme start="20260808160229 +0000" stop="20260808164710 +0000" channel="ETB2ON.TV">
     <title lang="eu">Artillero</title>
     <sub-title lang="eu">Artillero 2026</sub-title>
     <desc lang="eu">Donostiako Aste Nagusiaren hasiera iragartzen duen Artilleroaren ekitaldia eta kanoikada.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5fc1e026-6439-4f18-8088-4a48db8f62ab.jpg" />
   </programme>
-  <programme start="20260808164716 +0000" stop="20260808164842 +0000" channel="ETB2ON.TV">
+  <programme start="20260808164710 +0000" stop="20260808164836 +0000" channel="ETB2ON.TV">
     <title lang="eu">Ongi etorri!</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/1b13ed39-2418-4e68-ae2c-aa8d18ec0e16.jpg" />
   </programme>
-  <programme start="20260808164842 +0000" stop="20260808171930 +0000" channel="ETB2ON.TV">
+  <programme start="20260808164836 +0000" stop="20260808171924 +0000" channel="ETB2ON.TV">
     <title lang="eu">Artillero</title>
     <sub-title lang="eu">Artillero 2026</sub-title>
     <desc lang="eu">Donostiako Aste Nagusiaren hasiera iragartzen duen Artilleroaren ekitaldia eta kanoikada.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5fc1e026-6439-4f18-8088-4a48db8f62ab.jpg" />
   </programme>
-  <programme start="20260808171930 +0000" stop="20260808173459 +0000" channel="ETB2ON.TV">
+  <programme start="20260808171924 +0000" stop="20260808173452 +0000" channel="ETB2ON.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Mendaro</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260808173459 +0000" stop="20260808175234 +0000" channel="ETB2ON.TV">
+  <programme start="20260808173452 +0000" stop="20260808175227 +0000" channel="ETB2ON.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Orio</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260808175234 +0000" stop="20260808175757 +0000" channel="ETB2ON.TV">
+  <programme start="20260808175227 +0000" stop="20260808175751 +0000" channel="ETB2ON.TV">
     <title lang="eu">Píldoras Pintxo Pote</title>
     <sub-title lang="eu">2026-04-24 04:07:21</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/873901bd-6ab2-48ce-b68d-4756d4ebbe43.jpg" />
   </programme>
-  <programme start="20260808175757 +0000" stop="20260808190001 +0000" channel="ETB2ON.TV">
+  <programme start="20260808175751 +0000" stop="20260808185954 +0000" channel="ETB2ON.TV">
     <title lang="eu">Vascos por el mundo</title>
     <sub-title lang="eu">Lisboa</sub-title>
     <desc lang="eu">Carolina Calvorekin bat Portugaleko hiriburua bisitatuko dugu. Laura, arkitektoa, motxila batekin iritsi zen eta gaur egun eraikin zaharren berriztapen lanetan dabil. Aymara, Donostiako diseinatzaile grafikoa, kultura portugaldarrarekiko maitasuna eta bere familia portugaldarra erakusten dizkigu. David, artista polifazetikoa, Mouraria eta Intendente bezalako auzo alternatiboak ezagutzen lagunduko digu. Jone, Bilbokoa, Erasmus garaian Lisboaz maitemindu zen eta orain komunikazio-enpresa baten arduraduna da, influencer marketinean diharduen startup batean.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/3641be18-8574-49fe-bcb2-28c59afc271e.jpg" />
   </programme>
-  <programme start="20260808190001 +0000" stop="20260808194001 +0000" channel="ETB2ON.TV">
+  <programme start="20260808185954 +0000" stop="20260808193954 +0000" channel="ETB2ON.TV">
     <title lang="eu">Teleberri</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/55c547e4-5ad8-4b92-a5e7-3adb5ed55b03.jpg" />
   </programme>
-  <programme start="20260808194001 +0000" stop="20260808200149 +0000" channel="ETB2ON.TV">
+  <programme start="20260808193954 +0000" stop="20260808200143 +0000" channel="ETB2ON.TV">
     <title lang="eu">Kirolak</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/2c87fd96-6a63-4911-b74e-bb3e9eba7046.jpg" />
   </programme>
-  <programme start="20260808200149 +0000" stop="20260808201234 +0000" channel="ETB2ON.TV">
+  <programme start="20260808200143 +0000" stop="20260808201227 +0000" channel="ETB2ON.TV">
     <title lang="eu">Eguraldia</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8313a7c6-5e25-450c-a787-f21ade807caf.jpg" />
   </programme>
-  <programme start="20260808201234 +0000" stop="20260808205802 +0000" channel="ETB2ON.TV">
+  <programme start="20260808201227 +0000" stop="20260808205755 +0000" channel="ETB2ON.TV">
     <title lang="eu">Atrápame si puedes finde</title>
     <sub-title lang="eu">11. atala</sub-title>
     <desc lang="eu">Lehiakideak: Maialen Labandibar, Marcela Damborenea, Asier Urcelay, Anartz Duoandikoetxea eta Aner Gorrotxategi.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/37e96b2f-6384-4fe5-bbc2-b536c8aee2d6.jpg" />
   </programme>
-  <programme start="20260808205802 +0000" stop="20260808215159 +0000" channel="ETB2ON.TV">
+  <programme start="20260808205755 +0000" stop="20260808215153 +0000" channel="ETB2ON.TV">
     <title lang="eu">Duelo en las alturas</title>
     <sub-title lang="eu">Castillos</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9aaa4967-967f-40f2-9d96-af09d58f8448.jpg" />
   </programme>
-  <programme start="20260808215159 +0000" stop="20260808224734 +0000" channel="ETB2ON.TV">
+  <programme start="20260808215153 +0000" stop="20260808224728 +0000" channel="ETB2ON.TV">
     <title lang="eu">Duelo en las alturas</title>
     <sub-title lang="eu">2021-12-28 04:52:50</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9aaa4967-967f-40f2-9d96-af09d58f8448.jpg" />
   </programme>
-  <programme start="20260808224734 +0000" stop="20260808235038 +0000" channel="ETB2ON.TV">
+  <programme start="20260808224728 +0000" stop="20260808235032 +0000" channel="ETB2ON.TV">
     <title lang="eu">Vascos por el mundo</title>
     <sub-title lang="eu">Norvegiako fiordoak</sub-title>
     <desc lang="eu">Norvegiara goaz. Bergen eta fiordoen eskualdea ezagutuko dugu: Hardanger, Sognefjord eta Preikestolen plataforma ikusgarria. Paisaia paregabeetan nabigatuko dugu. Haugesund-en, bikingoen sorlekua eta Norvegiako lehen erregearen hilobi bisitatuko dugu. Abenturak aurrera jarraitzen du, munduko ikusgarrienetakotzat jotzen den Flæm-eko trenean. Natura, historia eta abentura bere horretan.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/3641be18-8574-49fe-bcb2-28c59afc271e.jpg" />
   </programme>
-  <programme start="20260808235038 +0000" stop="20260809005315 +0000" channel="ETB2ON.TV">
+  <programme start="20260808235032 +0000" stop="20260809005309 +0000" channel="ETB2ON.TV">
     <title lang="eu">Esto no es normal</title>
     <sub-title lang="eu">69. atala</sub-title>
     <desc lang="eu">Lehiakideak: Jose Belló Ruiz (Pepe), June Saez Estevez, Oier Gento Rey eta Lara Jiménez Rodríguez Kuadrilla: Alina Germán Vázquez, Mª Gemma Mantecón Marín (Gemma), Paula Baco Rodríguez, Maitane Marcos Pérez, Oskar Delgado Rus, Aimar Artolazabal Gorrochategui, Luis Muela Núñez eta Mariano Daniel Eiben Martín (Mariano).</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/9617687f-f540-4e8c-bff9-8e0c130a2239.jpg" />
   </programme>
-  <programme start="20260809005315 +0000" stop="20260809015207 +0000" channel="ETB2ON.TV">
+  <programme start="20260809005309 +0000" stop="20260809015200 +0000" channel="ETB2ON.TV">
     <title lang="eu">Vaya Par</title>
     <sub-title lang="eu">142. atala</sub-title>
     <desc lang="eu">Lehiakideak: Miriam eta Adrian, Assel eta Aitor,  Gema eta Josetxo.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/f8c1c9eb-437f-4aff-9e4d-11f37bb55e6c.jpg" />
   </programme>
-  <programme start="20260809015207 +0000" stop="20260809024231 +0000" channel="ETB2ON.TV">
+  <programme start="20260809015200 +0000" stop="20260809024225 +0000" channel="ETB2ON.TV">
     <title lang="eu">El humor de...</title>
     <sub-title lang="eu">Borja Perez</sub-title>
     <desc lang="eu">Diego Perez protagonista duten 'sketch' errefritua.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/1012f7e3-7b71-4e2f-a845-0ebd11069277.jpg" />
   </programme>
-  <programme start="20260809024231 +0000" stop="20260809033224 +0000" channel="ETB2ON.TV">
+  <programme start="20260809024225 +0000" stop="20260809033218 +0000" channel="ETB2ON.TV">
     <title lang="eu">Vaya Semanita</title>
     <sub-title lang="eu">14. atala</sub-title>
     <desc lang="eu">Opariak, Beleneko portala,  hiltzailea, Gabonetako opariak, okupak...</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/76357d88-c153-48de-981f-c00732f0ed55.jpg" />
   </programme>
-  <programme start="20260809033224 +0000" stop="20260809041714 +0000" channel="ETB2ON.TV">
+  <programme start="20260809033218 +0000" stop="20260809041708 +0000" channel="ETB2ON.TV">
     <title lang="eu">Atrápame si puedes finde</title>
     <sub-title lang="eu">11. atala</sub-title>
     <desc lang="eu">Lehiakideak: Maialen Labandibar, Marcela Damborenea, Asier Urcelay, Anartz Duoandikoetxea eta Aner Gorrotxategi.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/37e96b2f-6384-4fe5-bbc2-b536c8aee2d6.jpg" />
   </programme>
-  <programme start="20260809041714 +0000" stop="20260809043251 +0000" channel="ETB2ON.TV">
+  <programme start="20260809041708 +0000" stop="20260809043245 +0000" channel="ETB2ON.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">2018-03-24 18:48:44</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809043251 +0000" stop="20260809044443 +0000" channel="ETB2ON.TV">
+  <programme start="20260809043245 +0000" stop="20260809044437 +0000" channel="ETB2ON.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Lakuntza</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
   </programme>
-  <programme start="20260809044443 +0000" stop="20260809044500 +0000" channel="ETB2ON.TV">
+  <programme start="20260809044437 +0000" stop="20260809044500 +0000" channel="ETB2ON.TV">
     <title lang="eu">Momentos Historias a bocados</title>
     <sub-title lang="eu">Mendaro</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/d8edc37a-2a11-42a6-832c-2cbaf9a70f3f.jpg" />
@@ -62757,9 +63139,22 @@ Viviana Barnatan (colaborador externo).</desc>
     <title lang="es">EL CAMPO ES NUESTRO - 2026-03-06</title>
     <icon src="https://eu-platform-static.cdn.mdstrm.com/player/logo/s-live-6a35c996fe712a63795dc1a3.png" />
   </programme>
+  <programme start="20260808232900 +0000" stop="20260809001600 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-09</title>
+    <icon src="https://eu-platform-static.cdn.mdstrm.com/player/logo/s-live-6a35c996fe712a63795dc1a3.png" />
+  </programme>
+  <programme start="20260809001600 +0000" stop="20260809010100 +0000" channel="El_Campo_Nuestro.TV">
+    <title lang="es">EL CAMPO ES NUESTRO - 2026-03-10</title>
+    <icon src="https://eu-platform-static.cdn.mdstrm.com/player/logo/s-live-6a35c996fe712a63795dc1a3.png" />
+  </programme>
   <programme start="20260808115800 +0000" stop="20260808132300 +0000" channel="Aragón_Noticias.TV">
     <title lang="es">ARAGÓN NOTICIAS 1 - 08/08/2026</title>
     <desc lang="es">Todos los días, de lunes a viernes, a las 14.00 horas, comienza el informativo Aragón Noticias 1,  como jefe de Informativos Javier de Sola, el equipo de editores formado por Ainhoa Iragorri y Nerea Resa, de lunes a viernes, y en fin de semana Carlos López.  De lunes a viernes: Presentan Noemí Núñez y Javier Gastón, los deportes Pedro Hernández y El tiempo Eva Berlanga. El fin de semana, Marimar Cariñena, Deportes con Pilar Soro y El tiempo Cristina López de Val.</desc>
+    <icon src="https://eu-platform-static.cdn.mdstrm.com/player/logo/s-live-69f8215ba762c9b1ab324ac8.png" />
+  </programme>
+  <programme start="20260808181500 +0000" stop="20260808191500 +0000" channel="Aragón_Noticias.TV">
+    <title lang="es">ARAGÓN NOTICIAS 2 ACCESIBLE - 08/08/2026</title>
+    <desc lang="es">Emisión en lenguaje de signos. \nTodos los días de lunes a viernes a las 20:30 horas, comienza el informativo Aragón Noticias 2, Aragón Deportes 2 y El Tiempo.</desc>
     <icon src="https://eu-platform-static.cdn.mdstrm.com/player/logo/s-live-69f8215ba762c9b1ab324ac8.png" />
   </programme>
   <programme start="20260808095500 +0000" stop="20260808115000 +0000" channel="Aragón_Deporte1.TV">
@@ -65031,408 +65426,413 @@ Viviana Barnatan (colaborador externo).</desc>
     <desc lang="es">A mediados de los años 70, los miembros de una secta cometen un suicidio en masa. Cynthia, una joven del grupo, sobrevive y es ingresada en un hospital. Después de permanecer 13 años en coma, Cynthia no puede recordar el terrible incidente. Poco a poco, con la ayuda de su psiquiatra, empieza a recordar lo sucedido pero en su mente se mezcla el sueño y la realidad hasta llegar a no poder distinguir claramente las dos cosas. En estas visiones, la joven rememora la noche del suicidio: el líder de la secta hablando desde el altar y los otros sectarios cayendo muertos a su alrededor. Pero los recuerdos permitirán a Cynthia sospechar de las intenciones del líder de la secta, al que la joven cree aún vivo.</desc>
     <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20260808131104 +0200" stop="20260808134640 +0200" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
-  </programme>
-  <programme start="20260808134918 +0200" stop="20260808142041 +0200" channel="TUYA.TV">
-    <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260808142410 +0200" stop="20260808150012 +0200" channel="TUYA.TV">
-    <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260808150438 +0200" stop="20260808154356 +0200" channel="TUYA.TV">
+  <programme start="20260808150440 +0200" stop="20260808154358 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260808154737 +0200" stop="20260808161900 +0200" channel="TUYA.TV">
+  <programme start="20260808154740 +0200" stop="20260808161903 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260808162217 +0200" stop="20260808165818 +0200" channel="TUYA.TV">
+  <programme start="20260808162219 +0200" stop="20260808165821 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260808170014 +0200" stop="20260808173750 +0200" channel="TUYA.TV">
+  <programme start="20260808170016 +0200" stop="20260808173752 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P04 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260808174150 +0200" stop="20260808181431 +0200" channel="TUYA.TV">
+  <programme start="20260808174152 +0200" stop="20260808181433 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260808181732 +0200" stop="20260808185308 +0200" channel="TUYA.TV">
+  <programme start="20260808181734 +0200" stop="20260808185310 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260808185454 +0200" stop="20260808192744 +0200" channel="TUYA.TV">
+  <programme start="20260808185456 +0200" stop="20260808192747 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260808193111 +0200" stop="20260808195902 +0200" channel="TUYA.TV">
+  <programme start="20260808193113 +0200" stop="20260808195904 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260808200117 +0200" stop="20260808203108 +0200" channel="TUYA.TV">
+  <programme start="20260808200120 +0200" stop="20260808203111 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260808203503 +0200" stop="20260808210626 +0200" channel="TUYA.TV">
+  <programme start="20260808203505 +0200" stop="20260808210628 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260808210858 +0200" stop="20260808214500 +0200" channel="TUYA.TV">
+  <programme start="20260808210901 +0200" stop="20260808214502 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260808214715 +0200" stop="20260808215151 +0200" channel="TUYA.TV">
+  <programme start="20260808214718 +0200" stop="20260808215153 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la XV edición del trofeo de la vendimia que enfrentará al Chiclana CF con el Sanluqueño.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260808215158 +0200" stop="20260808220102 +0200" channel="TUYA.TV">
+  <programme start="20260808215200 +0200" stop="20260808220105 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Museo de la Ciudad acoge desde hoy el Real Decreto del Título de Ciudad original.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260808220343 +0200" stop="20260808223634 +0200" channel="TUYA.TV">
+  <programme start="20260808220346 +0200" stop="20260808223636 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260808223958 +0200" stop="20260808231238 +0200" channel="TUYA.TV">
+  <programme start="20260808224000 +0200" stop="20260808231241 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260808231527 +0200" stop="20260808235103 +0200" channel="TUYA.TV">
+  <programme start="20260808231530 +0200" stop="20260808235106 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260808235431 +0200" stop="20260809002837 +0200" channel="TUYA.TV">
+  <programme start="20260808235434 +0200" stop="20260809002840 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809003213 +0200" stop="20260809010523 +0200" channel="TUYA.TV">
+  <programme start="20260809003215 +0200" stop="20260809010525 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809010829 +0200" stop="20260809011148 +0200" channel="TUYA.TV">
+  <programme start="20260809010831 +0200" stop="20260809011151 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: María Parrado, cantante chiclanera, dona lo ganado tras su paso por el concurso "Tu cara me suena".</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809011153 +0200" stop="20260809011552 +0200" channel="TUYA.TV">
+  <programme start="20260809011156 +0200" stop="20260809011554 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El museo de muñecas se une a la celebración del 150 aniversario del título de ciudad de la localidad.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809011951 +0200" stop="20260809015232 +0200" channel="TUYA.TV">
+  <programme start="20260809011953 +0200" stop="20260809015234 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260809015445 +0200" stop="20260809022253 +0200" channel="TUYA.TV">
+  <programme start="20260809015448 +0200" stop="20260809022256 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P01 CPR CAMPOS DE CONIL - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad la cuentan sus protagonistas.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260809022536 +0200" stop="20260809023616 +0200" channel="TUYA.TV">
+  <programme start="20260809022538 +0200" stop="20260809023619 +0200" channel="TUYA.TV">
     <title lang="es">SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">Entrega de la Sardina de Plata de la AVV Mayorazgo Alto.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809024050 +0200" stop="20260809031626 +0200" channel="TUYA.TV">
+  <programme start="20260809024053 +0200" stop="20260809031629 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260809032149 +0200" stop="20260809035145 +0200" channel="TUYA.TV">
+  <programme start="20260809032151 +0200" stop="20260809035147 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P07 - María Parrado. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260809035553 +0200" stop="20260809042843 +0200" channel="TUYA.TV">
+  <programme start="20260809035555 +0200" stop="20260809042846 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260809043244 +0200" stop="20260809050234 +0200" channel="TUYA.TV">
+  <programme start="20260809043246 +0200" stop="20260809050237 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809050413 +0200" stop="20260809053204 +0200" channel="TUYA.TV">
+  <programme start="20260809050416 +0200" stop="20260809053207 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809053410 +0200" stop="20260809053907 +0200" channel="TUYA.TV">
+  <programme start="20260809053412 +0200" stop="20260809053909 +0200" channel="TUYA.TV">
     <title lang="es">TIME LAPSE CONIL</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809053913 +0200" stop="20260809061831 +0200" channel="TUYA.TV">
+  <programme start="20260809053915 +0200" stop="20260809061833 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809062244 +0200" stop="20260809065650 +0200" channel="TUYA.TV">
+  <programme start="20260809062247 +0200" stop="20260809065653 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809065918 +0200" stop="20260809073228 +0200" channel="TUYA.TV">
+  <programme start="20260809065920 +0200" stop="20260809073230 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809073629 +0200" stop="20260809081445 +0200" channel="TUYA.TV">
+  <programme start="20260809073632 +0200" stop="20260809081447 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P09 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260809081727 +0200" stop="20260809082203 +0200" channel="TUYA.TV">
+  <programme start="20260809081729 +0200" stop="20260809082205 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la XV edición del trofeo de la vendimia que enfrentará al Chiclana CF con el Sanluqueño.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809082210 +0200" stop="20260809083114 +0200" channel="TUYA.TV">
+  <programme start="20260809082212 +0200" stop="20260809083116 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Museo de la Ciudad acoge desde hoy el Real Decreto del Título de Ciudad original.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809083428 +0200" stop="20260809084509 +0200" channel="TUYA.TV">
+  <programme start="20260809083430 +0200" stop="20260809084511 +0200" channel="TUYA.TV">
     <title lang="es">SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">Entrega de la Sardina de Plata de la AVV Mayorazgo Alto.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809084710 +0200" stop="20260809091615 +0200" channel="TUYA.TV">
+  <programme start="20260809084712 +0200" stop="20260809091618 +0200" channel="TUYA.TV">
     <title lang="es">POR DENTRO</title>
     <desc lang="es">P03 - ¿Cómo trabajan? ¿Cuánto cuesta hacer un producto? ¿Sabes el número de empleados que se generan las empresas de nuestras localidades? Datos como estos se revelan cada semana en POR DENTRO, con Raquel Ramírez.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/pordentro.jpg" />
   </programme>
-  <programme start="20260809091745 +0200" stop="20260809094536 +0200" channel="TUYA.TV">
+  <programme start="20260809091747 +0200" stop="20260809094538 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809094757 +0200" stop="20260809102333 +0200" channel="TUYA.TV">
+  <programme start="20260809094800 +0200" stop="20260809102336 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260809102702 +0200" stop="20260809103200 +0200" channel="TUYA.TV">
+  <programme start="20260809102705 +0200" stop="20260809103202 +0200" channel="TUYA.TV">
     <title lang="es">TIME LAPSE CONIL</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809103205 +0200" stop="20260809104215 +0200" channel="TUYA.TV">
+  <programme start="20260809103208 +0200" stop="20260809104218 +0200" channel="TUYA.TV">
     <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 01. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260809104403 +0200" stop="20260809111644 +0200" channel="TUYA.TV">
+  <programme start="20260809104405 +0200" stop="20260809111646 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260809111928 +0200" stop="20260809115219 +0200" channel="TUYA.TV">
+  <programme start="20260809111931 +0200" stop="20260809115221 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260809115629 +0200" stop="20260809122752 +0200" channel="TUYA.TV">
+  <programme start="20260809115632 +0200" stop="20260809122755 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809123112 +0200" stop="20260809130714 +0200" channel="TUYA.TV">
+  <programme start="20260809123114 +0200" stop="20260809130716 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809131006 +0200" stop="20260809133946 +0200" channel="TUYA.TV">
+  <programme start="20260809131008 +0200" stop="20260809133948 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809134213 +0200" stop="20260809141302 +0200" channel="TUYA.TV">
+  <programme start="20260809134215 +0200" stop="20260809141304 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809141729 +0200" stop="20260809143748 +0200" channel="TUYA.TV">
+  <programme start="20260809141731 +0200" stop="20260809143751 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#BARBATE: Renovación del título de municipio turístico.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809144309 +0200" stop="20260809151550 +0200" channel="TUYA.TV">
+  <programme start="20260809144312 +0200" stop="20260809151552 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260809151810 +0200" stop="20260809154750 +0200" channel="TUYA.TV">
+  <programme start="20260809151812 +0200" stop="20260809154753 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809155042 +0200" stop="20260809162131 +0200" channel="TUYA.TV">
+  <programme start="20260809155044 +0200" stop="20260809162133 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809162437 +0200" stop="20260809170013 +0200" channel="TUYA.TV">
+  <programme start="20260809162440 +0200" stop="20260809170016 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260809170239 +0200" stop="20260809173030 +0200" channel="TUYA.TV">
+  <programme start="20260809170242 +0200" stop="20260809173033 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809173248 +0200" stop="20260809180151 +0200" channel="TUYA.TV">
+  <programme start="20260809173250 +0200" stop="20260809180154 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Los Bateles (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Pepe Garrido toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809180549 +0200" stop="20260809183929 +0200" channel="TUYA.TV">
+  <programme start="20260809180552 +0200" stop="20260809183931 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P12 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260809184043 +0200" stop="20260809191334 +0200" channel="TUYA.TV">
+  <programme start="20260809184046 +0200" stop="20260809191336 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260809191547 +0200" stop="20260809194922 +0200" channel="TUYA.TV">
+  <programme start="20260809191549 +0200" stop="20260809194925 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P03 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260809195141 +0200" stop="20260809202348 +0200" channel="TUYA.TV">
+  <programme start="20260809195143 +0200" stop="20260809202351 +0200" channel="TUYA.TV">
     <title lang="es">AL FRESQUITO</title>
     <desc lang="es">T02.P18 - Toma el fresco con Fernando Santes y Rocío F Villarejo en el programa donde puede pasar cualquier cosa.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/alfresquito.jpg" />
   </programme>
-  <programme start="20260809202620 +0200" stop="20260809205743 +0200" channel="TUYA.TV">
+  <programme start="20260809202622 +0200" stop="20260809205745 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809210003 +0200" stop="20260809213605 +0200" channel="TUYA.TV">
+  <programme start="20260809210005 +0200" stop="20260809213607 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809213941 +0200" stop="20260809214653 +0200" channel="TUYA.TV">
+  <programme start="20260809213944 +0200" stop="20260809214655 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#BARBATE: Inauguración de las exposiciones conjuntas que ponen en valor la imagen almadrabera de Barbate.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809214658 +0200" stop="20260809215222 +0200" channel="TUYA.TV">
+  <programme start="20260809214700 +0200" stop="20260809215224 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: 100X100 Unidos por Chiclana presenta un ambicioso plan de mejora de los parques públicos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260809215434 +0200" stop="20260809222425 +0200" channel="TUYA.TV">
+  <programme start="20260809215437 +0200" stop="20260809222428 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809222644 +0200" stop="20260809225809 +0200" channel="TUYA.TV">
+  <programme start="20260809222646 +0200" stop="20260809225811 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P11 - La Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Pepe Garrido toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260809230242 +0200" stop="20260809233222 +0200" channel="TUYA.TV">
+  <programme start="20260809230244 +0200" stop="20260809233225 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260809233501 +0200" stop="20260810000550 +0200" channel="TUYA.TV">
+  <programme start="20260809233503 +0200" stop="20260810000552 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260810000829 +0200" stop="20260810001541 +0200" channel="TUYA.TV">
+  <programme start="20260810000832 +0200" stop="20260810001543 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#BARBATE: Inauguración de las exposiciones conjuntas que ponen en valor la imagen almadrabera de Barbate.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810001546 +0200" stop="20260810002142 +0200" channel="TUYA.TV">
+  <programme start="20260810001548 +0200" stop="20260810002145 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Vestigium es el plan local que señalizará las torres vigias que existen en el municipio.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810002147 +0200" stop="20260810002722 +0200" channel="TUYA.TV">
+  <programme start="20260810002150 +0200" stop="20260810002725 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación del plan de Barriadas.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810002727 +0200" stop="20260810003251 +0200" channel="TUYA.TV">
+  <programme start="20260810002730 +0200" stop="20260810003254 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: 100X100 Unidos por Chiclana presenta un ambicioso plan de mejora de los parques públicos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810003529 +0200" stop="20260810010520 +0200" channel="TUYA.TV">
+  <programme start="20260810003532 +0200" stop="20260810010523 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260810010745 +0200" stop="20260810014026 +0200" channel="TUYA.TV">
+  <programme start="20260810010748 +0200" stop="20260810014028 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260810014342 +0200" stop="20260810021322 +0200" channel="TUYA.TV">
+  <programme start="20260810014344 +0200" stop="20260810021325 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260810021614 +0200" stop="20260810024702 +0200" channel="TUYA.TV">
+  <programme start="20260810021616 +0200" stop="20260810024705 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260810024929 +0200" stop="20260810025640 +0200" channel="TUYA.TV">
+  <programme start="20260810024931 +0200" stop="20260810025643 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#BARBATE: Inauguración de las exposiciones conjuntas que ponen en valor la imagen almadrabera de Barbate.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810025645 +0200" stop="20260810030242 +0200" channel="TUYA.TV">
+  <programme start="20260810025648 +0200" stop="20260810030244 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Vestigium es el plan local que señalizará las torres vigias que existen en el municipio.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810030247 +0200" stop="20260810030822 +0200" channel="TUYA.TV">
+  <programme start="20260810030249 +0200" stop="20260810030824 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación del plan de Barriadas.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260810030827 +0200" stop="20260810031351 +0200" channel="TUYA.TV">
+  <programme start="20260810030830 +0200" stop="20260810031353 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: 100X100 Unidos por Chiclana presenta un ambicioso plan de mejora de los parques públicos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260810031650 +0200" stop="20260810034640 +0200" channel="TUYA.TV">
+    <title lang="es">OJÚ Q CALÓ!</title>
+    <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260810034851 +0200" stop="20260810042016 +0200" channel="TUYA.TV">
+    <title lang="es">OJÚ Q CALÓ!</title>
+    <desc lang="es">P11 - La Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Pepe Garrido toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260810042242 +0200" stop="20260810045333 +0200" channel="TUYA.TV">
+    <title lang="es">LAS DEL CLUB</title>
+    <desc lang="es">08 - La amistad - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg" />
+  </programme>
+  <programme start="20260810045534 +0200" stop="20260810053110 +0200" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
   <programme start="20260808000000 +0200" stop="20260808010000 +0200" channel="DiezTV_Ubeda.TV">
     <title lang="es">Noticias Diez TV: Úbeda</title>
