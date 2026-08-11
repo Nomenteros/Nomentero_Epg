@@ -833,7 +833,7 @@
   </channel>
   <channel id="Almería_24h.TV">
     <display-name lang="es">Almería_24h.TV</display-name>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
   <channel id="TUYA.TV">
@@ -874,6 +874,11 @@
   <channel id="BonDiaTV_CAT.TV">
     <display-name lang="es">BonDiaTV_CAT.TV</display-name>
     <icon src="https://www.bondiatv.org/img/icon/apple-touch-icon.png" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
+  <channel id="OndaCero.TV">
+    <display-name lang="es">OndaCero.TV</display-name>
+    <icon src="https://graph.facebook.com/ondacero/picture?width=200&amp;height=200" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
   <programme start="20260811075000 +0200" stop="20260811103500 +0200" channel="La1.TV">
@@ -63845,364 +63850,354 @@ Juanjo Martín (colaborador externo).</desc>
   <programme start="20260811002100 +0200" stop="20260811011900 +0200" channel="Almería_24h.TV">
     <title lang="es">La Ventana de Lucía ( ESPECIALES VERANO )</title>
     <desc lang="es">Lucía Moreno nos trae La Ventana de Lucía, un magazine televisivo, fresco, cercano y dinámico, presentado por Lucía Moreno que abre cada día una ventana a la actualidad y el entretenimiento de Almería y su provincia.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811011900 +0200" stop="20260811025000 +0200" channel="Almería_24h.TV">
     <title lang="es">Cine: Gamera, el guardián del universo</title>
     <desc lang="es">Los habitantes de una pequeña isla se han visto acosados por unas extrañas aves denominadas Gyaos. Cuando el ejército se propone capturar a los siniestras aves, una tortuga gigante de origen desconocido aparece para destruirlas antes de que provoquen la destrucción en la Tierra.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811025000 +0200" stop="20260811042300 +0200" channel="Almería_24h.TV">
     <title lang="es">Cine: Gamera 2: El ataque de legión</title>
     <desc lang="es">Un misterioso meteorito se estrella en Japón desatando la invasión de cientos de criaturas insectoides conocida como Legión. Las criaturas se dirigen peligrosamente hacia Tokio, obligando al ejército a despertar nuevamente a Gamera, la única criatura que les podrá hacer frente y defender Japón y al mundo entero</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811042300 +0200" stop="20260811055900 +0200" channel="Almería_24h.TV">
     <title lang="es">Cine: Gamera 3: La venganza de Iris</title>
     <desc lang="es">Gamera, el legendario monstruo de la Daiei, vuelve a salvar al mundo de una temible amenaza. Gamera acaba con Gyaos, pero una joven encuentra el huevo de una criatura al que llama ‘Iris’. El huevo contiene un sangriento feto que rápidamente se transforma en una malvada criatura que siembra el caos en la humanidad. La película tiene unos impresionantes efectos especiales. En esta tercera entrega de la mítica saga destacan las increíbles secuencias de vuelo y las espectaculares escenas de destrucción.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811055900 +0200" stop="20260811080400 +0200" channel="Almería_24h.TV">
     <title lang="es">Noticias Almería 24 Horas ( REDIFUSIÓN )</title>
     <desc lang="es">Almería 24 Horas Noticias es el informativo de referencia en la provincia. Un espacio riguroso, cercano y comprometido, presentado por Marina Peralta, Salvador Martínez y José Martínez</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811080400 +0200" stop="20260811094400 +0200" channel="Almería_24h.TV">
     <title lang="es">Serie Animación: Reporter Blues</title>
     <desc lang="es">Serie Animación: Reporter Blues</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811094400 +0200" stop="20260811103300 +0200" channel="Almería_24h.TV">
     <title lang="es">Mucho viaje</title>
     <desc lang="es">Mucho viaje</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811103300 +0200" stop="20260811115400 +0200" channel="Almería_24h.TV">
     <title lang="es">Serie: El Virginiano - El Vagabundo</title>
     <desc lang="es">Serie: El Virginiano - El Vagabundo</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811115400 +0200" stop="20260811122000 +0200" channel="Almería_24h.TV">
     <title lang="es">El Acomodador</title>
     <desc lang="es">Todos los estrenos cinematográficos de la semana en el Acomodador. Mauricio López dirige este programa, con la información que te interesa, para que no te pierdas nada sobre las películas que llegan a la cartelera. Entrevistas, rodajes, tráilers, avances,… todo el cine en el salón de tu casa.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811122000 +0200" stop="20260811131900 +0200" channel="Almería_24h.TV">
     <title lang="es">La Ventana de Lucía ( REDIFUSIÓN )</title>
     <desc lang="es">Lucía Moreno nos trae La Ventana de Lucía, un magazine televisivo, fresco, cercano y dinámico, presentado por Lucía Moreno que abre cada día una ventana a la actualidad y el entretenimiento de Almería y su provincia.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811131900 +0200" stop="20260811133900 +0200" channel="Almería_24h.TV">
     <title lang="es">Academia Play - LA HISTORIA DE LA VENEZUELA DE NICOLÁS MADURO</title>
     <desc lang="es">Aprendizaje universal a través del video</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811133900 +0200" stop="20260811135900 +0200" channel="Almería_24h.TV">
     <title lang="es">La Cocina de Ventura y Gabi - ROAST PIG Y CARPACCIO DE LOMO DE CERDO</title>
     <desc lang="es">Descubre una nueva receta de los cocineros calagurritanos Ventura Martínez y Gabi</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811135900 +0200" stop="20260811142900 +0200" channel="Almería_24h.TV">
     <title lang="es">Parada y Fonda</title>
     <desc lang="es">Programa dedicado al turismo y la gastronomía española</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811142900 +0200" stop="20260811151400 +0200" channel="Almería_24h.TV">
     <title lang="es">Telenovela - Amor Secreto</title>
     <desc lang="es">Irene (Alejandra Sandoval) es la secretaria perfecta, un sueño hecho realidad para cualquier ejecutivo: inteligente, eficiente, y absolutamente fiable. Pero a pesar de sus impresionantes habilidades, ella es una mujer joven introvertida con una baja autoestima, lo que le lleva a creer que no es atractiva para los hombres.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811151400 +0200" stop="20260811171400 +0200" channel="Almería_24h.TV">
     <title lang="es">Cine: Mi vida empieza en Malasia</title>
     <desc lang="es">Un grupo de mujeres inglesas, hechas prisioneras por los japoneses durante la II Guerra Mundial (1939-1945), tiene que ser trasladado de un campo de concentración a causa del elevado número de prisioneros. Custodiado por soldados japoneses, el grupo se pone en marcha a través de selvas pantanosas. Las enfermedades y el cansancio harán estragos tanto en las prisioneras como en los soldados nipones. En una aldea, de manera inesperada, encuentran a un aviador australiano que es un luchador nato.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811171400 +0200" stop="20260811173400 +0200" channel="Almería_24h.TV">
     <title lang="es">Academia Play - LA GUERRA CIVIL ESTADOUNIDENSE</title>
     <desc lang="es">Aprendizaje universal a través del video</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811173400 +0200" stop="20260811182700 +0200" channel="Almería_24h.TV">
     <title lang="es">Serie: Autopista hacia el cielo</title>
     <desc lang="es">Michael Landon es Jonathan Smith, un bondadoso ángel que ayuda a la gente de buen corazón. (FILMAFFINITY)</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811182700 +0200" stop="20260811191900 +0200" channel="Almería_24h.TV">
     <title lang="es">Serie: Los Ángeles de Charlie - Ángeles de vacaciones</title>
     <desc lang="es">Un adinerado hombre misterioso llamado Charlie dirige una agencia de detectives a través de un altavoz y de su asistente personal, John Bosley. Sus detectives son tres hermosas mujeres, que se enfrentan a diversas situaciones difíciles.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811191900 +0200" stop="20260811193100 +0200" channel="Almería_24h.TV">
     <title lang="es">Academia Play - ¿Existen los ILLUMINATI？</title>
     <desc lang="es">Aprendizaje universal a través del video</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
   <programme start="20260811193100 +0200" stop="20260811202900 +0200" channel="Almería_24h.TV">
     <title lang="es">La Ventana de Lucía ( ESPECIALES VERANO )</title>
     <desc lang="es">Lucía Moreno nos trae La Ventana de Lucía, un magazine televisivo, fresco, cercano y dinámico, presentado por Lucía Moreno que abre cada día una ventana a la actualidad y el entretenimiento de Almería y su provincia.</desc>
-    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+    <icon src="https://graph.facebook.com/107654981928274/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20260811002116 +0200" stop="20260811005742 +0200" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P27 - Pablo Moreno (PAU). Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
-  </programme>
-  <programme start="20260811010025 +0200" stop="20260811012935 +0200" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P08 - Irma Soriano. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
-  </programme>
-  <programme start="20260811013233 +0200" stop="20260811020524 +0200" channel="TUYA.TV">
+  <programme start="20260811013234 +0200" stop="20260811020524 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811020815 +0200" stop="20260811023938 +0200" channel="TUYA.TV">
+  <programme start="20260811020816 +0200" stop="20260811023939 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811024158 +0200" stop="20260811031800 +0200" channel="TUYA.TV">
+  <programme start="20260811024159 +0200" stop="20260811031801 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811032045 +0200" stop="20260811032320 +0200" channel="TUYA.TV">
+  <programme start="20260811032045 +0200" stop="20260811032321 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la carrera nocturna 150 aniversario del título de ciudad de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811032327 +0200" stop="20260811032812 +0200" channel="TUYA.TV">
+  <programme start="20260811032328 +0200" stop="20260811032813 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la gran fiesta joven Summer Sound.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811032819 +0200" stop="20260811033053 +0200" channel="TUYA.TV">
+  <programme start="20260811032820 +0200" stop="20260811033054 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Como cada 10 de agosto, el Campamento de Ubeda celebra su día de fiesta en recuerdo de 'El Viejo', Antonio Gutierrez.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811033332 +0200" stop="20260811040623 +0200" channel="TUYA.TV">
+  <programme start="20260811033333 +0200" stop="20260811040624 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811040849 +0200" stop="20260811044014 +0200" channel="TUYA.TV">
+  <programme start="20260811040850 +0200" stop="20260811044015 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P11 - La Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Pepe Garrido toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260811044310 +0200" stop="20260811051301 +0200" channel="TUYA.TV">
+  <programme start="20260811044311 +0200" stop="20260811051302 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260811051613 +0200" stop="20260811054853 +0200" channel="TUYA.TV">
+  <programme start="20260811051614 +0200" stop="20260811054854 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260811055059 +0200" stop="20260811063017 +0200" channel="TUYA.TV">
+  <programme start="20260811055100 +0200" stop="20260811063017 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260811063235 +0200" stop="20260811070901 +0200" channel="TUYA.TV">
+  <programme start="20260811063236 +0200" stop="20260811070902 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P27 - Pablo Moreno (PAU). Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260811071122 +0200" stop="20260811074031 +0200" channel="TUYA.TV">
+  <programme start="20260811071123 +0200" stop="20260811074032 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P08 - Irma Soriano. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260811074310 +0200" stop="20260811081433 +0200" channel="TUYA.TV">
+  <programme start="20260811074311 +0200" stop="20260811081434 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811081749 +0200" stop="20260811085350 +0200" channel="TUYA.TV">
+  <programme start="20260811081749 +0200" stop="20260811085351 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811085742 +0200" stop="20260811090018 +0200" channel="TUYA.TV">
+  <programme start="20260811085743 +0200" stop="20260811090019 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la carrera nocturna 150 aniversario del título de ciudad de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811090025 +0200" stop="20260811090509 +0200" channel="TUYA.TV">
+  <programme start="20260811090026 +0200" stop="20260811090510 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la gran fiesta joven Summer Sound.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811090516 +0200" stop="20260811090751 +0200" channel="TUYA.TV">
+  <programme start="20260811090517 +0200" stop="20260811090751 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Como cada 10 de agosto, el Campamento de Ubeda celebra su día de fiesta en recuerdo de 'El Viejo', Antonio Gutierrez.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811091203 +0200" stop="20260811094326 +0200" channel="TUYA.TV">
+  <programme start="20260811091204 +0200" stop="20260811094327 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811094607 +0200" stop="20260811102208 +0200" channel="TUYA.TV">
+  <programme start="20260811094607 +0200" stop="20260811102209 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811102513 +0200" stop="20260811105804 +0200" channel="TUYA.TV">
+  <programme start="20260811102514 +0200" stop="20260811105805 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811110209 +0200" stop="20260811113200 +0200" channel="TUYA.TV">
+  <programme start="20260811110210 +0200" stop="20260811113201 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260811113652 +0200" stop="20260811121318 +0200" channel="TUYA.TV">
+  <programme start="20260811113653 +0200" stop="20260811121319 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P27 - Pablo Moreno (PAU). Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260811121955 +0200" stop="20260811125118 +0200" channel="TUYA.TV">
+  <programme start="20260811121956 +0200" stop="20260811125119 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811125406 +0200" stop="20260811133008 +0200" channel="TUYA.TV">
+  <programme start="20260811125407 +0200" stop="20260811133008 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811133230 +0200" stop="20260811140521 +0200" channel="TUYA.TV">
+  <programme start="20260811133231 +0200" stop="20260811140522 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811140738 +0200" stop="20260811144314 +0200" channel="TUYA.TV">
+  <programme start="20260811140739 +0200" stop="20260811144315 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260811144552 +0200" stop="20260811151715 +0200" channel="TUYA.TV">
+  <programme start="20260811144553 +0200" stop="20260811151716 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811152044 +0200" stop="20260811155646 +0200" channel="TUYA.TV">
+  <programme start="20260811152045 +0200" stop="20260811155647 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811160112 +0200" stop="20260811164030 +0200" channel="TUYA.TV">
+  <programme start="20260811160113 +0200" stop="20260811164030 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260811164411 +0200" stop="20260811171534 +0200" channel="TUYA.TV">
+  <programme start="20260811164412 +0200" stop="20260811171535 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811171851 +0200" stop="20260811175452 +0200" channel="TUYA.TV">
+  <programme start="20260811171851 +0200" stop="20260811175453 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811175648 +0200" stop="20260811183424 +0200" channel="TUYA.TV">
+  <programme start="20260811175649 +0200" stop="20260811183425 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P04 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260811183824 +0200" stop="20260811191105 +0200" channel="TUYA.TV">
+  <programme start="20260811183825 +0200" stop="20260811191106 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260811191406 +0200" stop="20260811194942 +0200" channel="TUYA.TV">
+  <programme start="20260811191407 +0200" stop="20260811194943 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260811195128 +0200" stop="20260811202418 +0200" channel="TUYA.TV">
+  <programme start="20260811195129 +0200" stop="20260811202419 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811202745 +0200" stop="20260811205536 +0200" channel="TUYA.TV">
+  <programme start="20260811202746 +0200" stop="20260811205537 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260811205751 +0200" stop="20260811212742 +0200" channel="TUYA.TV">
+  <programme start="20260811205752 +0200" stop="20260811212743 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260811213137 +0200" stop="20260811220300 +0200" channel="TUYA.TV">
+  <programme start="20260811213138 +0200" stop="20260811220301 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811220532 +0200" stop="20260811224134 +0200" channel="TUYA.TV">
+  <programme start="20260811220533 +0200" stop="20260811224135 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260811224349 +0200" stop="20260811224825 +0200" channel="TUYA.TV">
+  <programme start="20260811224350 +0200" stop="20260811224826 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la XV edición del trofeo de la vendimia que enfrentará al Chiclana CF con el Sanluqueño.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811224832 +0200" stop="20260811225736 +0200" channel="TUYA.TV">
+  <programme start="20260811224833 +0200" stop="20260811225737 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Museo de la Ciudad acoge desde hoy el Real Decreto del Título de Ciudad original.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260811230017 +0200" stop="20260811233308 +0200" channel="TUYA.TV">
+  <programme start="20260811230018 +0200" stop="20260811233309 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260811233632 +0200" stop="20260812000912 +0200" channel="TUYA.TV">
+  <programme start="20260811233632 +0200" stop="20260812000913 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260812001201 +0200" stop="20260812004737 +0200" channel="TUYA.TV">
+  <programme start="20260812001202 +0200" stop="20260812004738 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260812005105 +0200" stop="20260812012511 +0200" channel="TUYA.TV">
+  <programme start="20260812005106 +0200" stop="20260812012512 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812012847 +0200" stop="20260812020157 +0200" channel="TUYA.TV">
+  <programme start="20260812012848 +0200" stop="20260812020158 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812020503 +0200" stop="20260812020822 +0200" channel="TUYA.TV">
+  <programme start="20260812020503 +0200" stop="20260812020823 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: María Parrado, cantante chiclanera, dona lo ganado tras su paso por el concurso "Tu cara me suena".</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260812020827 +0200" stop="20260812021226 +0200" channel="TUYA.TV">
+  <programme start="20260812020828 +0200" stop="20260812021227 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El museo de muñecas se une a la celebración del 150 aniversario del título de ciudad de la localidad.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260812021625 +0200" stop="20260812024906 +0200" channel="TUYA.TV">
+  <programme start="20260812021626 +0200" stop="20260812024906 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260812025120 +0200" stop="20260812031927 +0200" channel="TUYA.TV">
+  <programme start="20260812025120 +0200" stop="20260812031928 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P01 CPR CAMPOS DE CONIL - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad la cuentan sus protagonistas.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
@@ -64212,17 +64207,17 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Entrega de la Sardina de Plata de la AVV Mayorazgo Alto.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260812033724 +0200" stop="20260812041300 +0200" channel="TUYA.TV">
+  <programme start="20260812033725 +0200" stop="20260812041301 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260812041823 +0200" stop="20260812044819 +0200" channel="TUYA.TV">
+  <programme start="20260812041824 +0200" stop="20260812044820 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P07 - María Parrado. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260812045227 +0200" stop="20260812052517 +0200" channel="TUYA.TV">
+  <programme start="20260812045228 +0200" stop="20260812052518 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
@@ -64232,66 +64227,66 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260812060047 +0200" stop="20260812062838 +0200" channel="TUYA.TV">
+  <programme start="20260812060048 +0200" stop="20260812062839 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260812063044 +0200" stop="20260812063541 +0200" channel="TUYA.TV">
+  <programme start="20260812063045 +0200" stop="20260812063542 +0200" channel="TUYA.TV">
     <title lang="es">TIME LAPSE CONIL</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260812063547 +0200" stop="20260812071505 +0200" channel="TUYA.TV">
+  <programme start="20260812063548 +0200" stop="20260812071505 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260812071918 +0200" stop="20260812075325 +0200" channel="TUYA.TV">
+  <programme start="20260812071919 +0200" stop="20260812075325 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812075552 +0200" stop="20260812082902 +0200" channel="TUYA.TV">
+  <programme start="20260812075553 +0200" stop="20260812082903 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 29 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812083304 +0200" stop="20260812091119 +0200" channel="TUYA.TV">
+  <programme start="20260812083304 +0200" stop="20260812091120 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P09 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260812091401 +0200" stop="20260812091837 +0200" channel="TUYA.TV">
+  <programme start="20260812091402 +0200" stop="20260812091837 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la XV edición del trofeo de la vendimia que enfrentará al Chiclana CF con el Sanluqueño.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260812091844 +0200" stop="20260812092748 +0200" channel="TUYA.TV">
+  <programme start="20260812091844 +0200" stop="20260812092749 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Museo de la Ciudad acoge desde hoy el Real Decreto del Título de Ciudad original.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260812093102 +0200" stop="20260812094143 +0200" channel="TUYA.TV">
+  <programme start="20260812093103 +0200" stop="20260812094144 +0200" channel="TUYA.TV">
     <title lang="es">SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">Entrega de la Sardina de Plata de la AVV Mayorazgo Alto.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260812094344 +0200" stop="20260812101249 +0200" channel="TUYA.TV">
+  <programme start="20260812094345 +0200" stop="20260812101250 +0200" channel="TUYA.TV">
     <title lang="es">POR DENTRO</title>
     <desc lang="es">P03 - ¿Cómo trabajan? ¿Cuánto cuesta hacer un producto? ¿Sabes el número de empleados que se generan las empresas de nuestras localidades? Datos como estos se revelan cada semana en POR DENTRO, con Raquel Ramírez.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/pordentro.jpg" />
   </programme>
-  <programme start="20260812101419 +0200" stop="20260812104210 +0200" channel="TUYA.TV">
+  <programme start="20260812101420 +0200" stop="20260812104211 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260812104431 +0200" stop="20260812112007 +0200" channel="TUYA.TV">
+  <programme start="20260812104432 +0200" stop="20260812112008 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P26 - Sole Ariza. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260812112337 +0200" stop="20260812112834 +0200" channel="TUYA.TV">
+  <programme start="20260812112337 +0200" stop="20260812112835 +0200" channel="TUYA.TV">
     <title lang="es">TIME LAPSE CONIL</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
@@ -64300,35 +64295,40 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 01. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260812114037 +0200" stop="20260812121318 +0200" channel="TUYA.TV">
+  <programme start="20260812114038 +0200" stop="20260812121318 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P04 VEJER MOVING - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260812121602 +0200" stop="20260812124853 +0200" channel="TUYA.TV">
+  <programme start="20260812121603 +0200" stop="20260812124854 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P07 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260812125303 +0200" stop="20260812132426 +0200" channel="TUYA.TV">
+  <programme start="20260812125304 +0200" stop="20260812132427 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812132746 +0200" stop="20260812140348 +0200" channel="TUYA.TV">
+  <programme start="20260812132747 +0200" stop="20260812140348 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 31 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812140640 +0200" stop="20260812143620 +0200" channel="TUYA.TV">
+  <programme start="20260812140640 +0200" stop="20260812143621 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260812143847 +0200" stop="20260812150936 +0200" channel="TUYA.TV">
+  <programme start="20260812143848 +0200" stop="20260812150937 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 30 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
+  </programme>
+  <programme start="20260812151404 +0200" stop="20260812153423 +0200" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#BARBATE: Renovación del título de municipio turístico.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
   <programme start="20260811000000 +0200" stop="20260811010000 +0200" channel="DiezTV_Ubeda.TV">
     <title lang="es">Noticias Diez TV: Úbeda</title>
@@ -66729,5 +66729,227 @@ Realitzat per la productora mallorquina La Rulot, "Cuina amb Santi Taura" és un
   <programme start="20260813055600 +0200" stop="20260813062600 +0200" channel="BonDiaTV_CAT.TV">
     <title lang="es">Videoclips - Jordi Ninus - Entre dos mons</title>
     <icon src="https://img.3cat.cat/multimedia/png/8/4/1698059199848.png" />
+  </programme>
+  <programme start="20260811080000 +0200" stop="20260811090000 +0200" channel="OndaCero.TV">
+    <title lang="es">Lo contó la radio</title>
+    <desc lang="es">Diego Fortea hace un repaso a momentos especiales vividos en diferentes emisoras de radio, en compañía de invitados que han trabajado en este medio.</desc>
+    <sub-title lang="es">Con Diego Fortea</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/23/251A0937-9FEE-458B-8787-1E4497A55B84.png" />
+  </programme>
+  <programme start="20260811090000 +0200" stop="20260811142000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de uno</title>
+    <desc lang="es">Carlos Alsina nos trae toda la información y humor en las mañanas de Onda Cero</desc>
+    <sub-title lang="es">Con Con Miguel Ondarreta y Begoña Gómez</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/19/DD5DDF7A-6B94-43B2-A021-58FBC03B151F.png" />
+  </programme>
+  <programme start="20260811142000 +0200" stop="20260811160000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de Uno Madrid</title>
+    <desc lang="es">Toda la información de Madrid, con Pepa Gea</desc>
+    <sub-title lang="es">Con Con Jorge Granullaque</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
+  </programme>
+  <programme start="20260811160000 +0200" stop="20260811163000 +0200" channel="OndaCero.TV">
+    <title lang="es">Noticias mediodía</title>
+    <desc lang="es">Toda la información con Mercedes Albelda</desc>
+    <sub-title lang="es">Con Con Mercedes Albelda</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2026/08/07/5DA1DA27-EE11-4FF4-912A-38EE922ECA29.png" />
+  </programme>
+  <programme start="20260811170000 +0200" stop="20260811210000 +0200" channel="OndaCero.TV">
+    <title lang="es">Por fin </title>
+    <desc lang="es">Magazine de tarde con Isabel Lobo</desc>
+    <sub-title lang="es">Con Con Isabel Lobo</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/17/2E0D1C30-6F0C-4FE4-A834-7AA098623B9D.png" />
+  </programme>
+  <programme start="20260811210000 +0200" stop="20260811220000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260811220000 +0200" stop="20260811230000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260811230000 +0200" stop="20260812010000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260812010000 +0200" stop="20260812013000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260812013000 +0200" stop="20260812030000 +0200" channel="OndaCero.TV">
+    <title lang="es">Radioestadio noche</title>
+    <desc lang="es">Toda la información deportiva</desc>
+    <sub-title lang="es">Con Con Rocío Martínez y Edu Pidal</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/28/408F9090-FFE3-4BB8-866C-22469A1411A3.png" />
+  </programme>
+  <programme start="20260812030000 +0200" stop="20260812050000 +0200" channel="OndaCero.TV">
+    <title lang="es">El colegio invisible</title>
+    <desc lang="es">El colegio invisible, un podcast de misterio con Lorenzo Fernández Bueno y Laura Falcó.</desc>
+    <sub-title lang="es">Con Con Lorenzo Fernández Bueno y Laura Falcó</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/CB228223-6B1F-4F05-8189-148BCE9A0524.png" />
+  </programme>
+  <programme start="20260812050000 +0200" stop="20260812080000 +0200" channel="OndaCero.TV">
+    <title lang="es">No son horas</title>
+    <desc lang="es">El programa para los noctámbulos presentado por Gemma Ruiz</desc>
+    <sub-title lang="es">Con Con Gemma Ruiz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/30/7D624866-1BC5-4B95-9FA4-4F6C534C3E75.png" />
+  </programme>
+  <programme start="20260812080000 +0200" stop="20260812090000 +0200" channel="OndaCero.TV">
+    <title lang="es">Lo contó la radio</title>
+    <desc lang="es">Diego Fortea hace un repaso a momentos especiales vividos en diferentes emisoras de radio, en compañía de invitados que han trabajado en este medio.</desc>
+    <sub-title lang="es">Con Diego Fortea</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/23/251A0937-9FEE-458B-8787-1E4497A55B84.png" />
+  </programme>
+  <programme start="20260812090000 +0200" stop="20260812142000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de uno</title>
+    <desc lang="es">Carlos Alsina nos trae toda la información y humor en las mañanas de Onda Cero</desc>
+    <sub-title lang="es">Con Con Miguel Ondarreta y Begoña Gómez</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/19/DD5DDF7A-6B94-43B2-A021-58FBC03B151F.png" />
+  </programme>
+  <programme start="20260812142000 +0200" stop="20260812160000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de Uno Madrid</title>
+    <desc lang="es">Toda la información de Madrid, con Pepa Gea</desc>
+    <sub-title lang="es">Con Con Jorge Granullaque</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
+  </programme>
+  <programme start="20260812160000 +0200" stop="20260812163000 +0200" channel="OndaCero.TV">
+    <title lang="es">Noticias mediodía</title>
+    <desc lang="es">Toda la información con Mercedes Albelda</desc>
+    <sub-title lang="es">Con Con Mercedes Albelda</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2026/08/07/5DA1DA27-EE11-4FF4-912A-38EE922ECA29.png" />
+  </programme>
+  <programme start="20260812170000 +0200" stop="20260812210000 +0200" channel="OndaCero.TV">
+    <title lang="es">Por fin </title>
+    <desc lang="es">Magazine de tarde con Isabel Lobo</desc>
+    <sub-title lang="es">Con Con Isabel Lobo</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/17/2E0D1C30-6F0C-4FE4-A834-7AA098623B9D.png" />
+  </programme>
+  <programme start="20260812210000 +0200" stop="20260812220000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260812220000 +0200" stop="20260812230000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260812230000 +0200" stop="20260813010000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260813010000 +0200" stop="20260813013000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260813013000 +0200" stop="20260813030000 +0200" channel="OndaCero.TV">
+    <title lang="es">Radioestadio noche</title>
+    <desc lang="es">Toda la información deportiva</desc>
+    <sub-title lang="es">Con Con Rocío Martínez y Edu Pidal</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/28/408F9090-FFE3-4BB8-866C-22469A1411A3.png" />
+  </programme>
+  <programme start="20260813030000 +0200" stop="20260813040000 +0200" channel="OndaCero.TV">
+    <title lang="es">Operación salida</title>
+    <desc lang="es">Un podcast de Ponle Freno para disfrutar de la operación salida</desc>
+    <sub-title lang="es">Con Un podcast de Ponle Freno </sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
+  </programme>
+  <programme start="20260813040000 +0200" stop="20260813050000 +0200" channel="OndaCero.TV">
+    <title lang="es">Grupo de guasa</title>
+    <desc lang="es">Resumen semanal de los humorista en Más de uno</desc>
+    <sub-title lang="es">Con </sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
+  </programme>
+  <programme start="20260813050000 +0200" stop="20260813080000 +0200" channel="OndaCero.TV">
+    <title lang="es">No son horas</title>
+    <desc lang="es">El programa para los noctámbulos presentado por Gemma Ruiz</desc>
+    <sub-title lang="es">Con Con Gemma Ruiz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/30/7D624866-1BC5-4B95-9FA4-4F6C534C3E75.png" />
+  </programme>
+  <programme start="20260813080000 +0200" stop="20260813090000 +0200" channel="OndaCero.TV">
+    <title lang="es">Lo contó la radio</title>
+    <desc lang="es">Diego Fortea hace un repaso a momentos especiales vividos en diferentes emisoras de radio, en compañía de invitados que han trabajado en este medio.</desc>
+    <sub-title lang="es">Con Diego Fortea</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/23/251A0937-9FEE-458B-8787-1E4497A55B84.png" />
+  </programme>
+  <programme start="20260813090000 +0200" stop="20260813142000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de uno</title>
+    <desc lang="es">Carlos Alsina nos trae toda la información y humor en las mañanas de Onda Cero</desc>
+    <sub-title lang="es">Con Con Miguel Ondarreta y Begoña Gómez</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/19/DD5DDF7A-6B94-43B2-A021-58FBC03B151F.png" />
+  </programme>
+  <programme start="20260813142000 +0200" stop="20260813160000 +0200" channel="OndaCero.TV">
+    <title lang="es">Más de Uno Madrid</title>
+    <desc lang="es">Toda la información de Madrid, con Pepa Gea</desc>
+    <sub-title lang="es">Con Con Jorge Granullaque</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
+  </programme>
+  <programme start="20260813160000 +0200" stop="20260813163000 +0200" channel="OndaCero.TV">
+    <title lang="es">Noticias mediodía</title>
+    <desc lang="es">Toda la información con Mercedes Albelda</desc>
+    <sub-title lang="es">Con Con Mercedes Albelda</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2026/08/07/5DA1DA27-EE11-4FF4-912A-38EE922ECA29.png" />
+  </programme>
+  <programme start="20260813170000 +0200" stop="20260813210000 +0200" channel="OndaCero.TV">
+    <title lang="es">Por fin </title>
+    <desc lang="es">Magazine de tarde con Isabel Lobo</desc>
+    <sub-title lang="es">Con Con Isabel Lobo</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/17/2E0D1C30-6F0C-4FE4-A834-7AA098623B9D.png" />
+  </programme>
+  <programme start="20260813210000 +0200" stop="20260813220000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260813220000 +0200" stop="20260813230000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260813230000 +0200" stop="20260814010000 +0200" channel="OndaCero.TV">
+    <title lang="es">Una tarde más</title>
+    <desc lang="es">Una tarde más, en Onda Cero con Alicia Heras</desc>
+    <sub-title lang="es">Con Con Alicia Heras</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2025/07/24/D4A6B7B0-1D45-4B88-A35F-35BDC2890099.png" />
+  </programme>
+  <programme start="20260814010000 +0200" stop="20260814013000 +0200" channel="OndaCero.TV">
+    <title lang="es">La brújula</title>
+    <desc lang="es">Información y análisis con José Miguel Azpiroz</desc>
+    <sub-title lang="es">Con Con José Miguel Azpiroz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/07/29/F366F066-C10D-484A-91FB-2CDEB8B43D72.png" />
+  </programme>
+  <programme start="20260814013000 +0200" stop="20260814030000 +0200" channel="OndaCero.TV">
+    <title lang="es">Radioestadio noche</title>
+    <desc lang="es">Toda la información deportiva</desc>
+    <sub-title lang="es">Con Con Rocío Martínez y Edu Pidal</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/28/408F9090-FFE3-4BB8-866C-22469A1411A3.png" />
+  </programme>
+  <programme start="20260814030000 +0200" stop="20260814050000 +0200" channel="OndaCero.TV">
+    <title lang="es">El colegio invisible</title>
+    <desc lang="es">El colegio invisible, un podcast de misterio con Lorenzo Fernández Bueno y Laura Falcó.</desc>
+    <sub-title lang="es">Con Con Lorenzo Fernández Bueno y Laura Falcó</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/CB228223-6B1F-4F05-8189-148BCE9A0524.png" />
+  </programme>
+  <programme start="20260814050000 +0200" stop="20260814080000 +0200" channel="OndaCero.TV">
+    <title lang="es">No son horas</title>
+    <desc lang="es">El programa para los noctámbulos presentado por Gemma Ruiz</desc>
+    <sub-title lang="es">Con Con Gemma Ruiz</sub-title>
+    <icon src="https://image.ondacero.es/clipping/cmsimages01/2024/08/30/7D624866-1BC5-4B95-9FA4-4F6C534C3E75.png" />
   </programme>
 </tv>
