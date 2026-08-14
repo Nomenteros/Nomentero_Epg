@@ -891,6 +891,11 @@
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
+  <channel id="Vinx.TV">
+    <display-name lang="es">Vinx.TV</display-name>
+    <icon src="https://graph.facebook.com/VinxTV/picture?width=200&amp;height=200" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
   <programme start="20260814070000 +0200" stop="20260814083000 +0200" channel="La1.TV">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
@@ -67806,5 +67811,317 @@ Veurem com ho fan els regatistes per mantenir la forma física i mental des de c
     <title lang="es">Triduo Rocío Chico</title>
     <desc lang="es">21:10 – 22:10</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2021/05/rocio-esperanza.png" />
+  </programme>
+  <programme start="20260814010000 +0200" stop="20260814013000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814013000 +0200" stop="20260814020000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias.</title>
+    <desc lang="es">ACTUALIDAD ASTURIAS.</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814020000 +0200" stop="20260814040000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814040000 +0200" stop="20260814050000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un Hortelano</title>
+    <desc lang="es">Programa de huerta, campo y vida rural.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062414-f6609f2b.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260814050000 +0200" stop="20260814060000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias.</title>
+    <desc lang="es">ACTUALIDAD ASTURIAS.</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814060000 +0200" stop="20260814110000 +0200" channel="Vinx.TV">
+    <title lang="es">Despierta Asturias</title>
+    <desc lang="es">Magazine informativo con las últimas noticias, información del tráfico, webcams en directo e información meteorológica.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809055927-d7171067.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814110000 +0200" stop="20260814120000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814120000 +0200" stop="20260814130000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un Hortelano</title>
+    <desc lang="es">Programa de huerta, campo y vida rural.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062414-f6609f2b.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260814130000 +0200" stop="20260814140000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814140000 +0200" stop="20260814143000 +0200" channel="Vinx.TV">
+    <title lang="es">La Cocina de Gloria</title>
+    <desc lang="es">LA COCINA DE GLORIA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260814143000 +0200" stop="20260814160000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814160000 +0200" stop="20260814170000 +0200" channel="Vinx.TV">
+    <title lang="es">Ribeira Sacra Chantada 2026. la Camarina</title>
+    <desc lang="es">RIBEIRA SACRA CHANTADA 2026. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260814170000 +0200" stop="20260814183000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814183000 +0200" stop="20260814190000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">ACTUALIDAD ASTURIAS</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814190000 +0200" stop="20260814200000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un Hortelano</title>
+    <desc lang="es">Programa de huerta, campo y vida rural.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062414-f6609f2b.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260814200000 +0200" stop="20260814220000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano 25/26</title>
+    <desc lang="es">DEPORTE ASTURIANO 25/26</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260814220000 +0200" stop="20260814223000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814223000 +0200" stop="20260814230000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260814230000 +0200" stop="20260815230000 +0200" channel="Vinx.TV">
+    <title lang="es">Los Loros. la Camarina</title>
+    <desc lang="es">LOS LOROS. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260814230000 +0200" stop="20260815010000 +0200" channel="Vinx.TV">
+    <title lang="es">Enamorados de la VIDA CON CAPI</title>
+    <desc lang="es">ENAMORADOS DE LA VIDA CON CAPI</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260815010000 +0200" stop="20260815020000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815020000 +0200" stop="20260815030000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un Hortelano</title>
+    <desc lang="es">Programa de huerta, campo y vida rural.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062414-f6609f2b.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260815030000 +0200" stop="20260815040000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815040000 +0200" stop="20260815050000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260815050000 +0200" stop="20260815110000 +0200" channel="Vinx.TV">
+    <title lang="es">Despierta Asturias</title>
+    <desc lang="es">Magazine informativo con las últimas noticias, información del tráfico, webcams en directo e información meteorológica.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809055927-d7171067.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815110000 +0200" stop="20260815113000 +0200" channel="Vinx.TV">
+    <title lang="es">Enamorados de la VIDA CON CAPI</title>
+    <desc lang="es">ENAMORADOS DE LA VIDA CON CAPI</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260815113000 +0200" stop="20260815120000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815120000 +0200" stop="20260815140000 +0200" channel="Vinx.TV">
+    <title lang="es">La Subida a Santo Emiliano. la Camarina</title>
+    <desc lang="es">LA SUBIDA A SANTO EMILIANO. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260815140000 +0200" stop="20260815160000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano 25/26</title>
+    <desc lang="es">DEPORTE ASTURIANO 25/26</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260815160000 +0200" stop="20260815183000 +0200" channel="Vinx.TV">
+    <title lang="es">Ribeira Sacra Chantada 2026. la Camarina</title>
+    <desc lang="es">RIBEIRA SACRA CHANTADA 2026. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260815183000 +0200" stop="20260815211500 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano 25/26</title>
+    <desc lang="es">DEPORTE ASTURIANO 25/26</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260815211500 +0200" stop="20260815231500 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Deportiva</title>
+    <desc lang="es">ACTUALIDAD DEPORTIVA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815231500 +0200" stop="20260815233000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260815233000 +0200" stop="20260816010000 +0200" channel="Vinx.TV">
+    <title lang="es">La Subida a Santo Emiliano. la Camarina</title>
+    <desc lang="es">LA SUBIDA A SANTO EMILIANO. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260816010000 +0200" stop="20260816020000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816020000 +0200" stop="20260816030000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un Hortelano</title>
+    <desc lang="es">Programa de huerta, campo y vida rural.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062414-f6609f2b.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260816030000 +0200" stop="20260816040000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816040000 +0200" stop="20260816050000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816050000 +0200" stop="20260816060000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816060000 +0200" stop="20260816110000 +0200" channel="Vinx.TV">
+    <title lang="es">Despierta Asturias</title>
+    <desc lang="es">Magazine informativo con las últimas noticias, información del tráfico, webcams en directo e información meteorológica.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809055927-d7171067.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816110000 +0200" stop="20260816113000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816113000 +0200" stop="20260816140000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816140000 +0200" stop="20260816143000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Deportiva</title>
+    <desc lang="es">ACTUALIDAD DEPORTIVA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816143000 +0200" stop="20260816160000 +0200" channel="Vinx.TV">
+    <title lang="es">La Subida a Santo Emiliano. la Camarina</title>
+    <desc lang="es">LA SUBIDA A SANTO EMILIANO. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
+  </programme>
+  <programme start="20260816160000 +0200" stop="20260816163000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad VINX</title>
+    <desc lang="es">ACTUALIDAD VINX</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816163000 +0200" stop="20260816170000 +0200" channel="Vinx.TV">
+    <title lang="es">La Cocina de Gloria</title>
+    <desc lang="es">LA COCINA DE GLORIA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260816170000 +0200" stop="20260816190000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano 25/26</title>
+    <desc lang="es">DEPORTE ASTURIANO 25/26</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816190000 +0200" stop="20260816193000 +0200" channel="Vinx.TV">
+    <title lang="es">DIARIO VINX</title>
+    <desc lang="es">El informativo de Vinx Televisión.</desc>
+    <icon src="https://vinxtv.es/uploads/programs/2026/08/20260809062425-51551ddb.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816193000 +0200" stop="20260816210000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816210000 +0200" stop="20260816230000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">ACTUALIDAD ASTURIAS</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">Actualidad</category>
+  </programme>
+  <programme start="20260816230000 +0200" stop="20260816233000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte Asturiano</title>
+    <desc lang="es">DEPORTE ASTURIANO</desc>
+    <icon src="https://epg.enfoque.media/uploads/programas/programa_20260809_012015_ee59a85ede.png" />
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20260816233000 +0200" stop="20260817000000 +0200" channel="Vinx.TV">
+    <title lang="es">La Subida a Santo Emiliano. la Camarina</title>
+    <desc lang="es">LA SUBIDA A SANTO EMILIANO. LA CAMARINA</desc>
+    <icon src="https://vinxtv.es/assets/brand/vinx-bug.png" />
+    <category lang="es">General</category>
   </programme>
 </tv>
