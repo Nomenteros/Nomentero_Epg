@@ -64064,7 +64064,7 @@ En el programa d'avui bollirem verdures al vapor i les servirem damunt un moll d
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
   <programme start="20260830220000 +0200" stop="20260830233000 +0200" channel="CanalCosta.TV">
-    <title lang="es">Especial Reportajes</title>
+    <title lang="es">Procesión Virgen del Mar</title>
     <desc lang="es">22:00 – 23:30</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
@@ -64173,10 +64173,55 @@ En el programa d'avui bollirem verdures al vapor i les servirem damunt un moll d
     <desc lang="es">10:00 – 11:10</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20260831111000 +0200" stop="20260831131000 +0200" channel="CanalCosta.TV">
+  <programme start="20260831111000 +0200" stop="20260831133000 +0200" channel="CanalCosta.TV">
     <title lang="es">Al Sol del Sur</title>
-    <desc lang="es">11:10 – 13:10</desc>
+    <desc lang="es">11:10 – 13:30</desc>
     <icon src="https://graph.facebook.com/canalcosta/picture?width=200&amp;height=200" />
+  </programme>
+  <programme start="20260831133000 +0200" stop="20260831140000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">13:30 – 14:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260831143000 +0200" stop="20260831150000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">14:30 – 15:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260831150000 +0200" stop="20260831151000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">15:00 – 15:10</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
+  </programme>
+  <programme start="20260831151000 +0200" stop="20260831170000 +0200" channel="CanalCosta.TV">
+    <title lang="es">La Pará Rociera</title>
+    <desc lang="es">15:10 – 17:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
+  </programme>
+  <programme start="20260831170000 +0200" stop="20260831190000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Al Sol del Sur</title>
+    <desc lang="es">17:00 – 19:00</desc>
+    <icon src="https://graph.facebook.com/canalcosta/picture?width=200&amp;height=200" />
+  </programme>
+  <programme start="20260831190000 +0200" stop="20260831203000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">19:00 – 20:30</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260831203000 +0200" stop="20260831210000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">20:30 – 21:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260831210000 +0200" stop="20260831211000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">21:00 – 21:10</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
+  </programme>
+  <programme start="20260831211000 +0200" stop="20260831224000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">21:10 – 22:40</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
   <programme start="20260831090000 +0200" stop="20260831110000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
