@@ -852,16 +852,6 @@
     <icon src="https://yt3.ggpht.com/j0etd2ixQm6vy04G6WydnpatUHaf94D4Lgd640U60lgdDZDGU7utjB7ofWSBNofenGK7SN5zmQ=s200" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
-  <channel id="EnergeekRetro.TV">
-    <display-name lang="es">EnergeekRetro.TV</display-name>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
-  <channel id="EnergeekFan.TV">
-    <display-name lang="es">EnergeekFan.TV</display-name>
-    <icon src="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
   <channel id="PopularTV_S.TV">
     <display-name lang="es">PopularTV_S.TV</display-name>
     <icon src="https://graph.facebook.com/populartvcantabria/picture?width=200&amp;height=200" />
@@ -61111,202 +61101,202 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Actualidad informativa SUBT.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/250px-Logo_La_8.svg.png" />
   </programme>
-  <programme start="20260830004541 -0100" stop="20260830095041 -0100" channel="PTV_Granada.TV">
-    <title lang="es">02 - EL ROCÍO 2026 - SALIDA HDAD GRANADA - 16 mayo 2026 - 12-28-45 OK</title>
-    <desc lang="es">Clasificación: TP El Rocío 2026 - Salida Hermandad Granada</desc>
+  <programme start="20260830011059 -0100" stop="20260830030902 -0100" channel="PTV_Granada.TV">
+    <title lang="es">PTV Recuerda la Pasión - Sábado Santo</title>
+    <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830095042 -0100" stop="20260830105504 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830030903 -0100" stop="20260830051325 -0100" channel="PTV_Granada.TV">
     <title lang="es">Traslado Virgen de las Angustias</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830105505 -0100" stop="20260830115926 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830051326 -0100" stop="20260830061747 -0100" channel="PTV_Granada.TV">
     <title lang="es">Traslado Virgen de las Angustias</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830115928 -0100" stop="20260830124706 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Panorama Motor</title>
+  <programme start="20260830061749 -0100" stop="20260830072211 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Granada Tevé Jueves T26 E878</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830124707 -0100" stop="20260830142124 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Granada Tevé Miércoles T26 E877</title>
-    <desc lang="es">Clasificación: +7 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
-  </programme>
-  <programme start="20260830142125 -0100" stop="20260830145344 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Pets Life</title>
+  <programme start="20260830072212 -0100" stop="20260830102033 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Traslado Virgen de las Angustias</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830145345 -0100" stop="20260830155804 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Paseando x Granada - Paseo del Salón</title>
+  <programme start="20260830120421 -0100" stop="20260830150214 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Traslado Virgen de las Angustias</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830155805 -0100" stop="20260830172033 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Lo Mejor del Tevé</title>
-    <desc lang="es">Clasificación: +7 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
-  </programme>
-  <programme start="20260830172034 -0100" stop="20260830182301 -0100" channel="PTV_Granada.TV">
-    <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
-  </programme>
-  <programme start="20260830182302 -0100" stop="20260830222941 -0100" channel="PTV_Granada.TV">
-    <title lang="es">PTV Recuerda la Pasión: Virgen del Espino</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
-  </programme>
-  <programme start="20260830222942 -0100" stop="20260830233726 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830150216 -0100" stop="20260830161000 -0100" channel="PTV_Granada.TV">
     <title lang="es">Check-in Verano 2026 T01 E03</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830233727 -0100" stop="20260831002329 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830161001 -0100" stop="20260830165603 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Málaga - Huelín</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831002330 -0100" stop="20260831013057 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830165603 -0100" stop="20260830173057 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Granada - Avd. Constitución</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831013057 -0100" stop="20260831023841 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830173058 -0100" stop="20260830180101 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260830180103 -0100" stop="20260830190931 -0100" channel="PTV_Granada.TV">
     <title lang="es">Check-in Verano 2026 T01 E03</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831023842 -0100" stop="20260831040220 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830190932 -0100" stop="20260830220659 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Traslado Virgen de las Angustias</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260830220700 -0100" stop="20260830233038 -0100" channel="PTV_Granada.TV">
     <title lang="es">PTV Recuerda la Pasión: Salida Hdad. Rocío de Granada</title>
     <desc lang="es">Clasificación: TP El Rocío 2026 - Salidad Hermandad Granada</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831040221 -0100" stop="20260831133534 -0100" channel="PTV_Granada.TV">
+  <programme start="20260830233039 -0100" stop="20260831072904 -0100" channel="PTV_Granada.TV">
     <title lang="es">02 - EL ROCÍO 2026 - SALIDA HDAD GRANADA - 16 mayo 2026 - 12-28-45 OK</title>
     <desc lang="es">Clasificación: TP El Rocío 2026 - Salida Hermandad Granada</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831133535 -0100" stop="20260831145559 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831072905 -0100" stop="20260831084929 -0100" channel="PTV_Granada.TV">
     <title lang="es">Panorama Motor</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831145600 -0100" stop="20260831161734 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831084930 -0100" stop="20260831101104 -0100" channel="PTV_Granada.TV">
     <title lang="es">Lo Mejor del Tevé</title>
     <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831161736 -0100" stop="20260831172644 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831101105 -0100" stop="20260831112013 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Granada - Avd. Constitución</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831172645 -0100" stop="20260831192038 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831112015 -0100" stop="20260831131408 -0100" channel="PTV_Granada.TV">
     <title lang="es">Lo Mejor del Tevé</title>
     <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831192039 -0100" stop="20260831202359 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831131409 -0100" stop="20260831134457 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831202400 -0100" stop="20260831205555 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831134457 -0100" stop="20260831141500 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260831141502 -0100" stop="20260831144657 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Sevilla - Rectorado</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831205556 -0100" stop="20260831215820 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831144657 -0100" stop="20260831154921 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Sevilla - Caac</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831215821 -0100" stop="20260831222731 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831154922 -0100" stop="20260831161832 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831222732 -0100" stop="20260831235941 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831161833 -0100" stop="20260831175100 -0100" channel="PTV_Granada.TV">
     <title lang="es">Granada Tevé Lunes T26 E875</title>
     <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260831235941 -0100" stop="20260901003030 -0100" channel="PTV_Granada.TV">
+  <programme start="20260831175100 -0100" stop="20260831204853 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Traslado Virgen de las Angustias</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260831204855 -0100" stop="20260901002721 -0100" channel="PTV_Granada.TV">
     <title lang="es">Paseando x Granada - Avd. Constitución</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830011511 -0100" stop="20260830034553 -0100" channel="PTV_Sevilla.TV">
-    <title lang="es">Sábado Santo Sevilla 2026</title>
-    <desc lang="es">...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  <programme start="20260901002722 -0100" stop="20260901005253 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
   </programme>
-  <programme start="20260830034554 -0100" stop="20260830062641 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260901032224 -0100" stop="20260901034755 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Mezquita Catedral</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260830063044 -0100" stop="20260830094231 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Traslado Virgen de las Angustias de Granada</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830062642 -0100" stop="20260830072607 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830094233 -0100" stop="20260830104158 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">PanoramaMotor</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830072608 -0100" stop="20260830075702 -0100" channel="PTV_Sevilla.TV">
-    <title lang="es">Paseando x Granada - Calle Elvira</title>
-    <desc lang="es">...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
-  </programme>
-  <programme start="20260830075703 -0100" stop="20260830092632 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830111254 -0100" stop="20260830124223 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Sevilla Tevé Domingo T26 E810</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830092633 -0100" stop="20260830101121 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830124224 -0100" stop="20260830132712 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Fuegos Artificiales Feria de Sevilla 2026</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830101123 -0100" stop="20260830132601 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830132713 -0100" stop="20260830164151 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Procesión Virgen del Rocío 2026</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830132602 -0100" stop="20260830142934 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830164152 -0100" stop="20260830174524 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Check-in Verano 2026 T01 E04</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830142935 -0100" stop="20260830162602 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830174525 -0100" stop="20260830194152 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Domingo de Resurrección Semana Santa Sevilla 2026</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830162602 -0100" stop="20260830172551 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830194153 -0100" stop="20260830204142 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Velá de Triana 2026</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830172552 -0100" stop="20260830192542 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830204143 -0100" stop="20260830224133 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Sentir Cofrade T06 E30</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830192543 -0100" stop="20260830203036 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830224134 -0100" stop="20260830234627 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Check-in Verano 2026 T01 E04</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830203037 -0100" stop="20260830232548 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260830234628 -0100" stop="20260831024139 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Procesión de Coronación de la Divina Pastora de Santa Marina</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830232549 -0100" stop="20260831060043 -0100" channel="PTV_Sevilla.TV">
+  <programme start="20260831024140 -0100" stop="20260831060043 -0100" channel="PTV_Sevilla.TV">
     <title lang="es">Domingo de Ramos Sevilla 2026</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
@@ -61431,93 +61421,128 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260830021232 -0100" stop="20260830051231 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Feria Linares - 29 Agosto</title>
-    <desc lang="es">Clasificación: TP ...</desc>
+  <programme start="20260830023201 -0100" stop="20260830054246 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria 29-29082026_170154_55</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260830052442 -0100" stop="20260830075509 -0100" channel="PTV_Linares.TV">
+  <programme start="20260830055457 -0100" stop="20260830082524 -0100" channel="PTV_Linares.TV">
     <title lang="es">Feria Linares 2026 - 27 de Agosto</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260830075859 -0100" stop="20260830111517 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Feria Linares 2026 - 28 de Agosto</title>
+  <programme start="20260830115017 -0100" stop="20260830135618 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria 2026 - 29 de Agosto</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260830140008 -0100" stop="20260830170007 -0100" channel="PTV_Linares.TV">
+    <title lang="es">En Directo Feria de Linares</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260830112002 -0100" stop="20260830142001 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Feria Linares - 29 Agosto</title>
+  <programme start="20260830170402 -0100" stop="20260831020401 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260831020656 -0100" stop="20260831135655 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260831140045 -0100" stop="20260831170044 -0100" channel="PTV_Linares.TV">
+    <title lang="es">En Directo Feria de Linares - 31 Agosto</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260830145509 -0100" stop="20260830185508 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Feria Linares - 28 Agosto</title>
+  <programme start="20260831170529 -0100" stop="20260901050528 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260901050917 -0100" stop="20260901170916 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260901171311 -0100" stop="20260901202810 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260901203145 -0100" stop="20260901213144 -0100" channel="PTV_Linares.TV">
+    <title lang="es">En Directo Feria de Linares - 1 Septiembre</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260830034444 -0100" stop="20260830140430 -0100" channel="PTV_Malaga.TV">
+  <programme start="20260901213627 -0100" stop="20260902093626 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Feria de Linares 2026</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260830063044 -0100" stop="20260830091643 -0100" channel="PTV_Malaga.TV">
     <title lang="es">Traslado Virgen de las Angustias de Granada</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
   </programme>
-  <programme start="20260830140431 -0100" stop="20260830143445 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Cosas Asombrosas</title>
-    <desc lang="es">Clasificación: +12 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260830143446 -0100" stop="20260831000435 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Lunes Santo Málaga 2026</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831000436 -0100" stop="20260831003443 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Pets Life</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831003444 -0100" stop="20260831110436 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Martes Santo Málaga 2026</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831110437 -0100" stop="20260831113440 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">De Cosas y Casas</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831113441 -0100" stop="20260831200431 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Miércoles Santo Málaga 2026</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831200432 -0100" stop="20260831203436 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">DeTour</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260831203437 -0100" stop="20260901083501 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Jueves Santo Málaga 2026</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260901083502 -0100" stop="20260901090508 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Cosas Asombrosas</title>
-    <desc lang="es">Clasificación: +12 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260901090509 -0100" stop="20260901194846 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Viernes Santo Málaga 2026</title>
-    <desc lang="es">Clasificación: TP ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
-  </programme>
-  <programme start="20260901194847 -0100" stop="20260901203511 -0100" channel="PTV_Malaga.TV">
+  <programme start="20260830091644 -0100" stop="20260830101626 -0100" channel="PTV_Malaga.TV">
     <title lang="es">Panorama Motor</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
   </programme>
-  <programme start="20260901203511 -0100" stop="20260902030527 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Domingo de Resurrección Málaga 2026</title>
+  <programme start="20260830101627 -0100" stop="20260830163110 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Sábado de Pasión Málaga 2026</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260830163111 -0100" stop="20260830171706 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Panorama Motor</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260830171707 -0100" stop="20260831091641 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Domingo de Ramos 2026</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260831091642 -0100" stop="20260831094659 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Cosas Asombrosas</title>
+    <desc lang="es">Clasificación: +12 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260831094700 -0100" stop="20260831191645 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Lunes Santo 2026</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260831191647 -0100" stop="20260831194654 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Pets Life</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260831194655 -0100" stop="20260901061645 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Martes Santo 2026</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260901061646 -0100" stop="20260901064657 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">De Cosas y Casas</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260901064658 -0100" stop="20260901151659 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Miércoles Santo 2026</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260901151700 -0100" stop="20260901154702 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">DeTour</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  </programme>
+  <programme start="20260901154702 -0100" stop="20260902034631 -0100" channel="PTV_Malaga.TV">
+    <title lang="es">Jueves Santo 2026</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
   </programme>
@@ -62049,6 +62074,31 @@ Juanjo Martín (colaborador externo).</desc>
   <programme start="20260830212400 +0200" stop="20260830235900 +0200" channel="Almería_24h.TV">
     <title lang="es">Cine: Domingo negro</title>
     <desc lang="es">Lander es un desquiciado excombatiente del Vietnam que se une a un grupo terrorista palestino cuya misión es preparar un gran atentado en Miami para protestar por el apoyo que recibe Israel.  El oficial israelí Kabakov, con la ayuda del FBI, siguen la pista de una mujer palestina que parece ser la clave del asunto, para frustrar los planes del grupo de fanáticos. Basada en la novela de Thomas Harris, escritor de "El silencio de los corderos".</desc>
+    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+  </programme>
+  <programme start="20260831000000 +0200" stop="20260831002700 +0200" channel="Almería_24h.TV">
+    <title lang="es">Infosemanal</title>
+    <desc lang="es">Resumen de las noticias más importantes vistas en Noticias Almería 24H la última semana.</desc>
+    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+  </programme>
+  <programme start="20260831002700 +0200" stop="20260831023800 +0200" channel="Almería_24h.TV">
+    <title lang="es">Cine: En bandeja de plata</title>
+    <desc lang="es">Harry Hinkle, un cámara de televisión, está transmitiendo un partido a pie de campo, cuando sufre una conmoción cerebral a raíz de un choque fortuito con un futbolista. A pesar de que se trata de una lesión sin importancia, su cuñado Willie Gingrich, un abogado sin escrúpulos, le propone fingir una grave lesión con el fin de cobrar una substanciosa indemnización. Al principio, Harry se muestra reacio, pero acaba aceptando la propuesta porque alberga la esperanza de reanudar la relación con su ambiciosa y oportunista exesposa.</desc>
+    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+  </programme>
+  <programme start="20260831023800 +0200" stop="20260831043300 +0200" channel="Almería_24h.TV">
+    <title lang="es">Cine: Los perros de la guerra</title>
+    <desc lang="es">Zangaro, un pequeño país de África Occidental, está dirigido desde hace años con mano de hierro por el dictador Kimba. En el otro lado del gran charco, una gran corporación de multinacionales norteamericanas lo ha puesto como objetivo para invertir varios cientos de millones de dólares. Pero antes quieren saberlo todo acerca de la estabilidad del régimen. Para ello envían a Jamie Shannon, un veterano de guerra que se hace pasar por fotógrafo de una revista de naturaleza. Los problemas no tardarán en aparecer.</desc>
+    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+  </programme>
+  <programme start="20260831043300 +0200" stop="20260831060000 +0200" channel="Almería_24h.TV">
+    <title lang="es">Cine: Pata de palo</title>
+    <desc lang="es">Cine: Pata de palo</desc>
+    <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
+  </programme>
+  <programme start="20260831060000 +0200" stop="20260831080400 +0200" channel="Almería_24h.TV">
+    <title lang="es">Infosemanal ( REDIFUSIÓN )</title>
+    <desc lang="es">Resumen de las noticias más importantes vistas en Noticias Almería 24H la última semana.</desc>
     <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
   </programme>
   <programme start="20260830002924 +0200" stop="20260830004058 +0200" channel="TUYA.TV">
@@ -62768,36 +62818,6 @@ Juanjo Martín (colaborador externo).</desc>
     <title lang="es">REC10</title>
     <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
   </programme>
-  <programme start="20260830060000 +0200" stop="20260831060000 +0200" channel="EnergeekRetro.TV">
-    <title lang="es">Maratones EnerGeek</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" />
-  </programme>
-  <programme start="20260831060000 +0200" stop="20260901060000 +0200" channel="EnergeekRetro.TV">
-    <title lang="es">Maratones EnerGeek</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" />
-  </programme>
-  <programme start="20260901060000 +0200" stop="20260902060000 +0200" channel="EnergeekRetro.TV">
-    <title lang="es">Maratones EnerGeek</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Retro-2025_brand.png" />
-  </programme>
-  <programme start="20260830060000 +0200" stop="20260831060000 +0200" channel="EnergeekFan.TV">
-    <title lang="es">Maratones</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png" />
-  </programme>
-  <programme start="20260831060000 +0200" stop="20260901060000 +0200" channel="EnergeekFan.TV">
-    <title lang="es">Maratones</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png" />
-  </programme>
-  <programme start="20260901060000 +0200" stop="20260902060000 +0200" channel="EnergeekFan.TV">
-    <title lang="es">Maratones</title>
-    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
-    <icon src="https://cdn.energeek.cl/logos/EG-Fan-2025_brand.png" />
-  </programme>
   <programme start="20260830005500 +0200" stop="20260830090000 +0200" channel="PopularTV_S.TV">
     <title lang="es">Ajuste de programación</title>
     <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
@@ -62966,8 +62986,100 @@ Juanjo Martín (colaborador externo).</desc>
     <title lang="es">Cine Clásico: Doce hombres sin piedad</title>
     <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
   </programme>
-  <programme start="20260831233500 +0200" stop="20260831235900 +0200" channel="PopularTV_S.TV">
+  <programme start="20260831233500 +0200" stop="20260902000000 +0200" channel="PopularTV_S.TV">
     <title lang="es">Ajuste de programación</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902000000 +0200" stop="20260902091500 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Ajuste de programación</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902091500 +0200" stop="20260902095000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Patrimonio: Iglesia del Santísimo Cristo de Santander</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902095000 +0200" stop="20260902110000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Desde el Vaticano: Audiencia General, presidida por el Papa León XIV</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902110000 +0200" stop="20260902113000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Mundo natural</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902113000 +0200" stop="20260902120000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Familiarizando: Cultivar la interioridad</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902120000 +0200" stop="20260902123000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">En directo, desde la Parroquia Santa María Reparadora: Santa Misa</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902123000 +0200" stop="20260902130000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Zatti, hermano nuestro</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902130000 +0200" stop="20260902133000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Super Pepo</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902133000 +0200" stop="20260902140000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Cantabria de Cerca: La Ría de San Martín y Vital Alsar</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902140000 +0200" stop="20260902143000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Mundo natural</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902143000 +0200" stop="20260902150000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Informativo PopularTV Cantabria I Edición</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902150000 +0200" stop="20260902153000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Pulso empresarial</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902153000 +0200" stop="20260902160000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">El silencio de un pueblo: Celucos (Rionansa) 1ª parte</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902160000 +0200" stop="20260902170000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Voces: 8 mentiras sobre el matrimonio</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902170000 +0200" stop="20260902173000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">La Cuenca del Ebro (Cap. 1)</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902173000 +0200" stop="20260902180000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Ganaderos en su Hábitat: Limosinas en Casamaría 1ª parte</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902180000 +0200" stop="20260902183000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Comprometidos: Buscando Sonrisas</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902183000 +0200" stop="20260902203000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Popular Cine: De dioses y hombres</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902203000 +0200" stop="20260902210000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Informativo PopularTV Cantabria II Edición</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902210000 +0200" stop="20260902213000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">49 o más</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902213000 +0200" stop="20260902220000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Caminando: Iglesia de Santa María de la Asunción de Laredo</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902220000 +0200" stop="20260902223000 +0200" channel="PopularTV_S.TV">
+    <title lang="es">El rincón de la cultura</title>
+    <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
+  </programme>
+  <programme start="20260902223000 +0200" stop="20260902235900 +0200" channel="PopularTV_S.TV">
+    <title lang="es">Cine de Autor: Moonrise Kingdom</title>
     <icon src="https://pbs.twimg.com/profile_images/1452566726231662599/XLbFY0Uc_200x200.jpg" />
   </programme>
   <programme start="20260830060000 +0200" stop="20260830080700 +0200" channel="BonDiaTV_CAT.TV">
