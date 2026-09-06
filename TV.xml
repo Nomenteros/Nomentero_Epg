@@ -60073,73 +60073,81 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Resumen de las noticias más importantes vistas en Noticias Almería 24H la última semana.</desc>
     <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
   </programme>
-  <programme start="20260906132641 +0200" stop="20260906135732 +0200" channel="TUYA.TV">
-    <title lang="es">01X01 AHT -  ASOCIACIÓN LA BAJADA DE LA BOLSA, CRUZ ROJA, PIOJILLO CONIL Y SAN JUAN</title>
-    <icon src="https://tuyatv.com/assets/posters/ojuquecalo.jpg" />
-  </programme>
-  <programme start="20260906135732 +0200" stop="20260906142739 +0200" channel="TUYA.TV">
-    <title lang="es">03 PATRONA CHICLANA Y CONIL 2025</title>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260906142739 +0200" stop="20260906145311 +0200" channel="TUYA.TV">
+  <programme start="20260906142739 +0200" stop="20260906145312 +0200" channel="TUYA.TV">
     <title lang="es">04X14 OJÚ Q CALÓ - LOS BATELES</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906145418 +0200" stop="20260906152201 +0200" channel="TUYA.TV">
+  <programme start="20260906145347 +0200" stop="20260906155347 +0200" channel="TUYA.TV">
+    <title lang="es">🎥 8K Pro (2) (SDI) · 1080i50</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260906155418 +0200" stop="20260906162201 +0200" channel="TUYA.TV">
     <title lang="es">04X09 OJÚ Q CALÓ - PLAYA DE SANCTI PETRI (CHICLANA)</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906152201 +0200" stop="20260906154946 +0200" channel="TUYA.TV">
+  <programme start="20260906162201 +0200" stop="20260906164946 +0200" channel="TUYA.TV">
     <title lang="es">04X02 PLAYA DEL CARMEN (BARBATE)</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260906155113 +0200" stop="20260906162346 +0200" channel="TUYA.TV">
+  <programme start="20260906165113 +0200" stop="20260906172346 +0200" channel="TUYA.TV">
     <title lang="es">01X02 AHT - MERCADO DE ABASTOS, EXPOSICIÓN VEJER, GENERAMA Y PLAYA OLA DE CALOR</title>
     <icon src="https://tuyatv.com/assets/posters/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906162355 +0200" stop="20260906165250 +0200" channel="TUYA.TV">
+  <programme start="20260906172356 +0200" stop="20260906175250 +0200" channel="TUYA.TV">
     <title lang="es">04X013 OJÚ Q CALÓ - LA FONTANILLA</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906165310 +0200" stop="20260906172121 +0200" channel="TUYA.TV">
+  <programme start="20260906175310 +0200" stop="20260906182121 +0200" channel="TUYA.TV">
     <title lang="es">04X12 OJÚ Q CALÓ - PLAYA EL PALMAR</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906172345 +0200" stop="20260906175156 +0200" channel="TUYA.TV">
+  <programme start="20260906182121 +0200" stop="20260906192121 +0200" channel="TUYA.TV">
+    <title lang="es">🎥 8K Pro (2) (SDI) · 1080i50</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260906192345 +0200" stop="20260906195156 +0200" channel="TUYA.TV">
     <title lang="es">04X12 OJÚ Q CALÓ - PLAYA EL PALMAR</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906175156 +0200" stop="20260906181835 +0200" channel="TUYA.TV">
+  <programme start="20260906195156 +0200" stop="20260906201835 +0200" channel="TUYA.TV">
     <title lang="es">04X06 PLAYA SANCTI PETRI (CHICLANA)</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260906181835 +0200" stop="20260906185501 +0200" channel="TUYA.TV">
+  <programme start="20260906201835 +0200" stop="20260906205502 +0200" channel="TUYA.TV">
     <title lang="es">06 ANDA QUE NO - INMACULADA SÁNCHEZ</title>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260906185501 +0200" stop="20260906192034 +0200" channel="TUYA.TV">
+  <programme start="20260906205502 +0200" stop="20260906212034 +0200" channel="TUYA.TV">
     <title lang="es">04X14 OJÚ Q CALÓ - LOS BATELES</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906192056 +0200" stop="20260906195406 +0200" channel="TUYA.TV">
+  <programme start="20260906212056 +0200" stop="20260906215406 +0200" channel="TUYA.TV">
     <title lang="es">01X04 AHT - BARBACOAS OPERA Y FERIA DEL LIBRO</title>
     <icon src="https://tuyatv.com/assets/posters/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906195440 +0200" stop="20260906202335 +0200" channel="TUYA.TV">
+  <programme start="20260906215441 +0200" stop="20260906222335 +0200" channel="TUYA.TV">
     <title lang="es">04X013 OJÚ Q CALÓ - LA FONTANILLA</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906202431 +0200" stop="20260906205422 +0200" channel="TUYA.TV">
+  <programme start="20260906222432 +0200" stop="20260906225423 +0200" channel="TUYA.TV">
     <title lang="es">04X11 OJÚ Q CALÓ - LA FONTANILLA</title>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906205726 +0200" stop="20260906212833 +0200" channel="TUYA.TV">
+  <programme start="20260906225726 +0200" stop="20260906232833 +0200" channel="TUYA.TV">
     <title lang="es">01X06 AHT - ZUMBA - CASA HDAD ECCE HOMO - CAMPANAS DE SANTA ANA</title>
     <icon src="https://tuyatv.com/assets/posters/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260906212833 +0200" stop="20260906220724 +0200" channel="TUYA.TV">
+  <programme start="20260906232833 +0200" stop="20260907000724 +0200" channel="TUYA.TV">
     <title lang="es">04 ANDA QUE NO - MIGUEL MOLINA</title>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
+  </programme>
+  <programme start="20260907000724 +0200" stop="20260907003815 +0200" channel="TUYA.TV">
+    <title lang="es">01X01 AHT -  ASOCIACIÓN LA BAJADA DE LA BOLSA, CRUZ ROJA, PIOJILLO CONIL Y SAN JUAN</title>
+    <icon src="https://tuyatv.com/assets/posters/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260907003815 +0200" stop="20260907010822 +0200" channel="TUYA.TV">
+    <title lang="es">03 PATRONA CHICLANA Y CONIL 2025</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
   <programme start="20260906030000 +0200" stop="20260906094000 +0200" channel="DiezTV_Ubeda.TV">
     <title lang="es">Música Diez</title>
@@ -62052,12 +62060,6 @@ En el programa d'avui prepararem un berenar complet: crespells iun batut que té
     <title lang="es">Informativos</title>
     <desc lang="es">20:30 – 21:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
-  </programme>
-  <programme start="20260906113700 +0200" stop="20260906122800 +0200" channel="9LaLoma.TV">
-    <title lang="es">La Trabajadera. Romería Chica de La Yedra</title>
-    <desc lang="es">La Trabajadera en Tiempo de Glorias</desc>
-    <category lang="es">popular culture traditional arts</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
   </programme>
   <programme start="20260906122800 +0200" stop="20260906132600 +0200" channel="9LaLoma.TV">
     <title lang="es">XIII Jornadas Sabina por Aquí</title>
