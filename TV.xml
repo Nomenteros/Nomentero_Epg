@@ -59753,150 +59753,335 @@ Joaquín López Bustamante (colaborador externo).</desc>
     <desc lang="es">Actualidad informativa.</desc>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/250px-Logo_La_8.svg.png" />
   </programme>
-  <programme start="20260908022221 -0100" stop="20260908022321 -0100" channel="PTV_Sevilla.TV">
-    <title lang="es">Sábado Santo Sevilla 2026</title>
+  <programme start="20260908064707 -0100" stop="20260908071907 -0100" channel="PTV_Granada.TV">
+    <title lang="es">De Tour</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908071908 -0100" stop="20260908074854 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Cosas AsombrosaS</title>
+    <desc lang="es">Clasificación: +12 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908074856 -0100" stop="20260908091045 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Lo Mejor del Tevé</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908091045 -0100" stop="20260908101848 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Granada - Avd. Constitución</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908121009 -0100" stop="20260908133519 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Lo Mejor del Deporte</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908133521 -0100" stop="20260908143314 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Málaga - Museo de la Música</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908143314 -0100" stop="20260908150302 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Sevilla - Calle Sierpes</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908150304 -0100" stop="20260908163205 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Granada Tevé T26 E883</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908163205 -0100" stop="20260908170555 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Archivo Municipal</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908170556 -0100" stop="20260908173129 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Granada - Paseo del Salón</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908173130 -0100" stop="20260908200606 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Procesiones Patronas de Churriana y Otura</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908200607 -0100" stop="20260908224043 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Procesiones Patronas de Churriana y Otura</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908224045 -0100" stop="20260909005241 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Pregón Virgen de las Angustias: Con Diana Navarro</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260909005241 -0100" stop="20260909192004 -0100" channel="PTV_Granada.TV">
+    <title lang="es">PTV Recuerda la Pasión: Martes Santo</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260909192005 -0100" stop="20260910003640 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Archivo Municipal</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260910003641 -0100" stop="20260910140523 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Málaga - Museo de la Música</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260910140524 -0100" stop="20260910163646 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Lo Mejor del Deporte</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260910163647 -0100" stop="20260910191216 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Córdoba - Archivo Municipal</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260910191217 -0100" stop="20260910194927 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Granada - Paseo del Salón</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260910194928 -0100" stop="20260911214142 -0100" channel="PTV_Granada.TV">
+    <title lang="es">Paseando x Málaga - Museo de la Música</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615394724499456/_L-6TSA__200x200.jpg" />
+  </programme>
+  <programme start="20260908120726 -0100" stop="20260908140222 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sentir Cofrade T06 E30</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260908140223 -0100" stop="20260908143050 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Córdoba - Centro de Información y Recepción Mezquita Catedral *</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
   </programme>
-  <programme start="20260908013546 -0100" stop="20260908045204 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908143052 -0100" stop="20260908150551 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Códoba - La Calahorra</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260908150552 -0100" stop="20260908165748 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sevilla Tevé Sábado T26 E815</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260908165749 -0100" stop="20260909050028 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Sevilla - Convento María Coronel</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909050029 -0100" stop="20260909094553 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Sevilla - Rectorado</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909094554 -0100" stop="20260909111127 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sevilla Tevé Sábado T26 E815</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909111128 -0100" stop="20260909121736 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Check-in Verano 2026 T01 E04</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909121737 -0100" stop="20260909131956 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Sevilla - Calle Sierpes</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909131957 -0100" stop="20260909144232 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sevilla Tevé Lunes T26 E813</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909144233 -0100" stop="20260909163655 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sentir Cofrade T06 E30</title>
+    <desc lang="es">Clasificación: TP ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909163656 -0100" stop="20260909170417 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Córdoba - Centro de Información y Recepción Mezquita Catedral *</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909170418 -0100" stop="20260909173948 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Códoba - La Calahorra</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909173949 -0100" stop="20260909193302 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Sevilla Tevé Sábado T26 E815</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260909193302 -0100" stop="20260909195839 -0100" channel="PTV_Sevilla.TV">
+    <title lang="es">Paseando x Sevilla - Convento María Coronel</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2015126041375723520/5ffgU_jl_200x200.jpg" />
+  </programme>
+  <programme start="20260908021835 -0100" stop="20260908045409 -0100" channel="PTV_Linares.TV">
     <title lang="es">Feria Linares 2026 - 28 de Agosto</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908045733 -0100" stop="20260908052732 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908045938 -0100" stop="20260908053246 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Lunes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908052945 -0100" stop="20260908055706 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908053459 -0100" stop="20260908060220 -0100" channel="PTV_Linares.TV">
     <title lang="es">De Tour</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908055759 -0100" stop="20260908062445 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908060312 -0100" stop="20260908062958 -0100" channel="PTV_Linares.TV">
     <title lang="es">Cosas Asombrosas</title>
     <desc lang="es">Clasificación: +12 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908062601 -0100" stop="20260908065600 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908063114 -0100" stop="20260908070422 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Lunes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908065813 -0100" stop="20260908072411 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908070636 -0100" stop="20260908073234 -0100" channel="PTV_Linares.TV">
     <title lang="es">De Cosas y Casas</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908072504 -0100" stop="20260908085503 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908073327 -0100" stop="20260908082515 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Lunes T26 E711</title>
-    <desc lang="es">...</desc>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908085619 -0100" stop="20260908092305 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Cosas Asombrosas</title>
-    <desc lang="es">Clasificación: +12 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
-  </programme>
-  <programme start="20260908092519 -0100" stop="20260908105518 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908082604 -0100" stop="20260908091521 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Lunes T26 E711</title>
-    <desc lang="es">...</desc>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908105610 -0100" stop="20260908112609 -0100" channel="PTV_Linares.TV">
-    <title lang="es">PTV Noticias Lunes</title>
-    <desc lang="es">...</desc>
+  <programme start="20260908091801 -0100" stop="20260908100949 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Lunes T26 E711</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908112725 -0100" stop="20260908115446 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908113636 -0100" stop="20260908122824 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Lunes T26 E711</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260908122843 -0100" stop="20260908131800 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Lunes T26 E711</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260908131829 -0100" stop="20260908132938 -0100" channel="PTV_Linares.TV">
     <title lang="es">De Tour</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908115700 -0100" stop="20260908132659 -0100" channel="PTV_Linares.TV">
-    <title lang="es">Linares Tevé Lunes T26 E711</title>
-    <desc lang="es">...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
-  </programme>
-  <programme start="20260908132751 -0100" stop="20260908135750 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908133036 -0100" stop="20260908140344 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Lunes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908135906 -0100" stop="20260908142442 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908140640 -0100" stop="20260908143216 -0100" channel="PTV_Linares.TV">
     <title lang="es">Paseando X Málaga - Museo de la Música</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908142655 -0100" stop="20260908145403 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908143639 -0100" stop="20260908150347 -0100" channel="PTV_Linares.TV">
     <title lang="es">Paseando X Sevilla - Calle Sierpes</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908145456 -0100" stop="20260908162455 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908150620 -0100" stop="20260908153619 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Martes T26 E712</title>
-    <desc lang="es">...</desc>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908162611 -0100" stop="20260908165231 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908153747 -0100" stop="20260908162806 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Martes T26 E712</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260908163057 -0100" stop="20260908165717 -0100" channel="PTV_Linares.TV">
     <title lang="es">Paseando X Córdoba - Barrio de Santiago</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908165347 -0100" stop="20260908172547 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908165833 -0100" stop="20260908173033 -0100" channel="PTV_Linares.TV">
     <title lang="es">Paseando X Granada - Plaza Universidad</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908172800 -0100" stop="20260908175759 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908173247 -0100" stop="20260908180246 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Martes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908175915 -0100" stop="20260908192914 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908180402 -0100" stop="20260908183401 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Martes T26 E712</title>
-    <desc lang="es">...</desc>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908192939 -0100" stop="20260908200248 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908183529 -0100" stop="20260908192548 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Martes T26 E712</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260908192856 -0100" stop="20260908200205 -0100" channel="PTV_Linares.TV">
     <title lang="es">Paseando X Córdoba - La Calahorra</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908200404 -0100" stop="20260908203403 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908200322 -0100" stop="20260908203321 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Martes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908203616 -0100" stop="20260908220615 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908203534 -0100" stop="20260908210533 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Martes T26 E712</title>
-    <desc lang="es">...</desc>
+    <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908220617 -0100" stop="20260908223720 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908210701 -0100" stop="20260908215720 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Martes T26 E712</title>
+    <desc lang="es">Clasificación: +7 ...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
+  </programme>
+  <programme start="20260908220005 -0100" stop="20260908223108 -0100" channel="PTV_Linares.TV">
     <title lang="es">Linares Tevé Lunes T26 E711</title>
     <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908223843 -0100" stop="20260908230842 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908223231 -0100" stop="20260908230230 -0100" channel="PTV_Linares.TV">
     <title lang="es">PTV Noticias Martes</title>
     <desc lang="es">...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908231055 -0100" stop="20260909022140 -0100" channel="PTV_Linares.TV">
+  <programme start="20260908230444 -0100" stop="20260909021529 -0100" channel="PTV_Linares.TV">
     <title lang="es">Feria Linares 2026 - 29 de Agosto</title>
     <desc lang="es">Clasificación: +7 ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260909022233 -0100" stop="20260909045645 -0100" channel="PTV_Linares.TV">
+  <programme start="20260909021622 -0100" stop="20260909045034 -0100" channel="PTV_Linares.TV">
     <title lang="es">Feria Linares 2026 - 30 de Agosto</title>
     <desc lang="es">Clasificación: TP ...</desc>
     <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
-  <programme start="20260908110600 -0100" stop="20260908113617 -0100" channel="PTV_Malaga.TV">
-    <title lang="es">Cosas Asombrosas</title>
-    <desc lang="es">Clasificación: +12 ...</desc>
-    <icon src="https://pbs.twimg.com/profile_images/2014627287107272704/9oJ5WabU_200x200.jpg" />
+  <programme start="20260909065036 -0100" stop="20260909082035 -0100" channel="PTV_Linares.TV">
+    <title lang="es">Linares Tevé Martes T26 E712</title>
+    <desc lang="es">...</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2014615525163180032/V8_AbCLn_200x200.jpg" />
   </programme>
   <programme start="20260908113619 -0100" stop="20260908221931 -0100" channel="PTV_Malaga.TV">
     <title lang="es">Viernes Santo Málaga 2026</title>
@@ -60499,762 +60684,768 @@ Joaquín López Bustamante (colaborador externo).</desc>
     <desc lang="es">Aprendizaje universal a través del video</desc>
     <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
   </programme>
-  <programme start="20260908143445 +0200" stop="20260908150324 +0200" channel="TUYA.TV">
-    <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
-    <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
+  <programme start="20260908201301 +0200" stop="20260908211415 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908150324 +0200" stop="20260908150325 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ESPECIAL PISA DE LA UVA 2026</title>
-    <desc lang="es">No te pierdas a continuación: Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
+  <programme start="20260908211415 +0200" stop="20260908211416 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: DIRECTO PATRONA 2026</title>
+    <desc lang="es">Próximo programa: DIRECTO PATRONA 2026</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908150325 +0200" stop="20260908153939 +0200" channel="TUYA.TV">
-    <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
-    <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
+  <programme start="20260908211416 +0200" stop="20260908221636 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908153939 +0200" stop="20260908153939 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ESPECIAL PISA DE LA UVA 2026</title>
-    <desc lang="es">No te pierdas a continuación: Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
+  <programme start="20260908221636 +0200" stop="20260908221636 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: DIRECTO PATRONA 2026</title>
+    <desc lang="es">Próximo programa: DIRECTO PATRONA 2026</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908153939 +0200" stop="20260908162650 +0200" channel="TUYA.TV">
-    <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
-    <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
+  <programme start="20260908221636 +0200" stop="20260908231857 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908162650 +0200" stop="20260908162651 +0200" channel="TUYA.TV">
+  <programme start="20260908231857 +0200" stop="20260908231857 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: DIRECTO PATRONA 2026</title>
+    <desc lang="es">Próximo programa: DIRECTO PATRONA 2026</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260908231857 +0200" stop="20260909002155 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909002155 +0200" stop="20260909002155 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: DIRECTO PATRONA 2026</title>
+    <desc lang="es">Próximo programa: DIRECTO PATRONA 2026</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909002155 +0200" stop="20260909012456 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909012456 +0200" stop="20260909012456 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: DIRECTO PATRONA 2026</title>
+    <desc lang="es">Próximo programa: DIRECTO PATRONA 2026</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909012456 +0200" stop="20260909022723 +0200" channel="TUYA.TV">
+    <title lang="es">DIRECTO PATRONA 2026</title>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909022723 +0200" stop="20260909022724 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: FIESTA DE LA VENDIMIA 2026</title>
+    <desc lang="es">No te pierdas a continuación: Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909022724 +0200" stop="20260909031205 +0200" channel="TUYA.TV">
+    <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
+    <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909031205 +0200" stop="20260909031206 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: FIESTA DE LA VENDIMIA 2026</title>
+    <desc lang="es">No te pierdas a continuación: Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909031206 +0200" stop="20260909040313 +0200" channel="TUYA.TV">
+    <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
+    <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260909040313 +0200" stop="20260909040313 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: 0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">No te pierdas a continuación: Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908162651 +0200" stop="20260908171507 +0200" channel="TUYA.TV">
+  <programme start="20260909040313 +0200" stop="20260909045140 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908171507 +0200" stop="20260908171508 +0200" channel="TUYA.TV">
+  <programme start="20260909045140 +0200" stop="20260909045141 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: 0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">No te pierdas a continuación: Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908171508 +0200" stop="20260908180547 +0200" channel="TUYA.TV">
+  <programme start="20260909045141 +0200" stop="20260909054333 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260908180547 +0200" stop="20260908180547 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ESPECIAL FERIA DE CONIL 2026</title>
-    <desc lang="es">No te pierdas a continuación: Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908180547 +0200" stop="20260908183902 +0200" channel="TUYA.TV">
-    <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
-    <desc lang="es">Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908183902 +0200" stop="20260908183902 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: FERIA DE CONIL 2026</title>
-    <desc lang="es">No te pierdas a continuación: Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908183902 +0200" stop="20260908190754 +0200" channel="TUYA.TV">
-    <title lang="es">FERIA DE CONIL 2026</title>
-    <desc lang="es">Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908190754 +0200" stop="20260908190755 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ESPECIAL FERIA DE CONIL 2026</title>
-    <desc lang="es">No te pierdas a continuación: Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908190755 +0200" stop="20260908194918 +0200" channel="TUYA.TV">
-    <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
-    <desc lang="es">Desde el recinto de ferial, entrevistas y reportajes con motivo de la feria dedicada a la Virgen de las Virtudes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908194918 +0200" stop="20260908194918 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: REALIZACION</title>
-    <desc lang="es">Próximo programa: REALIZACION</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908194918 +0200" stop="20260908205136 +0200" channel="TUYA.TV">
-    <title lang="es">REALIZACION</title>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908205136 +0200" stop="20260908205136 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: REALIZACION</title>
-    <desc lang="es">Próximo programa: REALIZACION</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908205136 +0200" stop="20260908215607 +0200" channel="TUYA.TV">
-    <title lang="es">REALIZACION</title>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908215607 +0200" stop="20260908215608 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
-    <desc lang="es">No te pierdas a continuación: P16 - Playa de la Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
-  </programme>
-  <programme start="20260908215608 +0200" stop="20260908223445 +0200" channel="TUYA.TV">
-    <title lang="es">OJÚ Q CALÓ!</title>
-    <desc lang="es">P16 - Playa de la Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
-  </programme>
-  <programme start="20260908223445 +0200" stop="20260908223446 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">No te pierdas a continuación: Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260908223446 +0200" stop="20260908230223 +0200" channel="TUYA.TV">
-    <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260908230223 +0200" stop="20260908230223 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">No te pierdas a continuación: Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260908230223 +0200" stop="20260908233801 +0200" channel="TUYA.TV">
-    <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
-    <desc lang="es">Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
-  </programme>
-  <programme start="20260908233801 +0200" stop="20260908233801 +0200" channel="TUYA.TV">
+  <programme start="20260909054333 +0200" stop="20260909054334 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: #SINCORTES</title>
     <desc lang="es">No te pierdas a continuación: #CONIL: 100x100 Unidos por Conil se pronuncia tras la polémica suscitada con el concejal de policía local y su expediente urbanístico.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260908233801 +0200" stop="20260908234653 +0200" channel="TUYA.TV">
+  <programme start="20260909054334 +0200" stop="20260909055331 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CONIL: 100x100 Unidos por Conil se pronuncia tras la polémica suscitada con el concejal de policía local y su expediente urbanístico.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260908234653 +0200" stop="20260908235819 +0200" channel="TUYA.TV">
+  <programme start="20260909055331 +0200" stop="20260909060501 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la nueva fiesta de la vendimia que se trasladará a la plaza Mayor.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260908235819 +0200" stop="20260908235819 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: LA MINA 2026</title>
-    <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260908235819 +0200" stop="20260909002843 +0200" channel="TUYA.TV">
-    <title lang="es">LA MINA 2026</title>
-    <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260909002843 +0200" stop="20260909002843 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: LA MINA 2026</title>
-    <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260909002843 +0200" stop="20260909010830 +0200" channel="TUYA.TV">
-    <title lang="es">LA MINA 2026</title>
-    <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260909010830 +0200" stop="20260909010831 +0200" channel="TUYA.TV">
+  <programme start="20260909060501 +0200" stop="20260909060502 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909010831 +0200" stop="20260909013641 +0200" channel="TUYA.TV">
+  <programme start="20260909060502 +0200" stop="20260909063251 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909013641 +0200" stop="20260909013642 +0200" channel="TUYA.TV">
+  <programme start="20260909063251 +0200" stop="20260909063252 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909013642 +0200" stop="20260909021105 +0200" channel="TUYA.TV">
+  <programme start="20260909063252 +0200" stop="20260909070715 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 48 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909021105 +0200" stop="20260909021106 +0200" channel="TUYA.TV">
+  <programme start="20260909070715 +0200" stop="20260909070716 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: SILLAS A LA CALLE</title>
     <desc lang="es">No te pierdas a continuación: P06 LA TAUROMAQUIA - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260909021106 +0200" stop="20260909024748 +0200" channel="TUYA.TV">
+  <programme start="20260909070716 +0200" stop="20260909074358 +0200" channel="TUYA.TV">
     <title lang="es">SILLAS A LA CALLE</title>
     <desc lang="es">P06 LA TAUROMAQUIA - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad se cuenta en primera persona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
-  <programme start="20260909024748 +0200" stop="20260909024748 +0200" channel="TUYA.TV">
+  <programme start="20260909074358 +0200" stop="20260909074358 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">No te pierdas a continuación: Entrega de premios del V certamen de teatro mínimo García Teba.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909024748 +0200" stop="20260909031958 +0200" channel="TUYA.TV">
+  <programme start="20260909074358 +0200" stop="20260909081608 +0200" channel="TUYA.TV">
     <title lang="es">SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">Entrega de premios del V certamen de teatro mínimo García Teba.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909031958 +0200" stop="20260909031959 +0200" channel="TUYA.TV">
+  <programme start="20260909081608 +0200" stop="20260909081609 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: AQUÍ HAY TEMA</title>
     <desc lang="es">No te pierdas a continuación: P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909031959 +0200" stop="20260909035711 +0200" channel="TUYA.TV">
+  <programme start="20260909081609 +0200" stop="20260909085321 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909035711 +0200" stop="20260909035712 +0200" channel="TUYA.TV">
+  <programme start="20260909085321 +0200" stop="20260909085322 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LAS DEL CLUB</title>
     <desc lang="es">No te pierdas a continuación: 07 - El derecho a la diversión - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg" />
   </programme>
-  <programme start="20260909035712 +0200" stop="20260909042652 +0200" channel="TUYA.TV">
+  <programme start="20260909085322 +0200" stop="20260909092259 +0200" channel="TUYA.TV">
     <title lang="es">LAS DEL CLUB</title>
     <desc lang="es">07 - El derecho a la diversión - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg" />
   </programme>
-  <programme start="20260909042652 +0200" stop="20260909042652 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
-    <desc lang="es">No te pierdas a continuación: P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
-  </programme>
-  <programme start="20260909042652 +0200" stop="20260909045931 +0200" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
-  </programme>
-  <programme start="20260909045931 +0200" stop="20260909045931 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
-    <desc lang="es">No te pierdas a continuación: P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
-  </programme>
-  <programme start="20260909045931 +0200" stop="20260909052910 +0200" channel="TUYA.TV">
-    <title lang="es">OJÚ Q CALÓ!</title>
-    <desc lang="es">P10 - Playa de El Palmar (Vejer). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
-  </programme>
-  <programme start="20260909052910 +0200" stop="20260909052911 +0200" channel="TUYA.TV">
-    <title lang="es">Próximamente: ZAGALILLOS</title>
-    <desc lang="es">No te pierdas a continuación: P01 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
-  </programme>
-  <programme start="20260909052911 +0200" stop="20260909060044 +0200" channel="TUYA.TV">
-    <title lang="es">ZAGALILLOS</title>
-    <desc lang="es">P01 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
-  </programme>
-  <programme start="20260909060044 +0200" stop="20260909060044 +0200" channel="TUYA.TV">
+  <programme start="20260909092259 +0200" stop="20260909092259 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909060044 +0200" stop="20260909063252 +0200" channel="TUYA.TV">
+  <programme start="20260909092259 +0200" stop="20260909095523 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909063252 +0200" stop="20260909063253 +0200" channel="TUYA.TV">
+  <programme start="20260909095523 +0200" stop="20260909095523 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909063253 +0200" stop="20260909070854 +0200" channel="TUYA.TV">
+  <programme start="20260909095523 +0200" stop="20260909103124 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909070854 +0200" stop="20260909070854 +0200" channel="TUYA.TV">
+  <programme start="20260909103124 +0200" stop="20260909103125 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: #SINCORTES</title>
     <desc lang="es">No te pierdas a continuación: #VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909070854 +0200" stop="20260909071935 +0200" channel="TUYA.TV">
+  <programme start="20260909103125 +0200" stop="20260909104205 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909071935 +0200" stop="20260909072207 +0200" channel="TUYA.TV">
+  <programme start="20260909104205 +0200" stop="20260909104437 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Partido Popular propone llevar la situación de Ceuta el pleno</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909072207 +0200" stop="20260909072628 +0200" channel="TUYA.TV">
+  <programme start="20260909104437 +0200" stop="20260909104858 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Recepción de los agentes en práctica de la Guardia Civil.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909072628 +0200" stop="20260909073348 +0200" channel="TUYA.TV">
+  <programme start="20260909104858 +0200" stop="20260909105618 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la Fiesta de la Parpuja</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909073348 +0200" stop="20260909074631 +0200" channel="TUYA.TV">
+  <programme start="20260909105618 +0200" stop="20260909110902 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de pintura de José Dorantes en la casa de la cultura.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909074631 +0200" stop="20260909074632 +0200" channel="TUYA.TV">
+  <programme start="20260909110902 +0200" stop="20260909110902 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
     <desc lang="es">No te pierdas a continuación: P02 - Playa del Carmen (Barbate). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909074632 +0200" stop="20260909081730 +0200" channel="TUYA.TV">
+  <programme start="20260909110902 +0200" stop="20260909114001 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P02 - Playa del Carmen (Barbate). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909081730 +0200" stop="20260909081731 +0200" channel="TUYA.TV">
+  <programme start="20260909114001 +0200" stop="20260909114001 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909081731 +0200" stop="20260909085018 +0200" channel="TUYA.TV">
+  <programme start="20260909114001 +0200" stop="20260909121248 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909085018 +0200" stop="20260909085018 +0200" channel="TUYA.TV">
+  <programme start="20260909121248 +0200" stop="20260909121249 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909085018 +0200" stop="20260909092747 +0200" channel="TUYA.TV">
+  <programme start="20260909121249 +0200" stop="20260909125017 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909092747 +0200" stop="20260909092747 +0200" channel="TUYA.TV">
+  <programme start="20260909125017 +0200" stop="20260909125018 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: #SINCORTES</title>
     <desc lang="es">No te pierdas a continuación: #VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909092747 +0200" stop="20260909093912 +0200" channel="TUYA.TV">
+  <programme start="20260909125018 +0200" stop="20260909130142 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909093912 +0200" stop="20260909094144 +0200" channel="TUYA.TV">
+  <programme start="20260909130142 +0200" stop="20260909130414 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Partido Popular propone llevar la situación de Ceuta el pleno</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909094144 +0200" stop="20260909094605 +0200" channel="TUYA.TV">
+  <programme start="20260909130414 +0200" stop="20260909130835 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Recepción de los agentes en práctica de la Guardia Civil.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909094605 +0200" stop="20260909095324 +0200" channel="TUYA.TV">
+  <programme start="20260909130835 +0200" stop="20260909131555 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la Fiesta de la Parpuja</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909095324 +0200" stop="20260909100524 +0200" channel="TUYA.TV">
+  <programme start="20260909131555 +0200" stop="20260909132754 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de pintura de José Dorantes en la casa de la cultura.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909100524 +0200" stop="20260909100525 +0200" channel="TUYA.TV">
+  <programme start="20260909132754 +0200" stop="20260909132755 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
     <desc lang="es">No te pierdas a continuación: P03 - Playa de los Bateles (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909100525 +0200" stop="20260909103603 +0200" channel="TUYA.TV">
+  <programme start="20260909132755 +0200" stop="20260909135833 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P03 - Playa de los Bateles (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909103603 +0200" stop="20260909103604 +0200" channel="TUYA.TV">
+  <programme start="20260909135833 +0200" stop="20260909135834 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
     <desc lang="es">No te pierdas a continuación: P09 - Playa de Sancti Petri (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909103604 +0200" stop="20260909110725 +0200" channel="TUYA.TV">
+  <programme start="20260909135834 +0200" stop="20260909142955 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P09 - Playa de Sancti Petri (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260909110725 +0200" stop="20260909110725 +0200" channel="TUYA.TV">
+  <programme start="20260909142955 +0200" stop="20260909142955 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LAS DEL CLUB</title>
     <desc lang="es">No te pierdas a continuación: 03 - Las relaciones amorosas - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg" />
   </programme>
-  <programme start="20260909110725 +0200" stop="20260909113849 +0200" channel="TUYA.TV">
+  <programme start="20260909142955 +0200" stop="20260909150119 +0200" channel="TUYA.TV">
     <title lang="es">LAS DEL CLUB</title>
     <desc lang="es">03 - Las relaciones amorosas - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg" />
   </programme>
-  <programme start="20260909113849 +0200" stop="20260909113849 +0200" channel="TUYA.TV">
+  <programme start="20260909150119 +0200" stop="20260909150119 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909113849 +0200" stop="20260909122108 +0200" channel="TUYA.TV">
+  <programme start="20260909150119 +0200" stop="20260909154339 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909122108 +0200" stop="20260909122109 +0200" channel="TUYA.TV">
+  <programme start="20260909154339 +0200" stop="20260909154339 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909122109 +0200" stop="20260909130204 +0200" channel="TUYA.TV">
+  <programme start="20260909154339 +0200" stop="20260909162435 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909130204 +0200" stop="20260909130205 +0200" channel="TUYA.TV">
+  <programme start="20260909162435 +0200" stop="20260909162436 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909130205 +0200" stop="20260909133345 +0200" channel="TUYA.TV">
+  <programme start="20260909162436 +0200" stop="20260909165615 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909133345 +0200" stop="20260909133345 +0200" channel="TUYA.TV">
+  <programme start="20260909165615 +0200" stop="20260909165615 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909133345 +0200" stop="20260909140918 +0200" channel="TUYA.TV">
+  <programme start="20260909165615 +0200" stop="20260909173148 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909140918 +0200" stop="20260909140918 +0200" channel="TUYA.TV">
+  <programme start="20260909173148 +0200" stop="20260909173149 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909140918 +0200" stop="20260909143941 +0200" channel="TUYA.TV">
+  <programme start="20260909173149 +0200" stop="20260909180212 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909143941 +0200" stop="20260909143942 +0200" channel="TUYA.TV">
+  <programme start="20260909180212 +0200" stop="20260909180213 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909143942 +0200" stop="20260909151930 +0200" channel="TUYA.TV">
+  <programme start="20260909180213 +0200" stop="20260909184200 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909151930 +0200" stop="20260909151930 +0200" channel="TUYA.TV">
+  <programme start="20260909184200 +0200" stop="20260909184200 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909151930 +0200" stop="20260909155229 +0200" channel="TUYA.TV">
+  <programme start="20260909184200 +0200" stop="20260909191459 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909155229 +0200" stop="20260909155230 +0200" channel="TUYA.TV">
+  <programme start="20260909191459 +0200" stop="20260909191500 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909155230 +0200" stop="20260909162933 +0200" channel="TUYA.TV">
+  <programme start="20260909191500 +0200" stop="20260909195203 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909162933 +0200" stop="20260909162934 +0200" channel="TUYA.TV">
+  <programme start="20260909195203 +0200" stop="20260909195204 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ESPECIAL DENTRO DEL ÁREA NUEVA TEMPORADA CHICLANA</title>
     <desc lang="es">Próximo programa: ESPECIAL DENTRO DEL ÁREA NUEVA TEMPORADA CHICLANA</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/dentrodelarea.jpg" />
   </programme>
-  <programme start="20260909162934 +0200" stop="20260909170408 +0200" channel="TUYA.TV">
+  <programme start="20260909195204 +0200" stop="20260909202638 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL DENTRO DEL ÁREA NUEVA TEMPORADA CHICLANA</title>
     <icon src="https://tuyatv.com/assets/posters/epg/dentrodelarea.jpg" />
   </programme>
-  <programme start="20260909170408 +0200" stop="20260909170408 +0200" channel="TUYA.TV">
+  <programme start="20260909202638 +0200" stop="20260909202638 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
     <desc lang="es">No te pierdas a continuación: P10 - Virtudes Moreno. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909170408 +0200" stop="20260909173611 +0200" channel="TUYA.TV">
+  <programme start="20260909202638 +0200" stop="20260909205842 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P10 - Virtudes Moreno. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909173611 +0200" stop="20260909173612 +0200" channel="TUYA.TV">
+  <programme start="20260909205842 +0200" stop="20260909205842 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: AQUÍ HAY TEMA</title>
     <desc lang="es">No te pierdas a continuación: P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909173612 +0200" stop="20260909181346 +0200" channel="TUYA.TV">
+  <programme start="20260909205842 +0200" stop="20260909213616 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909181346 +0200" stop="20260909181346 +0200" channel="TUYA.TV">
+  <programme start="20260909213616 +0200" stop="20260909213616 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: #SINCORTES</title>
     <desc lang="es">No te pierdas a continuación: #VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909181346 +0200" stop="20260909182448 +0200" channel="TUYA.TV">
+  <programme start="20260909213616 +0200" stop="20260909214718 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909182448 +0200" stop="20260909182720 +0200" channel="TUYA.TV">
+  <programme start="20260909214718 +0200" stop="20260909214950 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Partido Popular propone llevar la situación de Ceuta el pleno</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909182720 +0200" stop="20260909183141 +0200" channel="TUYA.TV">
+  <programme start="20260909214950 +0200" stop="20260909215411 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Recepción de los agentes en práctica de la Guardia Civil.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909183141 +0200" stop="20260909183900 +0200" channel="TUYA.TV">
+  <programme start="20260909215411 +0200" stop="20260909220131 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la Fiesta de la Parpuja</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909183900 +0200" stop="20260909185207 +0200" channel="TUYA.TV">
+  <programme start="20260909220131 +0200" stop="20260909221437 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de pintura de José Dorantes en la casa de la cultura.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260909185207 +0200" stop="20260909185208 +0200" channel="TUYA.TV">
+  <programme start="20260909221437 +0200" stop="20260909221438 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909185208 +0200" stop="20260909192328 +0200" channel="TUYA.TV">
+  <programme start="20260909221438 +0200" stop="20260909224558 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909192328 +0200" stop="20260909192329 +0200" channel="TUYA.TV">
+  <programme start="20260909224558 +0200" stop="20260909224559 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909192329 +0200" stop="20260909200308 +0200" channel="TUYA.TV">
+  <programme start="20260909224559 +0200" stop="20260909232538 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260909200308 +0200" stop="20260909200309 +0200" channel="TUYA.TV">
+  <programme start="20260909232538 +0200" stop="20260909232539 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909200309 +0200" stop="20260909203639 +0200" channel="TUYA.TV">
+  <programme start="20260909232539 +0200" stop="20260909235910 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909203639 +0200" stop="20260909203640 +0200" channel="TUYA.TV">
+  <programme start="20260909235910 +0200" stop="20260909235910 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909203640 +0200" stop="20260909211421 +0200" channel="TUYA.TV">
+  <programme start="20260909235910 +0200" stop="20260910003651 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909211421 +0200" stop="20260909211421 +0200" channel="TUYA.TV">
+  <programme start="20260910003651 +0200" stop="20260910003652 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
     <desc lang="es">No te pierdas a continuación: P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909211421 +0200" stop="20260909214745 +0200" channel="TUYA.TV">
+  <programme start="20260910003652 +0200" stop="20260910011015 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909214745 +0200" stop="20260909214746 +0200" channel="TUYA.TV">
+  <programme start="20260910011015 +0200" stop="20260910011016 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
     <desc lang="es">No te pierdas a continuación: P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909214746 +0200" stop="20260909222103 +0200" channel="TUYA.TV">
+  <programme start="20260910011016 +0200" stop="20260910014334 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P29 - Gari León. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260909222103 +0200" stop="20260909222104 +0200" channel="TUYA.TV">
+  <programme start="20260910014334 +0200" stop="20260910014334 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: AQUÍ HAY TEMA</title>
     <desc lang="es">No te pierdas a continuación: P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909222104 +0200" stop="20260909225830 +0200" channel="TUYA.TV">
+  <programme start="20260910014334 +0200" stop="20260910022100 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260909225830 +0200" stop="20260909225830 +0200" channel="TUYA.TV">
+  <programme start="20260910022100 +0200" stop="20260910022101 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909225830 +0200" stop="20260909233040 +0200" channel="TUYA.TV">
+  <programme start="20260910022101 +0200" stop="20260910025310 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909233040 +0200" stop="20260909233040 +0200" channel="TUYA.TV">
+  <programme start="20260910025310 +0200" stop="20260910025311 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260909233040 +0200" stop="20260910000734 +0200" channel="TUYA.TV">
+  <programme start="20260910025311 +0200" stop="20260910033004 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910000734 +0200" stop="20260910000734 +0200" channel="TUYA.TV">
+  <programme start="20260910033004 +0200" stop="20260910033004 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: #SINCORTES</title>
     <desc lang="es">No te pierdas a continuación: #VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910000734 +0200" stop="20260910001903 +0200" channel="TUYA.TV">
+  <programme start="20260910033004 +0200" stop="20260910034133 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#VEJER: Visita a las renovadas instalaciones de la oficna de turismo de Vejer.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910001903 +0200" stop="20260910002135 +0200" channel="TUYA.TV">
+  <programme start="20260910034133 +0200" stop="20260910034405 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Partido Popular propone llevar la situación de Ceuta el pleno</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910002135 +0200" stop="20260910002556 +0200" channel="TUYA.TV">
+  <programme start="20260910034405 +0200" stop="20260910034826 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Recepción de los agentes en práctica de la Guardia Civil.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910002556 +0200" stop="20260910003315 +0200" channel="TUYA.TV">
+  <programme start="20260910034826 +0200" stop="20260910035546 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación de la Fiesta de la Parpuja</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910003315 +0200" stop="20260910004458 +0200" channel="TUYA.TV">
+  <programme start="20260910035546 +0200" stop="20260910040728 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de pintura de José Dorantes en la casa de la cultura.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260910004458 +0200" stop="20260910004458 +0200" channel="TUYA.TV">
+  <programme start="20260910040728 +0200" stop="20260910040728 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
     <desc lang="es">No te pierdas a continuación: P16 - Playa de la Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260910004458 +0200" stop="20260910012200 +0200" channel="TUYA.TV">
+  <programme start="20260910040728 +0200" stop="20260910044431 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P16 - Playa de la Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260910012200 +0200" stop="20260910012201 +0200" channel="TUYA.TV">
+  <programme start="20260910044431 +0200" stop="20260910044431 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910012201 +0200" stop="20260910015447 +0200" channel="TUYA.TV">
+  <programme start="20260910044431 +0200" stop="20260910051717 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910015447 +0200" stop="20260910015447 +0200" channel="TUYA.TV">
+  <programme start="20260910051717 +0200" stop="20260910051717 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910015447 +0200" stop="20260910023142 +0200" channel="TUYA.TV">
+  <programme start="20260910051717 +0200" stop="20260910055412 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910023142 +0200" stop="20260910023142 +0200" channel="TUYA.TV">
+  <programme start="20260910055412 +0200" stop="20260910055412 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: AQUÍ HAY TEMA</title>
     <desc lang="es">No te pierdas a continuación: P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260910023142 +0200" stop="20260910030914 +0200" channel="TUYA.TV">
+  <programme start="20260910055412 +0200" stop="20260910063144 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260910030914 +0200" stop="20260910030915 +0200" channel="TUYA.TV">
+  <programme start="20260910063144 +0200" stop="20260910063145 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910030915 +0200" stop="20260910033920 +0200" channel="TUYA.TV">
+  <programme start="20260910063145 +0200" stop="20260910070150 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910033920 +0200" stop="20260910033921 +0200" channel="TUYA.TV">
+  <programme start="20260910070150 +0200" stop="20260910070151 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LA MINA 2026</title>
     <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910033921 +0200" stop="20260910041930 +0200" channel="TUYA.TV">
+  <programme start="20260910070151 +0200" stop="20260910074200 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910041930 +0200" stop="20260910041931 +0200" channel="TUYA.TV">
+  <programme start="20260910074200 +0200" stop="20260910074201 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
     <desc lang="es">No te pierdas a continuación: P15 - El Cañejo. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260910041931 +0200" stop="20260910045325 +0200" channel="TUYA.TV">
+  <programme start="20260910074201 +0200" stop="20260910081555 +0200" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P15 - El Cañejo. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
   </programme>
-  <programme start="20260910045325 +0200" stop="20260910045325 +0200" channel="TUYA.TV">
+  <programme start="20260910081555 +0200" stop="20260910081555 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">No te pierdas a continuación: SERIE ANIMADA DE LA OPP72. Ep. 03. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910045325 +0200" stop="20260910050109 +0200" channel="TUYA.TV">
+  <programme start="20260910081555 +0200" stop="20260910082340 +0200" channel="TUYA.TV">
     <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 03. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260910050109 +0200" stop="20260910050110 +0200" channel="TUYA.TV">
+  <programme start="20260910082340 +0200" stop="20260910082340 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: ZAGALILLOS</title>
     <desc lang="es">No te pierdas a continuación: P04 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260910050110 +0200" stop="20260910054109 +0200" channel="TUYA.TV">
+  <programme start="20260910082340 +0200" stop="20260910090339 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS</title>
     <desc lang="es">P04 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260910054109 +0200" stop="20260910054110 +0200" channel="TUYA.TV">
+  <programme start="20260910090339 +0200" stop="20260910090340 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910054110 +0200" stop="20260910061944 +0200" channel="TUYA.TV">
+  <programme start="20260910090340 +0200" stop="20260910094214 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910061944 +0200" stop="20260910061944 +0200" channel="TUYA.TV">
+  <programme start="20260910094214 +0200" stop="20260910094214 +0200" channel="TUYA.TV">
     <title lang="es">Próximamente: LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">No te pierdas a continuación: Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260910061944 +0200" stop="20260910065914 +0200" channel="TUYA.TV">
+  <programme start="20260910094214 +0200" stop="20260910102511 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
+  </programme>
+  <programme start="20260910102511 +0200" stop="20260910102511 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: #SINCORTES</title>
+    <desc lang="es">No te pierdas a continuación: #CHICLANA: Presentación de la quinta edición del Memorial Miki y Naranjito que se llevará a cabo en la Barrosa.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260910102511 +0200" stop="20260910103603 +0200" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación de la quinta edición del Memorial Miki y Naranjito que se llevará a cabo en la Barrosa.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260910103603 +0200" stop="20260910103936 +0200" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Vox crítica la situación de la calle Estambul.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260910103936 +0200" stop="20260910104723 +0200" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación de las actividades de la EMA y su periodo de matriculación.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260910104723 +0200" stop="20260910105051 +0200" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Visita a BigMat con motivo de su participación en un curso de IA.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
+  </programme>
+  <programme start="20260910105051 +0200" stop="20260910112312 +0200" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P06 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
+  </programme>
+  <programme start="20260910112312 +0200" stop="20260910112313 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: ¡ANDA QUE NO!</title>
+    <desc lang="es">No te pierdas a continuación: P20 - José Alberto Cruz. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
+  </programme>
+  <programme start="20260910112313 +0200" stop="20260910115831 +0200" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P20 - José Alberto Cruz. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg" />
+  </programme>
+  <programme start="20260910115831 +0200" stop="20260910115831 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: LA MINA 2026</title>
+    <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260910115831 +0200" stop="20260910122835 +0200" channel="TUYA.TV">
+    <title lang="es">LA MINA 2026</title>
+    <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260910122835 +0200" stop="20260910122835 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: LA MINA 2026</title>
+    <desc lang="es">No te pierdas a continuación: Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260910122835 +0200" stop="20260910130832 +0200" channel="TUYA.TV">
+    <title lang="es">LA MINA 2026</title>
+    <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260910130832 +0200" stop="20260910130833 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
+    <desc lang="es">No te pierdas a continuación: P02 - Playa del Carmen (Barbate). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260910130833 +0200" stop="20260910133929 +0200" channel="TUYA.TV">
+    <title lang="es">OJÚ Q CALÓ!</title>
+    <desc lang="es">P02 - Playa del Carmen (Barbate). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260910133929 +0200" stop="20260910133930 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: OJÚ Q CALÓ!</title>
+    <desc lang="es">No te pierdas a continuación: P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260910133930 +0200" stop="20260910141133 +0200" channel="TUYA.TV">
+    <title lang="es">OJÚ Q CALÓ!</title>
+    <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
+  </programme>
+  <programme start="20260910141133 +0200" stop="20260910141133 +0200" channel="TUYA.TV">
+    <title lang="es">Próximamente: SILLAS A LA CALLE</title>
+    <desc lang="es">No te pierdas a continuación: P01 CPR CAMPOS DE CONIL - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad la cuentan sus protagonistas.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
+  </programme>
+  <programme start="20260910141133 +0200" stop="20260910144044 +0200" channel="TUYA.TV">
+    <title lang="es">SILLAS A LA CALLE</title>
+    <desc lang="es">P01 CPR CAMPOS DE CONIL - Desde la calle, con sus protagonistas, temas de interés, reclamaciones vecinales... En Sillas a la Calle, la actualidad la cuentan sus protagonistas.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sillasalacalle.jpg" />
   </programme>
   <programme start="20260908000000 +0200" stop="20260908010000 +0200" channel="DiezTV_Ubeda.TV">
     <title lang="es">Noticias Diez TV: Úbeda</title>
@@ -64303,6 +64494,66 @@ Avui farcirem una cuixa de porcella amb poma, herbes aromàtiques i boninets de 
     <desc lang="es">19:00 – 00:30</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
+  <programme start="20260908090000 +0200" stop="20260908093000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">09:00 – 09:30</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260908120000 +0200" stop="20260908133000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Directo Misa Angustias</title>
+    <desc lang="es">12:00 – 13:30</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260908143000 +0200" stop="20260908150000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">14:30 – 15:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260908150000 +0200" stop="20260908151000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">15:00 – 15:10</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
+  </programme>
+  <programme start="20260908151000 +0200" stop="20260908164000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">15:10 – 16:40</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260908170000 +0200" stop="20260908193000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Al Sol del Sur-redifusión</title>
+    <desc lang="es">17:00 – 19:30</desc>
+    <icon src="https://graph.facebook.com/canalcosta/picture?width=200&amp;height=200" />
+  </programme>
+  <programme start="20260908193000 +0200" stop="20260908203000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">19:30 – 20:30</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260908203000 +0200" stop="20260908210000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">20:30 – 21:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260908210000 +0200" stop="20260908211000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">21:00 – 21:10</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
+  </programme>
+  <programme start="20260908211000 +0200" stop="20260908220000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Ronqueo del Atún en Isla Cristina</title>
+    <desc lang="es">21:10 – 22:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260908220000 +0200" stop="20260908233000 +0200" channel="CanalCosta.TV">
+    <title lang="es">San Roque de Lepe ante el Ceuta B</title>
+    <desc lang="es">22:00 – 23:30</desc>
+    <icon src="https://graph.facebook.com/canalcosta/picture?width=200&amp;height=200" />
+  </programme>
+  <programme start="20260908234000 +0200" stop="20260909001000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">23:40 – 00:10</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
   <programme start="20260908090000 +0200" stop="20260908100000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">09:00 – 10:00</desc>
@@ -64397,6 +64648,31 @@ Avui farcirem una cuixa de porcella amb poma, herbes aromàtiques i boninets de 
     <title lang="es">El Tiempo</title>
     <desc lang="es">21:10 – 21:20</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
+  </programme>
+  <programme start="20260909001000 +0200" stop="20260909004000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">00:10 – 00:40</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260909004000 +0200" stop="20260909005000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">00:40 – 00:50</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
+  </programme>
+  <programme start="20260909010000 +0200" stop="20260909090000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Especial Reportajes</title>
+    <desc lang="es">01:00 – 09:00</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
+  </programme>
+  <programme start="20260909090000 +0200" stop="20260909093000 +0200" channel="CanalCosta.TV">
+    <title lang="es">Informativo</title>
+    <desc lang="es">09:00 – 09:30</desc>
+    <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
+  </programme>
+  <programme start="20260909093000 +0200" stop="20260909094000 +0200" channel="CanalCosta.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">09:30 – 09:40</desc>
+    <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
   <programme start="20260909090000 +0200" stop="20260909100000 +0200" channel="Condavision.TV">
     <title lang="es">Informativos</title>
@@ -64613,48 +64889,6 @@ Avui farcirem una cuixa de porcella amb poma, herbes aromàtiques i boninets de 
     <desc lang="es">20:30 – 21:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20260908123400 +0200" stop="20260908130300 +0200" channel="9LaLoma.TV">
-    <title lang="es">Eventos. Carreta Centro de día Vela de Almazán</title>
-    <desc lang="es">Romería de la Virgen del Rosel</desc>
-    <category lang="es">news current affairs</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908130300 +0200" stop="20260908143100 +0200" channel="9LaLoma.TV">
-    <title lang="es">Banda Sinfónica Ciudad de Baeza</title>
-    <desc lang="es">XV Concierto de Marchas Procesionales</desc>
-    <category lang="es">music ballet dance</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908143100 +0200" stop="20260908151300 +0200" channel="9LaLoma.TV">
-    <title lang="es">Informativos 9</title>
-    <desc lang="es">Las noticias de la jornada en Informativos 9</desc>
-    <category lang="es">news current affairs</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908151300 +0200" stop="20260908164300 +0200" channel="9LaLoma.TV">
-    <title lang="es">Eventos. Romería de la Yedra</title>
-    <desc lang="es">Eventos en la comarca de La Loma</desc>
-    <category lang="es">popular culture traditional arts</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908164300 +0200" stop="20260908173400 +0200" channel="9LaLoma.TV">
-    <title lang="es">Feria de Torreperogil 2026. Pregón de Ferias</title>
-    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
-    <category lang="es">popular culture traditional arts</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908173400 +0200" stop="20260908173700 +0200" channel="9LaLoma.TV">
-    <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
-    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
-    <category lang="es">popular culture traditional arts</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20260908173700 +0200" stop="20260908174900 +0200" channel="9LaLoma.TV">
-    <title lang="es">Feria de Torreperogil 2026. Cabalgata de gigantes y cabezudos</title>
-    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
-    <category lang="es">popular culture traditional arts</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
   <programme start="20260908174900 +0200" stop="20260908180300 +0200" channel="9LaLoma.TV">
     <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
     <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
@@ -64685,7 +64919,241 @@ Avui farcirem una cuixa de porcella amb poma, herbes aromàtiques i boninets de 
     <category lang="es">news current affairs</category>
     <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
   </programme>
-  <programme start="20260908213400 +0200" stop="20260908214400 +0200" channel="9LaLoma.TV">
+  <programme start="20260908213400 +0200" stop="20260908214900 +0200" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908214900 +0200" stop="20260908215600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Yulsko</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908215600 +0200" stop="20260908220200 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Elías Fabrey</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908220200 +0200" stop="20260908222600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Inefable</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908222600 +0200" stop="20260908224700 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Dilukah</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908224700 +0200" stop="20260908230500 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. La Guardia</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260908230500 +0200" stop="20260909005300 +0200" channel="9LaLoma.TV">
+    <title lang="es">Úbeda. Fiesta en honor a Ntra. Sra. de Guadupe</title>
+    <desc lang="es">Solemne Fiesta Votiva</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909005300 +0200" stop="20260909012200 +0200" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9, con Yolanda Jiménez</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909012200 +0200" stop="20260909013400 +0200" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909013400 +0200" stop="20260909021300 +0200" channel="9LaLoma.TV">
+    <title lang="es">Ojú Qué Calor!</title>
+    <desc lang="es">Playa del Palmar</desc>
+    <category lang="es">show game show</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909021300 +0200" stop="20260909041600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Toni Rovira y Tu</title>
+    <desc lang="es">Magazine nocturno optimista con invitados, musica y muchas sorpresas</desc>
+    <category lang="es">show game show</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909041600 +0200" stop="20260909053800 +0200" channel="9LaLoma.TV">
+    <title lang="es">Gala Starlite Marbella</title>
+    <desc lang="es">Noche solidaria organizada por la Fundación Starlite</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909053800 +0200" stop="20260909070300 +0200" channel="9LaLoma.TV">
+    <title lang="es">Javié Carmona Trío</title>
+    <desc lang="es">Ciclo Música y Patrimonio Carmona</desc>
+    <category lang="es">music ballet dance</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909070300 +0200" stop="20260909081100 +0200" channel="9LaLoma.TV">
+    <title lang="es">Humor con Toni Rodriguez</title>
+    <desc lang="es">Carmona, septiembre 2025</desc>
+    <category lang="es">show game show</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909081100 +0200" stop="20260909083800 +0200" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9, con Yolanda Jiménez</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909083800 +0200" stop="20260909085000 +0200" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909085000 +0200" stop="20260909095300 +0200" channel="9LaLoma.TV">
+    <title lang="es">En su salsa</title>
+    <desc lang="es">Recetas de cocina y consejos para preparar sabrosos platos</desc>
+    <category lang="es">leisure hobbies</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909095300 +0200" stop="20260909102900 +0200" channel="9LaLoma.TV">
+    <title lang="es">NoFuture</title>
+    <desc lang="es">Programa sobre ciencia</desc>
+    <category lang="es">education science factual topics</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909102900 +0200" stop="20260909110300 +0200" channel="9LaLoma.TV">
+    <title lang="es">Hi-Tech</title>
+    <desc lang="es">Novedades tecnologicas</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909110300 +0200" stop="20260909113800 +0200" channel="9LaLoma.TV">
+    <title lang="es">Play Music</title>
+    <desc lang="es">Radar musical semanal con descubrimientos, noticias y novedades</desc>
+    <category lang="es">rock pop</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909113800 +0200" stop="20260909130400 +0200" channel="9LaLoma.TV">
+    <title lang="es">Eventos. Romería de la Yedra</title>
+    <desc lang="es">Eventos en la comarca de La Loma</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909130400 +0200" stop="20260909135600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Pregón de Ferias</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909135600 +0200" stop="20260909135900 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909135900 +0200" stop="20260909141100 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Cabalgata de gigantes y cabezudos</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909141100 +0200" stop="20260909142600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909142600 +0200" stop="20260909150100 +0200" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9, con Yolanda Jiménez</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909150100 +0200" stop="20260909150900 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Toro de fuego</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909150900 +0200" stop="20260909151600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Yulsko</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909151600 +0200" stop="20260909152200 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Elías Fabrey</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909152200 +0200" stop="20260909154700 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Inefable</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909154700 +0200" stop="20260909160700 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Dilukah</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909160700 +0200" stop="20260909162500 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. La Guardia</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909162500 +0200" stop="20260909181100 +0200" channel="9LaLoma.TV">
+    <title lang="es">Úbeda. Fiesta en honor a Ntra. Sra. de Guadupe</title>
+    <desc lang="es">Solemne Fiesta Votiva</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909181100 +0200" stop="20260909193900 +0200" channel="9LaLoma.TV">
+    <title lang="es">Eventos. Romería de la Yedra</title>
+    <desc lang="es">Eventos en la comarca de La Loma</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909193900 +0200" stop="20260909203000 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Pregón de Ferias</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909203000 +0200" stop="20260909203300 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909203300 +0200" stop="20260909204600 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Cabalgata de gigantes y cabezudos</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909204600 +0200" stop="20260909205800 +0200" channel="9LaLoma.TV">
+    <title lang="es">Feria de Torreperogil 2026. Ambiente Feria de Día</title>
+    <desc lang="es">Vive la Feria de Torreperogil en 9 La Loma TV</desc>
+    <category lang="es">popular culture traditional arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909205800 +0200" stop="20260909212700 +0200" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9, con Yolanda Jiménez</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20260909212700 +0200" stop="20260909214400 +0200" channel="9LaLoma.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
     <category lang="es">news weather report</category>
