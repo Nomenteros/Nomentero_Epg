@@ -846,6 +846,21 @@
     <icon src="https://pbs.twimg.com/profile_images/1304420799139454976/4DRbUjzQ_200x200.jpg" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
+  <channel id="DiezTV_Ubeda.TV">
+    <display-name lang="es">DiezTV_Ubeda.TV</display-name>
+    <icon src="https://yt3.ggpht.com/ZQLwJT5GJVFI-Woh2HmXRqub3us3gqBYKiaEls9z4wciim0qMMTbgfWmjAZTaNk17m8xCT41=s200" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
+  <channel id="DiezTV_LasVillas.TV">
+    <display-name lang="es">DiezTV_LasVillas.TV</display-name>
+    <icon src="https://yt3.ggpht.com/ASecJ9n3KEwF1HX7SwCtF-RmPGpGxEsP1_Sy_oDUfQb8PfYoJvfUIOXuM0Z82pe_q2A9TWsmIrw=s200" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
+  <channel id="DiezTV_Andujar.TV">
+    <display-name lang="es">DiezTV_Andujar.TV</display-name>
+    <icon src="https://yt3.ggpht.com/j0etd2ixQm6vy04G6WydnpatUHaf94D4Lgd640U60lgdDZDGU7utjB7ofWSBNofenGK7SN5zmQ=s200" />
+    <url>http://www.Nomentero_EPG</url>
+  </channel>
   <channel id="EnergeekRetro.TV">
     <display-name lang="es">EnergeekRetro.TV</display-name>
     <icon src="https://pbs.twimg.com/profile_images/2088558300111556608/CrCydAjp_200x200.jpg" />
@@ -62805,6 +62820,433 @@ Juanjo Martín (colaborador externo).</desc>
     <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
     <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20260913030000 +0200" stop="20260913094000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260913090000 +0200" stop="20260913110000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Semanal</title>
+    <desc lang="es">La información semanal más cercana de la comarca en Noticias Diez TV.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-semanal-cb5df0.jpg" />
+  </programme>
+  <programme start="20260913120000 +0200" stop="20260913121000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Mística Unión</title>
+    <desc lang="es">Microespacio que invita al alma al recogimiento profundo donde el amor abre paso a una comunión silenciosa y transformadora con Dios.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/mistica-union-b67214.png" />
+  </programme>
+  <programme start="20260913121000 +0200" stop="20260913140000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Redifusiones Diez TV Úbeda</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
+  </programme>
+  <programme start="20260913140000 +0200" stop="20260913160000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Semanal</title>
+    <desc lang="es">La información semanal más cercana de la comarca en Noticias Diez TV.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-semanal-cb5df0.jpg" />
+  </programme>
+  <programme start="20260913160000 +0200" stop="20260913210000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Redifusiones Diez TV Úbeda</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
+  </programme>
+  <programme start="20260913210000 +0200" stop="20260913220000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260913220000 +0200" stop="20260914030000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Redifusiones Diez TV Úbeda</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
+  </programme>
+  <programme start="20260914030000 +0200" stop="20260914094000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260914094000 +0200" stop="20260914143000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Redifusiones Diez TV Úbeda</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
+  </programme>
+  <programme start="20260914143000 +0200" stop="20260914153000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">ViSaDo</title>
+    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
+  </programme>
+  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260914220000 +0200" stop="20260914221500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260914221500 +0200" stop="20260914231500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260914232000 +0200" stop="20260915000000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">ViSaDo</title>
+    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
+  </programme>
+  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260915010000 +0200" stop="20260915030000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915030000 +0200" stop="20260915090000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260915090000 +0200" stop="20260915094500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260915094500 +0200" stop="20260915100000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260915100000 +0200" stop="20260915140000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915140000 +0200" stop="20260915150000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260915150000 +0200" stop="20260915200000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915200000 +0200" stop="20260915210000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">ViSaDo</title>
+    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
+  </programme>
+  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260915220000 +0200" stop="20260915221500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260915221500 +0200" stop="20260915231500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260915231500 +0200" stop="20260916000000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260916010000 +0200" stop="20260916030000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916030000 +0200" stop="20260916090000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260916090000 +0200" stop="20260916094500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260916094500 +0200" stop="20260916100000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260916100000 +0200" stop="20260916140000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Redifusiones Diez TV Úbeda</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
+  </programme>
+  <programme start="20260916140000 +0200" stop="20260916150000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260916150000 +0200" stop="20260916194500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916194500 +0200" stop="20260916200000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260916200000 +0200" stop="20260916210000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">Noticias Diez TV: Úbeda</title>
+    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
+  </programme>
+  <programme start="20260916220000 +0200" stop="20260916221500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">El reportaje del día</title>
+    <desc lang="es">El reportaje del día en Diez TV.</desc>
+    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
+  </programme>
+  <programme start="20260916221500 +0200" stop="20260916231500 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260916231500 +0200" stop="20260917000000 +0200" channel="DiezTV_Ubeda.TV">
+    <title lang="es">De pueblo en feria</title>
+    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
+  </programme>
+  <programme start="20260913020000 +0200" stop="20260913090000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260913090000 +0200" stop="20260914020000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260914020000 +0200" stop="20260914090000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260914090000 +0200" stop="20260914210000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260914220000 +0200" stop="20260915000000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260915010000 +0200" stop="20260915020000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915020000 +0200" stop="20260915090000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260915090000 +0200" stop="20260915094000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260915094000 +0200" stop="20260915140000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260915140000 +0200" stop="20260915150000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260915150000 +0200" stop="20260915202500 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260915202500 +0200" stop="20260915205500 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Finanzas para todos</title>
+    <desc lang="es">Programa sobre economía, presentado por Sebastián Munuera.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/finanzas-para-todos-669b77.png" />
+  </programme>
+  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260915220000 +0200" stop="20260916000000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260916010000 +0200" stop="20260916020000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916020000 +0200" stop="20260916090000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260916090000 +0200" stop="20260916094000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260916094000 +0200" stop="20260916140000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260916140000 +0200" stop="20260916150000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260916150000 +0200" stop="20260916210000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Redifusiones Diez TV Las Villas</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
+  </programme>
+  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">Noticias Diez TV: Las Villas</title>
+    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
+  </programme>
+  <programme start="20260916220000 +0200" stop="20260917000000 +0200" channel="DiezTV_LasVillas.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260913020000 +0200" stop="20260913090000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260913090000 +0200" stop="20260914020000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Redifusiones Diez TV Andújar</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
+  </programme>
+  <programme start="20260914020000 +0200" stop="20260914090000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260914090000 +0200" stop="20260914210000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Redifusiones Diez TV Andújar</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
+  </programme>
+  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260914220000 +0200" stop="20260915000000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260915010000 +0200" stop="20260915020000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260915020000 +0200" stop="20260915090000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260915090000 +0200" stop="20260915094000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260915094000 +0200" stop="20260915210000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Redifusiones Diez TV Andújar</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
+  </programme>
+  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260915220000 +0200" stop="20260915223000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Plaza Vieja</title>
+    <icon src="https://epg.dieztv.es/uploads/img_6a2d5930c5f9d2.21559608.png" />
+  </programme>
+  <programme start="20260915223000 +0200" stop="20260916000000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260916010000 +0200" stop="20260916020000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  </programme>
+  <programme start="20260916020000 +0200" stop="20260916090000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Música Diez</title>
+    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
+  </programme>
+  <programme start="20260916090000 +0200" stop="20260916094000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260916094000 +0200" stop="20260916210000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Redifusiones Diez TV Andújar</title>
+    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
+  </programme>
+  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">Noticias Diez TV: Andújar</title>
+    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
+  </programme>
+  <programme start="20260916220000 +0200" stop="20260916233000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">La Atalaya</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/la-atalaya-e3e9fc.png" />
+  </programme>
+  <programme start="20260916233000 +0200" stop="20260917000000 +0200" channel="DiezTV_Andujar.TV">
+    <title lang="es">REC10</title>
+    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
   </programme>
   <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="EnergeekRetro.TV">
     <title lang="es">Maratones EnerGeek</title>
