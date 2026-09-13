@@ -846,21 +846,6 @@
     <icon src="https://pbs.twimg.com/profile_images/1304420799139454976/4DRbUjzQ_200x200.jpg" />
     <url>http://www.Nomentero_EPG</url>
   </channel>
-  <channel id="DiezTV_Ubeda.TV">
-    <display-name lang="es">DiezTV_Ubeda.TV</display-name>
-    <icon src="https://yt3.ggpht.com/ZQLwJT5GJVFI-Woh2HmXRqub3us3gqBYKiaEls9z4wciim0qMMTbgfWmjAZTaNk17m8xCT41=s200" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
-  <channel id="DiezTV_LasVillas.TV">
-    <display-name lang="es">DiezTV_LasVillas.TV</display-name>
-    <icon src="https://yt3.ggpht.com/ASecJ9n3KEwF1HX7SwCtF-RmPGpGxEsP1_Sy_oDUfQb8PfYoJvfUIOXuM0Z82pe_q2A9TWsmIrw=s200" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
-  <channel id="DiezTV_Andujar.TV">
-    <display-name lang="es">DiezTV_Andujar.TV</display-name>
-    <icon src="https://yt3.ggpht.com/j0etd2ixQm6vy04G6WydnpatUHaf94D4Lgd640U60lgdDZDGU7utjB7ofWSBNofenGK7SN5zmQ=s200" />
-    <url>http://www.Nomentero_EPG</url>
-  </channel>
   <channel id="EnergeekRetro.TV">
     <display-name lang="es">EnergeekRetro.TV</display-name>
     <icon src="https://pbs.twimg.com/profile_images/2088558300111556608/CrCydAjp_200x200.jpg" />
@@ -62426,842 +62411,425 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Resumen de las noticias más importantes vistas en Noticias Almería 24H la última semana.</desc>
     <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
   </programme>
-  <programme start="20260913202411 +0200" stop="20260913204952 +0200" channel="TUYA.TV">
+  <programme start="20260913204335 +0200" stop="20260913210936 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 35 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260913204952 +0200" stop="20260913211240 +0200" channel="TUYA.TV">
+  <programme start="20260913210936 +0200" stop="20260913213450 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 35 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260913211240 +0200" stop="20260913214201 +0200" channel="TUYA.TV">
+  <programme start="20260913213450 +0200" stop="20260913220958 +0200" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P11 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
+  </programme>
+  <programme start="20260913220958 +0200" stop="20260913224622 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260913214201 +0200" stop="20260913221408 +0200" channel="TUYA.TV">
+  <programme start="20260913224622 +0200" stop="20260913232013 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260913221408 +0200" stop="20260913224656 +0200" channel="TUYA.TV">
-    <title lang="es">DÍA DE LA PATRONA 2026</title>
-    <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260913224656 +0200" stop="20260913232320 +0200" channel="TUYA.TV">
-    <title lang="es">DÍA DE LA PATRONA 2026</title>
-    <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260913232320 +0200" stop="20260913235711 +0200" channel="TUYA.TV">
-    <title lang="es">DÍA DE LA PATRONA 2026</title>
-    <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20260913235711 +0200" stop="20260914000632 +0200" channel="TUYA.TV">
+  <programme start="20260913232013 +0200" stop="20260913232934 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: La calle Arroyuelo es premiada y su alcalde visita esta vía.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914000632 +0200" stop="20260914003551 +0200" channel="TUYA.TV">
+  <programme start="20260913232934 +0200" stop="20260913235853 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914003551 +0200" stop="20260914010734 +0200" channel="TUYA.TV">
+  <programme start="20260913235853 +0200" stop="20260914003036 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914010734 +0200" stop="20260914014048 +0200" channel="TUYA.TV">
+  <programme start="20260914003036 +0200" stop="20260914010350 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914014048 +0200" stop="20260914021714 +0200" channel="TUYA.TV">
+  <programme start="20260914010350 +0200" stop="20260914014016 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914021714 +0200" stop="20260914024855 +0200" channel="TUYA.TV">
+  <programme start="20260914014016 +0200" stop="20260914021157 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914024855 +0200" stop="20260914033722 +0200" channel="TUYA.TV">
+  <programme start="20260914021157 +0200" stop="20260914030024 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914033722 +0200" stop="20260914042703 +0200" channel="TUYA.TV">
+  <programme start="20260914030024 +0200" stop="20260914035005 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914042703 +0200" stop="20260914050446 +0200" channel="TUYA.TV">
+  <programme start="20260914035005 +0200" stop="20260914042748 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914050446 +0200" stop="20260914054650 +0200" channel="TUYA.TV">
+  <programme start="20260914042748 +0200" stop="20260914050952 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914054650 +0200" stop="20260914055654 +0200" channel="TUYA.TV">
+  <programme start="20260914050952 +0200" stop="20260914051956 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: La calle Arroyuelo es premiada y su alcalde visita esta vía.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914055654 +0200" stop="20260914062648 +0200" channel="TUYA.TV">
+  <programme start="20260914051956 +0200" stop="20260914054950 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914062648 +0200" stop="20260914065856 +0200" channel="TUYA.TV">
+  <programme start="20260914054950 +0200" stop="20260914062158 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914065856 +0200" stop="20260914073310 +0200" channel="TUYA.TV">
+  <programme start="20260914062158 +0200" stop="20260914065612 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914073310 +0200" stop="20260914080950 +0200" channel="TUYA.TV">
+  <programme start="20260914065612 +0200" stop="20260914073252 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914080950 +0200" stop="20260914084216 +0200" channel="TUYA.TV">
+  <programme start="20260914073252 +0200" stop="20260914080518 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914084216 +0200" stop="20260914084756 +0200" channel="TUYA.TV">
+  <programme start="20260914080518 +0200" stop="20260914081058 +0200" channel="TUYA.TV">
     <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 04. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914084756 +0200" stop="20260914092053 +0200" channel="TUYA.TV">
+  <programme start="20260914081058 +0200" stop="20260914084355 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914092053 +0200" stop="20260914095100 +0200" channel="TUYA.TV">
+  <programme start="20260914084355 +0200" stop="20260914091402 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914095100 +0200" stop="20260914102729 +0200" channel="TUYA.TV">
+  <programme start="20260914091402 +0200" stop="20260914095031 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914102729 +0200" stop="20260914111707 +0200" channel="TUYA.TV">
+  <programme start="20260914095031 +0200" stop="20260914104009 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914111707 +0200" stop="20260914112303 +0200" channel="TUYA.TV">
+  <programme start="20260914104009 +0200" stop="20260914104605 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El PP presenta su "Proyecto Alameda" con el objetivo de transformar un espacio como la alameda del río en una plaza verde y accesible.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914112303 +0200" stop="20260914113144 +0200" channel="TUYA.TV">
+  <programme start="20260914104605 +0200" stop="20260914105446 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de la chiclanera Daniela Martínez "Kintsugi"</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914113144 +0200" stop="20260914120659 +0200" channel="TUYA.TV">
+  <programme start="20260914105446 +0200" stop="20260914113002 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
     <desc lang="es">Día 1: Inauguración y gala de reconocimientos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914120659 +0200" stop="20260914124310 +0200" channel="TUYA.TV">
+  <programme start="20260914113002 +0200" stop="20260914120612 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
     <desc lang="es">Día 1: Inauguración y gala de reconocimientos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914124310 +0200" stop="20260914131733 +0200" channel="TUYA.TV">
+  <programme start="20260914120612 +0200" stop="20260914124035 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
     <desc lang="es">Día 1: Inauguración y gala de reconocimientos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914131733 +0200" stop="20260914135303 +0200" channel="TUYA.TV">
+  <programme start="20260914124035 +0200" stop="20260914131605 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL FERIA DE CONIL 2026</title>
     <desc lang="es">Día 1: Inauguración y gala de reconocimientos</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914135303 +0200" stop="20260914142525 +0200" channel="TUYA.TV">
+  <programme start="20260914131605 +0200" stop="20260914134827 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914142525 +0200" stop="20260914150327 +0200" channel="TUYA.TV">
+  <programme start="20260914134827 +0200" stop="20260914142629 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914150327 +0200" stop="20260914154757 +0200" channel="TUYA.TV">
+  <programme start="20260914142629 +0200" stop="20260914151059 +0200" channel="TUYA.TV">
     <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
     <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914154757 +0200" stop="20260914164026 +0200" channel="TUYA.TV">
+  <programme start="20260914151059 +0200" stop="20260914160328 +0200" channel="TUYA.TV">
     <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
     <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914164026 +0200" stop="20260914171745 +0200" channel="TUYA.TV">
+  <programme start="20260914160328 +0200" stop="20260914164047 +0200" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P10 Hay temas y temas. Sigue a nuestros reporteros cada viernes y descubre que aquí hay tema.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg" />
   </programme>
-  <programme start="20260914171745 +0200" stop="20260914172340 +0200" channel="TUYA.TV">
+  <programme start="20260914164047 +0200" stop="20260914164642 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El PP presenta su "Proyecto Alameda" con el objetivo de transformar un espacio como la alameda del río en una plaza verde y accesible.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914172340 +0200" stop="20260914173406 +0200" channel="TUYA.TV">
+  <programme start="20260914164642 +0200" stop="20260914165708 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de la chiclanera Daniela Martínez "Kintsugi"</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914173406 +0200" stop="20260914180411 +0200" channel="TUYA.TV">
+  <programme start="20260914165708 +0200" stop="20260914172713 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914180411 +0200" stop="20260914184314 +0200" channel="TUYA.TV">
+  <programme start="20260914172713 +0200" stop="20260914180616 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914184314 +0200" stop="20260914191659 +0200" channel="TUYA.TV">
+  <programme start="20260914180616 +0200" stop="20260914184001 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914191659 +0200" stop="20260914195436 +0200" channel="TUYA.TV">
+  <programme start="20260914184001 +0200" stop="20260914191738 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914195436 +0200" stop="20260914202657 +0200" channel="TUYA.TV">
+  <programme start="20260914191738 +0200" stop="20260914194959 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914202657 +0200" stop="20260914205815 +0200" channel="TUYA.TV">
+  <programme start="20260914194959 +0200" stop="20260914202117 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914205815 +0200" stop="20260914213449 +0200" channel="TUYA.TV">
+  <programme start="20260914202117 +0200" stop="20260914205751 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914213449 +0200" stop="20260914222212 +0200" channel="TUYA.TV">
+  <programme start="20260914205751 +0200" stop="20260914214515 +0200" channel="TUYA.TV">
     <title lang="es">ESPECIAL PISA DE LA UVA 2026</title>
     <desc lang="es">Acto de la pisa de la uva y bendición del primer mosto de Chiclana con motivo de la festividad de la Patrona.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260914222212 +0200" stop="20260914222808 +0200" channel="TUYA.TV">
+  <programme start="20260914214515 +0200" stop="20260914215110 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El PP presenta su "Proyecto Alameda" con el objetivo de transformar un espacio como la alameda del río en una plaza verde y accesible.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914222808 +0200" stop="20260914223844 +0200" channel="TUYA.TV">
+  <programme start="20260914215110 +0200" stop="20260914220146 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de la chiclanera Daniela Martínez "Kintsugi"</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260914223844 +0200" stop="20260914231623 +0200" channel="TUYA.TV">
+  <programme start="20260914220146 +0200" stop="20260914223925 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914231623 +0200" stop="20260914235736 +0200" channel="TUYA.TV">
+  <programme start="20260914223925 +0200" stop="20260914232038 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260914235736 +0200" stop="20260915002646 +0200" channel="TUYA.TV">
+  <programme start="20260914232038 +0200" stop="20260914234948 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915002646 +0200" stop="20260915005814 +0200" channel="TUYA.TV">
+  <programme start="20260914234948 +0200" stop="20260915002116 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915005814 +0200" stop="20260915013101 +0200" channel="TUYA.TV">
+  <programme start="20260915002116 +0200" stop="20260915005403 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915013101 +0200" stop="20260915020713 +0200" channel="TUYA.TV">
+  <programme start="20260915005403 +0200" stop="20260915013015 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915020713 +0200" stop="20260915023921 +0200" channel="TUYA.TV">
+  <programme start="20260915013015 +0200" stop="20260915020223 +0200" channel="TUYA.TV">
     <title lang="es">DÍA DE LA PATRONA 2026</title>
     <desc lang="es">Especial con motivo de las salidas procesionales de la patrona de Conil y la patrona de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915023921 +0200" stop="20260915031128 +0200" channel="TUYA.TV">
+  <programme start="20260915020223 +0200" stop="20260915023430 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260915031128 +0200" stop="20260915034812 +0200" channel="TUYA.TV">
+  <programme start="20260915023430 +0200" stop="20260915031114 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 49 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260915034812 +0200" stop="20260915035407 +0200" channel="TUYA.TV">
+  <programme start="20260915031114 +0200" stop="20260915031709 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El PP presenta su "Proyecto Alameda" con el objetivo de transformar un espacio como la alameda del río en una plaza verde y accesible.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915035407 +0200" stop="20260915040213 +0200" channel="TUYA.TV">
+  <programme start="20260915031709 +0200" stop="20260915032515 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inauguración de la exposición de la chiclanera Daniela Martínez "Kintsugi"</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915040213 +0200" stop="20260915043256 +0200" channel="TUYA.TV">
+  <programme start="20260915032515 +0200" stop="20260915035558 +0200" channel="TUYA.TV">
     <title lang="es">SUCEDIÓ EN... CHICLANA</title>
     <desc lang="es">Entrega de premios del V certamen de teatro mínimo García Teba.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915043256 +0200" stop="20260915051714 +0200" channel="TUYA.TV">
+  <programme start="20260915035558 +0200" stop="20260915044016 +0200" channel="TUYA.TV">
     <title lang="es">ZAGALILLOS (R)</title>
     <desc lang="es">P06 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg" />
   </programme>
-  <programme start="20260915051714 +0200" stop="20260915055500 +0200" channel="TUYA.TV">
+  <programme start="20260915044016 +0200" stop="20260915051802 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260915055500 +0200" stop="20260915063607 +0200" channel="TUYA.TV">
+  <programme start="20260915051802 +0200" stop="20260915055909 +0200" channel="TUYA.TV">
     <title lang="es">LO MEJOR DE MÁS DE CERCA</title>
     <desc lang="es">Programa 50 - Las mejores entrevistas y reportajes de la última temporada de +DC.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg" />
   </programme>
-  <programme start="20260915063607 +0200" stop="20260915071746 +0200" channel="TUYA.TV">
+  <programme start="20260915055909 +0200" stop="20260915064048 +0200" channel="TUYA.TV">
     <title lang="es">LA MINA 2026</title>
     <desc lang="es">Programas especiales con motivo del festival de este verano en la Janda. La Mina llega cargado de los mejores conciertos y los podrás ver con Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915071746 +0200" stop="20260915075334 +0200" channel="TUYA.TV">
+  <programme start="20260915064048 +0200" stop="20260915071636 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P01 - Playa La Barrosa (Chiclana). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260915075334 +0200" stop="20260915084136 +0200" channel="TUYA.TV">
+  <programme start="20260915071636 +0200" stop="20260915080438 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915084136 +0200" stop="20260915093208 +0200" channel="TUYA.TV">
+  <programme start="20260915080438 +0200" stop="20260915085510 +0200" channel="TUYA.TV">
     <title lang="es">0FRENDA FLORAL HONOR A LA PATRONA DE CHICLANA 2026</title>
     <desc lang="es">Especial con motivo de la ofrenda floral en honor a Nuestra Señora de los Remedios.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915093208 +0200" stop="20260915094405 +0200" channel="TUYA.TV">
+  <programme start="20260915085510 +0200" stop="20260915090707 +0200" channel="TUYA.TV">
     <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 01. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915094405 +0200" stop="20260915101409 +0200" channel="TUYA.TV">
+  <programme start="20260915090707 +0200" stop="20260915093711 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P02 - Playa del Carmen (Barbate). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Lo acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260915101409 +0200" stop="20260915104729 +0200" channel="TUYA.TV">
+  <programme start="20260915093711 +0200" stop="20260915101031 +0200" channel="TUYA.TV">
     <title lang="es">OJÚ Q CALÓ!</title>
     <desc lang="es">P08 - La Fontanilla (Conil). Las mejores playas, historias distintas, juegos y lugares por descubrir. Rocío F. Villarejo toma el mando del barco más refrescante de Tuya. ¿Nos acompañas?</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/ojuquecalo.jpg" />
   </programme>
-  <programme start="20260915104729 +0200" stop="20260915111807 +0200" channel="TUYA.TV">
+  <programme start="20260915101031 +0200" stop="20260915104109 +0200" channel="TUYA.TV">
     <title lang="es">AL FRESQUITO</title>
     <desc lang="es">T02.P06 - Toma el fresco con Fernando Santes y Rocío F Villarejo en el programa donde puede pasar cualquier cosa.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/alfresquito.jpg" />
   </programme>
-  <programme start="20260915111807 +0200" stop="20260915112642 +0200" channel="TUYA.TV">
+  <programme start="20260915104109 +0200" stop="20260915104944 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Inicio del curso escolar 2026-27</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915112642 +0200" stop="20260915113700 +0200" channel="TUYA.TV">
+  <programme start="20260915104944 +0200" stop="20260915110002 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CONIL: El PSOE presenta su candidato para las municipales de 2027, el actual presidente de AHINCO, Juan Antonio Nieto.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915113700 +0200" stop="20260915113936 +0200" channel="TUYA.TV">
+  <programme start="20260915110002 +0200" stop="20260915110238 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Vox alza la voz a favor de Ceuta.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915113936 +0200" stop="20260915114204 +0200" channel="TUYA.TV">
+  <programme start="20260915110238 +0200" stop="20260915110506 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: El Ayuntamiento firma el convenio de colaboración con las Agustinas Recoletas.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915114204 +0200" stop="20260915114842 +0200" channel="TUYA.TV">
+  <programme start="20260915110506 +0200" stop="20260915111144 +0200" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
     <desc lang="es">#CHICLANA: Presentación del certamen de flamenco que se celebrará durante el mes de octubre.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg" />
   </programme>
-  <programme start="20260915114842 +0200" stop="20260915123405 +0200" channel="TUYA.TV">
+  <programme start="20260915111144 +0200" stop="20260915115707 +0200" channel="TUYA.TV">
     <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
     <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260915123405 +0200" stop="20260915132259 +0200" channel="TUYA.TV">
+  <programme start="20260915115707 +0200" stop="20260915124601 +0200" channel="TUYA.TV">
     <title lang="es">FIESTA DE LA VENDIMIA 2026</title>
     <desc lang="es">Espectáculo que combina flamenco y vinos para celebrar la vendimia y las fiestas patronales de Chiclana.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
   </programme>
-  <programme start="20260913030000 +0200" stop="20260913094000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260913090000 +0200" stop="20260913110000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Semanal</title>
-    <desc lang="es">La información semanal más cercana de la comarca en Noticias Diez TV.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-semanal-cb5df0.jpg" />
-  </programme>
-  <programme start="20260913120000 +0200" stop="20260913121000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Mística Unión</title>
-    <desc lang="es">Microespacio que invita al alma al recogimiento profundo donde el amor abre paso a una comunión silenciosa y transformadora con Dios.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/mistica-union-b67214.png" />
-  </programme>
-  <programme start="20260913121000 +0200" stop="20260913140000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Redifusiones Diez TV Úbeda</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
-  </programme>
-  <programme start="20260913140000 +0200" stop="20260913160000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Semanal</title>
-    <desc lang="es">La información semanal más cercana de la comarca en Noticias Diez TV.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-semanal-cb5df0.jpg" />
-  </programme>
-  <programme start="20260913160000 +0200" stop="20260913210000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Redifusiones Diez TV Úbeda</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
-  </programme>
-  <programme start="20260913210000 +0200" stop="20260913220000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260913220000 +0200" stop="20260914030000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Redifusiones Diez TV Úbeda</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
-  </programme>
-  <programme start="20260914030000 +0200" stop="20260914094000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260914094000 +0200" stop="20260914143000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Redifusiones Diez TV Úbeda</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
-  </programme>
-  <programme start="20260914143000 +0200" stop="20260914153000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">ViSaDo</title>
-    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
-  </programme>
-  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260914220000 +0200" stop="20260914221500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260914221500 +0200" stop="20260914231500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260914232000 +0200" stop="20260915000000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">ViSaDo</title>
-    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
-  </programme>
-  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260915010000 +0200" stop="20260915030000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915030000 +0200" stop="20260915090000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260915090000 +0200" stop="20260915094500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260915094500 +0200" stop="20260915100000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260915100000 +0200" stop="20260915140000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915140000 +0200" stop="20260915150000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260915150000 +0200" stop="20260915200000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915200000 +0200" stop="20260915210000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">ViSaDo</title>
-    <desc lang="es">En Diez TV Úbeda también trabajamos los fines de semana para traerte cada lunes todos los acontecimientos destacables de Úbeda y la comarca de la Loma.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/visado-78416b.png" />
-  </programme>
-  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260915220000 +0200" stop="20260915221500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260915221500 +0200" stop="20260915231500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260915231500 +0200" stop="20260916000000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260916010000 +0200" stop="20260916030000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916030000 +0200" stop="20260916090000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260916090000 +0200" stop="20260916094500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260916094500 +0200" stop="20260916100000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260916100000 +0200" stop="20260916140000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Redifusiones Diez TV Úbeda</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e27811662c3.15807714.jpg" />
-  </programme>
-  <programme start="20260916140000 +0200" stop="20260916150000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260916150000 +0200" stop="20260916194500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916194500 +0200" stop="20260916200000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260916200000 +0200" stop="20260916210000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">Noticias Diez TV: Úbeda</title>
-    <desc lang="es">La información más cercana de la comarca de La Loma en Noticias Diez TV Úbeda, de lunes a viernes a las 21:00 en Diez TV Úbeda.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-ubeda-a3996a.jpg" />
-  </programme>
-  <programme start="20260916220000 +0200" stop="20260916221500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">El reportaje del día</title>
-    <desc lang="es">El reportaje del día en Diez TV.</desc>
-    <icon src="https://epg.dieztv.es/uploads/img_6a1d6ade675334.05121665.png" />
-  </programme>
-  <programme start="20260916221500 +0200" stop="20260916231500 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260916231500 +0200" stop="20260917000000 +0200" channel="DiezTV_Ubeda.TV">
-    <title lang="es">De pueblo en feria</title>
-    <desc lang="es">Diez TV y el equipo de Multimedia Jiennense se va de pueblo en feria por toda la provincia de Jaén para dar a conocer nuestras fiestas, ferias y festivales de los municipios jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/de-pueblo-en-feria-7200a6.png" />
-  </programme>
-  <programme start="20260913020000 +0200" stop="20260913090000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260913090000 +0200" stop="20260914020000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260914020000 +0200" stop="20260914090000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260914090000 +0200" stop="20260914210000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260914220000 +0200" stop="20260915000000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260915010000 +0200" stop="20260915020000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915020000 +0200" stop="20260915090000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260915090000 +0200" stop="20260915094000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260915094000 +0200" stop="20260915140000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260915140000 +0200" stop="20260915150000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260915150000 +0200" stop="20260915202500 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260915202500 +0200" stop="20260915205500 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Finanzas para todos</title>
-    <desc lang="es">Programa sobre economía, presentado por Sebastián Munuera.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/finanzas-para-todos-669b77.png" />
-  </programme>
-  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260915220000 +0200" stop="20260916000000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260916010000 +0200" stop="20260916020000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916020000 +0200" stop="20260916090000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260916090000 +0200" stop="20260916094000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260916094000 +0200" stop="20260916140000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260916140000 +0200" stop="20260916150000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260916150000 +0200" stop="20260916210000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Redifusiones Diez TV Las Villas</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a6e274c9e5c00.94442453.jpg" />
-  </programme>
-  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">Noticias Diez TV: Las Villas</title>
-    <desc lang="es">La información más cercana de la comarca de Las Villas en Noticias Diez TV Las Villas, de lunes a viernes a las 21:00 en Diez TV Las Villas.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-las-villas-f36abb.jpg" />
-  </programme>
-  <programme start="20260916220000 +0200" stop="20260917000000 +0200" channel="DiezTV_LasVillas.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260913020000 +0200" stop="20260913090000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260913090000 +0200" stop="20260914020000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Redifusiones Diez TV Andújar</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
-  </programme>
-  <programme start="20260914020000 +0200" stop="20260914090000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260914090000 +0200" stop="20260914210000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Redifusiones Diez TV Andújar</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
-  </programme>
-  <programme start="20260914210000 +0200" stop="20260914220000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260914220000 +0200" stop="20260915000000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915000000 +0200" stop="20260915010000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260915010000 +0200" stop="20260915020000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260915020000 +0200" stop="20260915090000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260915090000 +0200" stop="20260915094000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260915094000 +0200" stop="20260915210000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Redifusiones Diez TV Andújar</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
-  </programme>
-  <programme start="20260915210000 +0200" stop="20260915220000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260915220000 +0200" stop="20260915223000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Plaza Vieja</title>
-    <icon src="https://epg.dieztv.es/uploads/img_6a2d5930c5f9d2.21559608.png" />
-  </programme>
-  <programme start="20260915223000 +0200" stop="20260916000000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916000000 +0200" stop="20260916010000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260916010000 +0200" stop="20260916020000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
-  </programme>
-  <programme start="20260916020000 +0200" stop="20260916090000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Música Diez</title>
-    <desc lang="es">Espacio con videoclips musicales de artistas y bandas jiennenses.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/musica-diez-db23d8.png" />
-  </programme>
-  <programme start="20260916090000 +0200" stop="20260916094000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260916094000 +0200" stop="20260916210000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Redifusiones Diez TV Andújar</title>
-    <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
-  </programme>
-  <programme start="20260916210000 +0200" stop="20260916220000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">Noticias Diez TV: Andújar</title>
-    <desc lang="es">La información de proximidad en Noticias Diez TV Andújar, de lunes a viernes a las 21:00h, en Diez TV Andújar.</desc>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/noticias-diez-tv-andujar-ce9db2.jpg" />
-  </programme>
-  <programme start="20260916220000 +0200" stop="20260916233000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">La Atalaya</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/la-atalaya-e3e9fc.png" />
-  </programme>
-  <programme start="20260916233000 +0200" stop="20260917000000 +0200" channel="DiezTV_Andujar.TV">
-    <title lang="es">REC10</title>
-    <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
+  <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="EnergeekRetro.TV">
+    <title lang="es">Maratones EnerGeek</title>
+    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2088558300111556608/CrCydAjp_200x200.jpg" />
+  </programme>
+  <programme start="20260914060000 +0200" stop="20260915060000 +0200" channel="EnergeekRetro.TV">
+    <title lang="es">Maratones EnerGeek</title>
+    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
+    <icon src="https://pbs.twimg.com/profile_images/2088558300111556608/CrCydAjp_200x200.jpg" />
   </programme>
   <programme start="20260915060000 +0200" stop="20260916060000 +0200" channel="EnergeekRetro.TV">
     <title lang="es">Maratones EnerGeek</title>
     <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
     <icon src="https://pbs.twimg.com/profile_images/2088558300111556608/CrCydAjp_200x200.jpg" />
+  </programme>
+  <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="EnergeekFan.TV">
+    <title lang="es">Maratones</title>
+    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
+    <icon src="https://i.ibb.co/bj9WMfKQ/Energeek-fan.png" />
+  </programme>
+  <programme start="20260914060000 +0200" stop="20260915060000 +0200" channel="EnergeekFan.TV">
+    <title lang="es">Maratones</title>
+    <desc lang="es">Maratones es un bloque especial de programación que permite disfrutar episodios consecutivos de una serie o contenidos relacionados, ofreciendo una experiencia inmersiva para los espectadores. Ideal para revivir clásicos, descubrir historias completas o disfrutar jornadas temáticas pensadas para fanáticos y público ocasional.</desc>
+    <icon src="https://i.ibb.co/bj9WMfKQ/Energeek-fan.png" />
   </programme>
   <programme start="20260915060000 +0200" stop="20260916060000 +0200" channel="EnergeekFan.TV">
     <title lang="es">Maratones</title>
