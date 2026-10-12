@@ -1610,13 +1610,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P2164999" />
     <episode-num system="onscreen">T1</episode-num>
   </programme>
-  <programme start="20261012074800 +0200" stop="20261012082000 +0200" channel="LA 2">
+  <programme start="20261012074800 +0200" stop="20261012081800 +0200" channel="LA 2">
     <title lang="es">De seda y hierro: Mucho que decir</title>
     <desc lang="es">Espacio de historias emocionantes sobre discapacidad y dependencia. Un formato que ofrece una visión diferente a partir de una serie de retratos íntimos y positivos de personas que promueven la normalización, la diversidad, la inclusión y la visibilización.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4423378" />
   </programme>
-  <programme start="20261012082000 +0200" stop="20261012090500 +0200" channel="LA 2">
+  <programme start="20261012081800 +0200" stop="20261012090300 +0200" channel="LA 2">
     <title lang="es">Mi casa flotante</title>
     <sub-title lang="es">Baris y Oakley</sub-title>
     <desc lang="es">Los propietarios de viviendas sin salida al mar dejan atrás los suburbios para vivir en impresionantes casas acuáticas que flotan en el agua.</desc>
@@ -1624,19 +1624,19 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3461653" />
     <episode-num system="onscreen">T2</episode-num>
   </programme>
-  <programme start="20261012090500 +0200" stop="20261012093000 +0200" channel="LA 2">
+  <programme start="20261012090300 +0200" stop="20261012093200 +0200" channel="LA 2">
     <title lang="es">En tren por Gran Bretaña: De Stoke Mandeville a Beaconsfield</title>
     <desc lang="es">Michael Portillo viaja por los Home Counties ingleses, destacando la contribución del Dr. Ludwig Guttman a los Juegos Paralímpicos. Participa en actividades como entrenar con una medallista paralímpica y revivir eventos automovilísticos históricos.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3900183" />
   </programme>
-  <programme start="20261012093000 +0200" stop="20261012102000 +0200" channel="LA 2">
+  <programme start="20261012093200 +0200" stop="20261012102200 +0200" channel="LA 2">
     <title lang="es">Explorando la India con Bettany Hughes: El Norte</title>
     <desc lang="es">La historiadora Bettany comienza su viaje por el norte de la India en la ciudad santa de Varanasi, donde participará en una ceremonia para honrar a su madre recientemente fallecida.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3478220" />
   </programme>
-  <programme start="20261012102000 +0200" stop="20261012111500 +0200" channel="LA 2">
+  <programme start="20261012102200 +0200" stop="20261012111400 +0200" channel="LA 2">
     <title lang="es">Las rutas de...</title>
     <sub-title lang="es">Salamanca , truco o trato</sub-title>
     <desc lang="es">Recorrido por la riqueza gastronómica y paisajística de España y sus países vecinos: de la costa cantábrica al levante mediterráneo, pasando por el valle encantado del Baztán o las pacientes tierras castellanas, la raya portuguesa y localidades fronterizas como Hendaya.</desc>
@@ -1644,7 +1644,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P1879269" />
     <episode-num system="onscreen">T6</episode-num>
   </programme>
-  <programme start="20261012111500 +0200" stop="20261012121000 +0200" channel="LA 2">
+  <programme start="20261012111400 +0200" stop="20261012120800 +0200" channel="LA 2">
     <title lang="es">Las rutas D'Ambrosio</title>
     <sub-title lang="es">La Costa occidental de Cantabria</sub-title>
     <desc lang="es">El chef Gonzalo D'Ambrosio llega a la comarca de la Costa Occidental de Cantabria con la intención de conocer cómo las galernas, un temporal caracterizado por fuertes ráfagas de viento, definen a la gastronomía de la zona y a sus habitantes.</desc>
@@ -1652,7 +1652,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P3848188" />
     <episode-num system="onscreen">T9</episode-num>
   </programme>
-  <programme start="20261012121000 +0200" stop="20261012133000 +0200" channel="LA 2">
+  <programme start="20261012120800 +0200" stop="20261012133000 +0200" channel="LA 2">
     <title lang="es">Le llamaban Calamidad</title>
     <desc lang="es">A Sacramento, Big Jim y Tequila, amigos de la propiedad ajena aunque gente simpática y con buen corazón, les llega la noticia de que una banda de forajidos está preparando un asalto al tren que es portador del dinero del Estado. Los tres se adelantan y cometen ellos mismos el robo. Una vez en su poder, deciden esconder el botín y empezar a darse la gran vida. Pero les llega la noticia de que el dinero robado no es del Estado, sino de los colonos, y que sin él no podrán devolver los préstamos que pesan sobre sus tierras. Para colmo, el director del Banco local, que ha hecho todos los préstamos, fue el instigador del robo. Sabiendo ésto, los tres amigos deciden devolver el dinero a sus dueños y castigar a los bandidos.</desc>
     <category lang="es">Cine</category>
@@ -2007,18 +2007,30 @@
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4293545" />
   </programme>
-  <programme start="20261012061100 +0200" stop="20261012062900 +0200" channel="Antena 3">
+  <programme start="20261012061200 +0200" stop="20261012062700 +0200" channel="Antena 3">
     <title lang="es">Pazy: Que te recuerden como has vivido</title>
     <desc lang="es">Pazy: Que te recuerden como has vivido.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4293545" />
   </programme>
-  <programme start="20261012062900 +0200" stop="20261012064400 +0200" channel="Antena 3">
+  <programme start="20261012062700 +0200" stop="20261012062900 +0200" channel="Antena 3">
+    <title lang="es">Juwelo</title>
+    <desc lang="es">Programa de televenta directa de joyería.</desc>
+    <category lang="es">Ocio y Aficiones</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MNOVAP3878724" />
+  </programme>
+  <programme start="20261012062900 +0200" stop="20261012063800 +0200" channel="Antena 3">
     <title lang="es">Remescar cosmética al instante</title>
     <desc lang="es">Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MNOVAP4411000" />
     <episode-num system="onscreen">T1 Ep.24</episode-num>
+  </programme>
+  <programme start="20261012063800 +0200" stop="20261012064400 +0200" channel="Antena 3">
+    <title lang="es">Pazy: Que te recuerden como has vivido</title>
+    <desc lang="es">Pazy: Que te recuerden como has vivido.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4293545" />
   </programme>
   <programme start="20261012064400 +0200" stop="20261012070800 +0200" channel="Antena 3">
     <title lang="es">Pelopicopata</title>
@@ -2041,20 +2053,20 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P1326500" />
     <episode-num system="onscreen">T1 Ep.51</episode-num>
   </programme>
-  <programme start="20261012081000 +0200" stop="20261012095000 +0200" channel="Antena 3">
+  <programme start="20261012081000 +0200" stop="20261012094400 +0200" channel="Antena 3">
     <title lang="es">Los más</title>
     <desc lang="es">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P971818" />
   </programme>
-  <programme start="20261012095000 +0200" stop="20261012111000 +0200" channel="Antena 3">
+  <programme start="20261012094400 +0200" stop="20261012111400 +0200" channel="Antena 3">
     <title lang="es">La Voz Kids: Grandes momentos</title>
     <desc lang="es">Espacio que recoge las mejores actuaciones del concurso musical. También ofrece grandes momentos tras el escenario y las valoraciones de los asesores.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4320504" />
     <episode-num system="onscreen">T6 Ep.5</episode-num>
   </programme>
-  <programme start="20261012111000 +0200" stop="20261012123000 +0200" channel="Antena 3">
+  <programme start="20261012111400 +0200" stop="20261012123000 +0200" channel="Antena 3">
     <title lang="es">La Voz Kids: Grandes momentos</title>
     <desc lang="es">Espacio que recoge las mejores actuaciones del concurso musical. También ofrece grandes momentos tras el escenario y las valoraciones de los asesores.</desc>
     <category lang="es">Música</category>
@@ -2348,19 +2360,19 @@
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P1832791" />
   </programme>
-  <programme start="20261012075100 +0200" stop="20261012085000 +0200" channel="Cuatro">
+  <programme start="20261012075100 +0200" stop="20261012085300 +0200" channel="Cuatro">
     <title lang="es">Viajeros Cuatro: Buenos Aires</title>
     <desc lang="es">El programa visita los lugares más emblemáticos y curiosos de la capital de Argentina de la mano del actor Gabriel Corrado, el modelo e influencer Andy McDougall, el diseñador Santiago Artemis y el presentador Roberto Funes.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P1933241" />
   </programme>
-  <programme start="20261012085000 +0200" stop="20261012100000 +0200" channel="Cuatro">
+  <programme start="20261012085300 +0200" stop="20261012095500 +0200" channel="Cuatro">
     <title lang="es">Viajeros Cuatro: México</title>
     <desc lang="es">El recorrido del equipo encabezado por Mónica Domínguez arranca de la mano de la modelo y actriz Mónica Pont, con quien visitarán algunos de los lugares más emblemáticos del centro histórico de la urbe, como la Plaza de la Constitución o El Zócalo.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P1934994" />
   </programme>
-  <programme start="20261012100000 +0200" stop="20261012140000 +0200" channel="Cuatro">
+  <programme start="20261012095500 +0200" stop="20261012140000 +0200" channel="Cuatro">
     <title lang="es">En boca de todos</title>
     <desc lang="es">Espacio televisivo diario de actualidad que acerca a los espectadores las principales noticias políticas y sociales más comentadas, contextualizándolas mediante un equipo de expertos y colaboradores, quienes aportan una visión concreta de los temas que se abordan.</desc>
     <category lang="es">Información</category>
@@ -2386,10 +2398,16 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
   <programme start="20261012154000 +0200" stop="20261012180500 +0200" channel="Cuatro">
-    <title lang="es">Cine</title>
+    <title lang="es">El día de mañana</title>
+    <desc lang="es">Las investigaciones del climatólogo Jack Hall indican que el calentamiento global del planeta podría provocar un repentino y catastrófico cambio climático de la Tierra, tal como ocurrió hace diez mil años. Sus advertencias, sin embargo, llegan demasiado tarde.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3830669" />
   </programme>
   <programme start="20261012180500 +0200" stop="20261012195500 +0200" channel="Cuatro">
-    <title lang="es">Cine</title>
+    <title lang="es">En el ojo de la tormenta</title>
+    <desc lang="es">Silverton, Oklahoma. Un furioso temporal asuela el pueblo. La salvaje fuerza de la naturaleza obliga a sus aterrorizados habitantes a buscar cobijo, mientras un grupo de expertos cazadores de tormentas vaticina que lo peor aún está por llegar.</desc>
+    <category lang="es">Cine</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTNTP1179603" />
   </programme>
   <programme start="20261012195500 +0200" stop="20261012204500 +0200" channel="Cuatro">
     <title lang="es">Noticias Cuatro</title>
@@ -2589,14 +2607,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P2147986" />
     <episode-num system="onscreen">T8 Ep.11</episode-num>
   </programme>
-  <programme start="20261012080000 +0200" stop="20261012090000 +0200" channel="Telecinco">
+  <programme start="20261012080000 +0200" stop="20261012090100 +0200" channel="Telecinco">
     <title lang="es">La mirada crítica</title>
     <desc lang="es">José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4423548" />
     <episode-num system="onscreen">T7 Ep.31</episode-num>
   </programme>
-  <programme start="20261012090000 +0200" stop="20261012120000 +0200" channel="Telecinco">
+  <programme start="20261012090100 +0200" stop="20261012120000 +0200" channel="Telecinco">
     <title lang="es">El programa de Ana Rosa</title>
     <desc lang="es">Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.</desc>
     <category lang="es">Información</category>
@@ -2884,19 +2902,19 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4120467" />
   </programme>
-  <programme start="20261012101000 +0200" stop="20261012110500 +0200" channel="La Sexta">
+  <programme start="20261012102900 +0200" stop="20261012110700 +0200" channel="La Sexta">
     <title lang="es">Equipo de investigación</title>
     <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4120467" />
   </programme>
-  <programme start="20261012110500 +0200" stop="20261012121000 +0200" channel="La Sexta">
+  <programme start="20261012110700 +0200" stop="20261012120900 +0200" channel="La Sexta">
     <title lang="es">Equipo de investigación</title>
     <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4120467" />
   </programme>
-  <programme start="20261012121000 +0200" stop="20261012133000 +0200" channel="La Sexta">
+  <programme start="20261012120900 +0200" stop="20261012133000 +0200" channel="La Sexta">
     <title lang="es">Equipo de investigación</title>
     <desc lang="es">Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.</desc>
     <category lang="es">Información</category>
@@ -3207,7 +3225,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4036402" />
     <episode-num system="onscreen">T1 Ep.2</episode-num>
   </programme>
-  <programme start="20261012093000 +0200" stop="20261012104300 +0200" channel="Movistar Plus">
+  <programme start="20261012093000 +0200" stop="20261012104100 +0200" channel="Movistar Plus">
     <title lang="es">Saturday Night Live</title>
     <sub-title lang="es">Shane Gillis / Rosalía</sub-title>
     <desc lang="es">Shane Gillis realizará su tercera aparición como anfitrión de “SNL”. El comediante batió este verano dos récords mundiales "Guinness World Records® con su show en el Lincoln Financial Field de Filadelfia. Su serie “Tires” acaba de ser renovada para una cuarta temporada. Rosalía volverá al programa por segunda vez como invitada musical. La ganadora de un Grammy acaba de finalizar su gira mundial “Lux”.</desc>
@@ -3215,7 +3233,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504050" />
     <episode-num system="onscreen">T52</episode-num>
   </programme>
-  <programme start="20261012104300 +0200" stop="20261012120500 +0200" channel="Movistar Plus">
+  <programme start="20261012104100 +0200" stop="20261012120500 +0200" channel="Movistar Plus">
     <title lang="es">DeportePlus con Juanma Castaño</title>
     <sub-title lang="es">11/10/2026</sub-title>
     <desc lang="es">Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño. Las mejores imágenes, las previas, los resúmenes, los testimonios y el análisis de nuestros expertos.</desc>
@@ -3223,13 +3241,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4488241" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261012120500 +0200" stop="20261012133800 +0200" channel="Movistar Plus">
+  <programme start="20261012120500 +0200" stop="20261012142100 +0200" channel="Movistar Plus">
     <title lang="es">Torneo de Shanghai: Bergs - Alcaraz</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510738" />
   </programme>
-  <programme start="20261012133800 +0200" stop="20261012140400 +0200" channel="Movistar Plus">
+  <programme start="20261012142100 +0200" stop="20261012144700 +0200" channel="Movistar Plus">
     <title lang="es">Leo Talks</title>
     <sub-title lang="es">Crimen desorganizado</sub-title>
     <desc lang="es">Leo Talks es una parodia de las charlas TED protagonizada por Leo Harlem, con un objetivo completamente opuesto al tono positivo y motivacional que caracteriza a las originales. Un formato que reinventa el monólogo clásico con una puesta en escena dinámica y un ritmo ágil.</desc>
@@ -3237,7 +3255,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504307" />
     <episode-num system="onscreen">T7</episode-num>
   </programme>
-  <programme start="20261012140400 +0200" stop="20261012143500 +0200" channel="Movistar Plus">
+  <programme start="20261012144700 +0200" stop="20261012151700 +0200" channel="Movistar Plus">
     <title lang="es">Ilustres ignorantes</title>
     <sub-title lang="es">La escuela</sub-title>
     <desc lang="es">La escritora Elvira Lindo y el entrenador José Mourinho encarnado por Raúl Pérez visitan Ilustres para hablar de “La escuela” ¿Qué es lo más importante que aprendieron en la escuela: las ecuaciones, los afluentes, a esquivar collejas…? ¿han ido a reuniones de antiguos alumnos? ¿cómo eran sus chuletas?</desc>
@@ -3245,19 +3263,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507452" />
     <episode-num system="onscreen">T20</episode-num>
   </programme>
-  <programme start="20261012143500 +0200" stop="20261012155500 +0200" channel="Movistar Plus">
-    <title lang="es">El otro Chiquito</title>
-    <desc lang="es">En 1995, España tenía un ídolo indiscutible: Chiquito de la Calzada. Su lenguaje invadía las calles, los platós y hasta los discursos oficiales. La sociedad española se rendía ante el humorista que revolucionó a una generación. Pero una noche, el programa más visto de la televisión privada decide dar un golpe maestro: presentar a Lucas Grijander, un personaje inquietantemente parecido a Chiquito. Tan parecido que pronto empieza a ocupar su lugar. Para Gregorio Sánchez, el hombre detrás del mito, aquello era una pesadilla. Tras años de lucha para alcanzar la fama, veía cómo le arrebataban su identidad ante millones de espectadores. Así comienza uno de los litigios más insólitos de la historia española: Chiquito contra Lucas Grijander, en una batalla judicial por algo que ya parecía pertenecer a todos. Una guerra por la propiedad de un fenómeno cultural… y por la supervivencia de un hombre.</desc>
-    <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502699" />
-  </programme>
-  <programme start="20261012155500 +0200" stop="20261012175100 +0200" channel="Movistar Plus">
-    <title lang="es">La isla de las cabezas cortadas</title>
-    <desc lang="es">La pirata Morgan Adams, junto a su tripulación y su esclavo William, emprende la cruzada de recuperar las tres porciones del mapa que indica el lugar donde se oculta un tesoro.</desc>
+  <programme start="20261012151700 +0200" stop="20261012173100 +0200" channel="Movistar Plus">
+    <title lang="es">El reino de los cielos</title>
+    <desc lang="es">Corre el año 1186. Godofredo de Ibelin, caballero comprometido con el mantenimiento de la paz en Tierra Santa, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés, al que encuentra roto de dolor por la muerte de su mujer y su hijo.</desc>
     <category lang="es">Cine</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4067076" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3721557" />
   </programme>
-  <programme start="20261012175100 +0200" stop="20261012185300 +0200" channel="Movistar Plus">
+  <programme start="20261012173100 +0200" stop="20261012183300 +0200" channel="Movistar Plus">
     <title lang="es">Outlander: Sangre de mi sangre</title>
     <sub-title lang="es">Una parte de mi alma</sub-title>
     <desc lang="es">Ellen y Grace atraviesan a caballo las Tierras Altas en busca de las fuerzas de Brian y Dougal para advertirles de los planes de Lord Lovat. En la fortaleza de los Fraser, Julia desconfía de la recién llegada Seema.</desc>
@@ -3265,13 +3277,11 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F4504138" />
     <episode-num system="onscreen">T2 Ep.4</episode-num>
   </programme>
-  <programme start="20261012185300 +0200" stop="20261012195300 +0200" channel="Movistar Plus">
-    <title lang="es">Universo Valdano</title>
-    <sub-title lang="es">Lamine Yamal</sub-title>
-    <desc lang="es">Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions League y todo lo que ha vivido en los cuatro años que han pasado desde su debut con el primer equipo culé. Sin pelos en la lengua, Lamine no esquiva ningún tema y responde muchas de las preguntas que todo futbolero querría saber sobre él.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503290" />
-    <episode-num system="onscreen">T10</episode-num>
+  <programme start="20261012183300 +0200" stop="20261012195300 +0200" channel="Movistar Plus">
+    <title lang="es">El otro Chiquito</title>
+    <desc lang="es">En 1995, España tenía un ídolo indiscutible: Chiquito de la Calzada. Su lenguaje invadía las calles, los platós y hasta los discursos oficiales. La sociedad española se rendía ante el humorista que revolucionó a una generación. Pero una noche, el programa más visto de la televisión privada decide dar un golpe maestro: presentar a Lucas Grijander, un personaje inquietantemente parecido a Chiquito. Tan parecido que pronto empieza a ocupar su lugar. Para Gregorio Sánchez, el hombre detrás del mito, aquello era una pesadilla. Tras años de lucha para alcanzar la fama, veía cómo le arrebataban su identidad ante millones de espectadores. Así comienza uno de los litigios más insólitos de la historia española: Chiquito contra Lucas Grijander, en una batalla judicial por algo que ya parecía pertenecer a todos. Una guerra por la propiedad de un fenómeno cultural… y por la supervivencia de un hombre.</desc>
+    <category lang="es">Documentales</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502699" />
   </programme>
   <programme start="20261012195300 +0200" stop="20261012210000 +0200" channel="Movistar Plus">
     <title lang="es">Lamine Yamal. Revolución 304</title>
@@ -3300,13 +3310,13 @@
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4469049" />
   </programme>
-  <programme start="20261013000300 +0200" stop="20261013014000 +0200" channel="Movistar Plus">
+  <programme start="20261013000300 +0200" stop="20261013013900 +0200" channel="Movistar Plus">
     <title lang="es">Four Lions</title>
     <desc lang="es">Omar, Waj, Barry y Faisal, cuatro musulmanes extremadamente torpes que viven en Gran Bretaña, deciden convertirse en terroristas.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3710247" />
   </programme>
-  <programme start="20261013014000 +0200" stop="20261013031200 +0200" channel="Movistar Plus">
+  <programme start="20261013013900 +0200" stop="20261013031200 +0200" channel="Movistar Plus">
     <title lang="es">El tercer tiempo</title>
     <desc lang="es">Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.</desc>
     <category lang="es">Deportes</category>
@@ -3320,26 +3330,26 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4492830" />
     <episode-num system="onscreen">T26/27 Ep.6</episode-num>
   </programme>
-  <programme start="20261013034200 +0200" stop="20261013043300 +0200" channel="Movistar Plus">
+  <programme start="20261013034200 +0200" stop="20261013043200 +0200" channel="Movistar Plus">
     <title lang="es">Magazine Europa League</title>
     <desc lang="es">La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4492834" />
     <episode-num system="onscreen">T26/27 Ep.2</episode-num>
   </programme>
-  <programme start="20261013043300 +0200" stop="20261013051800 +0200" channel="Movistar Plus">
+  <programme start="20261013043200 +0200" stop="20261013051800 +0200" channel="Movistar Plus">
     <title lang="es">La hora de la verdad: Absolución</title>
     <desc lang="es">Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial como Beckham, Garrincha, Iniesta, Van Persie o Vicente del Bosque, entre otros.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4048020" />
   </programme>
-  <programme start="20261013051800 +0200" stop="20261013060700 +0200" channel="Movistar Plus">
+  <programme start="20261013051800 +0200" stop="20261013060600 +0200" channel="Movistar Plus">
     <title lang="es">La hora de la verdad: Astucia</title>
     <desc lang="es">Recordamos los momentos icónicos de la Historia de los Mundiales con una mezcla de acción, narrativa y análisis a través de entrevistas, imágenes de archivo y secuencias gráficas. Y con el recuerdo de grandes protagonistas del fútbol mundial como Beckham, Garrincha, Iniesta, Van Persie o Vicente del Bosque, entre otros.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4048022" />
   </programme>
-  <programme start="20261013060700 +0200" stop="20261013063300 +0200" channel="Movistar Plus">
+  <programme start="20261013060600 +0200" stop="20261013063300 +0200" channel="Movistar Plus">
     <title lang="es">Informe Robinson</title>
     <sub-title lang="es">La leyenda de Tittyshev</sub-title>
     <desc lang="es">La leyenda de Steve Davies es una historia que debería empezar con una frase de cuento: Érase una vez, un hincha del West Ham cumplió el sueño de cualquier aficionado al fútbol. Fue a ver un partido de su equipo y acabó jugando junto a sus ídolos. Y no le fue nada mal. Ocurrió en Oxford, una tarde del mes de julio de 1994...</desc>
@@ -3374,25 +3384,24 @@
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4483604" />
   </programme>
-  <programme start="20261013122600 +0200" stop="20261013133200 +0200" channel="Movistar Plus">
-    <title lang="es">Lamine Yamal. Revolución 304</title>
-    <desc lang="es">Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.</desc>
-    <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4505190" />
-  </programme>
-  <programme start="20261013133200 +0200" stop="20261013143200 +0200" channel="Movistar Plus">
-    <title lang="es">Universo Valdano</title>
-    <sub-title lang="es">Lamine Yamal</sub-title>
-    <desc lang="es">Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions League y todo lo que ha vivido en los cuatro años que han pasado desde su debut con el primer equipo culé. Sin pelos en la lengua, Lamine no esquiva ningún tema y responde muchas de las preguntas que todo futbolero querría saber sobre él.</desc>
-    <category lang="es">Deportes</category>
-    <episode-num system="onscreen">T10</episode-num>
-  </programme>
-  <programme start="20261013143200 +0200" stop="20261013154100 +0200" channel="Movistar Plus">
+  <programme start="20261013122600 +0200" stop="20261013133100 +0200" channel="Movistar Plus">
     <title lang="es">El día después</title>
     <desc lang="es">'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4488142" />
     <episode-num system="onscreen">T26/27 Ep.6</episode-num>
+  </programme>
+  <programme start="20261013133100 +0200" stop="20261013143600 +0200" channel="Movistar Plus">
+    <title lang="es">Torneo de Shanghai: Hurkacz - Davidovich</title>
+    <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510760" />
+  </programme>
+  <programme start="20261013143600 +0200" stop="20261013154100 +0200" channel="Movistar Plus">
+    <title lang="es">Lamine Yamal. Revolución 304</title>
+    <desc lang="es">Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.</desc>
+    <category lang="es">Documentales</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4505190" />
   </programme>
   <programme start="20261013154100 +0200" stop="20261013162800 +0200" channel="Movistar Plus">
     <title lang="es">Las Berrocal</title>
@@ -3423,13 +3432,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4489981" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261013205300 +0200" stop="20261013230200 +0200" channel="Movistar Plus">
+  <programme start="20261013205300 +0200" stop="20261013230100 +0200" channel="Movistar Plus">
     <title lang="es">UEFA Champions League: Galatasaray - Barcelona</title>
     <desc lang="es">La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4499528" />
   </programme>
-  <programme start="20261013230200 +0200" stop="20261014002500 +0200" channel="Movistar Plus">
+  <programme start="20261013230100 +0200" stop="20261014002500 +0200" channel="Movistar Plus">
     <title lang="es">Noche de Champions</title>
     <sub-title lang="es">13/10/2026</sub-title>
     <desc lang="es">Revive la emoción de cada jornada de Champions con este programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.</desc>
@@ -23230,21 +23239,19 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
   </programme>
-  <programme start="20261013060500 +0200" stop="20261013080000 +0200" channel="M+ Deportes 2">
-    <title lang="es">Torneo de Shanghai</title>
-    <sub-title lang="es">TBC</sub-title>
+  <programme start="20261013060500 +0200" stop="20261013080500 +0200" channel="M+ Deportes 2">
+    <title lang="es">Torneo de Shanghai: De Miñaur - Khachanov</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509324" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510754" />
   </programme>
-  <programme start="20261013080000 +0200" stop="20261013103000 +0200" channel="M+ Deportes 2">
-    <title lang="es">Torneo de Shanghai</title>
-    <sub-title lang="es">TBC</sub-title>
+  <programme start="20261013080500 +0200" stop="20261013103500 +0200" channel="M+ Deportes 2">
+    <title lang="es">Torneo de Shanghai: Gea - Mensik</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509324" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510756" />
   </programme>
-  <programme start="20261013103000 +0200" stop="20261013120500 +0200" channel="M+ Deportes 2">
+  <programme start="20261013103500 +0200" stop="20261013120500 +0200" channel="M+ Deportes 2">
     <title lang="es">M+  Deportes 2</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
@@ -23279,38 +23286,43 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510742" />
   </programme>
-  <programme start="20261012080600 +0200" stop="20261012100600 +0200" channel="M+ Deportes 3">
+  <programme start="20261012080600 +0200" stop="20261012111900 +0200" channel="M+ Deportes 3">
     <title lang="es">Torneo de Shanghai: Lehecka - Jodar</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510744" />
   </programme>
-  <programme start="20261012100600 +0200" stop="20261012120600 +0200" channel="M+ Deportes 3">
+  <programme start="20261012111900 +0200" stop="20261012125400 +0200" channel="M+ Deportes 3">
     <title lang="es">Torneo de Shanghai: Medvedev - Svrcina</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510746" />
   </programme>
-  <programme start="20261012120600 +0200" stop="20261012150600 +0200" channel="M+ Deportes 3">
+  <programme start="20261012125400 +0200" stop="20261012143900 +0200" channel="M+ Deportes 3">
     <title lang="es">Torneo de Shanghai: Fils - Van de Zandschulp</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510748" />
   </programme>
-  <programme start="20261012150600 +0200" stop="20261012220600 +0200" channel="M+ Deportes 3">
+  <programme start="20261012143900 +0200" stop="20261012213900 +0200" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
   </programme>
-  <programme start="20261012220600 +0200" stop="20261013051100 +0200" channel="M+ Deportes 3">
+  <programme start="20261012213900 +0200" stop="20261013043900 +0200" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
   </programme>
-  <programme start="20261013051100 +0200" stop="20261013171100 +0200" channel="M+ Deportes 3">
+  <programme start="20261013043900 +0200" stop="20261013060500 +0200" channel="M+ Deportes 3">
+    <title lang="es">M+ Deportes 3</title>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
+  </programme>
+  <programme start="20261013060500 +0200" stop="20261013180500 +0200" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
   </programme>
-  <programme start="20261013171100 +0200" stop="20261014000000 +0200" channel="M+ Deportes 3">
+  <programme start="20261013180500 +0200" stop="20261014000000 +0200" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
   </programme>
   <programme start="20261012034000 +0200" stop="20261012080000 +0200" channel="M+ Baloncesto">
@@ -87768,22 +87780,22 @@
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261012070000 +0200" stop="20261012100000 +0200" channel="TV3_CAT">
+  <programme start="20261012070000 +0200" stop="20261012095959 +0200" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261012100000 +0200" stop="20261012120000 +0200" channel="TV3_CAT">
+  <programme start="20261012095959 +0200" stop="20261012115931 +0200" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261012120000 +0200" stop="20261012135317 +0200" channel="TV3_CAT">
+  <programme start="20261012115931 +0200" stop="20261012135233 +0200" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261012135317 +0200" stop="20261012143000 +0200" channel="TV3_CAT">
+  <programme start="20261012135233 +0200" stop="20261012143000 +0200" channel="TV3_CAT">
     <title lang="es">Gent de Primera - L'excel·lència és el camí</title>
     <desc lang="es">L'objectiu de qualsevol pagès és oferir un producte de qualitat, però quin és el secret per arribar a l'excel·lència? Ens el mostren l'Erik i la Marcela, grans defensors de l'arròs del Delta; l'Oriol i les seves 6.000 gallines ecològiques; l'Antonieta, que va voler donar-li una altra vida al seu blat; en Pol i els seus porcs de raça Duroc criats en llibertat, i en Roc amb unes figues que semblen joies.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/5/0/1788948270405.jpg" />
@@ -87863,29 +87875,29 @@
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20261013153000 +0200" stop="20261013155028 +0200" channel="TV3_CAT">
+  <programme start="20261013153000 +0200" stop="20261013155037 +0200" channel="TV3_CAT">
     <title lang="es">Cuines - Costelles a l'agredolç de codonyat</title>
     <sub-title lang="es">Cuines</sub-title>
     <desc lang="es">A la nostra cuina tradicional, la combinació de l'agre i el dolç és tot un clàssic. Ja apareixen receptes al llibre Sent Soví, del segle XIV, amb aquesta barreja màgica. El Marc Ribas prepara unes costelles de porc molt ben treballades amb un bany de sal i les barreja amb un agredolç d'una fruita de tardor, el codonyat. Això sí, haureu de tenir paciència i napar la carn durant la cocció perquè el resultat final sigui brutal.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/0/6/1788761334460.jpg" />
   </programme>
-  <programme start="20261013155028 +0200" stop="20261013155818 +0200" channel="TV3_CAT">
+  <programme start="20261013155037 +0200" stop="20261013155827 +0200" channel="TV3_CAT">
     <title lang="es">Cuines - Poma amb llet caramel·litzada</title>
     <sub-title lang="es">Cuines</sub-title>
     <desc lang="es">La Rais Esteve ens ensenya un truc de pastisser: torra llet en pols i la converteix en llet caramel·litzada, que acompanya amb poma.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/0/6/1788761334460.jpg" />
   </programme>
-  <programme start="20261013155818 +0200" stop="20261013163232 +0200" channel="TV3_CAT">
+  <programme start="20261013155827 +0200" stop="20261013163249 +0200" channel="TV3_CAT">
     <title lang="es">Com si fos ahir</title>
     <desc lang="es">La possibilitat que en Fede vagi a viure amb la Gemma la il·lusiona i l'espanta a parts iguals. Una comanda impossible fa sospitar a la Itziar que l'Iker encara és massa a prop. En Miquel intenta acceptar la nova vida de la Noe, però abans necessita posar cara al fantasma d'en Maurici.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/0/0/1676977858000.jpg" />
   </programme>
-  <programme start="20261013163232 +0200" stop="20261013171825 +0200" channel="TV3_CAT">
+  <programme start="20261013163249 +0200" stop="20261013171842 +0200" channel="TV3_CAT">
     <title lang="es">El paradís de les senyores</title>
     <sub-title lang="es">La història d'un gran magatzem al Milà de l'any 56</sub-title>
     <desc lang="es">En aquest episodi, entre altres coses, la Maria li explica a la Irene que es va tornar a besar amb en Matteo, i això les obliga a observar la situació des d'un altre punt de vista. Per en Marcello, avui és un dia molt important perquè ha de negociar la concessió d'un terreny que li permetria d'instal·lar un punt de descans a l'autopista just a la sortida del túnel del Mont Blanc, que aviat s'obrirà al trànsit i que connectarà Itàlia i França. És una situació absolutament privilegiada. I en Roberto i en Vittorio valoren la relació cada cop més gran que hi ha entre els joves i la moda.</desc>
   </programme>
-  <programme start="20261013171825 +0200" stop="20261013191425 +0200" channel="TV3_CAT">
+  <programme start="20261013171842 +0200" stop="20261013191425 +0200" channel="TV3_CAT">
     <title lang="es">La Selva</title>
     <desc lang="es">Xavier Grasset presenta La Selva, el nou magazín d'entreteniment de les tardes de TV3. Un show d'autor on parlarem de tot de forma distesa i lliure, una trobada fixa a la nova cafeteria de la televisió pública catalana, regentada per la Mercè Fonoll (l'actriu i humorista, Anna Bertran). A La Selva sempre hi passen coses, és un món ple d'activitat on diverses espècies hi conviuen de forma  lliure.Hi passaran Antoni Bassas, Montse Barderi, Fel Faixedas, Sílvia Bel, la Nina, en Biel Duran, l'Alba Alfageme o la Carlota Gurt, entre molts d'altres. Una trobada plena de coneixement i seguiment de l'actualitat, però també d'entreteniment. Els acompanyaran, per exemple fent recomanacions, Sergi Cutillas, amb la seva música de capçalera, en Godai García que ens apropa a la terra -amb una mirada molt pròpia- o la cuinera i influencer, Sofia Janer.A La Selva farem un repàs al què ha passat durant el dia i a la vida en general d'aquella manera única del Xavier Grasset acompanyat al sofà per la Maria Xinxó, la Núria Martínez o l'Ester Pagès. La resta de l'equip treballarà per explicar-vos el que ha passat dins i fora de La Selva, acostar-vos al territori i oferir-vos entreteniment, però sempre amb contingut. Cada dia hi haurà entrevistes, no hi faltaran els llibres, la cultura o històries humanes de tot tipus. I, a més, comptarem amb la participació del nostre públic. Us convidarem a jugar en un concurs diari, divertit i enginyós. Quan t'endinses a la Selva mai saps què t'hi pots acabar trobant!Cada tarda, et farem companyia a 3cat. Us espera una nova aventura plena de personatges interessants, converses, reflexions, descobriments i uns quants somriures. Sempre amb un ull posat a tot el que passa al nostre voltant. Quedem a La Selva!</desc>
   </programme>
@@ -87900,12 +87912,12 @@
     <desc lang="es">"Està passant" és un programa d'humor que analitza les claus de l'actualitat cada dia, durant 45 minuts, en la franja anterior al "Telenotícies vespre".El programa, presentat per Òscar Andreu, Jair Domínguez, Natza Farré, Queco Novell i Núria Marín, ens apropa als principals temes del dia, amb especial atenció a l'actualitat política i al seguiment dels mitjans de comunicació i les xarxes socials. Tot plegat, sense renunciar a la sàtira que caracteritza la trajectòria de l'equip de Minoria Absoluta.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/8/1765436944586.jpg" />
   </programme>
-  <programme start="20261013210000 +0200" stop="20261013220800 +0200" channel="TV3_CAT">
+  <programme start="20261013210000 +0200" stop="20261013220716 +0200" channel="TV3_CAT">
     <title lang="es">Telenotícies vespre</title>
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20261013220800 +0200" stop="20261013230000 +0200" channel="TV3_CAT">
+  <programme start="20261013220716 +0200" stop="20261013230000 +0200" channel="TV3_CAT">
     <title lang="es">Nits Sense ficció - Un justicier a les xarxes socials</title>
     <desc lang="es">Durant cinc anys, el canal de YouTube Creeper Hunter TV va exposar públicament més d'un centenar d'homes acusats de voler contactar sexualment amb menors. Al capdavant hi havia Jason Nassr, un autoproclamat justicier que convertia cada confrontació en un espectacle viral. Però darrere l'aparença de justícia emergeixen preguntes incòmodes: què passa quan les xarxes socials esdevenen un tribunal? Quines conseqüències té l'escarni públic sobre els acusats i les seves famílies? A través de testimonis, material d'arxiu i una mirada crítica al fenomen dels caçadors de depredadors a internet, el documental analitza els límits de la justícia popular digital exercida al marge dels tribunals i els efectes devastadors que pot tenir.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/5/5/1679659533655.jpg" />
@@ -88487,52 +88499,52 @@
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261012064522 +0200" stop="20261012080441 +0200" channel="Esport3_CAT">
+  <programme start="20261012064522 +0200" stop="20261012080452 +0200" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J8 / Diumenge</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261012080441 +0200" stop="20261012082835 +0200" channel="Esport3_CAT">
+  <programme start="20261012080452 +0200" stop="20261012082846 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261012082835 +0200" stop="20261012100949 +0200" channel="Esport3_CAT">
+  <programme start="20261012082846 +0200" stop="20261012100949 +0200" channel="Esport3_CAT">
     <title lang="es">Bàsquet Lliga Endesa ACB Masculina - Reial Madrid-Kids&amp;Us Manresa / Lliga / J3</title>
     <desc lang="es">El conjunt del Bages vol la primera victòria en el campionat. Una missió complicada, a la pista dels blancs, sempre candidats a guanyar el títol.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261012100949 +0200" stop="20261012110027 +0200" channel="Esport3_CAT">
+  <programme start="20261012100949 +0200" stop="20261012110028 +0200" channel="Esport3_CAT">
     <title lang="es">Terreny personal - La Barceloneta</title>
     <desc lang="es">Aquest capítol ens porta al passat i al present de la Barceloneta, un terreny en forma de triangle que se situa entre l'hotel Arts, l'hotel Vela i el Palau de Mar; un espai amb una gran personalitat i un fort sentiment de pertinença.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/1/1757518378917.jpg" />
   </programme>
-  <programme start="20261012110027 +0200" stop="20261012112950 +0200" channel="Esport3_CAT">
+  <programme start="20261012110028 +0200" stop="20261012112951 +0200" channel="Esport3_CAT">
     <title lang="es">GR Barcelona - Llum de nit</title>
     <desc lang="es">"Quan el sol es pon, es desperta una nova Barcelona. El mateix escenari, sí, però podríem dir que amb l'ànima disfressada. Qualsevol ciutat quan cau la nit es posa les millors gales. I Barcelona, més. En aquest gran recorregut el Marc seguirà la llum d'una nit que el portarà per l'avinguda Reina Cristina a veure la font màgica de Montjuïc, a continuació als carrers de Ciutat Vella per viure la nit de la llum durant les Festes de Santa Eulàlia, després seguirà la multitudinària patinada nocturna, aprendrà a cuinar una de les millors hamburgueses de la ciutat i també a fer un gin tònic, farà una ruta per algunes de les zones de marxa del centre, parlarà amb taxistes i acabarà a Catalunya Ràdio, despertant Catalunya amb Mònica Terribas.</desc>
   </programme>
-  <programme start="20261012112950 +0200" stop="20261012115500 +0200" channel="Esport3_CAT">
+  <programme start="20261012112951 +0200" stop="20261012115507 +0200" channel="Esport3_CAT">
     <title lang="es">Espòiler - El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</title>
     <desc lang="es">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/0/1726480517009.jpg" />
   </programme>
-  <programme start="20261012115500 +0200" stop="20261012131538 +0200" channel="Esport3_CAT">
+  <programme start="20261012115507 +0200" stop="20261012131702 +0200" channel="Esport3_CAT">
     <title lang="es">Waterpolo - CN Mataró-CN Sant Andreu / Supercopa d'Espanya / Final</title>
     <desc lang="es">Les campiones de Lliga contra les campiones de Copa en el primer títol de la temporada que disputen l'Assolim Centre Natació Mataró i el Club Natació Sant Andreu.</desc>
   </programme>
-  <programme start="20261012131538 +0200" stop="20261012143556 +0200" channel="Esport3_CAT">
+  <programme start="20261012131702 +0200" stop="20261012143720 +0200" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J8 / Diumenge</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261012143556 +0200" stop="20261012151221 +0200" channel="Esport3_CAT">
+  <programme start="20261012143720 +0200" stop="20261012150423 +0200" channel="Esport3_CAT">
     <title lang="es">Zona zàping - El Barça esclafa el Madrid</title>
     <desc lang="es">El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261012151221 +0200" stop="20261012160221 +0200" channel="Esport3_CAT">
+  <programme start="20261012150423 +0200" stop="20261012155423 +0200" channel="Esport3_CAT">
     <title lang="es">Els animals més letals d'Àfrica - Pantans</title>
     <desc lang="es">Algunes zones d'Àfrica canvien molt entre la temporada seca i la temporada de pluges. Durant la temporada de pluges, els grans rius es desborden i cobreixen planes extenses, fet que obliga els animals terrestres que hi viuen a adaptar-se, durant uns quants mesos l'any, a una vida semiaquàtica i a un sòl fangós. També s'estén el territori dels animals aquàtics, com els cocodrils del Nil o els peixos gat. Els lleons, les hienes i les mangostes conviuen amb aquests canvis de paisatge que tant els pot afavorir com complicar-los la vida.</desc>
   </programme>
-  <programme start="20261012160221 +0200" stop="20261012164500 +0200" channel="Esport3_CAT">
+  <programme start="20261012155423 +0200" stop="20261012164500 +0200" channel="Esport3_CAT">
     <title lang="es">Els animals més letals d'Àfrica - Oceans</title>
     <desc lang="es">A les costes d'Àfrica, la lluita per la vida és constant i cruel. Sota les aigües on es barregen corrents freds i càlids, centenars d'espècies intenten sobreviure entre els esculls de corall. Diverses espècies de taurons de característiques diferents comparteixen un enorme banc de sardines migratòries amb ossos marins o mascarells en autèntics banquets sota les onades. Les bestioles més menudes, com els cavallets de mar o les llagostes de roca, no abandonen els esculls, però això no els garanteix la supervivència: a la costa africana, la mort es pot amagar en les esquerdes de qualsevol roca.</desc>
   </programme>
@@ -88551,21 +88563,21 @@
     <sub-title lang="es">Documentals, reportatges, resums... Tot allò que t¿imagines del món de l¿esport, ho trobes aquí, a Esport3!</sub-title>
     <desc lang="es">Acompanya l'aventurer Rai Puig en la seva travessa en caiac per la costa catalana. Aquesta vegada recorrerà els municipis d'Amposta, Deltebre, Sant Jaume d'Enveja, la Ràpita i les Cases d'Alcanar, explorant el riu Ebre, la reserva de la Punta de la Banya, o també, l'interessant Badia dels Alfacs, i sempre, conversant amb tota mena de persones vinculades amb el mar o el territori.</desc>
   </programme>
-  <programme start="20261012180414 +0200" stop="20261012183547 +0200" channel="Esport3_CAT">
+  <programme start="20261012180414 +0200" stop="20261012183536 +0200" channel="Esport3_CAT">
     <title lang="es">La frontal</title>
     <desc lang="es">"La Frontal.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/9/1637155189597.jpg" />
   </programme>
-  <programme start="20261012183547 +0200" stop="20261012190943 +0200" channel="Esport3_CAT">
+  <programme start="20261012183536 +0200" stop="20261012190932 +0200" channel="Esport3_CAT">
     <title lang="es">Zona zàping - El Barça esclafa el Madrid</title>
     <desc lang="es">El Barça va golejar el Real Madrid en el primer clàssic de la temporada, per 7 a 0, amb 4 gols de Clàudia Pina.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261012190943 +0200" stop="20261012202639 +0200" channel="Esport3_CAT">
+  <programme start="20261012190932 +0200" stop="20261012202704 +0200" channel="Esport3_CAT">
     <title lang="es">Billar a 3 bandes - PBA Team League</title>
     <desc lang="es">Les partides més destacades del català Dani Sánchez en aquesta competició per equips que organitza la PBA (Professional Billiards Association).</desc>
   </programme>
-  <programme start="20261012202639 +0200" stop="20261012205000 +0200" channel="Esport3_CAT">
+  <programme start="20261012202704 +0200" stop="20261012205000 +0200" channel="Esport3_CAT">
     <title lang="es">Sala de Premsa - Hansi Flick / Prèvia Galatasaray-Barça</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
@@ -88585,102 +88597,102 @@
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261013004930 +0200" stop="20261013022038 +0200" channel="Esport3_CAT">
+  <programme start="20261013004930 +0200" stop="20261013022114 +0200" channel="Esport3_CAT">
     <title lang="es">Onze</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261013022038 +0200" stop="20261013023937 +0200" channel="Esport3_CAT">
+  <programme start="20261013022114 +0200" stop="20261013024013 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261013023937 +0200" stop="20261013042341 +0200" channel="Esport3_CAT">
+  <programme start="20261013024013 +0200" stop="20261013042418 +0200" channel="Esport3_CAT">
     <title lang="es">Futbol - CD Tenerife-Girona FC / Lliga Hypermotion / J9</title>
     <desc lang="es">Els gironins volen sumar la 5a victòria en 9 jornades per seguir a la zona alta de la classificació en la lluita per tornar a Primera. Des de l'Heliodoro Rodríguez López amb la narració de Jordi Sunyer i l'anàlisi d'Eoli Amagat.</desc>
   </programme>
-  <programme start="20261013042341 +0200" stop="20261013044145 +0200" channel="Esport3_CAT">
+  <programme start="20261013042418 +0200" stop="20261013044221 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261013044145 +0200" stop="20261013055836 +0200" channel="Esport3_CAT">
+  <programme start="20261013044221 +0200" stop="20261013055836 +0200" channel="Esport3_CAT">
     <title lang="es">Billar a 3 bandes - PBA Team League</title>
     <desc lang="es">Les partides més destacades del català Dani Sánchez en aquesta competició per equips que organitza la PBA (Professional Billiards Association).</desc>
   </programme>
-  <programme start="20261013055836 +0200" stop="20261013060014 +0200" channel="Esport3_CAT">
+  <programme start="20261013055836 +0200" stop="20261013060050 +0200" channel="Esport3_CAT">
     <title lang="es">Espòiler - El Ferrari Amalfi, el Volkswagen I.D. Polo, el Geely E2 i el programa Ford Adapta</title>
     <desc lang="es">En aquest capítol gaudim al volant de l'impressionant Ferrari Amalfi, la proposta gran turisme de la marca italiana que arriba amb un motor V8 de 640 CV. També conduïm el Volkswagen I.D. Polo a les carreteres de l'Albufera de València, assistim a la presentació del nou Geely E2 i descobrim com és el Ford Puma ST adaptat que el pilot Marc Roma ha estrenat gràcies al programa Ford Adapta.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/0/1726480517009.jpg" />
   </programme>
-  <programme start="20261013060014 +0200" stop="20261013063114 +0200" channel="Esport3_CAT">
+  <programme start="20261013060050 +0200" stop="20261013063150 +0200" channel="Esport3_CAT">
     <title lang="es">La frontal</title>
     <desc lang="es">"La Frontal.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/9/1637155189597.jpg" />
   </programme>
-  <programme start="20261013063114 +0200" stop="20261013065206 +0200" channel="Esport3_CAT">
+  <programme start="20261013063150 +0200" stop="20261013065228 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261013065206 +0200" stop="20261013082419 +0200" channel="Esport3_CAT">
+  <programme start="20261013065228 +0200" stop="20261013082441 +0200" channel="Esport3_CAT">
     <title lang="es">Onze</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261013082419 +0200" stop="20261013100646 +0200" channel="Esport3_CAT">
+  <programme start="20261013082441 +0200" stop="20261013100639 +0200" channel="Esport3_CAT">
     <title lang="es">Futbol - CD Tenerife-Girona FC / Lliga Hypermotion / J9</title>
     <desc lang="es">Els gironins volen sumar la 5a victòria en 9 jornades per seguir a la zona alta de la classificació en la lluita per tornar a Primera. Des de l'Heliodoro Rodríguez López amb la narració de Jordi Sunyer i l'anàlisi d'Eoli Amagat.</desc>
   </programme>
-  <programme start="20261013100646 +0200" stop="20261013105542 +0200" channel="Esport3_CAT">
+  <programme start="20261013100639 +0200" stop="20261013105535 +0200" channel="Esport3_CAT">
     <title lang="es">Terreny personal - Massís del Garraf</title>
     <desc lang="es">Aquest capítol ens porta fins a una muntanya aspra i d'aspecte feréstec just arran de mar: el massís del Garraf. El seu aspecte inhòspit l'ha mantingut aïllat, i desconegut, tot i que és a només 20 km de Barcelona.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/1/1757518378917.jpg" />
   </programme>
-  <programme start="20261013105542 +0200" stop="20261013112155 +0200" channel="Esport3_CAT">
+  <programme start="20261013105535 +0200" stop="20261013112148 +0200" channel="Esport3_CAT">
     <title lang="es">GR Barcelona - Miradors que ens miren</title>
     <desc lang="es">"Estem rodejats de miradors silenciosos que només hi són si puges a veure'ls."Hi ha llocs des d'on es pot contemplar la ciutat en la seva totalitat, sencera, des de les altures. Barcelona té el privilegi de comptar amb miradors impressionants que et descobreixen una realitat plena de matisos. Es començarà veient com desperta el dia des del Mirador del Carmel amb el fotògraf Sergi Periche, es seguirà vigilant el trànsit des de l'helicòpter del Civicat, es repassarà els miradors més coneguts de la ciutat (Colom, el Telefèric del Port, Montjuïc,el mirador de l'aeroport, el Tibidabo, terrasses d'hotels i la torre del rellotge de Gràcia), es pujarà a la teulada de Santa Maria del Mar amb Fra Vicenç, l'organista de la basílica, per presenciar la sintonia de campanes de Ciutat Vella, es farà running per la carretera de les aigües i s'acabarà a l'Observatori Fabra, sopant amb estrelles i mirant la lluna amb el seu telescopi centenari.</desc>
   </programme>
-  <programme start="20261013112155 +0200" stop="20261013112837 +0200" channel="Esport3_CAT">
+  <programme start="20261013112148 +0200" stop="20261013112852 +0200" channel="Esport3_CAT">
     <title lang="es">Xarxa Natura</title>
     <desc lang="es">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/2/7/1721308982272.jpg" />
   </programme>
-  <programme start="20261013112837 +0200" stop="20261013130000 +0200" channel="Esport3_CAT">
+  <programme start="20261013112852 +0200" stop="20261013130000 +0200" channel="Esport3_CAT">
     <title lang="es">Onze</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261013130000 +0200" stop="20261013150147 +0200" channel="Esport3_CAT">
+  <programme start="20261013130000 +0200" stop="20261013150156 +0200" channel="Esport3_CAT">
     <title lang="es">Esport Club</title>
     <sub-title lang="es">L'última hora esportiva i l'anàlisi amb la participació de l'audiència a través de les xarxes socials</sub-title>
     <desc lang="es">En Jordi Sanuy i Víctor Patsi us expliquen l'última hora esportiva i l'analitzen amb el seu equip de col·laboradors. El programa és molt actiu a les xarxes socials. L'"Esport Club" té presència a Twitter, a Facebook i a Instagram. L'espai dirigeix moltes accions de participació amb l'audiència a través de les xarxes socials.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261013150147 +0200" stop="20261013153043 +0200" channel="Esport3_CAT">
+  <programme start="20261013150156 +0200" stop="20261013153052 +0200" channel="Esport3_CAT">
     <title lang="es">GR Pirineus - Tàndem a la pallaresa</title>
     <desc lang="es">Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord, des de la vall de Cardós fins a les valls d'Àneu.La ruta començarà a Ribera de Cardós i passa per Tírvia, Llavorsí, Espot, el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, la Guingueta, Escalarre, Gavàs, Esterri, Isavarre, Borén, Isil i acaba a Alós d'Isil.Durant el trajecte practicarem ràfting per la Noguera Pallaresa, farem una ruta a peu per l'estany de Sant Maurici visitant els Encantats, reviurem el Doctor Music Festival amb els 4t 1a (Quart Primera) i 4 vaques, munyirem cabres per fer formatge artesanal, assitirem al festival Esbaiola't, on el Marc aprendrà a fer salts mortals en llit elàstic; i, finalment, farem una ruta en tàndem per les valls d'Àneu fins a Alós d'Isil.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/6/1294133483563.jpg" />
   </programme>
-  <programme start="20261013153043 +0200" stop="20261013162342 +0200" channel="Esport3_CAT">
+  <programme start="20261013153052 +0200" stop="20261013162351 +0200" channel="Esport3_CAT">
     <title lang="es">Experiència Catalana - Gareth</title>
     <desc lang="es">La Ivana Miño acompanya en Gareth Pon, l'instagramer amb més seguidors de tot Àfrica. Junts fan un divertit recorregut per la Catalunya interior i, de tornada, participen en el ral·li de cotxes antics de Sitges.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1778669287849.jpg" />
   </programme>
-  <programme start="20261013162342 +0200" stop="20261013172023 +0200" channel="Esport3_CAT">
+  <programme start="20261013162351 +0200" stop="20261013172021 +0200" channel="Esport3_CAT">
     <title lang="es">Experiència Catalana - Alexis</title>
     <desc lang="es">L'Alexis Averbuck fa guies de viatge per a Lonely Planet. Amb ella, hem visitat alguns dels edificis més emblemàtics de Barcelona: Santa Maria del Mar, la Biblioteca Nacional de Catalunya i un magnífic hotel modernista.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1778669287849.jpg" />
   </programme>
-  <programme start="20261013172023 +0200" stop="20261013172724 +0200" channel="Esport3_CAT">
+  <programme start="20261013172021 +0200" stop="20261013172723 +0200" channel="Esport3_CAT">
     <title lang="es">Xarxa Natura</title>
     <desc lang="es">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/2/7/1721308982272.jpg" />
   </programme>
-  <programme start="20261013172724 +0200" stop="20261013175500 +0200" channel="Esport3_CAT">
+  <programme start="20261013172723 +0200" stop="20261013175500 +0200" channel="Esport3_CAT">
     <title lang="es">Top gols La Lliga - Jornada 8</title>
     <desc lang="es">"Top gols La Lliga" repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
   </programme>
@@ -88689,30 +88701,30 @@
     <desc lang="es">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261013185500 +0200" stop="20261013190416 +0200" channel="Esport3_CAT">
+  <programme start="20261013185500 +0200" stop="20261013190417 +0200" channel="Esport3_CAT">
     <title lang="es">Zona UFEC</title>
     <sub-title lang="es">Espai que pren el pols a la situació de l'esport català en les diferents disciplines, a través de reportatges i entrevistes</sub-title>
     <desc lang="es">"Zona UFEC" és l'espai que pren el pols a la situació de l'esport català en les diferents disciplines. A través de reportatges i entrevistes, i en col·laboració amb la Unió de Federacions Esportives de Catalunya, cada setmana repassem els èxits i el treball dels esportistes catalans en les competicions de casa nostra i d'arreu del món.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/1/1416400864116.jpg" />
   </programme>
-  <programme start="20261013190416 +0200" stop="20261013200000 +0200" channel="Esport3_CAT">
+  <programme start="20261013190417 +0200" stop="20261013200000 +0200" channel="Esport3_CAT">
     <title lang="es">Bàsquet - Bahçesehir-Kids&amp;Us Manresa / Eurocup / J3</title>
     <desc lang="es">Després d'una derrota i una victòria, els del Bages visiten la pista del líder del grup. Els turcs han guanyat el dos partits disputats.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261013200000 +0200" stop="20261013205633 +0200" channel="Esport3_CAT">
+  <programme start="20261013200000 +0200" stop="20261013205634 +0200" channel="Esport3_CAT">
     <title lang="es">Zona Champions - Prèvia Galatasaray-Barça / J2</title>
     <sub-title lang="es">El bo i millor de la màxima competició de futbol continental a Televisió de Catalunya i 3Cat</sub-title>
     <desc lang="es">El bo i millor de la màxima competició de futbol continental de la mà del Departament d'Esports de Televisió de Catalunya. Viu tots els partits de la Lliga de Campions a 3Cat!</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/6/1726468165969.jpg" />
   </programme>
-  <programme start="20261013205633 +0200" stop="20261013230033 +0200" channel="Esport3_CAT">
+  <programme start="20261013205634 +0200" stop="20261013230112 +0200" channel="Esport3_CAT">
     <title lang="es">Un dia de partit - Galatasaray-Barça</title>
     <sub-title lang="es">A</sub-title>
     <desc lang="es">A "Un dia de partit" arreglem el Barça. O no. A cada partit, sis culers hi diuen la seva. Famosos i anònims. Cadascun a casa seva. Davant del televisor. Tot a base de videotrucades, en format Twitch i en rigorós directe. Ah! I a la mitja part no aturem màquines. Amb els jugadors als vestidors, nosaltres seguim fent bullir l'olla! Només sis culers? Negatiu. Durant el partit van apareixent els Jimmy Jump: els espontanis que demanen saltar a "Un dia de partit" via WhatsApp.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/0/1/1637599361310.jpg" />
   </programme>
-  <programme start="20261013230033 +0200" stop="20261014001842 +0200" channel="Esport3_CAT">
+  <programme start="20261013230112 +0200" stop="20261014001923 +0200" channel="Esport3_CAT">
     <title lang="es">Handbol - Aguas Santas-BM Granollers / EHF European League / J3</title>
     <desc lang="es">El Fraikin juga al districte de Porto amb l'objectiu de sumar la primera victòria com a visitant de la temporada europea.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/9/4/1647958061549.png" />
