@@ -3281,22 +3281,22 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504307" />
     <episode-num system="onscreen">T7</episode-num>
   </programme>
-  <programme start="20261015200000 +0200" stop="20261015203000 +0200" channel="Movistar Plus">
+  <programme start="20261015200000 +0200" stop="20261015202600 +0200" channel="Movistar Plus">
     <title lang="es">Bakalá</title>
     <desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414957" />
     <episode-num system="onscreen">T26/27 Ep.6</episode-num>
   </programme>
-  <programme start="20261015203000 +0200" stop="20261015205300 +0200" channel="Movistar Plus">
+  <programme start="20261015202600 +0200" stop="20261015205400 +0200" channel="Movistar Plus">
     <title lang="es">One Zoo Three: La fiesta de los sustos</title>
     <desc lang="es">Están pasando cosas extrañas pasando en el zoo. Para prepararse para un Halloween de miedo, todo el mundo ha colaborado poniendo decoraciones. Hasta los animales se lo están pasando bien.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4099611" />
   </programme>
-  <programme start="20261015205300 +0200" stop="20261015230000 +0200" channel="Movistar Plus">
+  <programme start="20261015205400 +0200" stop="20261015230000 +0200" channel="Movistar Plus">
     <title lang="es">UEFA Europa League: Celta - Juventus</title>
-    <desc lang="es">Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium de Estambul.</desc>
+    <desc lang="es">Celta y Juventus rememoran el enfrentamiento de hace veintiseis años en Balaídos en la segunda jornada de la UEL. Los de Giráldez buscan sus primeros puntos de la competición.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4499796" />
   </programme>
@@ -69034,6 +69034,132 @@
       <value>Todas las edades</value>
     </rating>
   </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261016050000 +0000" stop="20261015050000 +0000" channel="AR - ESPN">
+    <title lang="es">El show de la Fórmula 1</title>
+    <sub-title lang="es">El show de la Fórmula 1</sub-title>
+    <desc lang="es">Repaso y análisis de los aconteciemientos destacados de cada Gran Premio, así como entrevistas a los pilotos de la Fórmula 1.</desc>
+    <credits>
+      <actor>Fernando Tornello</actor>
+      <actor>Adrián Puente</actor>
+      <actor>Chacho López</actor>
+    </credits>
+    <icon src="https://cdn.mitvstatic.com/programs/ar_automovilismo-el-show-de-la-formula-1_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
   <programme start="20261016050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
     <title lang="es">El show de la Fórmula 1</title>
     <sub-title lang="es">El show de la Fórmula 1</sub-title>
@@ -69237,6 +69363,87 @@
       <value>Todas las edades</value>
     </rating>
   </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261016060000 +0000" channel="AR - ESPN">
+    <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
+    <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
+    <desc lang="es">Disfruta lo mejor del Rolex Shanghai Masters 2026, un torneo de tenis ATP Tour Masters 1000 que se disputa en pistas duras al aire libre en el Qizhong Forest Sports City Arena, en Shanghái, China.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Guía parental sugerida</value>
+    </rating>
+  </programme>
   <programme start="20261017050000 +0000" stop="20261017060000 +0000" channel="AR - ESPN">
     <title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</title>
     <sub-title lang="es">Compact - ATP World Tour Masters 1000 - Rolex Shanghai Masters</sub-title>
@@ -69394,6 +69601,87 @@
     <title lang="es">Bayern Múnich vs. RB Leipzig, Fecha 6, Allianz Arena</title>
     <sub-title lang="es">Compacto - Bundesliga</sub-title>
     <desc lang="es">Revive los mejores momentos de los partidos de la 64º edición de la Bundesliga, donde compiten los equipos de primera división del fútbol alemán.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+    <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
+    <rating system="IMdb">
+      <value>Todas las edades</value>
+    </rating>
+  </programme>
+  <programme start="20261018050000 +0000" stop="20261017070000 +0000" channel="AR - ESPN">
+    <title lang="es">Villarreal vs. Elche, Fecha 9, Estadio de la Ceramica</title>
+    <sub-title lang="es">LaLiga EA Sports</sub-title>
+    <desc lang="es">Vive las emociones de los partidos de la 96º edición de LaLiga EA Sports, la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
     <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_l.jpg" />
     <rating system="IMdb">
       <value>Todas las edades</value>
@@ -89991,60 +90279,65 @@ En Vivo</title>
     <desc lang="es">Lluís Carrasco, Sique Rodríguez, Gemma Mallorca i Joan Poquí analitzen el partit del Barça a Istanbul i la jornada de Champions amb atenció al partit del Reial Madrid. En Joan Fàbregas repassa les jugades polèmiques.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261015125949 +0200" stop="20261015150331 +0200" channel="Esport3_CAT">
+  <programme start="20261015125949 +0200" stop="20261015150330 +0200" channel="Esport3_CAT">
     <title lang="es">Esport Club - Raphinha ja s'entrena, la samarreta del clàssic, Ai Tsunoda i l'NBA</title>
     <sub-title lang="es">L'última hora esportiva i l'anàlisi amb la participació de l'audiència a través de les xarxes socials</sub-title>
     <desc lang="es">Dos dies abans del partit al camp del Betis, Raphinha ja s'entrena amb el grup. La samarreta del Barça per al clàssic. Entrevistem Ai Tsunoda, campiona del món de judo. L'NBA, amb Jordi de Mas i tertúlia. Ens acompanyen Pere Mas, Arancha Rodríguez i Àlex Esteban.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261015150331 +0200" stop="20261015153730 +0200" channel="Esport3_CAT">
+  <programme start="20261015150330 +0200" stop="20261015153730 +0200" channel="Esport3_CAT">
     <title lang="es">GR Pirineus - De vall a vall</title>
     <desc lang="es">Avui el nostre viatge  comença a la Vall d'Aran i acaba a la Vall de Boí.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/6/1294133483563.jpg" />
   </programme>
-  <programme start="20261015153730 +0200" stop="20261015162941 +0200" channel="Esport3_CAT">
+  <programme start="20261015153730 +0200" stop="20261015162940 +0200" channel="Esport3_CAT">
     <title lang="es">Experiència Catalana - Mary Jean i Kelly</title>
     <desc lang="es">La Mary Jean Jecklin i el Kelley Rea són un matrimoni dels Estats Units a qui l'any 2012 la revista National Geographic va anomenar viatgers de l'any. La Ivana Miño s'ha proposat que viatgin per Catalunya i els acompanya a descobrir el Montseny, l'Anoia i el Penedès.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1778669287849.jpg" />
   </programme>
-  <programme start="20261015162941 +0200" stop="20261015172209 +0200" channel="Esport3_CAT">
+  <programme start="20261015162940 +0200" stop="20261015172209 +0200" channel="Esport3_CAT">
     <title lang="es">Experiència Catalana - Rick Hansen</title>
     <desc lang="es">El Rick Hansen és un exatleta paralímpic canadenc i la Ivana Miño ha decidit acompanyar-lo en la seva aventura per Catalunya. Viatjar en cadira de rodes no li impedeix fer un viatge espectacular i ple d'acció, com navegar o anar en bicicleta.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1778669287849.jpg" />
   </programme>
-  <programme start="20261015172209 +0200" stop="20261015172841 +0200" channel="Esport3_CAT">
+  <programme start="20261015172209 +0200" stop="20261015172848 +0200" channel="Esport3_CAT">
     <title lang="es">Xarxa Natura</title>
     <desc lang="es">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/2/7/1721308982272.jpg" />
   </programme>
-  <programme start="20261015172841 +0200" stop="20261015183000 +0200" channel="Esport3_CAT">
+  <programme start="20261015172848 +0200" stop="20261015183000 +0200" channel="Esport3_CAT">
     <title lang="es">Esport Club - Raphinha ja s'entrena, la samarreta del clàssic, Ai Tsunoda i l'NBA</title>
     <sub-title lang="es">L'última hora esportiva i l'anàlisi amb la participació de l'audiència a través de les xarxes socials</sub-title>
     <desc lang="es">Dos dies abans del partit al camp del Betis, Raphinha ja s'entrena amb el grup. La samarreta del Barça per al clàssic. Entrevistem Ai Tsunoda, campiona del món de judo. L'NBA, amb Jordi de Mas i tertúlia. Ens acompanyen Pere Mas, Arancha Rodríguez i Àlex Esteban.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261015183000 +0200" stop="20261015202711 +0200" channel="Esport3_CAT">
+  <programme start="20261015183000 +0200" stop="20261015201143 +0200" channel="Esport3_CAT">
     <title lang="es">Handbol - Dinamo Bucarest-Barça / EHF Champions / J4</title>
     <sub-title lang="es">Els partits del Barça d¿handbol a la màxima competició europea masculina, la Machineseeker Champions League</sub-title>
     <desc lang="es">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/9/4/1647958061549.png" />
   </programme>
-  <programme start="20261015202711 +0200" stop="20261015213642 +0200" channel="Esport3_CAT">
+  <programme start="20261015201143 +0200" stop="20261015210856 +0200" channel="Esport3_CAT">
     <title lang="es">Tot Costa - El Barça pot regnar a Europa?</title>
     <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
     <desc lang="es">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
   </programme>
-  <programme start="20261015213642 +0200" stop="20261015230000 +0200" channel="Esport3_CAT">
+  <programme start="20261015210856 +0200" stop="20261015211725 +0200" channel="Esport3_CAT">
+    <title lang="es">E3 - Marnaton Eivissa</title>
+    <sub-title lang="es">Documentals, reportatges, resums... Tot allò que t¿imagines del món de l¿esport, ho trobes aquí, a Esport3!</sub-title>
+    <desc lang="es">Sisena i última prova de la Copa Marnaton 2026, el campionat de natació en aigües obertes que se celebra a Catalunya i les Illes Balears.</desc>
+  </programme>
+  <programme start="20261015211725 +0200" stop="20261015230000 +0200" channel="Esport3_CAT">
     <title lang="es">Handbol - Dinamo Bucarest-Barça / EHF Champions / J4</title>
     <sub-title lang="es">Els partits del Barça d¿handbol a la màxima competició europea masculina, la Machineseeker Champions League</sub-title>
     <desc lang="es">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/9/4/1647958061549.png" />
   </programme>
   <programme start="20261015230000 +0200" stop="20261016003059 +0200" channel="Esport3_CAT">
-    <title lang="es">Onze</title>
+    <title lang="es">Onze - El gat amagat de Mou; "El predicador" i "El consultori"</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
-    <desc lang="es">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <desc lang="es">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
   <programme start="20261016003059 +0200" stop="20261016005142 +0200" channel="Esport3_CAT">
@@ -90053,9 +90346,9 @@ En Vivo</title>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
   <programme start="20261016005142 +0200" stop="20261016022230 +0200" channel="Esport3_CAT">
-    <title lang="es">Onze</title>
+    <title lang="es">Onze - El gat amagat de Mou; "El predicador" i "El consultori"</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
-    <desc lang="es">Les nits d'Esport3 tornen a concentrar tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia al voltant de l'actualitat esportiva. Un xou cada nit per acabar informat, saber cap on va l'actualitat i mantenir sempre un somriure.</desc>
+    <desc lang="es">David Bernabeu, Víctor Lozano, Aina Cerdà i Jordi Costa comenten la metàfora felina de Mourinho a la sala de premsa de la Roma. L'Òscar Pérez-Dolz predica els manaments del bon culer. En Sergi Ferrer respon les inquietuds dels espectadors de l'Onze.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
   <programme start="20261016022230 +0200" stop="20261016024327 +0200" channel="Esport3_CAT">
@@ -90063,18 +90356,18 @@ En Vivo</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261016024327 +0200" stop="20261016040538 +0200" channel="Esport3_CAT">
+  <programme start="20261016024327 +0200" stop="20261016035609 +0200" channel="Esport3_CAT">
     <title lang="es">Handbol - Dinamo Bucarest-Barça / EHF Champions / J4</title>
     <sub-title lang="es">Els partits del Barça d¿handbol a la màxima competició europea masculina, la Machineseeker Champions League</sub-title>
     <desc lang="es">Els barcelonistes juguen a Romania, contra un rival que encara no ha guanyat, amb l'objectiu de mantenir el liderat solitari del grup.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/9/4/1647958061549.png" />
   </programme>
-  <programme start="20261016040538 +0200" stop="20261016042621 +0200" channel="Esport3_CAT">
+  <programme start="20261016035609 +0200" stop="20261016041652 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261016042621 +0200" stop="20261016061539 +0200" channel="Esport3_CAT">
+  <programme start="20261016041652 +0200" stop="20261016061539 +0200" channel="Esport3_CAT">
     <title lang="es">Tot Costa - El Barça pot regnar a Europa?</title>
     <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
     <desc lang="es">El Barça va golejar el Galatasaray en un ambient hostil per als blaugranes. Ho analitzem amb Gerard Autet, Gemma Mallorca i Ferran Correas. Amb Laia Tudel i Ramon Salmurri repassem les bones dades dels blaugranes, i amb Marc Crosas valorem fins on pot arribar aquest Barça. També sabrem com ho van viure des de la banqueta del Galatasaray. Pel que fa al bàsquet, avui entrevista amb Pierre Oriola per parlar de què li passa al Manresa.</desc>
@@ -93838,70 +94131,109 @@ En Vivo</title>
     <desc lang="es">José Luis Capitán, Capi para los amigos, un atleta experto en carreras de montaña, padece ELA.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261016230000 +0200" stop="20261017010000 +0200" channel="Vinx.TV">
-    <title lang="es">La camarina</title>
-    <desc lang="es">Programa deportivo sobre el mundo del motor, con las pruebas más destacadas.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fa/c9/fac93ecbcc9860cc73a6be71a01669bdbc9e24cc6eeefe32451bd7a9e653c2e7.jpg" />
+  <programme start="20261016230000 +0200" stop="20261017000000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261017010000 +0200" stop="20261017030000 +0200" channel="Vinx.TV">
-    <title lang="es">Fin de Emisión</title>
-    <desc lang="es">Fin de Emisión.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/6a/11/6a110f0667f53470c5f55de600c8532c0fe55cb090442043ca336739a757f617.jpg" />
-  </programme>
-  <programme start="20261017030000 +0200" stop="20261017050000 +0200" channel="Vinx.TV">
+  <programme start="20261017000000 +0200" stop="20261017010000 +0200" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://metadata.agiletv.es/_assets/94/d2/94d2090126156fc147dcfb9435cec0dc692bd33d0f72f89847846c24e6ce8814.jpg" />
   </programme>
-  <programme start="20261017050000 +0200" stop="20261017080000 +0200" channel="Vinx.TV">
+  <programme start="20261017010000 +0200" stop="20261017020000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017020000 +0200" stop="20261017030000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte asturiano</title>
+    <desc lang="es">Deporte asturiano.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/9a/3a/9a3a920abb8eaa21faa7da1375365809f1b11913e56d2a70c64143454a8f60b1.jpg" />
+  </programme>
+  <programme start="20261017030000 +0200" stop="20261017063000 +0200" channel="Vinx.TV">
+    <title lang="es">Despierta Asturias</title>
+    <desc lang="es">Programa matinal de VINX.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017063000 +0200" stop="20261017073000 +0200" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
   </programme>
-  <programme start="20261017080000 +0200" stop="20261017093000 +0200" channel="Vinx.TV">
-    <title lang="es">Mirando al futuro</title>
-    <desc lang="es">Mirando al futuro.</desc>
+  <programme start="20261017073000 +0200" stop="20261017090000 +0200" channel="Vinx.TV">
+    <title lang="es">Despierta Asturias</title>
+    <desc lang="es">Programa matinal de VINX.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261017093000 +0200" stop="20261017110000 +0200" channel="Vinx.TV">
-    <title lang="es">Rugby asturiano</title>
-    <desc lang="es">Partido de rugby entre equipos asturianos.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/a6/0f/a60fcdbe16b52889d639ac35ac8f0292ab1986f12453c07258bd95c97d0c37dc.jpg" />
-    <episode-num system="onscreen">S2021 E19</episode-num>
+  <programme start="20261017090000 +0200" stop="20261017093000 +0200" channel="Vinx.TV">
+    <title lang="es">Enamorados de la vida con Capi</title>
+    <desc lang="es">José Luis Capitán, Capi para los amigos, un atleta experto en carreras de montaña, padece ELA.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261017110000 +0200" stop="20261017140000 +0200" channel="Vinx.TV">
-    <title lang="es">Fin de Emisión</title>
-    <desc lang="es">Fin de Emisión.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/6a/11/6a110f0667f53470c5f55de600c8532c0fe55cb090442043ca336739a757f617.jpg" />
+  <programme start="20261017093000 +0200" stop="20261017100000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20261017100000 +0200" stop="20261017110000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario de un hortelano</title>
+    <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/94/d2/94d2090126156fc147dcfb9435cec0dc692bd33d0f72f89847846c24e6ce8814.jpg" />
+  </programme>
+  <programme start="20261017110000 +0200" stop="20261017120000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017120000 +0200" stop="20261017130000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20261017130000 +0200" stop="20261017140000 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
   <programme start="20261017140000 +0200" stop="20261017160000 +0200" channel="Vinx.TV">
+    <title lang="es">Oviedo Rugby Club - Crat</title>
+    <desc lang="es">sin descripción.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017160000 +0200" stop="20261017163000 +0200" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
   </programme>
-  <programme start="20261017160000 +0200" stop="20261017163000 +0200" channel="Vinx.TV">
+  <programme start="20261017163000 +0200" stop="20261017183000 +0200" channel="Vinx.TV">
+    <title lang="es">Confia Base Oviedo Bm Contazara Zaragoza</title>
+    <desc lang="es">sin descripción.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017183000 +0200" stop="20261017190000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20261017190000 +0200" stop="20261017211500 +0200" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
+  </programme>
+  <programme start="20261017211500 +0200" stop="20261017213000 +0200" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
+  </programme>
+  <programme start="20261017213000 +0200" stop="20261017230000 +0200" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://metadata.agiletv.es/_assets/94/d2/94d2090126156fc147dcfb9435cec0dc692bd33d0f72f89847846c24e6ce8814.jpg" />
   </programme>
-  <programme start="20261017163000 +0200" stop="20261017200000 +0200" channel="Vinx.TV">
-    <title lang="es">Mirando al futuro</title>
-    <desc lang="es">Mirando al futuro.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
-  </programme>
-  <programme start="20261017200000 +0200" stop="20261017210000 +0200" channel="Vinx.TV">
-    <title lang="es">L'alderique</title>
-    <desc lang="es">Sin descripción.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
-  </programme>
-  <programme start="20261017210000 +0200" stop="20261017230000 +0200" channel="Vinx.TV">
-    <title lang="es">Diario Vinx</title>
-    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/79/04/7904a3950a9eac157827f99103e92138fd21775ee861f0d8a12602980da3a46b.jpg" />
-  </programme>
-  <programme start="20261017230000 +0200" stop="20261018010000 +0200" channel="Vinx.TV">
-    <title lang="es">La camarina</title>
-    <desc lang="es">Programa deportivo sobre el mundo del motor, con las pruebas más destacadas.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fa/c9/fac93ecbcc9860cc73a6be71a01669bdbc9e24cc6eeefe32451bd7a9e653c2e7.jpg" />
+  <programme start="20261017230000 +0200" stop="20261018000000 +0200" channel="Vinx.TV">
+    <title lang="es">Deporte asturiano</title>
+    <desc lang="es">Deporte asturiano.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/9a/3a/9a3a920abb8eaa21faa7da1375365809f1b11913e56d2a70c64143454a8f60b1.jpg" />
   </programme>
 </tv>
