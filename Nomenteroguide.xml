@@ -3318,26 +3318,26 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4492883" />
   </programme>
-  <programme start="20261016202500 +0200" stop="20261016223000 +0200" channel="Movistar Plus">
+  <programme start="20261016202500 +0200" stop="20261016225700 +0200" channel="Movistar Plus">
     <title lang="es">Euroliga de baloncesto: FC Barcelona - Olympiacos</title>
     <desc lang="es">Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504109" />
   </programme>
-  <programme start="20261016223000 +0200" stop="20261017002800 +0200" channel="Movistar Plus">
+  <programme start="20261016225700 +0200" stop="20261017005500 +0200" channel="Movistar Plus">
     <title lang="es">Incontrolable</title>
     <desc lang="es">Basada en la historia real de John Davidson, "Incontrolable" recorre la vida de un adolescente diagnosticado con síndrome de Tourette en una época en la que casi nadie entendía sus síntomas. Sus tics físicos y verbales lo convierten en objeto de burlas, miedo y rechazo, pero también en el punto de partida de una historia de resistencia, humor y dignidad.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4486765" />
   </programme>
-  <programme start="20261017002800 +0200" stop="20261017010000 +0200" channel="Movistar Plus">
+  <programme start="20261017005500 +0200" stop="20261017012500 +0200" channel="Movistar Plus">
     <title lang="es">Eurofighters</title>
     <desc lang="es">Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503389" />
     <episode-num system="onscreen">T26/27 Ep.4</episode-num>
   </programme>
-  <programme start="20261017010000 +0200" stop="20261017024000 +0200" channel="Movistar Plus">
+  <programme start="20261017012500 +0200" stop="20261017024000 +0200" channel="Movistar Plus">
     <title lang="es">No dormirás</title>
     <desc lang="es">Un grupo de teatro vanguardista experimenta con el insomnio para la preparación del montaje de una obra creada por pacientes psiquiátricos.</desc>
     <category lang="es">Cine</category>
@@ -3596,39 +3596,46 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414957" />
     <episode-num system="onscreen">T26/27 Ep.6</episode-num>
   </programme>
-  <programme start="20261016223000 +0200" stop="20261016230000 +0200" channel="M+ Vamos">
+  <programme start="20261016223000 +0200" stop="20261016225300 +0200" channel="M+ Vamos">
+    <title lang="es">Planeta Tenis</title>
+    <sub-title lang="es">Especial US Open</sub-title>
+    <desc lang="es">Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4464670" />
+  </programme>
+  <programme start="20261016225300 +0200" stop="20261016232300 +0200" channel="M+ Vamos">
     <title lang="es">Eurofighters</title>
     <desc lang="es">Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503389" />
     <episode-num system="onscreen">T26/27 Ep.4</episode-num>
   </programme>
-  <programme start="20261016230000 +0200" stop="20261017010000 +0200" channel="M+ Vamos">
+  <programme start="20261016232300 +0200" stop="20261017012800 +0200" channel="M+ Vamos">
     <title lang="es">Euroliga de baloncesto: FC Barcelona - Olympiacos</title>
-    <desc lang="es">Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia, que aspiran a reeditar el éxito de la pasada temporada de Blancos y Taronjas que llegaron a disputar la Final 4. Este curso los enemigos a batir serán los dos equipos griegos, Olympiakos y Panathinaikos. Los Rojos, actuales campeones, vuelve a ser los grandes favoritos. Los Verdes se han reforzado mucho este verano para tratar de volver a ser campeones de Europa. Los banquillos hablarán castellano, con 7 entrenadores españoles: Laso, Pascual, Albert, Mumbrú, Martínez, Navarro y Peñarroya.</desc>
+    <desc lang="es">Tras vencer al Maccabi sobre la bocina gracias al triple de Robinson, el Barça recibe al vigente campeón de Europa. El Olympiacos logró la proeza de remontar 28 puntos de desventaja en Valencia.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504109" />
   </programme>
-  <programme start="20261017010000 +0200" stop="20261017032700 +0200" channel="M+ Vamos">
+  <programme start="20261017012800 +0200" stop="20261017035500 +0200" channel="M+ Vamos">
     <title lang="es">Torneo de Shanghai: Jodar - Ruud</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4511360" />
   </programme>
-  <programme start="20261017032700 +0200" stop="20261017033700 +0200" channel="M+ Vamos">
+  <programme start="20261017035500 +0200" stop="20261017040500 +0200" channel="M+ Vamos">
     <title lang="es">Top Bakalá</title>
     <desc lang="es">Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4414957" />
     <episode-num system="onscreen">T26/27 Ep.6</episode-num>
   </programme>
-  <programme start="20261017033700 +0200" stop="20261017044300 +0200" channel="M+ Vamos">
+  <programme start="20261017040500 +0200" stop="20261017051100 +0200" channel="M+ Vamos">
     <title lang="es">Lamine Yamal. Revolución 304</title>
     <desc lang="es">Lamine Yamal se ha convertido en uno de los mejores futbolistas del mundo. Cada vez que marca un gol lo celebra dibujando con sus manos el 304, los números del distrito postal de Rocafonda, el barrio de Mataró donde todavía vive su abuela Fátima.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4505190" />
   </programme>
-  <programme start="20261017044300 +0200" stop="20261017060100 +0200" channel="M+ Vamos">
+  <programme start="20261017051100 +0200" stop="20261017060100 +0200" channel="M+ Vamos">
     <title lang="es">Torneo de Shanghai: Medvedev - Paul</title>
     <desc lang="es">El octavo Masters 1000 de la temporada de la ATP se juega en Shanghai. Es el único torneo de esta categoría que no ha ganado ningún español.</desc>
     <category lang="es">Deportes</category>
@@ -21725,17 +21732,24 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4492883" />
   </programme>
-  <programme start="20261016201500 +0200" stop="20261016221500 +0200" channel="M+ Vamos 2">
+  <programme start="20261016201500 +0200" stop="20261016223100 +0200" channel="M+ Vamos 2">
     <title lang="es">Euroliga de baloncesto: Panathinaikos - Hapoel Tel Aviv</title>
     <desc lang="es">Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia, que aspiran a reeditar el éxito de la pasada temporada de Blancos y Taronjas que llegaron a disputar la Final 4. Este curso los enemigos a batir serán los dos equipos griegos, Olympiakos y Panathinaikos. Los Rojos, actuales campeones, vuelve a ser los grandes favoritos. Los Verdes se han reforzado mucho este verano para tratar de volver a ser campeones de Europa. Los banquillos hablarán castellano, con 7 entrenadores españoles: Laso, Pascual, Albert, Mumbrú, Martínez, Navarro y Peñarroya.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504532" />
   </programme>
-  <programme start="20261016221500 +0200" stop="20261017000000 +0200" channel="M+ Vamos 2">
-    <title lang="es">Copa Libertadores: Estudiantes de la Plata -  Flamengo</title>
-    <desc lang="es">El fútbol sudamericano tiene una competición por encima del resto, la Copa Libertadores. Se trata de un torneo equivalente a la Champions y que ha sido dominado tradicionalmente por clubes argentinos, brasileños y uruguayos. El Atlético Nacional es el campeón actual.</desc>
+  <programme start="20261016223100 +0200" stop="20261016232600 +0200" channel="M+ Vamos 2">
+    <title lang="es">Álex Palou, a fondo</title>
+    <desc lang="es">Antes del inicio de la temporada 2026 del IndyCar Noemí de Miguel entrevista al piloto español Álex Palou.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509435" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4460505" />
+  </programme>
+  <programme start="20261016232600 +0200" stop="20261017000000 +0200" channel="M+ Vamos 2">
+    <title lang="es">Locos por el golf</title>
+    <desc lang="es">La Armada española y en especial, Eugenio Chacarra, centran nuestra atención en este Locos especial del Open de España. Mientras, el LIV 2.0, sigue sumando bajas.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4246210" />
+    <episode-num system="onscreen">T33</episode-num>
   </programme>
   <programme start="20261017000000 +0200" stop="20261017050000 +0200" channel="M+ Vamos 2">
     <title lang="es">Professional Fighters League: Velada completa Chicago</title>
@@ -82242,7 +82256,8 @@ En Vivo</title>
     <title lang="es">Contacto Deportivo</title>
   </programme>
   <programme start="20261017220000 +0200" stop="20261017230000 +0200" channel="TUDN (Estados Unidos)">
-    <title lang="es">Faitelson sin censura</title>
+    <title lang="es">UEFA Champions League en 55</title>
+    <sub-title lang="es">Bayern München vs. Real Madrid</sub-title>
   </programme>
   <programme start="20261017230000 +0200" stop="20261018010000 +0200" channel="TUDN (Estados Unidos)">
     <title lang="es">Amistosos de fútbol de clubes femeninos</title>
@@ -86065,6 +86080,7 @@ En Vivo</title>
   </programme>
   <programme start="20261016164800 +0200" stop="20261016171900 +0200" channel="Conciertos3.TV">
     <title lang="es">La Cabra Mecánica</title>
+    <sub-title lang="es">La Cabra Mec��nica</sub-title>
     <desc lang="es">La Cabra Mecánica y su rock canalla en directo.</desc>
     <icon src="https://img2.rtve.es/v/767465/vertical/?h=400" />
   </programme>
@@ -89518,76 +89534,84 @@ En Vivo</title>
     <title lang="es">Gran! - Joan Miró, un món de colors i formes</title>
     <desc lang="es">Coincidint amb el 50è aniversari de la Fundació Joan Miró, aquest capítol de "Gran!" repassa la figura d'un creador excepcional que no va deixar mai de buscar i provar noves tècniques i expressions dins del seu art. De fet, Joan Miró, artista d'esperit sensible i combatiu, va experimentar, per exemple, amb el collage, els gravats, la ceràmica, l'escultura o els tapissos.  La pintura, el centre del seu art, es va veure influenciada pel fauvisme, l'expressionisme i el cubisme en els seus inicis. Però, després, va volar lliure amb una personalitat única i un món original i molt propi de colors i formes.</desc>
   </programme>
-  <programme start="20261016201905 +0200" stop="20261016210230 +0200" channel="33_CAT">
+  <programme start="20261016201905 +0200" stop="20261016210241 +0200" channel="33_CAT">
     <title lang="es">Un món de Jocs - L'espai de joc dels déus</title>
     <desc lang="es">Els Jocs Olímpics van començar com una cerimònia religiosa. Milers d'anys després, la línia entre l'esport i la religió encara és poc clara. Als millors jugadors del món se'ls venera com si fossin divinitats i, com qualsevol divinitat, les seves accions inspiren les masses. Els jocs d'aquest episodi són profundes experiències religioses. Son molt més que espais de joc, són els espais de joc dels Déus.Alpinisme, FrançaPasola, IndonèsiaIoga, els Estats UnitsRarajipari, Mèxic.</desc>
   </programme>
-  <programme start="20261016210230 +0200" stop="20261016213054 +0200" channel="33_CAT">
+  <programme start="20261016210241 +0200" stop="20261016213105 +0200" channel="33_CAT">
     <title lang="es">L'un per l'altre - L'amic famós</title>
     <desc lang="es">Un actor televisiu popular molt amic del Calafell acaba fent cap al seu hostal fugint de l'assetjament a què el sotmeten els paparazzi. El Toni es queda fascinat amb la personalitat del famós però la resta de personatges només li troben defectes i decideixen aprofitar la seva estança a l'hostal per treure'n un benefici econòmic.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/6/1642497754366.jpg" />
   </programme>
-  <programme start="20261016213054 +0200" stop="20261016215913 +0200" channel="33_CAT">
+  <programme start="20261016213105 +0200" stop="20261016215924 +0200" channel="33_CAT">
     <title lang="es">L'un per l'altre - Primer amor</title>
     <desc lang="es">La Baronessa Pom Plissen, amor de joventut del Poppins, apareix a Horta. A la Rosa li puja la mosca al nas. Si la Plissen ha tornat, no pot ser per res de bo.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/6/1642497754366.jpg" />
   </programme>
-  <programme start="20261016215913 +0200" stop="20261016225105 +0200" channel="33_CAT">
+  <programme start="20261016215924 +0200" stop="20261016225116 +0200" channel="33_CAT">
     <title lang="es">La Renaixença - Millors moments - setmana 7</title>
     <desc lang="es">Els objectes de la setmana són el despertador, el telescopi i el càntir, claríssimament l'últim és l'únic que té una utilitat real, els altres són invents del Primer Món, innecessaris pel dia a dia de l'home treballador. També ens visita en Victor Ferrer, espeleòleg (només pensar-ho ja ens ve claustrofòbia), en Roger Mas una de les veus de Catalunya, i la Laura de Castellet, divulgadora històrica i experta en instruments medievals!</desc>
   </programme>
-  <programme start="20261016225105 +0200" stop="20261016233800 +0200" channel="33_CAT">
+  <programme start="20261016225116 +0200" stop="20261016233811 +0200" channel="33_CAT">
     <title lang="es">País d'altura - Terres de Lleida</title>
     <desc lang="es">Les Terres de Lleida s'expliquen a través del seu paisatge: una terra modelada per l'aigua, l'agricultura i les persones que l'han fet créixer.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/9/1789627186493.jpg" />
   </programme>
-  <programme start="20261016233800 +0200" stop="20261017000512 +0200" channel="33_CAT">
+  <programme start="20261016233811 +0200" stop="20261017000523 +0200" channel="33_CAT">
     <title lang="es">Patrimonis - La bellesa (recinte Modernitat de l'Hospital de Sant Pau)</title>
     <desc lang="es">A "Patrimonis" visitem la presó Model de Barcelona, que concreta una part important del relat social i polític del país. Un espai on els murs, ara buits, encara conserven el ressò de milers d'històries d'homes privats de llibertat. Ens hi endinsem de la mà de l'exreclús Andrés Jiménez; l'historiador Agustí Alcoberro; Miquel Seguró, filòsof; el darrer director de la Model, Josep Pont, i Magalí Sare &amp; Sebastià Gris, i Quico Pi de la Serra, que hi posen la música.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1791899761473.jpg" />
   </programme>
-  <programme start="20261017000512 +0200" stop="20261017003457 +0200" channel="33_CAT">
+  <programme start="20261017000523 +0200" stop="20261017003508 +0200" channel="33_CAT">
     <title lang="es">Patrimonis - Viure (la dieta mediterrània)</title>
     <desc lang="es">A "Patrimonis" travessem el país de nord a sud per relatar-lo a partir de les paraules d'escriptors catalans universals com Mercè Rodoreda, Salvador Espriu, Josep Pla i Jesús Moncada. El seu paisatge vital els va inspirar i els seus textos van esdevenir patrimoni cultural del país.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1791899761473.jpg" />
   </programme>
-  <programme start="20261017003457 +0200" stop="20261017012742 +0200" channel="33_CAT">
+  <programme start="20261017003508 +0200" stop="20261017012753 +0200" channel="33_CAT">
     <title lang="es">Experiència Catalana - Jota i Daniela</title>
     <desc lang="es">La Daniela i el Jota, uns joves viatgers argentins, descobreixen el Lluçanès, la Cerdanya i l'Alt Urgell. Abans d'acabar el viatge, però, la Ivana Miño també els acompanya a conèixer els llocs més típics de Barcelona.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1778669287849.jpg" />
   </programme>
-  <programme start="20261017012742 +0200" stop="20261017020946 +0200" channel="33_CAT">
+  <programme start="20261017012753 +0200" stop="20261017020957 +0200" channel="33_CAT">
     <title lang="es">Teories de la relativitat - De l'eterna juventut a la immortalitat</title>
     <desc lang="es">El negoci de l'eterna joventut comença amb l'skincare infantil, les injeccionsmiraculoses que redueixen l'edat biològica i el somni de la immortalitat.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/8/1776942218384.jpg" />
   </programme>
-  <programme start="20261017020946 +0200" stop="20261017025207 +0200" channel="33_CAT">
+  <programme start="20261017020957 +0200" stop="20261017025218 +0200" channel="33_CAT">
     <title lang="es">Teories de la relativitat - Salut mental, una crisi invisible</title>
     <desc lang="es">La IA pot fer de psicòloga? El TDAH i l'ansietat són trastorns mentals o, mésaviat, unes etiquetes que donen molts beneficis a la indústria farmacèutica?</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/8/1776942218384.jpg" />
   </programme>
-  <programme start="20261017025207 +0200" stop="20261017033450 +0200" channel="33_CAT">
+  <programme start="20261017025218 +0200" stop="20261017033501 +0200" channel="33_CAT">
     <title lang="es">Sala 30 - El concepte</title>
     <desc lang="es">La vida d'Antoni Muntadas, un dels màxims exponents del videoart, ha estat marcada per dues ciutats: Barcelona i Nova York. Per això, la proposta d'acompanyar Albert Pla mentre s'encarrega de les gallines de la masia li sembla una mica llunyana. Tot l'art contemporani és conceptual? Un concepte és igual que una idea? Enric Farrès, Lucia C. Pino, Fito Conesa i Laia Estruch se sumen a la conversa entre Muntadas i Pla per reflexionar sobre aquestes qüestions i jugar una mica amb la intel·ligència artificial.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1775051220333.jpg" />
   </programme>
-  <programme start="20261017033450 +0200" stop="20261017041615 +0200" channel="33_CAT">
+  <programme start="20261017033501 +0200" stop="20261017041626 +0200" channel="33_CAT">
     <title lang="es">Sala 30 - L'enigma</title>
     <desc lang="es">Què ve primer, en l'art: l'obra o l'enigma que l'envolta? És tan important allò que es vol expressar com l'univers que es crea al voltant d'aquesta idea? Albert Pla parla amb quatre artistes que destil·len aura: en l'atmosfera de Rosa Tharrats hi ha teles i el mar; en la de Gabriel Ventura, poesia; en la de Marina Herlop, música; i en la de Marria Pratts, fantasmes i vaques. Però Pla ha reservat un lloc d'honor a la taula ni més ni menys que per a Frederic Amat, un dels artistes catalans més reconeguts.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1775051220333.jpg" />
   </programme>
-  <programme start="20261017041615 +0200" stop="20261017050344 +0200" channel="33_CAT">
+  <programme start="20261017041626 +0200" stop="20261017050355 +0200" channel="33_CAT">
     <title lang="es">Aeroport - Gran germà</title>
     <desc lang="es">L'aeroport és una gran ciutat on milers de persones treballen en paral·lel perquè tot vagi a l'hora. Aquest gran engranatge necessita molts ulls per orquestrar-lo. Hi ha milers de càmeres de vigilància que vetllen per la seguretat i pel bon funcionament de cada racó de l'aeroport. És el CGA, el centre de gestió aeroportuària des d'on es coordina tot.</desc>
   </programme>
-  <programme start="20261017050344 +0200" stop="20261017055013 +0200" channel="33_CAT">
+  <programme start="20261017050355 +0200" stop="20261017055024 +0200" channel="33_CAT">
     <title lang="es">La Renaixença - Millors moments - setmana 2</title>
     <desc lang="es">Us deixem un resum dels millors moments dels últims quatre capítols de "La Renaixença". Són petites dosis del que ens ha semblat més divertit, però en realitat ja ho són els programes sencers, de divertits, així que doneu un cop d'ull a aquest resum i després recupereu els capítols, que sempre fa gràcia veure el context del que ha passat abans i després del que posem aquí.</desc>
   </programme>
-  <programme start="20261017055013 +0200" stop="20261017060000 +0200" channel="33_CAT">
+  <programme start="20261017055024 +0200" stop="20261017055550 +0200" channel="33_CAT">
     <title lang="es">Xarxa Natura</title>
     <desc lang="es">En la llista d'espais inclosos a la Xarxa Natura 2000 hi ha tots els parcs naturals, però també molts altres espais emblemàtics com ara les Guilleries, l'estany de Banyoles, l'Alta Garrotxa, la serra del Montsec o les Gavarres. La majoria d'aquests espais són autèntics desconeguts i els seus valors naturals i culturals no han estat mai objecte de cap divulgació específica. Aquesta sèrie vol donar a conèixer aquest patrimoni.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/2/7/1721308982272.jpg" />
+  </programme>
+  <programme start="20261017055550 +0200" stop="20261017055801 +0200" channel="33_CAT">
+    <title lang="es">Videoclips - Flashy Ice Cream &amp; Swit Eme - Cops</title>
+    <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
+  </programme>
+  <programme start="20261017055801 +0200" stop="20261017060000 +0200" channel="33_CAT">
+    <title lang="es">Videoclips - Quimo - Em vas fer mal</title>
+    <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
   </programme>
   <programme start="20261017060000 +0200" stop="20261017062125 +0200" channel="33_CAT">
     <title lang="es">Quèquicom - La MAT: penjats d'un fil</title>
@@ -89844,70 +89868,70 @@ En Vivo</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
   </programme>
-  <programme start="20261016174208 +0200" stop="20261016190000 +0200" channel="Esport3_CAT">
+  <programme start="20261016174208 +0200" stop="20261016185953 +0200" channel="Esport3_CAT">
     <title lang="es">Esport Club - Flick, Manolo, Fran Fernández i Jessica Vall</title>
     <sub-title lang="es">L'última hora esportiva i l'anàlisi amb la participació de l'audiència a través de les xarxes socials</sub-title>
     <desc lang="es">Hansi Flick i Manolo González, en les prèvies dels partits Betis-Barça i Espanyol-Atlètic de Madrid. Entrevistem Fran Fernández, entrenador del Zodiac Club Natació Atlètic-Barceloneta, i Jessica Vall, presidenta de la Comissió de Natació de la Federació Catalana. A la tertúlia ens acompanyen Nacho Peña, David Sánchez i Laia Cervelló.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261016190000 +0200" stop="20261016202501 +0200" channel="Esport3_CAT">
+  <programme start="20261016185953 +0200" stop="20261016202448 +0200" channel="Esport3_CAT">
     <title lang="es">Tot Costa - El Betis, rival de nivell a la Lliga</title>
     <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
     <desc lang="es">El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La "caçatalents" Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
   </programme>
-  <programme start="20261016202501 +0200" stop="20261016211622 +0200" channel="Esport3_CAT">
+  <programme start="20261016202448 +0200" stop="20261016212626 +0200" channel="Esport3_CAT">
     <title lang="es">Bàsquet - Bàsquet Girona-Barça Atlètic / Lliga U / J4</title>
     <desc lang="es">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261016211622 +0200" stop="20261016213403 +0200" channel="Esport3_CAT">
+  <programme start="20261016212626 +0200" stop="20261016213733 +0200" channel="Esport3_CAT">
     <title lang="es">Sala de Premsa - Hansi Flick / Prèvia Betis-Barça / J9</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
   </programme>
-  <programme start="20261016213403 +0200" stop="20261016222452 +0200" channel="Esport3_CAT">
+  <programme start="20261016213733 +0200" stop="20261016223310 +0200" channel="Esport3_CAT">
     <title lang="es">Bàsquet - Bàsquet Girona-Barça Atlètic / Lliga U / J4</title>
     <desc lang="es">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261016222452 +0200" stop="20261016225130 +0200" channel="Esport3_CAT">
+  <programme start="20261016223310 +0200" stop="20261016223949 +0200" channel="Esport3_CAT">
     <title lang="es">Top gols La Lliga - Jornada 8</title>
     <desc lang="es">"Top gols La Lliga" repassa cada setmana tots els gols de la jornada de la Primera Divisió. Amb la locució de Catalunya Ràdio i d'altres emissores catalanes, viu i emocionat amb els gols dels equips del nostre país i també amb els de la resta d'equips de la màxima categoria estatal de futbol.</desc>
   </programme>
-  <programme start="20261016225130 +0200" stop="20261016230000 +0200" channel="Esport3_CAT">
+  <programme start="20261016223949 +0200" stop="20261016230003 +0200" channel="Esport3_CAT">
     <title lang="es">Sala de Premsa - Hansi Flick / Prèvia Betis-Barça / J9</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
   </programme>
-  <programme start="20261016230000 +0200" stop="20261017003103 +0200" channel="Esport3_CAT">
+  <programme start="20261016230003 +0200" stop="20261017003111 +0200" channel="Esport3_CAT">
     <title lang="es">Onze - El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino.  Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el "Que n'aprenguin!" de Xavi Cazorla.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261017003103 +0200" stop="20261017005157 +0200" channel="Esport3_CAT">
+  <programme start="20261017003111 +0200" stop="20261017005205 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261017005157 +0200" stop="20261017022235 +0200" channel="Esport3_CAT">
+  <programme start="20261017005205 +0200" stop="20261017022242 +0200" channel="Esport3_CAT">
     <title lang="es">Onze - El Tourmalet del Barça; guerra Tebas-Florentino; Delmàs, Fàbregas i Cazorla</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Míriam Riau condueix la tertúlia amb Lluís Carrasco, Anaïs Martí, Juli Garcia i Edgar Fornós. Àlex Delmàs ens explica quina pot ser la clau del Betis-Barça. Amb Siro López analitzem l'estat de forma del Madrid i la guerra de Tebas amb Florentino.  Joan Fàbregas ens explica si els àrbitres realment perjudiquen el Madrid i acabem amb el "Que n'aprenguin!" de Xavi Cazorla.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261017022235 +0200" stop="20261017024342 +0200" channel="Esport3_CAT">
+  <programme start="20261017022242 +0200" stop="20261017024350 +0200" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261017024342 +0200" stop="20261017042523 +0200" channel="Esport3_CAT">
+  <programme start="20261017024350 +0200" stop="20261017042531 +0200" channel="Esport3_CAT">
     <title lang="es">Bàsquet - Bàsquet Girona-Barça Atlètic / Lliga U / J4</title>
     <desc lang="es">Derbi català al grup A del campionat que disputen les joves promeses dels equips de la Lliga Endesa.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261017042523 +0200" stop="20261017060750 +0200" channel="Esport3_CAT">
+  <programme start="20261017042531 +0200" stop="20261017060750 +0200" channel="Esport3_CAT">
     <title lang="es">Tot Costa - El Betis, rival de nivell a la Lliga</title>
     <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
     <desc lang="es">El Barça juga aquest dissabte contra el Betis. Amb Raphinha i De Jong? Ens ho explicarà Ramon Salmurri i ho analitzarem amb Bernat Soler, Gemma Herrero i Oriol Domènech. També entrevistarem Ángel Cuéllar, exjugador de tots dos equips, i amb Laia Tudel sabrem què ha dit l'agent de Nico Williams sobre el seu no fitxatge pel Barça. La "caçatalents" Andrea Orts ens parlarà dels davanters de moda i també parlarem del Madrid. Escalfant l'ambient per al clàssic?</desc>
