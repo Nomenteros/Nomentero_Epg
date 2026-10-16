@@ -1,0 +1,13 @@
+{
+  "events": [
+    "push",
+    "workflow_run"
+  ],
+  "branches": [
+    "main",
+    "master"
+  ],
+  "installed": true,
+  "repoOwner": "Nomenteros",
+  "repoName": "Nomentero_Epg"
+}
