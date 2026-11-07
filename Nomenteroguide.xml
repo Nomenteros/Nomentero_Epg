@@ -1295,7 +1295,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4086673" />
     <episode-num system="onscreen">T14</episode-num>
   </programme>
-  <programme start="20261107120400 +0100" stop="20261107130700 +0100" channel="LA 1">
+  <programme start="20261107120400 +0100" stop="20261107130500 +0100" channel="LA 1">
     <title lang="es">Viaje al centro de la tele</title>
     <sub-title lang="es">Música en femenino</sub-title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
@@ -1303,20 +1303,20 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4336688" />
     <episode-num system="onscreen">T14</episode-num>
   </programme>
-  <programme start="20261107130700 +0100" stop="20261107145500 +0100" channel="LA 1">
+  <programme start="20261107130500 +0100" stop="20261107145500 +0100" channel="LA 1">
     <title lang="es">D Corazón</title>
     <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4446278" />
     <episode-num system="onscreen">T4 Ep.287</episode-num>
   </programme>
-  <programme start="20261107145500 +0100" stop="20261107154500 +0100" channel="LA 1">
+  <programme start="20261107145500 +0100" stop="20261107154200 +0100" channel="LA 1">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP1114179" />
   </programme>
-  <programme start="20261107154500 +0100" stop="20261107155000 +0100" channel="LA 1">
+  <programme start="20261107154200 +0100" stop="20261107155000 +0100" channel="LA 1">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
     <category lang="es">Deportes</category>
@@ -1328,25 +1328,26 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP518464" />
   </programme>
-  <programme start="20261107155500 +0100" stop="20261107174000 +0100" channel="LA 1">
+  <programme start="20261107155500 +0100" stop="20261107174400 +0100" channel="LA 1">
     <title lang="es">Así somos</title>
     <desc lang="es">Sam, un joven vendedor un tanto aficionado a los chanchullos, ve cómo su último contrato se derrumba el mismo día en que se entera de que su padre ha muerto. Contra sus deseos, Sam debe regresar a su hogar para encargarse de la sucesión. Así, mientras intenta cumplir con la última voluntad de su padre, descubre un asombroso secreto que altera el curso de su vida.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP1068484" />
   </programme>
-  <programme start="20261107174000 +0100" stop="20261107191500 +0100" channel="LA 1">
+  <programme start="20261107174400 +0100" stop="20261107192600 +0100" channel="LA 1">
     <title lang="es">Algo de qué hablar</title>
     <desc lang="es">Grace, hija de una familia tradicional de la alta burguesía sureña y casada de penalti antes de acabar la carrera, lleva una vida tranquila y despreocupada, hasta el día en que casualmente descubre las infidelidades de su marido Eddie. Las múltiples relaciones amorosas de su esposo son el detonante que le hace rebelarse contra todo aquello que le había sido impuesto por la sociedad tradicional en que vivía. La reacción de Grace a las infidelidades de Eddie repercutirá en la gente que le rodea, como la catarsis de Grace en la Liga de la Caridad, en donde le da una patada a la hipocresía de un grupo de damas enfrascadas en obras de beneficencia mientras seducen a los maridos ajenos. El nuevo enfoque de la vida de Grace provoca el rechazo y enfrentamiento de todos los que la rodean, excepto de su hermana.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP16529" />
   </programme>
-  <programme start="20261107191500 +0100" stop="20261107205500 +0100" channel="LA 1">
+  <programme start="20261107192600 +0100" stop="20261107205800 +0100" channel="LA 1">
     <title lang="es">Cosas nuestras</title>
-    <desc lang="es">Formato presentado por Ana Hinestrosa y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para compartir, descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4416421" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4446280" />
+    <episode-num system="onscreen">T1 Ep.11</episode-num>
   </programme>
-  <programme start="20261107205500 +0100" stop="20261107212500 +0100" channel="LA 1">
+  <programme start="20261107205800 +0100" stop="20261107212500 +0100" channel="LA 1">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
     <category lang="es">Información</category>
@@ -1625,38 +1626,39 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4165722" />
   </programme>
-  <programme start="20261107143800 +0100" stop="20261107153000 +0100" channel="LA 2">
+  <programme start="20261107143800 +0100" stop="20261107152800 +0100" channel="LA 2">
     <title lang="es">Saber y ganar fin de semana</title>
     <desc lang="es">Edición de fin de semana del concurso más longevo de Televisión Española. En su edición de sábados y domingos, el espacio adopta una mecánica diferente de la edición diaria: un mayor número de concursantes, diferentes retos y pruebas por equipos marcan la diferencia.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4213964" />
     <episode-num system="onscreen">T15 Ep.36</episode-num>
   </programme>
-  <programme start="20261107153000 +0100" stop="20261107161500 +0100" channel="LA 2">
+  <programme start="20261107152800 +0100" stop="20261107161600 +0100" channel="LA 2">
     <title lang="es">Saber y ganar fin de semana</title>
-    <desc lang="es">Edición de fin de semana del concurso más longevo de Televisión Española. En su edición de sábados y domingos, el espacio adopta una mecánica diferente de la edición diaria: un mayor número de concursantes, diferentes retos y pruebas por equipos marcan la diferencia.</desc>
+    <desc lang="es">Programa concurso en el que seis participantes demuestran sus conocimientos y su agilidad mental. Concursantes: ORESTES BARBERO, SUSANA GARCÍA, NACHO MANGUT, JAIRO FERNÁNDEZ, MAITE VERGARA, BIEL COPONS.</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4114892" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4446561" />
+    <episode-num system="onscreen">T16 Ep.565</episode-num>
   </programme>
-  <programme start="20261107161500 +0100" stop="20261107164500 +0100" channel="LA 2">
-    <title lang="es">Depredadores letales</title>
-    <desc lang="es">Acompañamos al aventurero Steve Backshall en su búsqueda de depredadores letales. Por medio de grandes experimentos y gráficos de última generación, ¡pondremos a prueba a estos animales salvajes!</desc>
+  <programme start="20261107161600 +0100" stop="20261107164400 +0100" channel="LA 2">
+    <title lang="es">Depredadores letales: Salvaje y raro</title>
+    <desc lang="es">En este episodio, Steve se lanza a la búsqueda de los depredadores letales más salvajes y profundiza en lo que los hace extraños.</desc>
     <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P2164111" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P2164142" />
   </programme>
-  <programme start="20261107164500 +0100" stop="20261107175000 +0100" channel="LA 2">
+  <programme start="20261107164400 +0100" stop="20261107174900 +0100" channel="LA 2">
     <title lang="es">Winter Pride Maspalomas</title>
     <desc lang="es">Cada año, Maspalomas se convierte en el epicentro del orgullo LGBTIQ+ durante el Winter Pride, un evento que celebra la diversidad con una mezcla única de fiesta, turismo, espectáculo y activismo.</desc>
     <category lang="es">Cultural/Educativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4170997" />
   </programme>
-  <programme start="20261107175000 +0100" stop="20261107182000 +0100" channel="LA 2">
+  <programme start="20261107174900 +0100" stop="20261107181900 +0100" channel="LA 2">
     <title lang="es">Arqueomanía: Urbanismo y arqueología</title>
     <desc lang="es">El programa muestra diferentes casos en varias ciudades de España y de fuera de España. Verdaderos testimonios del pasado que han hablado cuando la nueva ciudad estaba creciendo.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P2034113" />
   </programme>
-  <programme start="20261107182000 +0100" stop="20261107184500 +0100" channel="LA 2">
+  <programme start="20261107181900 +0100" stop="20261107184700 +0100" channel="LA 2">
     <title lang="es">¡Atención Obras!</title>
     <sub-title lang="es">Shuarma y Julio Cascán, de Elefantes</sub-title>
     <desc lang="es">Entrevista a Shuarma y Julio Cascán, de 'Elefantes'. Presentan disco, 'Para todos'. Estaremos con la soprano catalana, Sara Blach y con la banda madrileña ''Por las noches'' por su álbum 'Chicos con suerte'.</desc>
@@ -1664,29 +1666,31 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4446573" />
     <episode-num system="onscreen">T15</episode-num>
   </programme>
-  <programme start="20261107184500 +0100" stop="20261107194500 +0100" channel="LA 2">
+  <programme start="20261107184700 +0100" stop="20261107194500 +0100" channel="LA 2">
     <title lang="es">Días de cine</title>
     <desc lang="es">Espacio que recoge la actualidad cinematográfica española e internacional desgranando los estrenos de la cartelera. El programa se hace eco, también, de lo que acontece en los festivales y repasa la trayectoria de actores y directores clave del séptimo arte.</desc>
-    <category lang="es">Cine</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4394763" />
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4446575" />
+    <episode-num system="onscreen">T37 Ep.481</episode-num>
   </programme>
-  <programme start="20261107194500 +0100" stop="20261107195500 +0100" channel="LA 2">
+  <programme start="20261107194500 +0100" stop="20261107195700 +0100" channel="LA 2">
     <title lang="es">Cine de barrio</title>
     <desc lang="es">El espacio invita a redescubrir grandes películas de la mano de un invitado diferente en cada sesión. Los colaboradores aportan su mirada conectando el cine con las nuevas tendencias culturales y estéticas.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4445716" />
   </programme>
-  <programme start="20261107195500 +0100" stop="20261107213000 +0100" channel="LA 2">
+  <programme start="20261107195700 +0100" stop="20261107213300 +0100" channel="LA 2">
     <title lang="es">La guerra de papá</title>
     <desc lang="es">Quico tiene cuatro años y su vida acaba de dar un giro. Su privilegiado puesto como el pequeño de la casa ha sido usurpado por una nueva hermana. Ante tal amenaza, el niño ideará toda clase de travesuras para no perder la atención de los que le rodean, sobre todo de su madre.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P346397" />
   </programme>
-  <programme start="20261107213000 +0100" stop="20261107220000 +0100" channel="LA 2">
+  <programme start="20261107213300 +0100" stop="20261107220000 +0100" channel="LA 2">
     <title lang="es">Malas lenguas Noche</title>
-    <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Magacine en directo de actualidad social y política. Echamos un vistazo a la semana.</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4296035" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4446282" />
+    <episode-num system="onscreen">T1 Ep.30</episode-num>
   </programme>
   <programme start="20261107220000 +0100" stop="20261107225000 +0100" channel="LA 2">
     <title lang="es">La amiga estupenda</title>
@@ -2063,56 +2067,56 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4438083" />
     <episode-num system="onscreen">T2026 Ep.4580</episode-num>
   </programme>
-  <programme start="20261107145900 +0100" stop="20261107154500 +0100" channel="Antena 3">
+  <programme start="20261107145900 +0100" stop="20261107153300 +0100" channel="Antena 3">
     <title lang="es">Antena 3 Noticias mediodía</title>
     <desc lang="es">Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P758477" />
   </programme>
-  <programme start="20261107154500 +0100" stop="20261107155000 +0100" channel="Antena 3">
+  <programme start="20261107153300 +0100" stop="20261107153900 +0100" channel="Antena 3">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P1105273" />
   </programme>
-  <programme start="20261107155000 +0100" stop="20261107155500 +0100" channel="Antena 3">
+  <programme start="20261107153900 +0100" stop="20261107154100 +0100" channel="Antena 3">
     <title lang="es">Al detalle</title>
     <desc lang="es">Espacio informativo dedicado al análisis en profundidad de temas de interés para la sociedad y cuestiones relevantes de la actualidad.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4445171" />
     <episode-num system="onscreen">T1 Ep.300</episode-num>
   </programme>
-  <programme start="20261107155500 +0100" stop="20261107160000 +0100" channel="Antena 3">
+  <programme start="20261107154100 +0100" stop="20261107155900 +0100" channel="Antena 3">
     <title lang="es">Tu tiempo fin de semana</title>
     <desc lang="es">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P1105325" />
   </programme>
-  <programme start="20261107160000 +0100" stop="20261107174500 +0100" channel="Antena 3">
+  <programme start="20261107155900 +0100" stop="20261107175200 +0100" channel="Antena 3">
     <title lang="es">Justicia y venganza</title>
     <desc lang="es">El Dr. Marrick hiere a Caris durante un tratamiento de fecundación in vitro, de forma intencionada y su mundo se derrumba. Caris encuentra al doctor en las vías del tren y lo atrapa en su sótano.</desc>
     <category lang="es">Cine para televisión</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4445173" />
   </programme>
-  <programme start="20261107174500 +0100" stop="20261107192000 +0100" channel="Antena 3">
+  <programme start="20261107175200 +0100" stop="20261107192700 +0100" channel="Antena 3">
     <title lang="es">La otra madre</title>
     <desc lang="es">Una mujer sale de la cárcel siete años después de haber tratado de asesinar a su marido. Su objetivo es recuperar a su hija, que desde entonces vive con su padre y su prometida.</desc>
     <category lang="es">Cine para televisión</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P3246038" />
   </programme>
-  <programme start="20261107192000 +0100" stop="20261107210000 +0100" channel="Antena 3">
+  <programme start="20261107192700 +0100" stop="20261107205900 +0100" channel="Antena 3">
     <title lang="es">Embarazada a los 17</title>
     <desc lang="es">Ángela, una niña de diecisiete años descubre, con estupor, que está embarazada. Apenas lleva tres meses saliendo con Chad, un estudiante universitario a punto de licenciarse quien, sin embargo, recibe la noticia de su paternidad con gran entusiasmo. Desde entonces, Chad se muestra excesivamente protector con su novia hasta el punto de agobiarla. La noticia del embarazo de Ángela cae como una bomba en casa de sus padres. Para ellos, lo más conveniente es que su hija se aleje de Chad y continúe con sus estudios.</desc>
     <category lang="es">Cine para televisión</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P1087794" />
   </programme>
-  <programme start="20261107210000 +0100" stop="20261107214500 +0100" channel="Antena 3">
+  <programme start="20261107205900 +0100" stop="20261107213600 +0100" channel="Antena 3">
     <title lang="es">Antena 3 Noticias noche</title>
     <desc lang="es">Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P758482" />
   </programme>
-  <programme start="20261107214500 +0100" stop="20261107215500 +0100" channel="Antena 3">
+  <programme start="20261107213600 +0100" stop="20261107215500 +0100" channel="Antena 3">
     <title lang="es">Deportes fin de semana</title>
     <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales.</desc>
     <category lang="es">Información</category>
@@ -2445,42 +2449,42 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
-  <programme start="20261107154000 +0100" stop="20261107175500 +0100" channel="Cuatro">
+  <programme start="20261107154000 +0100" stop="20261107180000 +0100" channel="Cuatro">
     <title lang="es">Liga de la Justicia</title>
     <desc lang="es">Impulsado por su restaurada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne recluta a su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3963464" />
   </programme>
-  <programme start="20261107175500 +0100" stop="20261107200000 +0100" channel="Cuatro">
+  <programme start="20261107180000 +0100" stop="20261107195600 +0100" channel="Cuatro">
     <title lang="es">Daredevil</title>
     <desc lang="es">Debido a un accidente infantil, el abogado Matt Murdock es ciego de por vida, aunque sus otros sentidos se han desarrollado extraordinariamente y ha adquirido la capacidad de visualizar su entorno con vista de radar. De día, Murdock representa a los oprimidos en los tribunales, por la noche es Daredevil, un vigilante enmascarado que acecha las oscuras calles de la ciudad, un implacable ejecutor de la justicia.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratulaH/F3879979" />
   </programme>
-  <programme start="20261107200000 +0100" stop="20261107205500 +0100" channel="Cuatro">
+  <programme start="20261107195600 +0100" stop="20261107205200 +0100" channel="Cuatro">
     <title lang="es">Noticias Cuatro fin de semana</title>
     <desc lang="es">Diego Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P3890353" />
   </programme>
-  <programme start="20261107205500 +0100" stop="20261107211000 +0100" channel="Cuatro">
+  <programme start="20261107205200 +0100" stop="20261107210700 +0100" channel="Cuatro">
     <title lang="es">ElDesmarque de Cuatro noche fin de semana</title>
     <desc lang="es">Espacio conducido por Matías Prats Jr. que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4375040" />
   </programme>
-  <programme start="20261107211000 +0100" stop="20261107211500 +0100" channel="Cuatro">
+  <programme start="20261107210700 +0100" stop="20261107211400 +0100" channel="Cuatro">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
-  <programme start="20261107211500 +0100" stop="20261107220000 +0100" channel="Cuatro">
+  <programme start="20261107211400 +0100" stop="20261107220000 +0100" channel="Cuatro">
     <title lang="es">Lo sabe, no lo sabe</title>
     <desc lang="es">Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4444989" />
-    <episode-num system="onscreen">T7 Ep.54</episode-num>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4445933" />
+    <episode-num system="onscreen">T7 Ep.53</episode-num>
   </programme>
   <programme start="20261107220000 +0100" stop="20261107235500 +0100" channel="Cuatro">
     <title lang="es">Venom: el último baile</title>
@@ -2700,38 +2704,38 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4444971" />
     <episode-num system="onscreen">T3 Ep.51</episode-num>
   </programme>
-  <programme start="20261107145900 +0100" stop="20261107153000 +0100" channel="Telecinco">
+  <programme start="20261107145900 +0100" stop="20261107153300 +0100" channel="Telecinco">
     <title lang="es">Informativos Telecinco Fin de Semana</title>
     <desc lang="es">Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P756592" />
   </programme>
-  <programme start="20261107153000 +0100" stop="20261107154500 +0100" channel="Telecinco">
+  <programme start="20261107153300 +0100" stop="20261107154800 +0100" channel="Telecinco">
     <title lang="es">ElDesmarque Telecinco fin de semana</title>
     <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4208551" />
   </programme>
-  <programme start="20261107154500 +0100" stop="20261107160000 +0100" channel="Telecinco">
+  <programme start="20261107154800 +0100" stop="20261107155900 +0100" channel="Telecinco">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
-  <programme start="20261107160000 +0100" stop="20261107210000 +0100" channel="Telecinco">
+  <programme start="20261107155900 +0100" stop="20261107205800 +0100" channel="Telecinco">
     <title lang="es">Fiesta</title>
     <desc lang="es">Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4444969" />
     <episode-num system="onscreen">T7 Ep.30</episode-num>
   </programme>
-  <programme start="20261107210000 +0100" stop="20261107213000 +0100" channel="Telecinco">
+  <programme start="20261107205800 +0100" stop="20261107213400 +0100" channel="Telecinco">
     <title lang="es">Informativos Telecinco Fin de Semana</title>
     <desc lang="es">Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P756592" />
   </programme>
-  <programme start="20261107213000 +0100" stop="20261107214000 +0100" channel="Telecinco">
+  <programme start="20261107213400 +0100" stop="20261107214000 +0100" channel="Telecinco">
     <title lang="es">ElDesmarque Telecinco Fin de Semana Noche</title>
     <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.</desc>
     <category lang="es">Deportes</category>
@@ -2961,50 +2965,50 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4120467" />
   </programme>
-  <programme start="20261107135400 +0100" stop="20261107150500 +0100" channel="La Sexta">
+  <programme start="20261107135400 +0100" stop="20261107150300 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias Fin de Semana</title>
     <desc lang="es">Informativo que resume lo más destacado del día de la mano de Ana Cuesta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP1105279" />
   </programme>
-  <programme start="20261107150500 +0100" stop="20261107151500 +0100" channel="La Sexta">
+  <programme start="20261107150300 +0100" stop="20261107151400 +0100" channel="La Sexta">
     <title lang="es">laSexta Deportes Fin de Semana</title>
     <desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado porÓscar Rincón, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP1105293" />
   </programme>
-  <programme start="20261107151500 +0100" stop="20261107153000 +0100" channel="La Sexta">
+  <programme start="20261107151400 +0100" stop="20261107152900 +0100" channel="La Sexta">
     <title lang="es">laSexta Meteo</title>
     <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP985259" />
   </programme>
-  <programme start="20261107153000 +0100" stop="20261107200000 +0100" channel="La Sexta">
+  <programme start="20261107152900 +0100" stop="20261107195900 +0100" channel="La Sexta">
     <title lang="es">La Roca</title>
     <desc lang="es">Un espacio en el que Nuria Roca y un sinfín de colaboradores analizarán la actualidad política y social, realizarán entrevistas y nos darán una dosis de entretenimiento. En el primer tramo, la presentadora, Juan del Val, Sara Ramos, Antonia San Juan, Nacho García y Berni Barrachina arrancarán con los mejores chistes, analizando las críticas de internautas y con divertidos debates, entre otros temas. Además, el programa contará con espacios dedicados a la divulgación científica con experimentos para todos los públicos.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4439754" />
     <episode-num system="onscreen">T6 Ep.253</episode-num>
   </programme>
-  <programme start="20261107200000 +0100" stop="20261107210000 +0100" channel="La Sexta">
+  <programme start="20261107195900 +0100" stop="20261107205800 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias Fin de Semana</title>
     <desc lang="es">Informativo que resume lo más destacado del día de la mano de Ana Cuesta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP1105279" />
   </programme>
-  <programme start="20261107210000 +0100" stop="20261107211000 +0100" channel="La Sexta">
+  <programme start="20261107205800 +0100" stop="20261107211400 +0100" channel="La Sexta">
     <title lang="es">laSexta Deportes Fin de Semana</title>
     <desc lang="es">Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado porÓscar Rincón, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP1105293" />
   </programme>
-  <programme start="20261107211000 +0100" stop="20261107211500 +0100" channel="La Sexta">
+  <programme start="20261107211400 +0100" stop="20261107211700 +0100" channel="La Sexta">
     <title lang="es">laSexta Meteo</title>
     <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP985259" />
   </programme>
-  <programme start="20261107211500 +0100" stop="20261108022000 +0100" channel="La Sexta">
+  <programme start="20261107211700 +0100" stop="20261108022000 +0100" channel="La Sexta">
     <title lang="es">laSexta Xplica</title>
     <desc lang="es">laSexta Xplica.</desc>
     <category lang="es">Información</category>
@@ -12047,30 +12051,37 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4513888" />
   </programme>
-  <programme start="20261107161000 +0100" stop="20261107170500 +0100" channel="M+ Vamos">
+  <programme start="20261107161000 +0100" stop="20261107170400 +0100" channel="M+ Vamos">
     <title lang="es">Informe Plus+. Orgullo, Valor y Garra: 100 años del Real Oviedo</title>
     <desc lang="es">El 26 de marzo de 2026 el Real Oviedo cumple cien años. Y lo hace en Primera División, después de una larga travesía de 24 años en la que llegó a rozar la desaparición. Desde Isidro Lángara hasta Santi Cazorla, muchos son los jugadores que han dejado huella vistiendo la camiseta del Real Oviedo. Un siglo de vida con muchas pequeñas y grandes historias que merecen recordarse y celebrarse.  Y con un protagonista por encima de todos: la afición. Esa que nunca abandonó a los suyos en los años del barro y hoy festeja con “orgullo, valor y garra” el centenario de su equipo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4464532" />
   </programme>
-  <programme start="20261107170500 +0100" stop="20261107190500 +0100" channel="M+ Vamos">
-    <title lang="es">Torneo de París: Ruud - Alcaraz</title>
-    <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517066" />
-  </programme>
-  <programme start="20261107190500 +0100" stop="20261107192400 +0100" channel="M+ Vamos">
+  <programme start="20261107170400 +0100" stop="20261107171900 +0100" channel="M+ Vamos">
     <title lang="es">Lo mejor de El día después</title>
     <desc lang="es">'El Día Después', uno de nuestros grandes clásicos que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4352027" />
     <episode-num system="onscreen">T26/27 Ep.9</episode-num>
   </programme>
-  <programme start="20261107192400 +0100" stop="20261107202300 +0100" channel="M+ Vamos">
+  <programme start="20261107171900 +0100" stop="20261107190900 +0100" channel="M+ Vamos">
+    <title lang="es">Torneo de París: Ruud - Alcaraz</title>
+    <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517066" />
+  </programme>
+  <programme start="20261107190900 +0100" stop="20261107200700 +0100" channel="M+ Vamos">
     <title lang="es">Informe Plus. Ba-lon-ces-to. 2006. Más allá del oro</title>
     <desc lang="es">Los doce campeones del mundo de Japón 2006, con Pau Gasol, Juan Carlos Navarro y Jorge Garbajosa a la cabeza, se reúnen en esta nueva entrega de Informe Plus para recordar el campeonato que cambió el deporte español. El reportaje cuenta también con testimonios del cuerpo técnico liderado por Pepu Hernández y de rivales de primer nivel como Andrés Nocioni, Fabricio Oberto, Theodoros Papaloukas y Panagiotis Giannakis.Una mirada emocionante a los orígenes de 'La Familia', la entereza tras la lesión de Pau, el dolor personal del seleccionador y el grito que marcó a una generación: 'BA-LON-CES-TO. 2006.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4500715" />
+  </programme>
+  <programme start="20261107200700 +0100" stop="20261107202300 +0100" channel="M+ Vamos">
+    <title lang="es">Lo mejor de la Diamond League</title>
+    <sub-title lang="es">Bruselas II</sub-title>
+    <desc lang="es">Repasamos los momentos más destacados y las mejores imágenes de las 14 citas de la temporada de Diamond League: desde Doha hasta Bruselas.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4477726" />
   </programme>
   <programme start="20261107202300 +0100" stop="20261107205100 +0100" channel="M+ Vamos">
     <title lang="es">Bakalá</title>
@@ -21857,56 +21868,50 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
   </programme>
-  <programme start="20261107140000 +0100" stop="20261107150000 +0100" channel="M+ Vamos 2">
-    <title lang="es">FIP World Cup Qatar 2026: Final Femenina Partido 2</title>
+  <programme start="20261107140000 +0100" stop="20261107170000 +0100" channel="M+ Vamos 2">
+    <title lang="es">FIP World Cup Qatar 2026: España - Argentina. Femenino Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
   </programme>
-  <programme start="20261107150000 +0100" stop="20261107160000 +0100" channel="M+ Vamos 2">
-    <title lang="es">FIP World Cup Qatar 2026: Final Femenina Partido 3</title>
-    <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
-  </programme>
-  <programme start="20261107160000 +0100" stop="20261107180000 +0100" channel="M+ Vamos 2">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 1</title>
+  <programme start="20261107170000 +0100" stop="20261107190000 +0100" channel="M+ Vamos 2">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 1</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107180000 +0100" stop="20261107200000 +0100" channel="M+ Vamos 2">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 2</title>
+  <programme start="20261107190000 +0100" stop="20261107210000 +0100" channel="M+ Vamos 2">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107200000 +0100" stop="20261107220000 +0100" channel="M+ Vamos 2">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 3</title>
+  <programme start="20261107210000 +0100" stop="20261107230000 +0100" channel="M+ Vamos 2">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 3</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107220000 +0100" stop="20261107230000 +0100" channel="M+ Vamos 2">
+  <programme start="20261107230000 +0100" stop="20261108000000 +0100" channel="M+ Vamos 2">
     <title lang="es">Informe Plus. Toni Bou, 40 de 40</title>
     <desc lang="es">Toni Bou lleva casi dos décadas haciendo posible lo imposible. Desde 2007, el piloto de trial ha construido una trayectoria sin precedentes hasta alcanzar una cifra extraordinaria: 40 títulos mundiales. Pero detrás de los récords, las victorias y una superioridad que parece no tener fin, hay una historia de sacrificio, dolor, evolución y una ambición intacta.Este Informe Plus muestra desde dentro la conquista de su Mundial número 40, un hito con el que Toni Bou ha vuelto a hacer historia y se consagra como uno de los deportistas más laureados de todos los tiempos.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4510777" />
   </programme>
-  <programme start="20261107230000 +0100" stop="20261108005000 +0100" channel="M+ Vamos 2">
+  <programme start="20261108000000 +0100" stop="20261108015000 +0100" channel="M+ Vamos 2">
     <title lang="es">Nations Championship: Irlanda - Argentina</title>
     <desc lang="es">Irlanda y Argentina abren las series del Norte del Nations Championship 2026 con partidazo en el Aviva Stadium de Dublín.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4513888" />
   </programme>
-  <programme start="20261108005000 +0100" stop="20261108012000 +0100" channel="M+ Vamos 2">
+  <programme start="20261108015000 +0100" stop="20261108022000 +0100" channel="M+ Vamos 2">
     <title lang="es">Planeta Tenis</title>
     <desc lang="es">Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4464670" />
     <episode-num system="onscreen">T26</episode-num>
   </programme>
-  <programme start="20261108012000 +0100" stop="20261108080000 +0100" channel="M+ Vamos 2">
+  <programme start="20261108022000 +0100" stop="20261108080000 +0100" channel="M+ Vamos 2">
     <title lang="es">M+ Vamos 2</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2422799V4170763" />
@@ -22020,26 +22025,26 @@
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4476434" />
   </programme>
-  <programme start="20261107155000 +0100" stop="20261107180000 +0100" channel="M+ Vamos 3">
+  <programme start="20261107155000 +0100" stop="20261107175500 +0100" channel="M+ Vamos 3">
     <title lang="es">Rugby Nations Cup</title>
     <sub-title lang="es">España - Uruguay</sub-title>
     <desc lang="es">España abre la segunda parte de su Nations Cup 2026 recibiendo a Uruguay en el Estadio Nacional Complutense de Madrid.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4516023" />
   </programme>
-  <programme start="20261107180000 +0100" stop="20261107182000 +0100" channel="M+ Vamos 3">
+  <programme start="20261107175500 +0100" stop="20261107182800 +0100" channel="M+ Vamos 3">
     <title lang="es">Wimbledon sin Reina</title>
     <desc lang="es">La historia de Wimbledon está repleta de nombres femeninos que marcaron época por dominar en su tiempo: Suzanne Lenglen, Billie Jean King, Martina Navratilova, Steffi Graf o las hermanas Williams entre otras. Sin embargo, en la última década no ha reinado ninguna jugadora. La pista central ha visto a seis campeonas diferentes en diez años: Serena Williams, Petra Kvitova, Marion Bartoli, Garbiñe Muguruza, Angelique Kerber y Simona Halep. Wimbledon busca reina.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3838988" />
   </programme>
-  <programme start="20261107182000 +0100" stop="20261107202500 +0100" channel="M+ Vamos 3">
+  <programme start="20261107182800 +0100" stop="20261107202800 +0100" channel="M+ Vamos 3">
     <title lang="es">Bundesliga: Stuttgart- Werder Bremen</title>
     <desc lang="es">La Bundesliga pone un año más en juego la Ensaladera de Plata más famosa del fútbol continental. Sus 18 equipos despliegan un juego táctico e intenso en estadios siempre llenos y coloridos. El hegemónico Bayern defiende título.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4494900" />
   </programme>
-  <programme start="20261107202500 +0100" stop="20261107212000 +0100" channel="M+ Vamos 3">
+  <programme start="20261107202800 +0100" stop="20261107212000 +0100" channel="M+ Vamos 3">
     <title lang="es">Informe Plus+. Manuela Vos. Derribando límites</title>
     <desc lang="es">La vida de Manuela Vos empezó de nuevo el 5 de julio de 2021. Un accidente escalando en los Picos de Europa le provocó graves lesiones. La holandesa, que corría maratones y ironmans, que encontraba paz y refugio en la montaña, quedó tetrapléjica. En Toledo, mientras se recuperaba, descubrió la handbike y en ella, además de un nuevo reto, encontró otra manera de volver a sentirse libre.</desc>
     <category lang="es">Deportes</category>
@@ -22051,13 +22056,13 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515762" />
   </programme>
-  <programme start="20261107233000 +0100" stop="20261108013000 +0100" channel="M+ Vamos 3">
-    <title lang="es">FIP World Cup Qatar 2026: Final Femenina Partido 2</title>
+  <programme start="20261107233000 +0100" stop="20261108023300 +0100" channel="M+ Vamos 3">
+    <title lang="es">FIP World Cup Qatar 2026: España - Argentina. Femenino Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
   </programme>
-  <programme start="20261108013000 +0100" stop="20261108080000 +0100" channel="M+ Vamos 3">
+  <programme start="20261108023300 +0100" stop="20261108080000 +0100" channel="M+ Vamos 3">
     <title lang="es">M+ Vamos 3</title>
     <desc lang="es">Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
     <category lang="es">Deportes</category>
@@ -22224,40 +22229,40 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4343417" />
     <episode-num system="onscreen">T1</episode-num>
   </programme>
-  <programme start="20261107080000 +0100" stop="20261107083000 +0100" channel="M+ LALIGA">
+  <programme start="20261107080000 +0100" stop="20261107082900 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA Show</title>
     <desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2696941V4380035" />
     <episode-num system="onscreen">T26/27 Ep.12</episode-num>
   </programme>
-  <programme start="20261107083000 +0100" stop="20261107102300 +0100" channel="M+ LALIGA">
+  <programme start="20261107082900 +0100" stop="20261107102000 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: FC Barcelona - Deportivo Alavés</title>
     <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490956" />
   </programme>
-  <programme start="20261107102300 +0100" stop="20261107110000 +0100" channel="M+ LALIGA">
+  <programme start="20261107102000 +0100" stop="20261107105600 +0100" channel="M+ LALIGA">
     <title lang="es">90 años de historias</title>
     <sub-title lang="es">Javier Irureta</sub-title>
     <desc lang="es">Jabo Irureta es, después del fallecido Luis Aragonés, el técnico con más partidos dirigidos en Primera División. Desde 1984 hasta 2017 entrenó a Logroñés, Oviedo, Racing, Athletic Club, Real Sociedad, Celta de Vigo, Deportivo de La Coruña, Betis y Zaragoza para un total de 612 encuentros disputados. Irureta logró éxitos como jugador en el Atlético de Madrid y en el Athletic Club y como entrenador entró en la historia viva del Deportivo con la consecución del título de Liga en la temporada 1999-2000 y el trofeo de la Copa del Rey en el año 2002, partido ya conocido históricamente como el Centenariazo. Además ganó dos Supercopas de España con el conjunto gallego.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3802802" />
   </programme>
-  <programme start="20261107110000 +0100" stop="20261107130400 +0100" channel="M+ LALIGA">
+  <programme start="20261107105600 +0100" stop="20261107130000 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: RC Deportivo - CA Osasuna</title>
     <desc lang="es">El Deportivo busca una victoria que se le resiste desde hace cinco jornadas. Enfrente Osasuna, que desde la llegada de Jagoba Arrasaste lleva una derrota y una victoria.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490898" />
   </programme>
-  <programme start="20261107130400 +0100" stop="20261107133000 +0100" channel="M+ LALIGA">
+  <programme start="20261107130000 +0100" stop="20261107133000 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA Show</title>
     <desc lang="es">La previa de cada jornada de LaLiga. Además, el espacio se complementa con entrevistas a los protagonistas de la competición y reportajes sobre temas de actualidad.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2696941V4380035" />
     <episode-num system="onscreen">T26/27 Ep.12</episode-num>
   </programme>
-  <programme start="20261107133000 +0100" stop="20261107135400 +0100" channel="M+ LALIGA">
+  <programme start="20261107133000 +0100" stop="20261107135200 +0100" channel="M+ LALIGA">
     <title lang="es">La Casa del Fútbol Previa</title>
     <sub-title lang="es">CF Málaga - R. Racing Club</sub-title>
     <desc lang="es">Previa Liga Española. 1ª División.</desc>
@@ -22265,13 +22270,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4495671" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261107135400 +0100" stop="20261107160000 +0100" channel="M+ LALIGA">
+  <programme start="20261107135200 +0100" stop="20261107160700 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: Málaga CF - R. Racing Club</title>
     <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490936" />
   </programme>
-  <programme start="20261107160000 +0100" stop="20261107163000 +0100" channel="M+ LALIGA">
+  <programme start="20261107160700 +0100" stop="20261107163400 +0100" channel="M+ LALIGA">
     <title lang="es">La Casa del Fútbol Post</title>
     <sub-title lang="es">Málaga CF - R. Racing Club</sub-title>
     <desc lang="es">Postpartido Liga.</desc>
@@ -22279,14 +22284,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502856" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261107163000 +0100" stop="20261107170000 +0100" channel="M+ LALIGA">
+  <programme start="20261107163400 +0100" stop="20261107170500 +0100" channel="M+ LALIGA">
     <title lang="es">90 años de historias</title>
     <sub-title lang="es">Ronaldo Nazario</sub-title>
     <desc lang="es">Jugó en el FCBarcelona y Real Madrid y firmó de azulgrana uno de los goles más bonitos de la historia de LaLiga en Santiago de Compostela. Con el club blanco anotó uno de los goles más rápidos del campeonato. Representa a la nueva hornada de exfutbolistas que terminan dirigiendo un club de futbol de Primera División.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3806658" />
   </programme>
-  <programme start="20261107170000 +0100" stop="20261107180000 +0100" channel="M+ LALIGA">
+  <programme start="20261107170500 +0100" stop="20261107180000 +0100" channel="M+ LALIGA">
     <title lang="es">Los Otros</title>
     <sub-title lang="es">Arruinados</sub-title>
     <desc lang="es">Dos jugadores de cada equipo de Primera División acabarán arruinados según la Asociación Española de Futbolistas Internacionales. Ricos prematuros atrapados en algunos casos por una espiral de fama, ostentación y malas inversiones. Este documental convive con estrellas del fútbol que ganaron millones y actualmente subsisten en los trabajos más inesperados.</desc>
@@ -22308,7 +22313,7 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490934" />
   </programme>
-  <programme start="20261107203000 +0100" stop="20261107210000 +0100" channel="M+ LALIGA">
+  <programme start="20261107203000 +0100" stop="20261107205800 +0100" channel="M+ LALIGA">
     <title lang="es">La Casa del Fútbol Post</title>
     <sub-title lang="es">CA Osasuna - Athletic Club</sub-title>
     <desc lang="es">Postpartido Liga.</desc>
@@ -22316,13 +22321,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4502856" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261107210000 +0100" stop="20261107220000 +0100" channel="M+ LALIGA">
+  <programme start="20261107205800 +0100" stop="20261107215800 +0100" channel="M+ LALIGA">
     <title lang="es">Informe Plus+. Atlético Marbella. Aquel Fútbol de los 90</title>
     <desc lang="es">En década de los 90 Marbella vivió una época marcada por el lujo, la fama y el poder, pero también por el escándalo y la corrupción. Su equipo de fútbol disfrutó de sus mejores momentos en aquellos años.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4327114" />
   </programme>
-  <programme start="20261107220000 +0100" stop="20261107230000 +0100" channel="M+ LALIGA">
+  <programme start="20261107215800 +0100" stop="20261107230000 +0100" channel="M+ LALIGA">
     <title lang="es">Universo Valdano</title>
     <sub-title lang="es">Koke</sub-title>
     <desc lang="es">Una mirada futbolística con los ojos de Jorge Valdano. El argentino es una de las voces más autorizadas y respetadas del mundo del balompié. En este espacio, conversa con personajes que ya son historia de este deporte.</desc>
@@ -22330,7 +22335,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3878925" />
     <episode-num system="onscreen">T4</episode-num>
   </programme>
-  <programme start="20261107230000 +0100" stop="20261108001500 +0100" channel="M+ LALIGA">
+  <programme start="20261107230000 +0100" stop="20261108001400 +0100" channel="M+ LALIGA">
     <title lang="es">DeportePlus</title>
     <sub-title lang="es">07/11/2026</sub-title>
     <desc lang="es">El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.</desc>
@@ -22338,13 +22343,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4488245" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261108001500 +0100" stop="20261108021400 +0100" channel="M+ LALIGA">
+  <programme start="20261108001400 +0100" stop="20261108021300 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: Levante UD - Atlético de Madrid</title>
     <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490952" />
   </programme>
-  <programme start="20261108021400 +0100" stop="20261108031500 +0100" channel="M+ LALIGA">
+  <programme start="20261108021300 +0100" stop="20261108031300 +0100" channel="M+ LALIGA">
     <title lang="es">Universo Valdano</title>
     <sub-title lang="es">Iñaki Williams</sub-title>
     <desc lang="es">Una mirada futbolística con los ojos de Jorge Valdano. El argentino es una de las voces más autorizadas y respetadas del mundo del balompié. En este espacio, conversa con personajes que ya son historia de este deporte.</desc>
@@ -22352,13 +22357,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3814502" />
     <episode-num system="onscreen">T3</episode-num>
   </programme>
-  <programme start="20261108031500 +0100" stop="20261108050500 +0100" channel="M+ LALIGA">
+  <programme start="20261108031300 +0100" stop="20261108050300 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: Elche CF - Valencia CF</title>
     <desc lang="es">El Elche, tras cuatro encuentros de liga invicto, busca su primera victoria como local ante un Valencia en puestos de descenso. Los ché quieren su primer tirunfo con Javier Aguirre.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4490896" />
   </programme>
-  <programme start="20261108050500 +0100" stop="20261108060100 +0100" channel="M+ LALIGA">
+  <programme start="20261108050300 +0100" stop="20261108060000 +0100" channel="M+ LALIGA">
     <title lang="es">Universo Valdano</title>
     <sub-title lang="es">Dani Olmo</sub-title>
     <desc lang="es">El flamante y nuevo jugador del FC Barcelona, Dani Olmo, estrena la temporada 8 de Universo Valdano. Tras tener un papel muy destacado en la selección Española en la pasada Eurocopa, de la que resultó ganadora la Roja, Olmo habla con Jorge Valdano en una más que interesante entrevista.</desc>
@@ -22366,7 +22371,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4309036" />
     <episode-num system="onscreen">T8</episode-num>
   </programme>
-  <programme start="20261108060100 +0100" stop="20261108075000 +0100" channel="M+ LALIGA">
+  <programme start="20261108060000 +0100" stop="20261108075000 +0100" channel="M+ LALIGA">
     <title lang="es">LALIGA EA SPORTS: Málaga CF - R. Racing Club</title>
     <desc lang="es">Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título. El Barcelona defiende corona.</desc>
     <category lang="es">Deportes</category>
@@ -23364,62 +23369,56 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
   </programme>
-  <programme start="20261107140000 +0100" stop="20261107151500 +0100" channel="M+ Deportes">
+  <programme start="20261107140000 +0100" stop="20261107170000 +0100" channel="M+ Deportes">
     <title lang="es">FIP World Cup Qatar 2026: España - Argentina. Femenino Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
   </programme>
-  <programme start="20261107151500 +0100" stop="20261107160000 +0100" channel="M+ Deportes">
-    <title lang="es">FIP World Cup Qatar 2026: España - Argentina. Femenino Partido 3</title>
-    <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515430" />
-  </programme>
-  <programme start="20261107160000 +0100" stop="20261107180000 +0100" channel="M+ Deportes">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 1</title>
+  <programme start="20261107170000 +0100" stop="20261107180000 +0100" channel="M+ Deportes">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 1</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107180000 +0100" stop="20261107200000 +0100" channel="M+ Deportes">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 2</title>
+  <programme start="20261107180000 +0100" stop="20261107204500 +0100" channel="M+ Deportes">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107200000 +0100" stop="20261107220000 +0100" channel="M+ Deportes">
-    <title lang="es">FIP World Cup Qatar 2026: Final Masculina Partido 3</title>
+  <programme start="20261107204500 +0100" stop="20261107224500 +0100" channel="M+ Deportes">
+    <title lang="es">FIP World Cup Qatar 2026: Argentina - España. Masculino Partido 3</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515432" />
   </programme>
-  <programme start="20261107220000 +0100" stop="20261107223000 +0100" channel="M+ Deportes">
+  <programme start="20261107224500 +0100" stop="20261107231700 +0100" channel="M+ Deportes">
     <title lang="es">Eurofighters</title>
     <desc lang="es">Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503389" />
     <episode-num system="onscreen">T26/27 Ep.7</episode-num>
   </programme>
-  <programme start="20261107223000 +0100" stop="20261108010000 +0100" channel="M+ Deportes">
-    <title lang="es">Torneo de París: Semifinal 1</title>
+  <programme start="20261107231700 +0100" stop="20261108015100 +0100" channel="M+ Deportes">
+    <title lang="es">Torneo de París: Shelton - Van Assche</title>
     <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509555" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517062" />
   </programme>
-  <programme start="20261108010000 +0100" stop="20261108033000 +0100" channel="M+ Deportes">
-    <title lang="es">Torneo de París: Semifinal 2</title>
+  <programme start="20261108015100 +0100" stop="20261108033800 +0100" channel="M+ Deportes">
+    <title lang="es">Torneo de París: Ruud - Alcaraz</title>
     <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509555" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517066" />
   </programme>
-  <programme start="20261108033000 +0100" stop="20261108052500 +0100" channel="M+ Deportes">
+  <programme start="20261108033800 +0100" stop="20261108053000 +0100" channel="M+ Deportes">
     <title lang="es">Nations Championship: Escocia - Nueva Zelanda</title>
     <desc lang="es">Escocia y Nueva Zelanda se miden en el estadio de Murrayfield, Edimburgo, en la cuarta jornada del Nations Championship, nuevo torneo bianual que reúne a los 12 mejores equipos del mundo y coronará al rey de los hemisferios.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4513890" />
   </programme>
-  <programme start="20261108052500 +0100" stop="20261108071000 +0100" channel="M+ Deportes">
+  <programme start="20261108053000 +0100" stop="20261108071000 +0100" channel="M+ Deportes">
     <title lang="es">Rugby Nations Cup</title>
     <sub-title lang="es">España - Uruguay</sub-title>
     <desc lang="es">España abre la segunda parte de su Nations Cup 2026 recibiendo a Uruguay en el Estadio Nacional Complutense de Madrid.</desc>
@@ -23555,24 +23554,24 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
   </programme>
-  <programme start="20261107143500 +0100" stop="20261107170500 +0100" channel="M+ Deportes 2">
-    <title lang="es">Torneo de París: Semifinal 1</title>
+  <programme start="20261107143500 +0100" stop="20261107171700 +0100" channel="M+ Deportes 2">
+    <title lang="es">Torneo de París: Shelton - Van Assche</title>
     <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509555" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517062" />
   </programme>
-  <programme start="20261107170500 +0100" stop="20261107193000 +0100" channel="M+ Deportes 2">
-    <title lang="es">Torneo de París: Semifinal 2</title>
+  <programme start="20261107171700 +0100" stop="20261107194200 +0100" channel="M+ Deportes 2">
+    <title lang="es">Torneo de París: Ruud - Alcaraz</title>
     <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4509555" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517066" />
   </programme>
-  <programme start="20261107193000 +0100" stop="20261108023000 +0100" channel="M+ Deportes 2">
+  <programme start="20261107194200 +0100" stop="20261108024200 +0100" channel="M+ Deportes 2">
     <title lang="es">M+  Deportes 2</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
   </programme>
-  <programme start="20261108023000 +0100" stop="20261108080000 +0100" channel="M+ Deportes 2">
+  <programme start="20261108024200 +0100" stop="20261108080000 +0100" channel="M+ Deportes 2">
     <title lang="es">M+  Deportes 2</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
@@ -23624,19 +23623,12 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
   </programme>
-  <programme start="20261108120500 +0100" stop="20261108150000 +0100" channel="M+ Deportes 3">
-    <title lang="es">Torneo de París</title>
-    <sub-title lang="es">Silla de ruedas TBC</sub-title>
-    <desc lang="es">Los Masters 1000 son los torneos más importantes después de los Grand Slam y forman parte del ATP Tour. Se celebran en Norteamérica, Europa y Asia y se juegan en pista rápida y tierra batida. El Campeón consigue 1000 puntos para el ranking ATP.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4448467" />
-  </programme>
-  <programme start="20261108150000 +0100" stop="20261108220000 +0100" channel="M+ Deportes 3">
+  <programme start="20261108120500 +0100" stop="20261108190500 +0100" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
   </programme>
-  <programme start="20261108220000 +0100" stop="20261109050000 +0100" channel="M+ Deportes 3">
+  <programme start="20261108190500 +0100" stop="20261109020500 +0100" channel="M+ Deportes 3">
     <title lang="es">M+ Deportes 3</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853457V1621457" />
@@ -23736,46 +23728,46 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515914" />
   </programme>
-  <programme start="20261107100000 +0100" stop="20261107140000 +0100" channel="M+ Golf">
+  <programme start="20261107100000 +0100" stop="20261107140200 +0100" channel="M+ Golf">
     <title lang="es">DP World Tour: Abu Dhabi Aldar Championship. Jornada 3. Parte 2</title>
     <desc lang="es">Penúltimo torneo de la temporada en el DP World Tour. Eugenio Chacarra llega líder de la Orden de Mérito. Los 70 mejores jugadores de la temporada buscarán presencia en la final donde acceden los 50 mejores.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515914" />
   </programme>
-  <programme start="20261107140000 +0100" stop="20261107142800 +0100" channel="M+ Golf">
+  <programme start="20261107140200 +0100" stop="20261107143000 +0100" channel="M+ Golf">
     <title lang="es">Campus M+ Golf</title>
     <sub-title lang="es">Clase de Drive</sub-title>
     <desc lang="es">¿Tienes problemas con el drive? Tranquilo, en este episodio de Campus M+ Golf te damos las claves para manejar este palo. Postura, grip, material... Y con ejercicios prácticos para sacar el máximo provecho a tus salidas desde el tee.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4476530" />
   </programme>
-  <programme start="20261107142800 +0100" stop="20261107150000 +0100" channel="M+ Golf">
+  <programme start="20261107143000 +0100" stop="20261107150200 +0100" channel="M+ Golf">
     <title lang="es">PGA Tour Champions Learning Center</title>
     <desc lang="es">El segundo playoff de la FedEx Cup nos dejó uno de los finales más emocionantes de la temporada. Un mano a mano entre Darren Fichardt y Zach Johnson.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2701021V4400787" />
     <episode-num system="onscreen">T27</episode-num>
   </programme>
-  <programme start="20261107150000 +0100" stop="20261107180000 +0100" channel="M+ Golf">
+  <programme start="20261107150200 +0100" stop="20261107175600 +0100" channel="M+ Golf">
     <title lang="es">PGA Tour: World Wide Technology Championship. Jornada 2</title>
     <desc lang="es">El primer campo diseñado por Tiger Woods, El Cardonal en Diamante Resort, en Los Cabos (Mexico) acoge un previsible festival de birdies con calles anchas y gigantescos greenes de paspalum. Ben Griffin defiende título ante jóvenes como Jackson Koivun, Blades Brown o el talento local Álvaro Ortiz.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515936" />
   </programme>
-  <programme start="20261107180000 +0100" stop="20261107183000 +0100" channel="M+ Golf">
+  <programme start="20261107175600 +0100" stop="20261107182600 +0100" channel="M+ Golf">
     <title lang="es">Santander Golf Tour</title>
     <sub-title lang="es">Club Zaudín Golf. Sevilla</sub-title>
     <desc lang="es">El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2703009V4191015" />
   </programme>
-  <programme start="20261107183000 +0100" stop="20261107203500 +0100" channel="M+ Golf">
+  <programme start="20261107182600 +0100" stop="20261107203300 +0100" channel="M+ Golf">
     <title lang="es">DP World Tour: Abu Dhabi Aldar Championship. Jornada 3. Parte 2</title>
     <desc lang="es">Penúltimo torneo de la temporada en el DP World Tour. Eugenio Chacarra llega líder de la Orden de Mérito. Los 70 mejores jugadores de la temporada buscarán presencia en la final donde acceden los 50 mejores.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515914" />
   </programme>
-  <programme start="20261107203500 +0100" stop="20261107210000 +0100" channel="M+ Golf">
+  <programme start="20261107203300 +0100" stop="20261107210000 +0100" channel="M+ Golf">
     <title lang="es">Let Access Series</title>
     <sub-title lang="es">Iberdrola Calatayud Ladies Open 2026</sub-title>
     <category lang="es">Deportes</category>
@@ -23787,33 +23779,33 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515938" />
   </programme>
-  <programme start="20261108000000 +0100" stop="20261108003000 +0100" channel="M+ Golf">
+  <programme start="20261108000000 +0100" stop="20261108002900 +0100" channel="M+ Golf">
     <title lang="es">PGA Tour Champions Learning Center</title>
     <desc lang="es">El segundo playoff de la FedEx Cup nos dejó uno de los finales más emocionantes de la temporada. Un mano a mano entre Darren Fichardt y Zach Johnson.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2701021V4400787" />
     <episode-num system="onscreen">T27</episode-num>
   </programme>
-  <programme start="20261108003000 +0100" stop="20261108020000 +0100" channel="M+ Golf">
+  <programme start="20261108002900 +0100" stop="20261108020000 +0100" channel="M+ Golf">
     <title lang="es">LPGA Tour: Maybank Championsip. Jornada 3</title>
     <desc lang="es">Field reducido de 78 jugadoras en Kuala Lumpur Golf &amp; Country Club (Malasia). Entre ellas, 22 jugadoras del top50 del ranking mundial y 3  españolas: Carlota Ciganda, Julia López y Carla Tejedo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507308" />
   </programme>
-  <programme start="20261108020000 +0100" stop="20261108033000 +0100" channel="M+ Golf">
+  <programme start="20261108020000 +0100" stop="20261108032900 +0100" channel="M+ Golf">
     <title lang="es">LPGA Tour: Maybank Championsip. Jornada 4</title>
     <desc lang="es">Field reducido de 78 jugadoras en Kuala Lumpur Golf &amp; Country Club (Malasia). Entre ellas, 22 jugadoras del top50 del ranking mundial y 3  españolas: Carlota Ciganda, Julia López y Carla Tejedo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4507310" />
   </programme>
-  <programme start="20261108033000 +0100" stop="20261108040000 +0100" channel="M+ Golf">
+  <programme start="20261108032900 +0100" stop="20261108035900 +0100" channel="M+ Golf">
     <title lang="es">Santander Golf Tour</title>
     <sub-title lang="es">Club Zaudín Golf. Sevilla</sub-title>
     <desc lang="es">El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2703009V4191015" />
   </programme>
-  <programme start="20261108040000 +0100" stop="20261108042800 +0100" channel="M+ Golf">
+  <programme start="20261108035900 +0100" stop="20261108042800 +0100" channel="M+ Golf">
     <title lang="es">PGA Tour The Cut</title>
     <desc lang="es">En este programa nos metemos en la relación entre caddie-jugador. Wyndham Clark y su caddie David Pelekoudas nos permiten escuchar las intimidades de una ronda de golf.</desc>
     <category lang="es">Deportes</category>
@@ -24019,45 +24011,45 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514685" />
   </programme>
-  <programme start="20261107150000 +0100" stop="20261107152500 +0100" channel="DAZN F1">
+  <programme start="20261107150000 +0100" stop="20261107152700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Previo Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514687" />
   </programme>
-  <programme start="20261107152500 +0100" stop="20261107164000 +0100" channel="DAZN F1">
+  <programme start="20261107152700 +0100" stop="20261107164000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514687" />
   </programme>
-  <programme start="20261107164000 +0100" stop="20261107170000 +0100" channel="DAZN F1">
+  <programme start="20261107164000 +0100" stop="20261107165100 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Post Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514687" />
   </programme>
-  <programme start="20261107170000 +0100" stop="20261107180500 +0100" channel="DAZN F1">
+  <programme start="20261107165100 +0100" stop="20261107175600 +0100" channel="DAZN F1">
     <title lang="es">Bravissimo</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2470416V4215349" />
   </programme>
-  <programme start="20261107180500 +0100" stop="20261107183000 +0100" channel="DAZN F1">
+  <programme start="20261107175600 +0100" stop="20261107183000 +0100" channel="DAZN F1">
     <title lang="es">Madrid, velocidad y memoria</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2660441V4398819" />
   </programme>
-  <programme start="20261107183000 +0100" stop="20261107185500 +0100" channel="DAZN F1">
+  <programme start="20261107183000 +0100" stop="20261107185700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Previo Clasificación</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514689" />
   </programme>
-  <programme start="20261107185500 +0100" stop="20261107201000 +0100" channel="DAZN F1">
+  <programme start="20261107185700 +0100" stop="20261107201000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Clasificación</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -24071,42 +24063,28 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514689" />
   </programme>
-  <programme start="20261107211000 +0100" stop="20261107215000 +0100" channel="DAZN F1">
-    <title lang="es">Gearbox</title>
-    <desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2679001V4220781" />
-    <episode-num system="onscreen">T28</episode-num>
-  </programme>
-  <programme start="20261107215000 +0100" stop="20261107224500 +0100" channel="DAZN F1">
+  <programme start="20261107211000 +0100" stop="20261107222000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514687" />
   </programme>
-  <programme start="20261107224500 +0100" stop="20261107234000 +0100" channel="DAZN F1">
+  <programme start="20261107222000 +0100" stop="20261107232900 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Clasificación</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514689" />
   </programme>
-  <programme start="20261107234000 +0100" stop="20261108014000 +0100" channel="DAZN F1">
+  <programme start="20261107232900 +0100" stop="20261108015400 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de México</title>
     <sub-title lang="es">Carrera</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4513112" />
   </programme>
-  <programme start="20261108014000 +0100" stop="20261108015500 +0100" channel="DAZN F1">
-    <title lang="es">Código F1</title>
-    <sub-title lang="es">México</sub-title>
-    <desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2695071V4220726" />
-  </programme>
-  <programme start="20261108015500 +0100" stop="20261108040000 +0100" channel="DAZN F1">
+  <programme start="20261108015400 +0100" stop="20261108040000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Hungría</title>
     <sub-title lang="es">Carrera</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -24133,33 +24111,33 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514681" />
   </programme>
-  <programme start="20261108101000 +0100" stop="20261108111500 +0100" channel="DAZN F1">
+  <programme start="20261108101000 +0100" stop="20261108111000 +0100" channel="DAZN F1">
     <title lang="es">Bravissimo</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2470416V4215349" />
   </programme>
-  <programme start="20261108111500 +0100" stop="20261108122000 +0100" channel="DAZN F1">
+  <programme start="20261108111000 +0100" stop="20261108122000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514683" />
   </programme>
-  <programme start="20261108122000 +0100" stop="20261108132000 +0100" channel="DAZN F1">
+  <programme start="20261108122000 +0100" stop="20261108133000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514685" />
   </programme>
-  <programme start="20261108132000 +0100" stop="20261108140000 +0100" channel="DAZN F1">
-    <title lang="es">Gearbox</title>
-    <desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
+  <programme start="20261108133000 +0100" stop="20261108135000 +0100" channel="DAZN F1">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">México</sub-title>
+    <desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2679001V4220781" />
-    <episode-num system="onscreen">T28</episode-num>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2695071V4220726" />
   </programme>
-  <programme start="20261108140000 +0100" stop="20261108150000 +0100" channel="DAZN F1">
+  <programme start="20261108135000 +0100" stop="20261108150000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -58848,32 +58826,32 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515424" />
   </programme>
-  <programme start="20261107140000 +0100" stop="20261107160000 +0100" channel="M+ Deportes 5">
+  <programme start="20261107140000 +0100" stop="20261107160500 +0100" channel="M+ Deportes 5">
     <title lang="es">FIP World Cup Qatar 2026: Italia - Portugal. Masculino. Partido 2</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515424" />
   </programme>
-  <programme start="20261107160000 +0100" stop="20261107180000 +0100" channel="M+ Deportes 5">
+  <programme start="20261107160500 +0100" stop="20261107180500 +0100" channel="M+ Deportes 5">
     <title lang="es">FIP World Cup Qatar 2026: Italia - Portugal. Masculino. Partido 3</title>
     <desc lang="es">La élite del pádel mundial se reúne en Catar para disputar la FIP World Cup 2026. Las mejores selecciones nacionales compiten por el título en una cita que reúne a las grandes estrellas de este deporte, con partidos de máxima intensidad y emoción hasta la gran final.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515424" />
   </programme>
-  <programme start="20261107180000 +0100" stop="20261108010000 +0100" channel="M+ Deportes 5">
+  <programme start="20261107180500 +0100" stop="20261108010500 +0100" channel="M+ Deportes 5">
     <title lang="es">M+ Deportes 5</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853481V1621462" />
   </programme>
-  <programme start="20261108010000 +0100" stop="20261108090000 +0100" channel="M+ Deportes 5">
+  <programme start="20261108010500 +0100" stop="20261108080000 +0100" channel="M+ Deportes 5">
     <title lang="es">M+ Deportes 5</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M1853481V1621462" />
   </programme>
-  <programme start="20261108090000 +0100" stop="20261108210000 +0100" channel="M+ Deportes 5">
+  <programme start="20261108080000 +0100" stop="20261108200000 +0100" channel="M+ Deportes 5">
     <title lang="es">M+ Deportes 5</title>
   </programme>
-  <programme start="20261108210000 +0100" stop="20261109000000 +0100" channel="M+ Deportes 5">
+  <programme start="20261108200000 +0100" stop="20261109000000 +0100" channel="M+ Deportes 5">
     <title lang="es">M+ Deportes 5</title>
   </programme>
   <programme start="20261107051000 +0100" stop="20261107080000 +0100" channel="M+ Deportes 6">
@@ -83983,85 +83961,85 @@ En Vivo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261107100000 +0100" stop="20261107121721 +0100" channel="TV3_CAT">
+  <programme start="20261107100000 +0100" stop="20261107121647 +0100" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261107121721 +0100" stop="20261107130809 +0100" channel="TV3_CAT">
+  <programme start="20261107121647 +0100" stop="20261107130735 +0100" channel="TV3_CAT">
     <title lang="es">País d'altura - Paisatges de Barcelona</title>
     <desc lang="es">Només cal guanyar una mica d'altura per descobrir els Paisatges de Barcelona des d'una nova mirada i apreciar la riquesa de la seva història i els seus oficis.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/9/1789627186493.jpg" />
   </programme>
-  <programme start="20261107130809 +0100" stop="20261107134558 +0100" channel="TV3_CAT">
+  <programme start="20261107130735 +0100" stop="20261107134601 +0100" channel="TV3_CAT">
     <title lang="es">Zona zàping - El Barça torna a golejar</title>
     <desc lang="es">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261107134558 +0100" stop="20261107143000 +0100" channel="TV3_CAT">
+  <programme start="20261107134601 +0100" stop="20261107143000 +0100" channel="TV3_CAT">
     <title lang="es">Gent de Primera - El que realment deixa empremta</title>
     <desc lang="es">Més enllà del que fem, hi ha el que sentim. Al Montseny, en Carles cultiva bolets amb persones amb discapacitat; en Martí ens contagia la seva passió pels tractors; dos germans cuiden junts un ramat; en Joan manté viu el record familiar en una piscifactoria de Peramola, i la Núria defensa les nous catalanes.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/5/0/1788948270405.jpg" />
   </programme>
-  <programme start="20261107143000 +0100" stop="20261107153516 +0100" channel="TV3_CAT">
+  <programme start="20261107143000 +0100" stop="20261107153532 +0100" channel="TV3_CAT">
     <title lang="es">Telenotícies migdia</title>
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20261107153516 +0100" stop="20261107170454 +0100" channel="TV3_CAT">
+  <programme start="20261107153532 +0100" stop="20261107170510 +0100" channel="TV3_CAT">
     <title lang="es">Tarda de cine - Una casa, la família i un miracle</title>
     <desc lang="es">UNA CASA, LA FAMÍLIA I UN MIRACLE "La casa di famiglia"Direcció: Augusto FornariGuió: Antonio Fornari, Augusto Fornari, Vincenzo SinopoliProducció: Italian International FilmAny: 2017Durada: 89País: ItàliaMúsica: Gianluca MisitiFotografia: Sebastiano De PascalisIntèrprets: Valentina Chico, Marco Conidi, Libero De Rienzo, Luigi Diberti, Antonio Fornari, Stefano Fresi, Matilde Gioli, Lino Guanciale, Nicoletta Romanoff, Michele VenitucciQuatre germans creixen en una preciosa casa familiar al camp. Quan el seu pare està aparentment en un coma irreversible, tots quatre es posen d'acord per vendre la casa familiar. El problema sorgeix quan el pare es recupera i vol tornar a casa.</desc>
   </programme>
-  <programme start="20261107170454 +0100" stop="20261107183807 +0100" channel="TV3_CAT">
+  <programme start="20261107170510 +0100" stop="20261107183826 +0100" channel="TV3_CAT">
     <title lang="es">Tarda de cine - M'encanta el que fa</title>
     <desc lang="es">M'ENCANTA EL QUE FA "J'adore ce que vous faites"Direcció: Philippe GuillardGuió: Philippe GuillardProducció: Gaumont, Same Player, Montauk Films, France 2 Cinema, C8 Films, Canal+, Ciné+, Région Languedoc-Roussillon-Midi Pyrénées, France TV, Cofimage 32, ProcirepAny: 2022Durada: 91País: FrançaMúsica: Roméo GuillardFotografia: Denis RoudenIntèrprets: Gérard Lanvin, Artus, Antoine Bertrand, Laura del Sol, Caroline Bourg, Louis Seillé, Natasha Andrews, Lou Chauvain, Antony Hickling, Fabienne Galula, Gilles Belzons, Patrick Lapeyrie, Chloé Cardinaud, Jérôme Jalabert, Robbie Nock, Thierry Calas, Angélique Panchéri, Christel Vidal, Fannie Lineros, Marik Renner, Eric Wagner, Gérard Sanchez, Benjamin Lockie, Jade Kohler, Anthony Hill, Jérôme Brousse, Loïc Cazes, Anne-Juliette VassortGérard Lanvin està rebent una gran oferta per a un paper en un blockbuster nord-americà sobre l'aterratge dels Aliats a l'agost de 1944. El rodatge té lloc al sud de França. Al lloc, Gérard coneix en Momo Zapareto, que s'encarrega del manteniment de la piscina de la casa que la producció li ha ofert per allotjar-se durant el rodatge. Però en Momo és un fan, un gran fan, massa fan. Ha vist totes les pel·lícules de Gérard, i molt ràpidament fa tot el possible per fer-se indispensable als ulls del seu ídol i de l'equip de rodatge. Per a Gérard, el malson acaba de començar.</desc>
   </programme>
-  <programme start="20261107183807 +0100" stop="20261107193539 +0100" channel="TV3_CAT">
+  <programme start="20261107183826 +0100" stop="20261107193629 +0100" channel="TV3_CAT">
     <title lang="es">Tàndem - La maledicció de Nostradamus</title>
     <desc lang="es">La Léa s'està refent de la commoció cerebral, però, sobretot, de la sorpresa que el Paul li proposés que es tornessin a casar. Per això no pot entendre l'actitud del seu ex, que ara fa com si no hagués passat res. Tot i el seu malestar, s'ha de concentrar en la investigació de l'assassinat d'un jove historiador amb problemes mentals que sembla que seguia una pista per descobrir el crani desaparegut de Nostradamus.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/9/1767965195099.jpg" />
   </programme>
-  <programme start="20261107193539 +0100" stop="20261107195418 +0100" channel="TV3_CAT">
+  <programme start="20261107193629 +0100" stop="20261107195508 +0100" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20261107195418 +0100" stop="20261107201448 +0100" channel="TV3_CAT">
+  <programme start="20261107195508 +0100" stop="20261107201538 +0100" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20261107201448 +0100" stop="20261107202739 +0100" channel="TV3_CAT">
+  <programme start="20261107201538 +0100" stop="20261107202829 +0100" channel="TV3_CAT">
     <title lang="es">Atrapa'm si pots. Els millors moments.</title>
     <desc lang="es">"Atrapa'm si pots" és un "quiz show" clàssic, de preguntes i respostes, presentat per Llucià Ferrer, en què sis concursants competeixen per arribar a la fase final i guanyar el pot. "Atrapa'm si pots" és entreteniment pur i on gairebé és més important passar-s'ho bé que els diners. És un concurs en què pesa més la intuïció que no els coneixements acadèmics, més l'estratègia en el joc que no la sort.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/1/1700643547814.jpg" />
   </programme>
-  <programme start="20261107202739 +0100" stop="20261107210000 +0100" channel="TV3_CAT">
+  <programme start="20261107202829 +0100" stop="20261107210000 +0100" channel="TV3_CAT">
     <title lang="es">Al cotxe - Raquel Sans i Miki Núñez: "Quan vam acabar 'La travessa' vam tenir la síndrome d'Estocolm"</title>
     <sub-title lang="es">Al cotxe</sub-title>
     <desc lang="es">Les vuit parelles que van participar en l'última edició de "La travessa" han fet tanta amistat que continuen trobant-se per fer coses junts. Això és una de les coses que més valoren la periodista Raquel Sans i el músic Miki Núñez, que pugen "Al cotxe!" per explicar les seves aventures durant els 15 dies que el programa de 3Cat els va posar a prova per la serra de Tramuntana de Mallorca.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/0/1789717739107.jpg" />
   </programme>
-  <programme start="20261107210000 +0100" stop="20261107220534 +0100" channel="TV3_CAT">
+  <programme start="20261107210000 +0100" stop="20261107220642 +0100" channel="TV3_CAT">
     <title lang="es">Telenotícies vespre</title>
     <sub-title lang="es">Emissió del</sub-title>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/3/1758133739436.jpg" />
   </programme>
-  <programme start="20261107220534 +0100" stop="20261108004030 +0100" channel="TV3_CAT">
+  <programme start="20261107220642 +0100" stop="20261108004138 +0100" channel="TV3_CAT">
     <title lang="es">Col·lapse</title>
     <desc lang="es">Entrevistem Alberto Muñagorri, una de les víctimes més joves d'ETA. El 1982, quan només tenia 10 anys, una bomba amagada dins d'una motxilla va esclatar i el va deixar sense cama, cec d'un ull i amb seqüeles per tota la vida. Ens explica el seu testimoni de superació de por i dolor.  L'atenció capil·lar representa un 38% de tots els diagnòstics de les clíniques de dermatologia. Debatrem a la taula d'actualitat els motius que cada vegada porten més joves a assistir a la consulta del metge per posar remei a la incipient alopècia amb un dels rostres més populars i calbs de la tele catalana, Llucià Ferrer, la periodista i col·laboradora Ana Boadas, la tricòloga i nutricionista Dra. Montse Folch i el testimoni en primera persona de dos joves a qui els cauen els cabells des de fa anys. Després de tota una vida dedicada a analitzar el comportament dels altres, el consultor i assessor empresarial Emilio Duró ens explica la clau de l'èxit i del lideratge en les societats contemporànies. La periodista Pilar Eyre ens posa al dia dels assumptes reials que ocupen més portades.  Carlos Latre es posa a la pell de molts personatges populars en el seu particular resum de l'actualitat. L'Anna Callís s'enfronta al repte d'aprendre a fer lluita lliure mexicana. El superarà?Com sempre, periodisme sense filtres sobre les midterm amb Albert Montagut, llibres recomanats amb Sergi Pàmies i anàlisi de dades amb el professor Frederic Vincent. Col·lapse, dissabte a les 22:10 a TV3, amb Jordi González.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/2/4/1790086863942.jpg" />
   </programme>
-  <programme start="20261108004030 +0100" stop="20261108010008 +0100" channel="TV3_CAT">
+  <programme start="20261108004138 +0100" stop="20261108010117 +0100" channel="TV3_CAT">
     <title lang="es">Marcians - Oriol Genís, sense edat de jubilació</title>
     <desc lang="es">Oriol Genís, un actor conegut sobretot per papers secundaris en múltiples produccions de teatre, cinema, televisió i sèries. Genís celebra que, amb 76 anys, lluny de jubilar-se, té més ofertes de feina que mai. La Sala Beckett de Barcelona li dedica un cicle en què es podran veure obres com "Compto cada passa meva sobre la terra.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/1/7/1704993056271.jpg" />
   </programme>
-  <programme start="20261108010008 +0100" stop="20261108023151 +0100" channel="TV3_CAT">
+  <programme start="20261108010117 +0100" stop="20261108023259 +0100" channel="TV3_CAT">
     <title lang="es">Pel·lícula - Les lleis de la termodinàmica</title>
     <desc lang="es">LES LLEIS DE LA TERMODINÀMICA Productora : Zeta Cinema, Atresmedia Cine, On  Cinema 2017 amb la  participació de Netflix, Televisió de Catalunya, AtresMedia, ICAA i ICEC. 2017Directr: Mateo GilGuionista : Mateo GilDirector de fotografia: Sergi VilanovaMúsica : Fernando Velánzquez Intèrprets : Victo Sanz ( Manel), Berta Vázquez (Elena) , Chino Darín (Pablo) ,  Vicky Luengo (Eva), amb la col·laboració especial d' Irene Escolar ( Raquel ) i Josep M. Pou (Amat) Sinopsi :El Manel, un físic prometedor i una mica neuròtic, es  proposa demostrar que la seva relació amb l'Elena, una cotitzada model i actriu en potència,  no ha estat un desastre total per culpa seva, sinó perquè estava determinada per endavant per les lleis de la física, aquelles que van descobrir genis com Newton, Einstein o els pares de la mecànica quàntica. I, especialment, per les tres lleis de la termodinàmica.</desc>
   </programme>
-  <programme start="20261108023151 +0100" stop="20261108043000 +0100" channel="TV3_CAT">
+  <programme start="20261108023259 +0100" stop="20261108043000 +0100" channel="TV3_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
@@ -84743,84 +84721,84 @@ En Vivo</title>
     <title lang="es">Billar a 3 bandes - Dani Sánchez-JS Ko / PBA Tour</title>
     <desc lang="es">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
   </programme>
-  <programme start="20261107102059 +0100" stop="20261107115500 +0100" channel="Esport3_CAT">
+  <programme start="20261107102059 +0100" stop="20261107115507 +0100" channel="Esport3_CAT">
     <title lang="es">Onze - Atlètic-Barça: el liderat en joc; La clau Delmàs; Fàbregas i Nin</title>
     <sub-title lang="es">Tota la informació, les millors opinions i l'entreteniment necessari per acabar el dia un somriure, al voltant de l'actualitat esportiva</sub-title>
     <desc lang="es">Míriam Riau condueix la tertúlia amb Santi Ovalle, Carme Lluveras, Fernando Polo i Juli Garcia. Analitzem l'Atlètic de Madrid-Barça de diumenge, amb el liderat en joc. Àlex Delmàs ens explica la clau del partit al Metropolitano, Joan Fàbregas repassa les polèmiques arbitrals dels enfrontaments amb l'Atlètic de l'any passat i acabem amb Les golfes de l'Onze, amb Òscar Nin.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/3/1689083848233.jpg" />
   </programme>
-  <programme start="20261107115500 +0100" stop="20261107135237 +0100" channel="Esport3_CAT">
+  <programme start="20261107115507 +0100" stop="20261107140335 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - Granada CF-RCD Espanyol / Lliga F / J10</title>
     <desc lang="es">Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.</desc>
   </programme>
-  <programme start="20261107135237 +0100" stop="20261107152447 +0100" channel="Esport3_CAT">
+  <programme start="20261107140335 +0100" stop="20261107153723 +0100" channel="Esport3_CAT">
     <title lang="es">Hoquei patins - CH Mataró-HC Raxoi / OK Lliga / J2</title>
     <desc lang="es">Les del Maresme, que es van estrenar amb una victòria al camp del Lleidanet Alpicat (0-2), reben el conjunt de Santiago de Compostel·la.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1682429525549.jpg" />
   </programme>
-  <programme start="20261107152447 +0100" stop="20261107154006 +0100" channel="Esport3_CAT">
+  <programme start="20261107153723 +0100" stop="20261107155023 +0100" channel="Esport3_CAT">
     <title lang="es">Sala de Premsa - Hansi Flick / Prèvia At. Madrid-Barça / J12</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
   </programme>
-  <programme start="20261107154006 +0100" stop="20261107161000 +0100" channel="Esport3_CAT">
+  <programme start="20261107155023 +0100" stop="20261107161008 +0100" channel="Esport3_CAT">
     <title lang="es">Zona zàping - El Barça torna a golejar</title>
     <desc lang="es">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261107161000 +0100" stop="20261107184000 +0100" channel="Esport3_CAT">
+  <programme start="20261107161008 +0100" stop="20261107183924 +0100" channel="Esport3_CAT">
     <title lang="es">Esport Club Cap de Setmana - Minut a minut / Espanyol-Depor</title>
     <sub-title lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport</sub-title>
     <desc lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261107184000 +0100" stop="20261107193122 +0100" channel="Esport3_CAT">
+  <programme start="20261107183924 +0100" stop="20261107193754 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - FC Cartagena-UE Sant Andreu / Primera Federació / J11</title>
     <desc lang="es">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
   </programme>
-  <programme start="20261107193122 +0100" stop="20261107193851 +0100" channel="Esport3_CAT">
+  <programme start="20261107193754 +0100" stop="20261107194957 +0100" channel="Esport3_CAT">
     <title lang="es">Esport Club Cap de Setmana</title>
     <sub-title lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport</sub-title>
     <desc lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261107193851 +0100" stop="20261107202532 +0100" channel="Esport3_CAT">
+  <programme start="20261107194957 +0100" stop="20261107205035 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - FC Cartagena-UE Sant Andreu / Primera Federació / J11</title>
     <desc lang="es">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
   </programme>
-  <programme start="20261107202532 +0100" stop="20261107204135 +0100" channel="Esport3_CAT">
+  <programme start="20261107205035 +0100" stop="20261107210527 +0100" channel="Esport3_CAT">
     <title lang="es">Esport Club Cap de Setmana</title>
     <sub-title lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport</sub-title>
     <desc lang="es">Magazín amb tota l'actualitat esportiva del cap de setmana, amb atenció especial a la jornada de futbol i les principals competicions del nostre esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/9/1630912926495.png" />
   </programme>
-  <programme start="20261107204135 +0100" stop="20261107211529 +0100" channel="Esport3_CAT">
+  <programme start="20261107210527 +0100" stop="20261107211656 +0100" channel="Esport3_CAT">
     <title lang="es">Zona zàping - El Barça torna a golejar</title>
     <desc lang="es">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261107211529 +0100" stop="20261107225500 +0100" channel="Esport3_CAT">
+  <programme start="20261107211656 +0100" stop="20261107225626 +0100" channel="Esport3_CAT">
     <title lang="es">Billar a 3 bandes - Dani Sánchez-JS Ko / PBA Tour</title>
     <desc lang="es">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
   </programme>
-  <programme start="20261107225500 +0100" stop="20261108003120 +0100" channel="Esport3_CAT">
+  <programme start="20261107225626 +0100" stop="20261108003246 +0100" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J12 / Dissabte</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261108003120 +0100" stop="20261108005229 +0100" channel="Esport3_CAT">
+  <programme start="20261108003246 +0100" stop="20261108005356 +0100" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261108005229 +0100" stop="20261108022857 +0100" channel="Esport3_CAT">
+  <programme start="20261108005356 +0100" stop="20261108023024 +0100" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J12 / Dissabte</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261108022857 +0100" stop="20261108041320 +0100" channel="Esport3_CAT">
+  <programme start="20261108023024 +0100" stop="20261108041957 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - FC Cartagena-UE Sant Andreu / Primera Federació / J11</title>
     <desc lang="es">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
   </programme>
-  <programme start="20261108041320 +0100" stop="20261108060112 +0100" channel="Esport3_CAT">
+  <programme start="20261108041957 +0100" stop="20261108060112 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - Granada CF-RCD Espanyol / Lliga F / J10</title>
     <desc lang="es">Si aconsegueixen la victòria, les blanc-i-blaves se situarien provisionalment a la cinquena posició. Les granadines tenen un punt menys que les barcelonines.</desc>
   </programme>
@@ -84829,44 +84807,44 @@ En Vivo</title>
     <desc lang="es">Des de Teià, al Maresme, repassem el més destacat de la primera prova del Rànquing Doble. A més, coneixerem el camp de nou forats de Badalona, seu de l'actual equip Campió de la Copa Catalunya.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/5/2/1728479478725.jpg" />
   </programme>
-  <programme start="20261108061242 +0100" stop="20261108062841 +0100" channel="Esport3_CAT">
+  <programme start="20261108061242 +0100" stop="20261108062521 +0100" channel="Esport3_CAT">
     <title lang="es">Sala de Premsa - Hansi Flick / Prèvia At. Madrid-Barça / J12</title>
     <sub-title lang="es">Les rodes de premsa de tècnics, dirigents i jugadors més destacades del món de l'esport</sub-title>
     <desc lang="es">Esport3 t'ofereix les compareixences de dirigents, jugadors i entrenadors dels equips catalans davant els mitjans de comunicació.</desc>
   </programme>
-  <programme start="20261108062841 +0100" stop="20261108064525 +0100" channel="Esport3_CAT">
+  <programme start="20261108062521 +0100" stop="20261108064205 +0100" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261108064525 +0100" stop="20261108082128 +0100" channel="Esport3_CAT">
+  <programme start="20261108064205 +0100" stop="20261108081808 +0100" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J12 / Dissabte</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261108082128 +0100" stop="20261108083848 +0100" channel="Esport3_CAT">
+  <programme start="20261108081808 +0100" stop="20261108083528 +0100" channel="Esport3_CAT">
     <title lang="es">3CatInfo Esports</title>
     <desc lang="es">Cada mitjanit, 3CatInfo Esports repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/4/9/1758883520494.jpg" />
   </programme>
-  <programme start="20261108083848 +0100" stop="20261108091158 +0100" channel="Esport3_CAT">
+  <programme start="20261108083528 +0100" stop="20261108090838 +0100" channel="Esport3_CAT">
     <title lang="es">Zona zàping - El Barça torna a golejar</title>
     <desc lang="es">Després de les derrotes de la setmana passada, el Barça ha tornat a guanyar i golejar.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/5/1769029952157.jpg" />
   </programme>
-  <programme start="20261108091158 +0100" stop="20261108104905 +0100" channel="Esport3_CAT">
+  <programme start="20261108090838 +0100" stop="20261108104545 +0100" channel="Esport3_CAT">
     <title lang="es">Futbol - FC Cartagena-UE Sant Andreu / Primera Federació / J11</title>
     <desc lang="es">Els quadribarrats, que tenen 12 punts després de 3 victòries, 3 empats i 2 derrotes, han començat la jornada a la 13a posició. El conjunt murcià és per sobre amb 3 punts més.</desc>
   </programme>
-  <programme start="20261108104905 +0100" stop="20261108122500 +0100" channel="Esport3_CAT">
+  <programme start="20261108104545 +0100" stop="20261108122500 +0100" channel="Esport3_CAT">
     <title lang="es">Gol a gol - Anàlisi de la jornada / J12 / Dissabte</title>
     <desc lang="es">"Gol a gol" us ofereix els resums dels partits de futbol de Primera i Segona Divisió. Presentat per Jordi Grau a Esport3, cada dissabte i cada diumenge podeu veure les millors imatges de la jornada de Lliga amb l'anàlisi dels experts, amb especial atenció als equips catalans, sobretot el Barça, el Girona i l'Espanyol.</desc>
   </programme>
-  <programme start="20261108122500 +0100" stop="20261108142252 +0100" channel="Esport3_CAT">
+  <programme start="20261108122500 +0100" stop="20261108141932 +0100" channel="Esport3_CAT">
     <title lang="es">Hoquei patins - HC Liceo-Barça / OK Lliga / J2</title>
     <desc lang="es">Els gallecs es van estrenar amb una derrota a la pista del CH Caldes Recam Làser (3-1), i els catalans van superar l'Igualada Rigat HC (4-3).</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1682429525549.jpg" />
   </programme>
-  <programme start="20261108142252 +0100" stop="20261108160000 +0100" channel="Esport3_CAT">
+  <programme start="20261108141932 +0100" stop="20261108160000 +0100" channel="Esport3_CAT">
     <title lang="es">Billar a 3 bandes - Dani Sánchez-JS Ko / PBA Tour</title>
     <desc lang="es">El català Dani Sánchez s'enfronta al sudcoreà Jun-seo Ko en aquest campionat de billar a 3 bandes organitzat per la PBA (Professional Billiards Association).</desc>
   </programme>
@@ -85163,24 +85141,6 @@ En Vivo</title>
     <title lang="es">Bàsquet - Barça-Río Breogán / Lliga / J7</title>
     <desc lang="es">El conjunt barceloní i el de Lugo afronten el partit empatats a la classificació després de 4 victòries i 2 derrotes.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
-  </programme>
-  <programme start="20261107190000 +0100" stop="20261107190000 +0100" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
-  </programme>
-  <programme start="20261107190000 +0100" stop="20261107190000 +0100" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
-  </programme>
-  <programme start="20261107190000 +0100" stop="20261107190000 +0100" channel="Sport 3">
-    <title lang="es">Tot Costa</title>
-    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
-    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
-    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
   </programme>
   <programme start="20261107003512 +0100" stop="20261107022920 +0100" channel="BonDia.TV">
     <title lang="es">Territori en concert - Amores Grup de Percussió</title>
