@@ -988,7 +988,6 @@
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Rafael advierte a Hernando que Luisa está bajo su protección. Mientras, Alejo continúa acercándose a Manuela para sacarle información. Pero cuando Francisco anuncia la llegada de una misiva de la Corte para Hernando, el miedo se apodera de todos.</desc>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4448936" />
     <episode-num system="onscreen">T4 Ep.101</episode-num>
   </programme>
   <programme start="20261111183500 +0100" stop="20261111193500 +0100" channel="La1.TV">
@@ -2536,7 +2535,6 @@
     <sub-title lang="es">La gente infinita</sub-title>
     <desc lang="es">La aparición de víctimas congeladas en Nevada hacen que el equipo crea que están relacionadas con una secta,.</desc>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MENERGYP1188429" />
     <episode-num system="onscreen">T10 Ep.11</episode-num>
   </programme>
   <programme start="20261111173000 +0100" stop="20261111182000 +0100" channel="Energy.TV">
@@ -6219,6 +6217,7 @@
     <title lang="es">UEFA Nations League: Países Bajos - Alemania</title>
     <desc lang="es">El duelo entre Países Bajos y Alemania abre la quinta edición de la UEFA Nations League. El gran atractivo estará en los banquillos de Ámsterdam, con el debut oficial de Xavi Hernández con la Oranje y Jürgen Klopp al frente de la 'Mannschaft'.</desc>
     <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4505914" />
   </programme>
   <programme start="20261113020000 +0100" stop="20261113020400 +0100" channel="TDP.TV">
     <title lang="es">Resúmenes Liga de Campeones F</title>
@@ -34911,49 +34910,57 @@
     <title lang="es">Al Dia: Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069" />
   </programme>
-  <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">La Porteria (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
+  <programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
   </programme>
-  <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de Tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TDT_1790589172233" />
+  <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">SE FA SABER</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
   </programme>
-  <programme start="20261111013000 +0000" stop="20261111023000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">180º (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+  <programme start="20261111010000 +0000" stop="20261111023000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">MINUT 91: Dilluns</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Minut-91--CARRUSSEL-LAXARXA-1064x609px_1760628304943" />
   </programme>
-  <programme start="20261111023000 +0000" stop="20261111033000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Com Més Serem (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cms_1785508562338" />
+  <programme start="20261111023000 +0000" stop="20261111030000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">SE FA SABER</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
+  </programme>
+  <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
   </programme>
   <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torna-la a tocar, Sam (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-1a36176566fe4405_1793101594097" />
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
   </programme>
-  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Misteris (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/MisterisOTT_1711014379345_1785509586374" />
+  <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">SE FA SABER</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
+  </programme>
+  <programme start="20261111043000 +0000" stop="20261111050000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">LA FINESTRA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
   </programme>
   <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Vinum (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ML_47_1655388766550_1785509186934" />
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
   </programme>
   <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586931607" />
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
   </programme>
   <programme start="20261111060000 +0000" stop="20261111060002 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Notícies en Xarxa</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
-  <programme start="20261111060000 +0000" stop="20261111075700 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Notícies en Xarxa</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
-  <programme start="20261111075700 +0000" stop="20261111080000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Emissió en proves de Cugat TV</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
+  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">NEX MATÍ</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
   <programme start="20261111080000 +0000" stop="20261111080002 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Efecte Mosaic. Matí</title>
@@ -34968,112 +34975,124 @@
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
   </programme>
   <programme start="20261111120000 +0000" stop="20261111122746 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Passeu Passeu</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Aina_passeu_v3_1792590553152" />
+    <title lang="es">SE FA SABER</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
   </programme>
   <programme start="20261111122746 +0000" stop="20261111124403 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261111124403 +0000" stop="20261111143000 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20261111124403 +0000" stop="20261111140000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Emissió en proves de Cugat TV</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
   </programme>
-  <programme start="20261111143000 +0000" stop="20261111153000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Connecta't (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/PANTALLA CONNECTA'T_1761922033565_1785508615180" />
+  <programme start="20261111140000 +0000" stop="20261111153000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'EBRE AL DIA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px_1792429334436" />
   </programme>
   <programme start="20261111153000 +0000" stop="20261111153002 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Efecte Mosaic. Tarda</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261111153000 +0000" stop="20261111165706 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20261111153000 +0000" stop="20261111163000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Efecte Mosaic. Tarda</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261111165706 +0000" stop="20261111170000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Emissió en proves de Cugat TV</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/8a47c083978f4c47845a1bb1a0589f96" />
+  <programme start="20261111163000 +0000" stop="20261111170000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">EFECTE MOSAIC</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
   <programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Recórrer</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
+    <title lang="es">LA FINESTRA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
   </programme>
   <programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de Tarda</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TDT_1790589159652" />
+    <title lang="es">CONNECTA 10 COMARQUES</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C--CARRUSSEL-LAXARXA-1064x609px_1791387695687" />
   </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Com Més Serem (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cms_1785508562338" />
+    <title lang="es">L'EBRE AL DIA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px_1792429334436" />
   </programme>
   <programme start="20261111190000 +0000" stop="20261111193000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586912983" />
+    <title lang="es">LA FINESTRA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/La-Finestra---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414958825" />
   </programme>
   <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Aprenent</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'aprenent_1790594873827" />
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
   </programme>
   <programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de Tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TDT_1790589172233" />
+    <title lang="es">L'EBRE NOTÍCIES. L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414699290" />
   </programme>
   <programme start="20261111203000 +0000" stop="20261111210000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586931607" />
+    <title lang="es">L'EBRE NOTÍCIES</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L-Ebre-NotÃ­cies---CARRUSSEL-LAXARXA-1064x609px-LEONOR_1771414687828" />
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Passeu Passeu (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Aina_passeu_v3_1792590561895" />
+  <programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">SE FA SABER</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/SE-FA-SABER--CARRUSSEL-LAXARXA-1064x609px_1771414774562" />
   </programme>
   <programme start="20261111220000 +0000" stop="20261111223000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">L'Aprenent (R)</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'aprenent_1790594889374" />
   </programme>
   <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586931607" />
+    <title lang="es">Notícies 12. Edició vespre</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
   </programme>
   <programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">La Ciutat dels Llibres (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-7cecddfd758941d2_1793101905090" />
+    <title lang="es">Més Amunt. Ombres xineses</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">La Porteria (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
+  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Teló de fons</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/692121a120f84ad2b779dee628860e5b/Images/20c090cb1193436c987aafa8ef412a3a" />
+  </programme>
+  <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Gaudeix la festa</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/85523e107eec48fcb1fd3610ca86232d" />
   </programme>
   <programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de Tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TDT_1790589172233" />
+    <title lang="es">Notícies 12. Edició vespre</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
   </programme>
-  <programme start="20261112013000 +0000" stop="20261112023000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">180º (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+  <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Més Amunt. Ombres xineses</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
+  </programme>
+  <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Teló de fons</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/692121a120f84ad2b779dee628860e5b/Images/20c090cb1193436c987aafa8ef412a3a" />
   </programme>
   <programme start="20261112023000 +0000" stop="20261112030000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Aprenent (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'aprenent_1790594889374" />
+    <title lang="es">Gaudeix la festa</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/85523e107eec48fcb1fd3610ca86232d" />
   </programme>
   <programme start="20261112030000 +0000" stop="20261112033000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Impuls (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-e5b50a1d47f247c1_1793101934702" />
+    <title lang="es">Notícies 12. Edició vespre</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
   </programme>
   <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Moving (R)</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a3415f09a9364c668205903c8af51d3e/Images/18a247db168c4cde9f5fd20064775a53" />
+    <title lang="es">Més Amunt. Ombres xineses</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
   </programme>
   <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">La Sobretaula (R)</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/51d448d6fc864b8a87b2a6bbb25220bd/Images/a6934fb6ea084b8b8d8bed8d7e7e970c" />
+    <title lang="es">Teló de fons</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/692121a120f84ad2b779dee628860e5b/Images/20c090cb1193436c987aafa8ef412a3a" />
   </programme>
-  <programme start="20261112043000 +0000" stop="20261112053000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Com Més Serem (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cms_1785508562338" />
+  <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Gaudeix la festa</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/85523e107eec48fcb1fd3610ca86232d" />
+  </programme>
+  <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Notícies 12. Edició vespre</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
   </programme>
   <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586931607" />
+    <title lang="es">Més Amunt. Ombres xineses</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/433049fa8bba431e9b408a9abb8d3c52" />
   </programme>
   <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Notícies en Xarxa</title>
@@ -35092,8 +35111,8 @@
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
   <programme start="20261112100000 +0000" stop="20261112102706 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torna-la a tocar, Sam (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-1a36176566fe4405_1793101594097" />
+    <title lang="es">Gaudeix la festa</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/53ed4b04f77e43428dca138fcf814c54/Images/85523e107eec48fcb1fd3610ca86232d" />
   </programme>
   <programme start="20261112102706 +0000" stop="20261112143000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">Emissió en proves de Cugat TV</title>
@@ -35120,8 +35139,8 @@
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
   <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de Tarda</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TDT_1790589159652" />
+    <title lang="es">Connecta 10 Comarques</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C_1770230490066" />
   </programme>
   <programme start="20261112180000 +0000" stop="20261112185700 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">VIA 15</title>
@@ -35136,156 +35155,116 @@
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
   </programme>
   <programme start="20261112193000 +0000" stop="20261112203000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Molt Personal</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Molt personal_Eli_1790594657757" />
+    <title lang="es">Saló de Plens</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
   </programme>
   <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu Central (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'Informatiu Central_1790586931607" />
+    <title lang="es">Revolució</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d67e5fb358284badb5baf69cec70fadb/Images/7a71ad1e494948df8c3398cb8798ec56" />
   </programme>
-  <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Passeu Passeu (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Aina_passeu_v3_1792590561895" />
+  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Notícies 12. Edició vespre</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTI VESPRE 041124_1761289524396" />
   </programme>
-  <programme start="20261112220000 +0000" stop="20261112233000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">INAUGURACIÓ DE LA TORRATXA DE LA CASA NAVÀS</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+  <programme start="20261112213000 +0000" stop="20261112220439 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Saló de Plens</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/salo_1761288900554" />
   </programme>
-  <programme start="20261112233000 +0000" stop="20261113003000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">LA PORTERIA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
+  <programme start="20261112220439 +0000" stop="20261112230341 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'Agenda</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'ORSAI</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
+  <programme start="20261112230341 +0000" stop="20261112233000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Entrevista de Mataró Al Dia</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261113010000 +0000" stop="20261113023000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">INAUGURACIÓ DE LA TORRATXA DE LA CASA NAVÀS</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
+  <programme start="20261112233000 +0000" stop="20261113002946 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Via 15 (Reemissió)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">CONNECTA 10 COMARQUES</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/C10C_1768922066598" />
-  </programme>
-  <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Vespre (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
-  </programme>
-  <programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">FOT-LI (R)</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/8743e6be6d42410eab80e5acfb316e6e" />
-  </programme>
-  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">LA PORTERIA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
-  </programme>
-  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES Vespre (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTICIES VESPRE 2025 JORDI OTT_1759163102499" />
-  </programme>
-  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'ORSAI</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
-  </programme>
-  <programme start="20261113060000 +0000" stop="20261113080000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">NOTÍCIES EN XARXA</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
-  </programme>
-  <programme start="20261113080000 +0000" stop="20261113093000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">EFECTE MOSAIC. MATÍ</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
-  </programme>
-  <programme start="20261113093000 +0000" stop="20261113095000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu - Anoia (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-INFORMATIU-2627_1788768444832" />
-  </programme>
-  <programme start="20261113095000 +0000" stop="20261113102000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Fem Territori 2.0 (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-FT2_1792400148521" />
-  </programme>
-  <programme start="20261113102000 +0000" stop="20261113104000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976071491" />
-  </programme>
-  <programme start="20261113104000 +0000" stop="20261113110000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu - Anoia (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-INFORMATIU-2627_1788768444832" />
-  </programme>
-  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Qui Sap! (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-QUISAP-2627_1792401776214" />
-  </programme>
-  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Protagonistes (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1784534294991" />
-  </programme>
-  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976071491" />
-  </programme>
-  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Referents (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-REFERENTS-2627_1789549718351" />
-  </programme>
-  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Aprenent</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_APRENENT_1759747807212" />
-  </programme>
-  <programme start="20261113133000 +0000" stop="20261113143000 +0000" channel="Xarxa_Cugat_Media.TV">
+  <programme start="20261113002946 +0000" stop="20261113013000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">AVENTURÍSTIC</title>
+  <programme start="20261113013000 +0000" stop="20261113022852 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Mataró Al Dia (Reemissió)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914423024" />
+  </programme>
+  <programme start="20261113022852 +0000" stop="20261113032609 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'Agenda</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
+  </programme>
+  <programme start="20261113032609 +0000" stop="20261113040000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Compactat Espai Agrari</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113045852 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Mataró Al Dia (Reemissió)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914423024" />
+  </programme>
+  <programme start="20261113045852 +0000" stop="20261113060000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'Agenda</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113080155 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Notícies en Xarxa</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
+  </programme>
+  <programme start="20261113080155 +0000" stop="20261113090030 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Mataró Al Dia (Reemissió)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914423024" />
+  </programme>
+  <programme start="20261113090030 +0000" stop="20261113095809 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">L'Agenda</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
+  </programme>
+  <programme start="20261113095809 +0000" stop="20261113112520 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Efecte Mosaic</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
+  </programme>
+  <programme start="20261113112520 +0000" stop="20261113122232 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Via 15 (Reemissió)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
+  </programme>
+  <programme start="20261113122232 +0000" stop="20261113133004 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">180º</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+  </programme>
+  <programme start="20261113133004 +0000" stop="20261113143302 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">La porteria</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
+  </programme>
+  <programme start="20261113143302 +0000" stop="20261113150059 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Aventurístic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-5304500dd5184b19_1793101898001" />
   </programme>
-  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976071491" />
+  <programme start="20261113150059 +0000" stop="20261113153000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Hospital de proximitat</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/33b5e06bfda847d8ae03ebfff3ed7abd/Images/6f1bb3741daa4b72bca7a34e46f77d2c" />
   </programme>
   <programme start="20261113153000 +0000" stop="20261113170000 +0000" channel="Xarxa_Cugat_Media.TV">
     <title lang="es">EFECTE MOSAIC. TARDA</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">AVENTURÍSTIC</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-5304500dd5184b19_1793101898001" />
-  </programme>
-  <programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976064528" />
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Via 15</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-b178944a159949f0_1793101921614" />
   </programme>
   <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">180 GRAUS</title>
+    <title lang="es">180º</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
   </programme>
-  <programme start="20261113190000 +0000" stop="20261113192000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu - Anoia</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-INFORMATIU-2627_1788768439762" />
+  <programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Mataró Al Dia</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914416041" />
   </programme>
-  <programme start="20261113192000 +0000" stop="20261113195000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Protagonistes (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/PROTAGONISTES_1784534294991" />
+  <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Ls Setmana</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261113195000 +0000" stop="20261113201000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976071491" />
-  </programme>
-  <programme start="20261113201000 +0000" stop="20261113203000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">L'Informatiu - Anoia</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-INFORMATIU-2627_1788768439762" />
-  </programme>
-  <programme start="20261113203000 +0000" stop="20261113213000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Com Més Serem (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-CMS-2627_1789475751347" />
-  </programme>
-  <programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Torn de tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-TORNDETARDA-2627_1789976071491" />
-  </programme>
-  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="Xarxa_Cugat_Media.TV">
-    <title lang="es">Qui Sap! (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME-QUISAP-2627_1792401776214" />
+  <programme start="20261113210000 +0000" stop="20261113220439 +0000" channel="Xarxa_Cugat_Media.TV">
+    <title lang="es">Mataró Al Dia (Reemissió)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914423024" />
   </programme>
   <programme start="20261111002926 +0000" stop="20261111012706 +0000" channel="Xarxa_ETV.TV">
     <title lang="es">180º</title>
@@ -36515,17 +36494,13 @@
     <title lang="es">Reportatge: Més que castells. De Granollers a l'Alguer, una història de germanor</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/xics alguer_1794127146173" />
   </programme>
-  <programme start="20261111190000 +0000" stop="20261111192828 +0000" channel="Xarxa_VOTV.TV">
+  <programme start="20261111190000 +0000" stop="20261111200029 +0000" channel="Xarxa_VOTV.TV">
     <title lang="es">Infovallès: Dimecres</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/AGATA - INFO_1764016281650" />
   </programme>
-  <programme start="20261111192828 +0000" stop="20261111195607 +0000" channel="Xarxa_VOTV.TV">
-    <title lang="es">Infovallès (R): Dimecres</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/AGATA - INFO_1764016294149" />
-  </programme>
-  <programme start="20261111195607 +0000" stop="20261111203007 +0000" channel="Xarxa_VOTV.TV">
+  <programme start="20261111200029 +0000" stop="20261111203007 +0000" channel="Xarxa_VOTV.TV">
     <title lang="es">recórrer (R)</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/9937900e76e2440981ad340a23390af6" />
   </programme>
   <programme start="20261111203007 +0000" stop="20261111210000 +0000" channel="Xarxa_VOTV.TV">
     <title lang="es">Revolució (R)</title>
@@ -36695,53 +36670,169 @@
     <title lang="es">Torn de Tarda</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_TDT_1756710332237" />
   </programme>
-  <programme start="20261111180000 +0000" stop="20261111190038 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111180000 +0000" stop="20261111190057 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Redifusió</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111190038 +0000" stop="20261111192301 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111190057 +0000" stop="20261111191443 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">L'informatiu</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_Info_1756710375230" />
   </programme>
-  <programme start="20261111192301 +0000" stop="20261111192831 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111191443 +0000" stop="20261111192151 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">El Temps</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TEMPS DIJOUS_1751623012971" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111192831 +0000" stop="20261111195732 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111192151 +0000" stop="20261111195356 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">A tota màquina!</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_ATotaMaquina_1791357053311" />
   </programme>
-  <programme start="20261111195732 +0000" stop="20261111202825 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111195356 +0000" stop="20261111202507 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Torn de Tarda (R)</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_TDT_1756710332237" />
   </programme>
-  <programme start="20261111202825 +0000" stop="20261111210052 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111202507 +0000" stop="20261111210027 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">En primera persona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4118c191b5dc4aea876a0d67a63a46ec/Images/f3b27bc04e6541b39c2046b99bbf7088" />
   </programme>
-  <programme start="20261111210052 +0000" stop="20261111212315 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111210027 +0000" stop="20261111211413 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">L'informatiu (R)</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_Info_1758125783029" />
   </programme>
-  <programme start="20261111212315 +0000" stop="20261111213059 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111211413 +0000" stop="20261111212219 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">El Temps</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TEMPS DIJOUS_1751623012971" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111213059 +0000" stop="20261111222109 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111212219 +0000" stop="20261111221248 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Berga, Concert dels 50 anys de la Coral Queraltina 2026</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_queraltins_1794384620965" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111222109 +0000" stop="20261111225124 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111221248 +0000" stop="20261111224322 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Torn de Tarda (R)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_TDT_1756710332237" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111225124 +0000" stop="20261111233510 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111224322 +0000" stop="20261111232708 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Puig-reig, Fira de Sant Martí 2026</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_SnaMarti_1794297722648" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
-  <programme start="20261111233510 +0000" stop="20261112030424 +0000" channel="Xarxa_TV_Bergueda.TV">
+  <programme start="20261111232708 +0000" stop="20261112025922 +0000" channel="Xarxa_TV_Bergueda.TV">
     <title lang="es">Berga, Ple Municipal</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_P`le_1751879395018" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112025922 +0000" stop="20261112060000 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Redifusió</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112060000 +0000" stop="20261112080036 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Notícies en Xarxa. Edició matí</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112080036 +0000" stop="20261112081840 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">L'informatiu (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112081840 +0000" stop="20261112084925 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Torn de Tarda (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112084925 +0000" stop="20261112102006 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Efecte Mosaic</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112102006 +0000" stop="20261112105040 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">En primera persona</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112105040 +0000" stop="20261112110311 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Berga, Ple Municipal</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112110311 +0000" stop="20261112114626 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Puig-reig, Fira de Sant Martí 2026</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112114626 +0000" stop="20261112122206 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Tam-Tam</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112122206 +0000" stop="20261112130000 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Teló de Fons</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112130000 +0000" stop="20261112131803 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">L'informatiu (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112131803 +0000" stop="20261112134804 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Torn de Tarda (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112134804 +0000" stop="20261112143555 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Berga, Concert dels 50 anys de la Coral Queraltina 2026</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112143555 +0000" stop="20261112150357 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Caminant per Catalunya</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112150357 +0000" stop="20261112153018 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Gaudeix la festa</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112153018 +0000" stop="20261112170010 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Efecte Mosaic</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112170010 +0000" stop="20261112173000 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">L'Orsai</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Torn de Tarda</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112180000 +0000" stop="20261112190026 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">180º</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112190026 +0000" stop="20261112192249 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">L'informatiu</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Cach_Info_1756710375230" />
+  </programme>
+  <programme start="20261112192249 +0000" stop="20261112192840 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">El Temps</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112192840 +0000" stop="20261112200202 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Tam-Tam</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112200202 +0000" stop="20261112203313 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Torn de Tarda (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112203313 +0000" stop="20261112210016 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Teló de Fons</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112210016 +0000" stop="20261112212239 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">L'informatiu (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112212239 +0000" stop="20261112212839 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">El Temps</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112212839 +0000" stop="20261112220134 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Tam-Tam</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112220134 +0000" stop="20261112223134 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Torn de Tarda (R)</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
+  </programme>
+  <programme start="20261112223134 +0000" stop="20261113020049 +0000" channel="Xarxa_TV_Bergueda.TV">
+    <title lang="es">Berga, Ple Municipal</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c844922e54a24d34a67eafd39189e013/Images/9885133efad54f9facab5bd5e07fa7ff" />
   </programme>
   <programme start="20261111003001 +0000" stop="20261111010000 +0000" channel="Xarxa_Televisio_Hospitalet.TV">
     <title lang="es">L'INFORMATIU (R)</title>
@@ -37243,215 +37334,207 @@
     <title lang="es">Programació alterada 11N</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111172959 +0000" stop="20261111175950 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111172959 +0000" stop="20261111192959 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111175950 +0000" stop="20261111185818 +0000" channel="Xarxa_LleidaTV.TV">
-    <title lang="es">180º</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-  </programme>
-  <programme start="20261111185818 +0000" stop="20261111192806 +0000" channel="Xarxa_LleidaTV.TV">
-    <title lang="es">Connecta Lleida Pirineus</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
-  </programme>
-  <programme start="20261111192806 +0000" stop="20261111201614 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111192959 +0000" stop="20261111201807 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111201614 +0000" stop="20261111203000 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111201807 +0000" stop="20261111203153 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS: Miquel Aigé</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111203000 +0000" stop="20261111220018 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111203153 +0000" stop="20261111220211 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111220018 +0000" stop="20261111224530 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111220211 +0000" stop="20261111224723 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111224530 +0000" stop="20261111225642 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111224723 +0000" stop="20261111225835 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS: Miquel Aigé</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261111225642 +0000" stop="20261112002706 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261111225835 +0000" stop="20261112002859 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112002706 +0000" stop="20261112011218 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112002859 +0000" stop="20261112011411 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112011218 +0000" stop="20261112055029 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112011411 +0000" stop="20261112055222 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS: Miquel Aigé</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112055029 +0000" stop="20261112063541 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112055222 +0000" stop="20261112063734 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Vespre ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112063541 +0000" stop="20261112082729 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112063734 +0000" stop="20261112082922 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Notícies en xarxa - Matí</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
-  <programme start="20261112082729 +0000" stop="20261112095441 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112082922 +0000" stop="20261112095634 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Efecte Mosaic. Matí</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261112095441 +0000" stop="20261112100752 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112095634 +0000" stop="20261112100944 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS Joan Conejo</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112100752 +0000" stop="20261112103617 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112100944 +0000" stop="20261112103810 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">SANT MIQUEL DE LES LLETRES</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112103617 +0000" stop="20261112110329 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112103810 +0000" stop="20261112110522 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112110329 +0000" stop="20261112123353 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112110522 +0000" stop="20261112123546 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112123353 +0000" stop="20261112124744 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112123546 +0000" stop="20261112124937 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS: Miquel Aigé</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112124744 +0000" stop="20261112131620 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112124937 +0000" stop="20261112131813 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Migdia</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112131620 +0000" stop="20261112141632 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112131813 +0000" stop="20261112141825 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">La porteria</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112141632 +0000" stop="20261112144344 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112141825 +0000" stop="20261112144537 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">L'Orsai</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
   </programme>
-  <programme start="20261112144344 +0000" stop="20261112151116 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112144537 +0000" stop="20261112151309 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Migdia</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112151116 +0000" stop="20261112163828 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112151309 +0000" stop="20261112164021 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Efecte Mosaic. Tarda</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261112163828 +0000" stop="20261112170701 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112164021 +0000" stop="20261112170854 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">L'Orsai</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/e05f42bf976b4f1eaf757f075c4ca035/Images/f4c5fe28b1ec4ed8ae00398b063aac2b" />
   </programme>
-  <programme start="20261112170701 +0000" stop="20261112173413 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112170854 +0000" stop="20261112173606 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112173413 +0000" stop="20261112202105 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112173606 +0000" stop="20261112202258 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Catifa Vermella Premis Cambra</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112202105 +0000" stop="20261112215617 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112202258 +0000" stop="20261112215810 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112215617 +0000" stop="20261112224129 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112215810 +0000" stop="20261112224322 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261112224129 +0000" stop="20261113005641 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261112224322 +0000" stop="20261113005834 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Vint-i-dos</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113005641 +0000" stop="20261113011153 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113005834 +0000" stop="20261113011346 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113011153 +0000" stop="20261113024217 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113011346 +0000" stop="20261113024410 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113024217 +0000" stop="20261113032729 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113024410 +0000" stop="20261113032922 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113032729 +0000" stop="20261113075206 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113032922 +0000" stop="20261113075359 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113075206 +0000" stop="20261113083718 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113075359 +0000" stop="20261113083911 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Vespre ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113083718 +0000" stop="20261113102906 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113083911 +0000" stop="20261113103059 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Notícies en xarxa - Matí</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
-  <programme start="20261113102906 +0000" stop="20261113115618 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113103059 +0000" stop="20261113115811 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Efecte Mosaic. Matí</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261113115618 +0000" stop="20261113121130 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113115811 +0000" stop="20261113121323 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">DIS</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113121130 +0000" stop="20261113130842 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113121323 +0000" stop="20261113131035 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">180º</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113130842 +0000" stop="20261113133554 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113131035 +0000" stop="20261113133747 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113133554 +0000" stop="20261113150618 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113133747 +0000" stop="20261113150811 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">+Lleida</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113150618 +0000" stop="20261113152130 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113150811 +0000" stop="20261113152323 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Bàsquet. Ilerna Lleida - Roda de premsa de Gerard Encuentra</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113152130 +0000" stop="20261113154842 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113152323 +0000" stop="20261113155035 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Migdia</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113154842 +0000" stop="20261113164854 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113155035 +0000" stop="20261113165047 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">La porteria</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113164854 +0000" stop="20261113171606 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113165047 +0000" stop="20261113171759 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Aventurístic</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113171606 +0000" stop="20261113174318 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113171759 +0000" stop="20261113174511 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Migdia</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113174318 +0000" stop="20261113191030 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113174511 +0000" stop="20261113191223 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Efecte Mosaic. Tarda</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261113191030 +0000" stop="20261113193742 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113191223 +0000" stop="20261113193935 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Aventurístic</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113193742 +0000" stop="20261113200454 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113193935 +0000" stop="20261113200647 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113200454 +0000" stop="20261113210206 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113200647 +0000" stop="20261113210359 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">180º</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113210206 +0000" stop="20261113212918 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113210359 +0000" stop="20261113213111 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Connecta Lleida Pirineus</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113212918 +0000" stop="20261113221430 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113213111 +0000" stop="20261113221623 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Noticies Lleida ed. Vespre</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113221430 +0000" stop="20261113222942 +0000" channel="Xarxa_LleidaTV.TV">
+  <programme start="20261113221623 +0000" stop="20261113223135 +0000" channel="Xarxa_LleidaTV.TV">
     <title lang="es">Bàsquet. Ilerna Lleida - Roda de premsa de Gerard Encuentra</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
@@ -38883,13 +38966,13 @@
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111003000 +0000" stop="20261111003157 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Comarca que Batega</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/batega_1715275011522" />
   </programme>
-  <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261111003157 +0000" stop="20261111013000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">EFECTE MOSAIC</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
   <programme start="20261111013000 +0000" stop="20261111060000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">MusicBox BanyolesTV</title>
@@ -38911,57 +38994,61 @@
     <title lang="es">Efecte Mosaic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261111080000 +0000" stop="20261111093000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111080000 +0000" stop="20261111090040 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Efecte Mosaic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261111093000 +0000" stop="20261111100000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Lletra B</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/37e4038f8d034347937bbc2dc478cebe/Images/87fdd2e228f444c19e1ee51095a57f21" />
+  <programme start="20261111090040 +0000" stop="20261111100000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">180º</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
   </programme>
-  <programme start="20261111100000 +0000" stop="20261111103000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111100000 +0000" stop="20261111100027 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111103000 +0000" stop="20261111110000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Al Dia Comarques de Girona</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  <programme start="20261111100027 +0000" stop="20261111110000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TOT RODÓ</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TOT RODÃ\u0093_1768992171113" />
   </programme>
-  <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111110000 +0000" stop="20261111110053 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261111120000 +0000" stop="20261111123000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261111110053 +0000" stop="20261111123000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TÉ DE TOT</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TÃ\u0089 DE TOT_1768989508750" />
   </programme>
-  <programme start="20261111123000 +0000" stop="20261111130000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111123000 +0000" stop="20261111125949 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Comarca que Batega</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/batega_1715275011522" />
   </programme>
-  <programme start="20261111130000 +0000" stop="20261111130001 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261111125949 +0000" stop="20261111133000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">AL DIA MIGDIA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/AL DIA_1768991715814" />
   </programme>
-  <programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
-  </programme>
-  <programme start="20261111133000 +0000" stop="20261111140000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111133000 +0000" stop="20261111135055 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Al Dia Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111135055 +0000" stop="20261111140000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TÉ DE TOT</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/e5bf9308cae54943a1ed87bb9e0d07b1" />
+  </programme>
+  <programme start="20261111140000 +0000" stop="20261111142447 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111142447 +0000" stop="20261111143000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">NOTÍCIES MIGDIA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/NOTÃ\u008DCIES MIGDIA_1769006457089" />
+  </programme>
+  <programme start="20261111143000 +0000" stop="20261111145541 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Comarca que Batega</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/batega_1715275011522" />
   </programme>
-  <programme start="20261111150000 +0000" stop="20261111153000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261111145541 +0000" stop="20261111153000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">AL DIA MIGDIA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/AL DIA_1768991715814" />
   </programme>
   <programme start="20261111153000 +0000" stop="20261111153005 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Efecte Mosaic</title>
@@ -38971,17 +39058,21 @@
     <title lang="es">Efecte Mosaic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261111153000 +0000" stop="20261111170000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111153000 +0000" stop="20261111165948 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Efecte Mosaic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261111170000 +0000" stop="20261111173000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111165948 +0000" stop="20261111170000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TÉ DE TOT</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TÃ\u0089 DE TOT_1768989508750" />
+  </programme>
+  <programme start="20261111170000 +0000" stop="20261111172318 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Recórrer</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6087b5a2ea864e13844208e6de0b7ef4/Images/1a2641642eb248bb9b9f03165eca893d" />
   </programme>
-  <programme start="20261111173000 +0000" stop="20261111180000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Al Dia Comarques de Girona</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  <programme start="20261111172318 +0000" stop="20261111180000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TÉ DE TOT</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/e5bf9308cae54943a1ed87bb9e0d07b1" />
   </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">180º</title>
@@ -38991,9 +39082,13 @@
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111193000 +0000" stop="20261111193037 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Al Dia Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  </programme>
+  <programme start="20261111193037 +0000" stop="20261111200000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">L'ENTREVISTA</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/L'ENTREVISTA_1769162012386" />
   </programme>
   <programme start="20261111200000 +0000" stop="20261111200001 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
@@ -39003,17 +39098,21 @@
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111200000 +0000" stop="20261111202828 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261111203000 +0000" stop="20261111210000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Veus que Inspiren</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/0a6de9ab924c427d965a0069deaafbda" />
+  <programme start="20261111202828 +0000" stop="20261111210000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">DE PROP</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/e5bf9308cae54943a1ed87bb9e0d07b1" />
   </programme>
-  <programme start="20261111210000 +0000" stop="20261111213000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111210000 +0000" stop="20261111210018 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  </programme>
+  <programme start="20261111210018 +0000" stop="20261111213000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">TÉ DE TOT</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/e5bf9308cae54943a1ed87bb9e0d07b1" />
   </programme>
   <programme start="20261111213000 +0000" stop="20261111220000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Al Dia Comarques de Girona</title>
@@ -39027,13 +39126,13 @@
     <title lang="es">Veus que Inspiren</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2a14cf7c1f234f0eb6c165f3399bd362/Images/0a6de9ab924c427d965a0069deaafbda" />
   </programme>
-  <programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261111233000 +0000" stop="20261112003000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Com Més Serem (R)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
   </programme>
   <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Veus que Inspiren</title>
@@ -39067,13 +39166,13 @@
     <title lang="es">Al Dia Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261112110000 +0000" stop="20261112113000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261112113000 +0000" stop="20261112123000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Com Més Serem (R)</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_CMS_1727361008361" />
   </programme>
   <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Veus que Inspiren</title>
@@ -39143,129 +39242,169 @@
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261112223000 +0000" stop="20261112224239 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Banyoles Comerç i Turisme</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ABCT_1715274620664" />
   </programme>
-  <programme start="20261112224239 +0000" stop="20261112231554 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Rebobina</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Rebobina ok_1752505687814" />
-  </programme>
-  <programme start="20261112231554 +0000" stop="20261112234523 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Veus que Inspiren</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069" />
-  </programme>
-  <programme start="20261112234523 +0000" stop="20261113003000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">La Porteria</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069" />
-  </programme>
-  <programme start="20261113003000 +0000" stop="20261113004528 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Banyoles Comerç i Turisme</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ABCT_1715274620664" />
-  </programme>
-  <programme start="20261113004528 +0000" stop="20261113010000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Comarca Informatiu (r)</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/INFO NOU_1786965039745" />
-  </programme>
-  <programme start="20261113010000 +0000" stop="20261113011525 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
-  </programme>
-  <programme start="20261113011525 +0000" stop="20261113013000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">El Magazín (r) : L'entrevista</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069" />
-  </programme>
-  <programme start="20261113013000 +0000" stop="20261113060000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">MusicBox BanyolesTV</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
-  </programme>
-  <programme start="20261113060000 +0000" stop="20261113080000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Notícies en Xarxa</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
-  </programme>
-  <programme start="20261113080000 +0000" stop="20261113093000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Efecte Mosaic</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
-  </programme>
-  <programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">La Tribu</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TRIBU_1715274429683" />
-  </programme>
-  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
-  </programme>
-  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Al Dia Comarques de Girona</title>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
-  </programme>
-  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Porteria</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
   </programme>
-  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113003000 +0000" stop="20261113005834 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Banyoles Comerç i Turisme</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ABCT_1715274620664" />
   </programme>
-  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113005834 +0000" stop="20261113010000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">DIS</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113011346 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Al Dia Comarques de Girona</title>
+  <programme start="20261113011346 +0000" stop="20261113013000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">+Lleida</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113032922 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">MusicBox BanyolesTV</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261113032922 +0000" stop="20261113060000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">DIS</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Banyoles Comerç i Turisme</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/ABCT_1715274620664" />
+  <programme start="20261113060000 +0000" stop="20261113075359 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Notícies en Xarxa</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
   </programme>
-  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">Redacció Pla de l'Estany</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  <programme start="20261113075359 +0000" stop="20261113080000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Noticies Vespre ed. Vespre</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
-  <programme start="20261113153000 +0000" stop="20261113170000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113080000 +0000" stop="20261113083911 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Efecte Mosaic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
   </programme>
-  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113083911 +0000" stop="20261113103000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Notícies en xarxa - Matí</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-477c576702fd4e56_1793101896118" />
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113103059 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Al Dia Comarques de Girona</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  </programme>
+  <programme start="20261113103059 +0000" stop="20261113110000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Efecte Mosaic. Matí</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113115811 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">La Porteria</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-701bc533981e4cdb_1793101901859" />
+  </programme>
+  <programme start="20261113115811 +0000" stop="20261113120000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">DIS</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113121323 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Redacció Pla de l'Estany</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  </programme>
+  <programme start="20261113121323 +0000" stop="20261113130000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">180º</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113131035 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Redacció Pla de l'Estany</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  </programme>
+  <programme start="20261113131035 +0000" stop="20261113133000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Connecta Lleida Pirineus</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113133747 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Al Dia Comarques de Girona</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  </programme>
+  <programme start="20261113133747 +0000" stop="20261113150000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">+Lleida</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113152323 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Redacció Pla de l'Estany</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
+  </programme>
+  <programme start="20261113152323 +0000" stop="20261113153000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Noticies Lleida ed. Migdia</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113165047 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Efecte Mosaic</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-056710b6cd7d499a_1793101592854" />
+  </programme>
+  <programme start="20261113165047 +0000" stop="20261113170000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Aventurístic</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113171759 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Aventurístic</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-5304500dd5184b19_1793101898001" />
   </programme>
-  <programme start="20261113173000 +0000" stop="20261113180000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113171759 +0000" stop="20261113173000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Noticies Lleida ed. Migdia</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113174511 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Al Dia Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
   </programme>
-  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="Xarxa_Banyoles_TV.TV">
-    <title lang="es">180º</title>
-    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-a4c0b3ca978444c4_1793101918965" />
+  <programme start="20261113174511 +0000" stop="20261113190000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Efecte Mosaic. Tarda</title>
+    <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cott-vod-677f863376a7456e_1793101899851" />
   </programme>
-  <programme start="20261113190000 +0000" stop="20261113193000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113190000 +0000" stop="20261113191223 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261113193000 +0000" stop="20261113200000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113191223 +0000" stop="20261113193000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Aventurístic</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113193935 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Club Natació Banyoles</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/cnb_1715274751721" />
   </programme>
-  <programme start="20261113200000 +0000" stop="20261113203000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113193935 +0000" stop="20261113200000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Connecta Lleida Pirineus</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113200647 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/Redaccio1_1715274215369" />
   </programme>
-  <programme start="20261113203000 +0000" stop="20261113213000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113200647 +0000" stop="20261113203000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">180º</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113203000 +0000" stop="20261113210359 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">La Tribu</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/TRIBU_1715274429683" />
   </programme>
-  <programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="Xarxa_Banyoles_TV.TV">
+  <programme start="20261113210359 +0000" stop="20261113213000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Connecta Lleida Pirineus</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
+  </programme>
+  <programme start="20261113213000 +0000" stop="20261113213111 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Al Dia Comarques de Girona</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/d377e3dbe0df4f948d282a54c966d684" />
+  </programme>
+  <programme start="20261113213111 +0000" stop="20261113220000 +0000" channel="Xarxa_Banyoles_TV.TV">
+    <title lang="es">Noticies Lleida ed. Vespre</title>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/ec4f1aa95487408b86b3d3058d833d09" />
   </programme>
   <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="Xarxa_Banyoles_TV.TV">
     <title lang="es">Redacció Pla de l'Estany</title>
@@ -39375,19 +39514,19 @@
     <title lang="es">Entrevista de Mataró Al Dia</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261111180410 +0000" stop="20261111185340 +0000" channel="Xarxa_TVMataro.TV">
+  <programme start="20261111180412 +0000" stop="20261111185342 +0000" channel="Xarxa_TVMataro.TV">
     <title lang="es">Els Analistes</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261111185340 +0000" stop="20261111190000 +0000" channel="Xarxa_TVMataro.TV">
+  <programme start="20261111185342 +0000" stop="20261111190000 +0000" channel="Xarxa_TVMataro.TV">
     <title lang="es">Espai Agrari</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
-  <programme start="20261111190000 +0000" stop="20261111195939 +0000" channel="Xarxa_TVMataro.TV">
+  <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="Xarxa_TVMataro.TV">
     <title lang="es">Mataró Al Dia</title>
     <icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_INFO_1709914416041" />
   </programme>
-  <programme start="20261111195939 +0000" stop="20261111203000 +0000" channel="Xarxa_TVMataro.TV">
+  <programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="Xarxa_TVMataro.TV">
     <title lang="es">Documental 150 anys de la Policia Local</title>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/9b323381f833477e87ed0bab2de410b2" />
   </programme>
@@ -55039,6 +55178,16 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="es">Programme de l'éditeur invité.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
+  <programme start="20261114021500 +0100" stop="20261114023000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261114023000 +0100" stop="20261114030000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
   <programme start="20261111010000 +0100" stop="20261111023000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El Curubito</title>
     <desc lang="es">Show deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
@@ -57668,14 +57817,10 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="eu">Zuhar Iruretagoiena Labeaga artista eta irakaslea da. Laukizeko tailerrean dituen eskulturak erakusteaz gain, bere gustuko kultur proposamenak kontatu dizkigu.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5c307231-bb15-4544-a783-2058b7a7bb0d.jpg" />
   </programme>
-  <programme start="20261112055506 +0000" stop="20261112060000 +0000" channel="ETB1ON.TV">
+  <programme start="20261112055506 +0000" stop="20261112062251 +0000" channel="ETB1ON.TV">
     <title lang="eu">Euskal Herritik</title>
     <sub-title lang="eu">Iñaki De Renteria</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8401483e-8764-4fd3-8e60-e3e098988cb3.jpg" />
-  </programme>
-  <programme start="20261112060000 +0000" stop="20261112062251 +0000" channel="ETB1ON.TV">
-    <title lang="eu">2019-01-24 10:00:00</title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/469f5b7e-8e1f-4617-9739-4e05cbfd06dc.jpg" />
   </programme>
   <programme start="20261112062251 +0000" stop="20261112062530 +0000" channel="ETB1ON.TV">
     <title lang="eu">Euskal Herria hegan. Paisaiak</title>
@@ -57695,18 +57840,9 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="eu">Gonbidatua: Martin Errasti Tatta.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5999d0aa-22ce-4550-8927-8371c4fc0f38.jpg" />
   </programme>
-  <programme start="20261112075955 +0000" stop="20261112082500 +0000" channel="ETB1ON.TV">
+  <programme start="20261112075955 +0000" stop="20261112100047 +0000" channel="ETB1ON.TV">
     <title lang="eu">Egun on</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/1ae463bc-3cab-4151-9bcb-3b0f0c546e97.jpg" />
-  </programme>
-  <programme start="20261112082500 +0000" stop="20261112083000 +0000" channel="ETB1ON.TV">
-    <title lang="eu">2019-01-24 10:00:00</title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/469f5b7e-8e1f-4617-9739-4e05cbfd06dc.jpg" />
-  </programme>
-  <programme start="20261112083000 +0000" stop="20261112100047 +0000" channel="ETB1ON.TV">
-    <title lang="eu">Legebiltzarreko Osoko Bilkura</title>
-    <sub-title lang="eu">Legebiltzarreko Osoko Bilkura</sub-title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/9bde9423-5612-407d-9063-6650c62d30b7.jpg" />
   </programme>
   <programme start="20261112100047 +0000" stop="20261112104029 +0000" channel="ETB1ON.TV">
     <title lang="eu">Adinberri</title>
@@ -57744,15 +57880,11 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="eu">Gonbidatua: Arantxa Orbegozo.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/5999d0aa-22ce-4550-8927-8371c4fc0f38.jpg" />
   </programme>
-  <programme start="20261112121317 +0000" stop="20261112123000 +0000" channel="ETB1ON.TV">
+  <programme start="20261112121317 +0000" stop="20261112130000 +0000" channel="ETB1ON.TV">
     <title lang="eu">Txoriene</title>
     <sub-title lang="eu">Korbina marinatua entsaladan</sub-title>
     <desc lang="eu">Programak bi errezeta jarraian aurkezten ditu: lehenik, Zigorrek Korbina marinatua entsaladan prestatzeko prozesua xehetasunez azalduko digu. Ondoren, ogitarteko berezi bat prestatuko du Patriziak, Entsaladilla begetal bokata.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/8f825cad-8970-4cb1-84de-3bb241ad7495.jpg" />
-  </programme>
-  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="ETB1ON.TV">
-    <title lang="eu">2019-01-24 10:00:00</title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/469f5b7e-8e1f-4617-9739-4e05cbfd06dc.jpg" />
   </programme>
   <programme start="20261112130000 +0000" stop="20261112133500 +0000" channel="ETB1ON.TV">
     <title lang="eu">Gaur Egun</title>
@@ -57776,15 +57908,7 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <title lang="eu">Iparraldearen orena</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/33f600f1-f3c9-45a9-8f5b-7dcfa070c601.jpg" />
   </programme>
-  <programme start="20261112142345 +0000" stop="20261112145500 +0000" channel="ETB1ON.TV">
-    <title lang="eu">BIBA ZUEK! 2026-2027</title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/fa7eb279-5d83-485f-b03d-ecb86658576a.jpg" />
-  </programme>
-  <programme start="20261112145500 +0000" stop="20261112161436 +0000" channel="ETB1ON.TV">
-    <title lang="eu">2019-01-24 10:00:00</title>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/469f5b7e-8e1f-4617-9739-4e05cbfd06dc.jpg" />
-  </programme>
-  <programme start="20261112161436 +0000" stop="20261112175737 +0000" channel="ETB1ON.TV">
+  <programme start="20261112142345 +0000" stop="20261112175737 +0000" channel="ETB1ON.TV">
     <title lang="eu">BIBA ZUEK! 2026-2027</title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/fa7eb279-5d83-485f-b03d-ecb86658576a.jpg" />
   </programme>
@@ -58107,16 +58231,10 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="eu">Lehiakideak: Laura eta Ander, Esther eta Pablo, Bea eta Iñigo.</desc>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/f8c1c9eb-437f-4aff-9e4d-11f37bb55e6c.jpg" />
   </programme>
-  <programme start="20261111163746 +0000" stop="20261111190756 +0000" channel="ETB2ON.TV">
+  <programme start="20261111163746 +0000" stop="20261111191031 +0000" channel="ETB2ON.TV">
     <title lang="eu">Tu mejor vista de Euskal Herria</title>
     <sub-title lang="eu">2012-04-05 19:53:53</sub-title>
     <icon src="https://cdnstorage.primeran.eus/directus/eitb/adde7f1d-31f7-4831-8cc4-532c076ce268.jpg" />
-  </programme>
-  <programme start="20261111190756 +0000" stop="20261111191031 +0000" channel="ETB2ON.TV">
-    <title lang="eu">Euskal Herria desde el aire. Paisajes</title>
-    <sub-title lang="eu">EUSKAL HERRIA DESDE EL AIRE. PAISAJES_01_BAIONA</sub-title>
-    <desc lang="eu">Imágenes sobre Baiona extraídas de la serie documental Euskal Herria Hegan.</desc>
-    <icon src="https://cdnstorage.primeran.eus/directus/eitb/cb873f04-7d17-4b92-9d6e-cc3f68e36a16.jpg" />
   </programme>
   <programme start="20261111191031 +0000" stop="20261111191415 +0000" channel="ETB2ON.TV">
     <title lang="eu">Euskal Herria desde el aire. Paisajes</title>
@@ -65102,350 +65220,350 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <desc lang="es">P04 - Anrtonio Alemania. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
   </programme>
-  <programme start="20261112001732 +0100" stop="20261112003255 +0100" channel="TUYA.TV">
+  <programme start="20261112001732 +0100" stop="20261112002938 +0100" channel="TUYA.TV">
     <title lang="es">TUYA NOTICIAS</title>
     <desc lang="es">Las noticias más destacadas de la jornada en Chiclana y la Janda Litoral contadas por Stilita Mosteiro.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
   </programme>
-  <programme start="20261112003255 +0100" stop="20261112015616 +0100" channel="TUYA.TV">
+  <programme start="20261112002938 +0100" stop="20261112004542 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CONIL: Concentración en la plaza del Ayuntamiento con motivo de la huelga general del 11N.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261112004542 +0100" stop="20261112020903 +0100" channel="TUYA.TV">
     <title lang="es">MÁS DE CERCA</title>
     <desc lang="es">Hoy, la huelga general, la alerta naranja, las campeonas de Andalucía en gimnasia rítmica y el entrenamiento inteligente.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
   </programme>
-  <programme start="20261112015616 +0100" stop="20261112023039 +0100" channel="TUYA.TV">
+  <programme start="20261112020903 +0100" stop="20261112024326 +0100" channel="TUYA.TV">
     <title lang="es">GENTE AUTÉNTICA</title>
     <desc lang="es">Programa 09 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
   </programme>
-  <programme start="20261112023039 +0100" stop="20261112031225 +0100" channel="TUYA.TV">
+  <programme start="20261112024326 +0100" stop="20261112032258 +0100" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
     <desc lang="es">P28 - May Melero. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
   </programme>
-  <programme start="20261112031225 +0100" stop="20261112032658 +0100" channel="TUYA.TV">
+  <programme start="20261112032258 +0100" stop="20261112033451 +0100" channel="TUYA.TV">
     <title lang="es">TUYA NOTICIAS</title>
     <desc lang="es">Las noticias más destacadas de la jornada en Chiclana y la Janda Litoral contadas por Stilita Mosteiro.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
   </programme>
-  <programme start="20261112032658 +0100" stop="20261112033523 +0100" channel="TUYA.TV">
+  <programme start="20261112033451 +0100" stop="20261112035002 +0100" channel="TUYA.TV">
     <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CONIL: Comunes de Conil sale a la calle para explicar la importancia de la huelga general del 11 de noviembre.</desc>
+    <desc lang="es">#CONIL: Concentración en la plaza del Ayuntamiento con motivo de la huelga general del 11N.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
   </programme>
-  <programme start="20261112033523 +0100" stop="20261112033823 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación del proyecto que adaptará la Alameda del Río.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  <programme start="20261112035002 +0100" stop="20261112042422 +0100" channel="TUYA.TV">
+    <title lang="es">GENTE AUTÉNTICA</title>
+    <desc lang="es">Programa 09 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
   </programme>
-  <programme start="20261112033823 +0100" stop="20261112034812 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación de la obra teatral de TAETRO a beneficio de la asociación La Rampa</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261112034812 +0100" stop="20261112044526 +0100" channel="TUYA.TV">
-    <title lang="es">MÁS DE CERCA</title>
-    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
-  </programme>
-  <programme start="20261112044526 +0100" stop="20261112050422 +0100" channel="TUYA.TV">
-    <title lang="es">QUÉ BASTINAZO</title>
-    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
-  </programme>
-  <programme start="20261112050422 +0100" stop="20261112053441 +0100" channel="TUYA.TV">
-    <title lang="es">AQUÍ HAY TEMA</title>
-    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112053441 +0100" stop="20261112060356 +0100" channel="TUYA.TV">
-    <title lang="es">EN TU MUNDO</title>
-    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
-  </programme>
-  <programme start="20261112060356 +0100" stop="20261112064940 +0100" channel="TUYA.TV">
+  <programme start="20261112042422 +0100" stop="20261112050501 +0100" channel="TUYA.TV">
     <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <desc lang="es">P28 - May Melero. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
   </programme>
-  <programme start="20261112064940 +0100" stop="20261112071812 +0100" channel="TUYA.TV">
-    <title lang="es">EL MERCADO</title>
-    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
-  </programme>
-  <programme start="20261112071812 +0100" stop="20261112075119 +0100" channel="TUYA.TV">
-    <title lang="es">GENTE AUTÉNTICA</title>
-    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
-  </programme>
-  <programme start="20261112075119 +0100" stop="20261112082630 +0100" channel="TUYA.TV">
-    <title lang="es">DENTRO DEL ÁREA</title>
-    <desc lang="es">Hoy, Goyo Iglesias analiza los partidos de ambos clubes con Marcos Ramírez, Álvaro Álvarez, Carlos Ramírez y Jokin Carrasco.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/dentrodelarea.jpg?v=1792441711" />
-  </programme>
-  <programme start="20261112082630 +0100" stop="20261112090134 +0100" channel="TUYA.TV">
-    <title lang="es">DENTRO DEL ÁREA</title>
-    <desc lang="es">Hoy, Goyo Iglesias analiza los partidos de ambos clubes con Marcos Ramírez, Álvaro Álvarez, Carlos Ramírez y Jokin Carrasco.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/dentrodelarea.jpg?v=1792441711" />
-  </programme>
-  <programme start="20261112090134 +0100" stop="20261112091606 +0100" channel="TUYA.TV">
-    <title lang="es">TUYA NOTICIAS</title>
-    <desc lang="es">Las noticias más destacadas de la jornada en Chiclana y la Janda Litoral contadas por Stilita Mosteiro.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261112091606 +0100" stop="20261112094711 +0100" channel="TUYA.TV">
-    <title lang="es">SUCEDIÓ EN...  CONIL</title>
-    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20261112094711 +0100" stop="20261112102405 +0100" channel="TUYA.TV">
-    <title lang="es">SUCEDIÓ EN... CONIL</title>
-    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20261112102405 +0100" stop="20261112112108 +0100" channel="TUYA.TV">
+  <programme start="20261112050501 +0100" stop="20261112062838 +0100" channel="TUYA.TV">
     <title lang="es">MÁS DE CERCA</title>
-    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
+    <desc lang="es">Hoy, la huelga general, la alerta naranja, las campeonas de Andalucía en gimnasia rítmica y el entrenamiento inteligente.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
   </programme>
-  <programme start="20261112112108 +0100" stop="20261112114031 +0100" channel="TUYA.TV">
+  <programme start="20261112062838 +0100" stop="20261112064918 +0100" channel="TUYA.TV">
     <title lang="es">QUÉ BASTINAZO</title>
     <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
   </programme>
-  <programme start="20261112114031 +0100" stop="20261112122045 +0100" channel="TUYA.TV">
-    <title lang="es">ZAGALILLOS</title>
-    <desc lang="es">P07 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261112122045 +0100" stop="20261112125046 +0100" channel="TUYA.TV">
+  <programme start="20261112064918 +0100" stop="20261112071812 +0100" channel="TUYA.TV">
     <title lang="es">EL MERCADO</title>
     <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
   </programme>
-  <programme start="20261112125046 +0100" stop="20261112132112 +0100" channel="TUYA.TV">
+  <programme start="20261112071812 +0100" stop="20261112074800 +0100" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
   </programme>
-  <programme start="20261112132112 +0100" stop="20261112141839 +0100" channel="TUYA.TV">
-    <title lang="es">MÁS DE CERCA</title>
-    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
-  </programme>
-  <programme start="20261112141839 +0100" stop="20261112144736 +0100" channel="TUYA.TV">
-    <title lang="es">EL MERCADO</title>
-    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
-  </programme>
-  <programme start="20261112144736 +0100" stop="20261112151634 +0100" channel="TUYA.TV">
-    <title lang="es">EN TU MUNDO</title>
-    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
-  </programme>
-  <programme start="20261112151634 +0100" stop="20261112152730 +0100" channel="TUYA.TV">
-    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
-    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261112152730 +0100" stop="20261112153555 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CONIL: Comunes de Conil sale a la calle para explicar la importancia de la huelga general del 11 de noviembre.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261112153555 +0100" stop="20261112153855 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación del proyecto que adaptará la Alameda del Río.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261112153855 +0100" stop="20261112155050 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación de la obra teatral de TAETRO a beneficio de la asociación La Rampa</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261112155050 +0100" stop="20261112162325 +0100" channel="TUYA.TV">
-    <title lang="es">GENTE AUTÉNTICA</title>
-    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
-  </programme>
-  <programme start="20261112162325 +0100" stop="20261112171849 +0100" channel="TUYA.TV">
-    <title lang="es">MÁS DE CERCA</title>
-    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
-  </programme>
-  <programme start="20261112171849 +0100" stop="20261112173807 +0100" channel="TUYA.TV">
-    <title lang="es">QUÉ BASTINAZO</title>
-    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
-  </programme>
-  <programme start="20261112173807 +0100" stop="20261112180818 +0100" channel="TUYA.TV">
-    <title lang="es">AQUÍ HAY TEMA</title>
-    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112180818 +0100" stop="20261112184308 +0100" channel="TUYA.TV">
-    <title lang="es">AQUÍ HAY TEMA</title>
-    <desc lang="es">P18 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112184308 +0100" stop="20261112192057 +0100" channel="TUYA.TV">
-    <title lang="es">ZAGALILLOS</title>
-    <desc lang="es">P05 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261112192057 +0100" stop="20261112195216 +0100" channel="TUYA.TV">
-    <title lang="es">LAS DEL CLUB</title>
-    <desc lang="es">06 - El trabajo - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
+  <programme start="20261112074800 +0100" stop="20261112081834 +0100" channel="TUYA.TV">
+    <title lang="es">LAS DEL CLUB (R)</title>
+    <desc lang="es">01 - Los hombres - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg?v=1784716109" />
   </programme>
-  <programme start="20261112195216 +0100" stop="20261112203845 +0100" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112203845 +0100" stop="20261112210802 +0100" channel="TUYA.TV">
-    <title lang="es">EN TU MUNDO</title>
-    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
-  </programme>
-  <programme start="20261112210802 +0100" stop="20261112214344 +0100" channel="TUYA.TV">
-    <title lang="es">COMO LA VIDA</title>
-    <desc lang="es">Programa 05 - Un programa de testimonios anónimos, historias de lucha y superación.  Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/comolavida.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112214344 +0100" stop="20261112222059 +0100" channel="TUYA.TV">
-    <title lang="es">AL FRESQUITO</title>
-    <desc lang="es">T02.P24 - Toma el fresco con Fernando Santes y Rocío F Villarejo en el programa donde puede pasar cualquier cosa.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/alfresquito.jpg?v=1784716106" />
-  </programme>
-  <programme start="20261112222059 +0100" stop="20261112223203 +0100" channel="TUYA.TV">
-    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
-    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261112223203 +0100" stop="20261112230150 +0100" channel="TUYA.TV">
-    <title lang="es">EL MERCADO</title>
-    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
-  </programme>
-  <programme start="20261112230150 +0100" stop="20261112234832 +0100" channel="TUYA.TV">
-    <title lang="es">¡ANDA QUE NO!</title>
-    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261112234832 +0100" stop="20261113001923 +0100" channel="TUYA.TV">
-    <title lang="es">AQUÍ HAY TEMA</title>
-    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261113001923 +0100" stop="20261113005032 +0100" channel="TUYA.TV">
-    <title lang="es">EN TU MUNDO</title>
-    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
-  </programme>
-  <programme start="20261113005032 +0100" stop="20261113010922 +0100" channel="TUYA.TV">
-    <title lang="es">QUÉ BASTINAZO</title>
-    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
-  </programme>
-  <programme start="20261113010922 +0100" stop="20261113014029 +0100" channel="TUYA.TV">
-    <title lang="es">EL MERCADO</title>
-    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
-  </programme>
-  <programme start="20261113014029 +0100" stop="20261113015016 +0100" channel="TUYA.TV">
-    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
-    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
-  </programme>
-  <programme start="20261113015016 +0100" stop="20261113015840 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CONIL: Comunes de Conil sale a la calle para explicar la importancia de la huelga general del 11 de noviembre.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261113015840 +0100" stop="20261113020141 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación del proyecto que adaptará la Alameda del Río.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261113020141 +0100" stop="20261113021334 +0100" channel="TUYA.TV">
-    <title lang="es">#SINCORTES</title>
-    <desc lang="es">#CHICLANA: Presentación de la obra teatral de TAETRO a beneficio de la asociación La Rampa</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
-  </programme>
-  <programme start="20261113021334 +0100" stop="20261113024635 +0100" channel="TUYA.TV">
-    <title lang="es">SUCEDIÓ EN...  CONIL</title>
-    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20261113024635 +0100" stop="20261113032252 +0100" channel="TUYA.TV">
-    <title lang="es">SUCEDIÓ EN... CONIL</title>
-    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
-  </programme>
-  <programme start="20261113032252 +0100" stop="20261113035524 +0100" channel="TUYA.TV">
-    <title lang="es">GENTE AUTÉNTICA</title>
-    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
-  </programme>
-  <programme start="20261113035524 +0100" stop="20261113043405 +0100" channel="TUYA.TV">
-    <title lang="es">AQUÍ HAY TEMA</title>
-    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
-  </programme>
-  <programme start="20261113043405 +0100" stop="20261113053008 +0100" channel="TUYA.TV">
-    <title lang="es">MÁS DE CERCA</title>
-    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
-  </programme>
-  <programme start="20261113053008 +0100" stop="20261113055914 +0100" channel="TUYA.TV">
-    <title lang="es">EN TU MUNDO</title>
-    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
-  </programme>
-  <programme start="20261113055914 +0100" stop="20261113062739 +0100" channel="TUYA.TV">
-    <title lang="es">EL MERCADO</title>
-    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
-  </programme>
-  <programme start="20261113062739 +0100" stop="20261113063836 +0100" channel="TUYA.TV">
+  <programme start="20261112081834 +0100" stop="20261112082958 +0100" channel="TUYA.TV">
     <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
     <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 01. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/supermar.jpg?v=1792084792" />
   </programme>
-  <programme start="20261113063836 +0100" stop="20261113064946 +0100" channel="TUYA.TV">
-    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
-    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
+  <programme start="20261112082958 +0100" stop="20261112084139 +0100" channel="TUYA.TV">
+    <title lang="es">TUYA NOTICIAS</title>
+    <desc lang="es">Las noticias más destacadas de la jornada en Chiclana y la Janda Litoral contadas por Stilita Mosteiro.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
   </programme>
-  <programme start="20261113064946 +0100" stop="20261113072045 +0100" channel="TUYA.TV">
-    <title lang="es">PASO A PASO</title>
-    <desc lang="es">P03 - Domi Gordillo te explica cómo mantener actualizada tu agenda de contactos o cómo llegar a los sitios usando Google Maps, entre otros trucos.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  <programme start="20261112084139 +0100" stop="20261112085645 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CONIL: Concentración en la plaza del Ayuntamiento con motivo de la huelga general del 11N.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
   </programme>
-  <programme start="20261113072045 +0100" stop="20261113075246 +0100" channel="TUYA.TV">
+  <programme start="20261112085645 +0100" stop="20261112093116 +0100" channel="TUYA.TV">
     <title lang="es">GENTE AUTÉNTICA</title>
-    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
+    <desc lang="es">Programa 09 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
   </programme>
-  <programme start="20261113075246 +0100" stop="20261113082259 +0100" channel="TUYA.TV">
+  <programme start="20261112093116 +0100" stop="20261112100413 +0100" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P04 - Anrtonio Alemania. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que mostrar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112100413 +0100" stop="20261112104838 +0100" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P28 - May Melero. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112104838 +0100" stop="20261112110800 +0100" channel="TUYA.TV">
+    <title lang="es">QUÉ BASTINAZO</title>
+    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
+  </programme>
+  <programme start="20261112110800 +0100" stop="20261112114815 +0100" channel="TUYA.TV">
+    <title lang="es">ZAGALILLOS</title>
+    <desc lang="es">P07 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261112114815 +0100" stop="20261112121816 +0100" channel="TUYA.TV">
+    <title lang="es">EL MERCADO</title>
+    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
+  </programme>
+  <programme start="20261112121816 +0100" stop="20261112124841 +0100" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112124841 +0100" stop="20261112134609 +0100" channel="TUYA.TV">
+    <title lang="es">MÁS DE CERCA</title>
+    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
+  </programme>
+  <programme start="20261112134609 +0100" stop="20261112141505 +0100" channel="TUYA.TV">
+    <title lang="es">EL MERCADO</title>
+    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
+  </programme>
+  <programme start="20261112141505 +0100" stop="20261112144403 +0100" channel="TUYA.TV">
     <title lang="es">EN TU MUNDO</title>
     <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
   </programme>
-  <programme start="20261113082259 +0100" stop="20261113085605 +0100" channel="TUYA.TV">
+  <programme start="20261112144403 +0100" stop="20261112145500 +0100" channel="TUYA.TV">
+    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
+    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261112145500 +0100" stop="20261112150324 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CONIL: Comunes de Conil sale a la calle para explicar la importancia de la huelga general del 11 de noviembre.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261112150324 +0100" stop="20261112150625 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación del proyecto que adaptará la Alameda del Río.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261112150625 +0100" stop="20261112151820 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación de la obra teatral de TAETRO a beneficio de la asociación La Rampa</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261112151820 +0100" stop="20261112155054 +0100" channel="TUYA.TV">
+    <title lang="es">GENTE AUTÉNTICA</title>
+    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
+  </programme>
+  <programme start="20261112155054 +0100" stop="20261112164618 +0100" channel="TUYA.TV">
+    <title lang="es">MÁS DE CERCA</title>
+    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
+  </programme>
+  <programme start="20261112164618 +0100" stop="20261112170537 +0100" channel="TUYA.TV">
+    <title lang="es">QUÉ BASTINAZO</title>
+    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
+  </programme>
+  <programme start="20261112170537 +0100" stop="20261112173547 +0100" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112173547 +0100" stop="20261112181037 +0100" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P18 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112181037 +0100" stop="20261112184827 +0100" channel="TUYA.TV">
+    <title lang="es">ZAGALILLOS</title>
+    <desc lang="es">P05 - El programa con más inocencia y verdad de toda la televisión. Nuestros Zagalillos nos cuentan cómo ven el mundo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/zagalillos.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261112184827 +0100" stop="20261112191946 +0100" channel="TUYA.TV">
+    <title lang="es">LAS DEL CLUB</title>
+    <desc lang="es">06 - El trabajo - Sin pelo en la lengua, así es el podcast en el que cada semana Fernando Santes se sienta con mujeres para hablar en clave femenina.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/lasdelclub.jpg?v=1784716109" />
+  </programme>
+  <programme start="20261112191946 +0100" stop="20261112200615 +0100" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112200615 +0100" stop="20261112203532 +0100" channel="TUYA.TV">
+    <title lang="es">EN TU MUNDO</title>
+    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
+  </programme>
+  <programme start="20261112203532 +0100" stop="20261112211114 +0100" channel="TUYA.TV">
+    <title lang="es">COMO LA VIDA</title>
+    <desc lang="es">Programa 05 - Un programa de testimonios anónimos, historias de lucha y superación.  Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/comolavida.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112211114 +0100" stop="20261112214828 +0100" channel="TUYA.TV">
+    <title lang="es">AL FRESQUITO</title>
+    <desc lang="es">T02.P24 - Toma el fresco con Fernando Santes y Rocío F Villarejo en el programa donde puede pasar cualquier cosa.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/alfresquito.jpg?v=1784716106" />
+  </programme>
+  <programme start="20261112214828 +0100" stop="20261112215933 +0100" channel="TUYA.TV">
+    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
+    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261112215933 +0100" stop="20261112222919 +0100" channel="TUYA.TV">
+    <title lang="es">EL MERCADO</title>
+    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
+  </programme>
+  <programme start="20261112222919 +0100" stop="20261112231601 +0100" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112231601 +0100" stop="20261112234652 +0100" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261112234652 +0100" stop="20261113001801 +0100" channel="TUYA.TV">
+    <title lang="es">EN TU MUNDO</title>
+    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
+  </programme>
+  <programme start="20261113001801 +0100" stop="20261113003651 +0100" channel="TUYA.TV">
+    <title lang="es">QUÉ BASTINAZO</title>
+    <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
+  </programme>
+  <programme start="20261113003651 +0100" stop="20261113010758 +0100" channel="TUYA.TV">
+    <title lang="es">EL MERCADO</title>
+    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
+  </programme>
+  <programme start="20261113010758 +0100" stop="20261113011745 +0100" channel="TUYA.TV">
+    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
+    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261113011745 +0100" stop="20261113012609 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CONIL: Comunes de Conil sale a la calle para explicar la importancia de la huelga general del 11 de noviembre.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261113012609 +0100" stop="20261113012910 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación del proyecto que adaptará la Alameda del Río.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261113012910 +0100" stop="20261113014103 +0100" channel="TUYA.TV">
+    <title lang="es">#SINCORTES</title>
+    <desc lang="es">#CHICLANA: Presentación de la obra teatral de TAETRO a beneficio de la asociación La Rampa</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/sincortes.jpg?v=1784716111" />
+  </programme>
+  <programme start="20261113014103 +0100" stop="20261113021404 +0100" channel="TUYA.TV">
+    <title lang="es">SUCEDIÓ EN...  CONIL</title>
+    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20261113021404 +0100" stop="20261113025021 +0100" channel="TUYA.TV">
+    <title lang="es">SUCEDIÓ EN... CONIL</title>
+    <desc lang="es">Celebración de los 100 años de Cruz Roja en Conil.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20261113025021 +0100" stop="20261113032253 +0100" channel="TUYA.TV">
+    <title lang="es">GENTE AUTÉNTICA</title>
+    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
+  </programme>
+  <programme start="20261113032253 +0100" stop="20261113040135 +0100" channel="TUYA.TV">
+    <title lang="es">AQUÍ HAY TEMA</title>
+    <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261113040135 +0100" stop="20261113045738 +0100" channel="TUYA.TV">
+    <title lang="es">MÁS DE CERCA</title>
+    <desc lang="es">Hoy, una nueva asociación LGTBIQA+ en Chiclana; una cita con los juegos de mesa; y unas jornadas para aprender a gestionar la muerte.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
+  </programme>
+  <programme start="20261113045738 +0100" stop="20261113052644 +0100" channel="TUYA.TV">
+    <title lang="es">EN TU MUNDO</title>
+    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
+  </programme>
+  <programme start="20261113052644 +0100" stop="20261113055508 +0100" channel="TUYA.TV">
+    <title lang="es">EL MERCADO</title>
+    <desc lang="es">P10 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
+  </programme>
+  <programme start="20261113055508 +0100" stop="20261113060605 +0100" channel="TUYA.TV">
+    <title lang="es">LAS AVENTURAS DE SUPERMAR</title>
+    <desc lang="es">SERIE ANIMADA DE LA OPP72. Ep. 01. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/supermar.jpg?v=1792084792" />
+  </programme>
+  <programme start="20261113060605 +0100" stop="20261113061715 +0100" channel="TUYA.TV">
+    <title lang="es">TUYA NOTICIAS - RESUMEN SEMANAL</title>
+    <desc lang="es">Las noticias más destacadas de la semana para que estés informado de todo lo que ocurre en Chiclana y la comarca de la Janda.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/tuyanoticias.jpg?v=1784716112" />
+  </programme>
+  <programme start="20261113061715 +0100" stop="20261113064815 +0100" channel="TUYA.TV">
+    <title lang="es">PASO A PASO</title>
+    <desc lang="es">P03 - Domi Gordillo te explica cómo mantener actualizada tu agenda de contactos o cómo llegar a los sitios usando Google Maps, entre otros trucos.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/eventos.jpg" />
+  </programme>
+  <programme start="20261113064815 +0100" stop="20261113072015 +0100" channel="TUYA.TV">
+    <title lang="es">GENTE AUTÉNTICA</title>
+    <desc lang="es">Programa 08 - Temporada 02: Cada semana, una profesión curiosa o de toda la vida; personas divertidas; historias contadas por Rocío F Villarejo.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/genteautentica.jpg?v=1792082995" />
+  </programme>
+  <programme start="20261113072015 +0100" stop="20261113075029 +0100" channel="TUYA.TV">
+    <title lang="es">EN TU MUNDO</title>
+    <desc lang="es">Episodio 15: Sigue fuera de la tele a las caras más conocidas de Tuya en este original formato de Vlog, pionero en la televisión.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/entumundo.jpg?v=1792105710" />
+  </programme>
+  <programme start="20261113075029 +0100" stop="20261113082335 +0100" channel="TUYA.TV">
     <title lang="es">COMO LA VIDA (T2)</title>
     <desc lang="es">Programa 02 - Temporada 2 - Un programa de testimonios anónimos, historias de lucha y superación.  Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/comolavida.jpg?v=1784716107" />
   </programme>
-  <programme start="20261113085605 +0100" stop="20261113092740 +0100" channel="TUYA.TV">
+  <programme start="20261113082335 +0100" stop="20261113085509 +0100" channel="TUYA.TV">
     <title lang="es">COMO LA VIDA (T3) (R)</title>
     <desc lang="es">Programa 01 - Temporada 3 - Testimonios inspiradores de lucha y superación. Cada semana, dos nuevas historias anónimas que nos enseña que hay múltiples formas de vivir la vida.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/comolavida.jpg?v=1784716107" />
   </programme>
-  <programme start="20261113092740 +0100" stop="20261113095728 +0100" channel="TUYA.TV">
+  <programme start="20261113085509 +0100" stop="20261113092533 +0100" channel="TUYA.TV">
     <title lang="es">AQUÍ HAY TEMA</title>
     <desc lang="es">P19 Los reportajes con los temas que te interesan: planes, asociacionismo, sucesos...</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/aquihaytema.jpg?v=1784716107" />
+  </programme>
+  <programme start="20261113092533 +0100" stop="20261113101000 +0100" channel="TUYA.TV">
+    <title lang="es">¡ANDA QUE NO!</title>
+    <desc lang="es">P36 - Oliva Acosta. Pasea por los rincones de nuestros municipios con personalidades que tienen mucho que contar.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/andaqueno.jpg?v=1784716107" />
   </programme>
   <programme start="20261111000000 +0100" stop="20261111010000 +0100" channel="DiezTV_Ubeda.TV">
     <title lang="es">Noticias Diez TV: Úbeda</title>
@@ -66147,53 +66265,48 @@ Visita nuestro blog: http://blogs.rtve.es/emisionenarabe/posts.</desc>
     <title lang="es">REC10</title>
     <icon src="https://static.dieztv.es/img/epg/thumbs/rec10-daf338.jpg" />
   </programme>
-  <programme start="20261111191317 +0100" stop="20261111191325 +0100" channel="SalTV.TV">
-    <title lang="es">¿ERES HUMANO?</title>
-    <desc lang="es">La cultura de la manera mas loca en un programa de entretenimiento de la mano de Curro Romero, que no es el torero.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
-  </programme>
-  <programme start="20261111191325 +0100" stop="20261111195403 +0100" channel="SalTV.TV">
-    <title lang="es">¿ERES HUMANO?</title>
-    <desc lang="es">La cultura de la manera mas loca en un programa de entretenimiento de la mano de Curro Romero, que no es el torero.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
-  </programme>
-  <programme start="20261111195403 +0100" stop="20261111203430 +0100" channel="SalTV.TV">
-    <title lang="es">SANO Y CLARO</title>
-    <desc lang="es">Programa de información de cuidados y bienestar del ser humano.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
-  </programme>
-  <programme start="20261111203430 +0100" stop="20261111205736 +0100" channel="SalTV.TV">
+  <programme start="20261111203441 +0100" stop="20261111205746 +0100" channel="SalTV.TV">
     <title lang="es">SIN CORTES</title>
     <desc lang="es">Toda la información diaria sin cortes.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261111205736 +0100" stop="20261111214527 +0100" channel="SalTV.TV">
+  <programme start="20261111205746 +0100" stop="20261111214538 +0100" channel="SalTV.TV">
     <title lang="es">MIRADA POLÍTICA</title>
     <desc lang="es">Stilita Mosteiro realiza entrevistas en profundidad a los cargos políticos e institucionales.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261111214527 +0100" stop="20261111224413 +0100" channel="SalTV.TV">
+  <programme start="20261111214538 +0100" stop="20261111224424 +0100" channel="SalTV.TV">
     <title lang="es">¿ERES HUMANO?</title>
     <desc lang="es">La cultura de la manera mas loca en un programa de entretenimiento de la mano de Curro Romero, que no es el torero.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261111224413 +0100" stop="20261111232900 +0100" channel="SalTV.TV">
+  <programme start="20261111224424 +0100" stop="20261111232911 +0100" channel="SalTV.TV">
     <title lang="es">MIRADA POLÍTICA</title>
     <desc lang="es">Stilita Mosteiro realiza entrevistas en profundidad a los cargos políticos e institucionales.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261111232900 +0100" stop="20261112001712 +0100" channel="SalTV.TV">
+  <programme start="20261111232911 +0100" stop="20261112001723 +0100" channel="SalTV.TV">
     <title lang="es">MIRADA POLÍTICA</title>
     <desc lang="es">Stilita Mosteiro realiza entrevistas en profundidad a los cargos políticos e institucionales.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261112001712 +0100" stop="20261112005649 +0100" channel="SalTV.TV">
+  <programme start="20261112001723 +0100" stop="20261112005700 +0100" channel="SalTV.TV">
     <title lang="es">SANO Y CLARO</title>
     <desc lang="es">Programa de información de cuidados y bienestar del ser humano.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
-  <programme start="20261112005649 +0100" stop="20261112012811 +0100" channel="SalTV.TV">
+  <programme start="20261112005700 +0100" stop="20261112012821 +0100" channel="SalTV.TV">
     <title lang="es">Sano y Claro</title>
+    <desc lang="es">Programa de información de cuidados y bienestar del ser humano.</desc>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
+  </programme>
+  <programme start="20261112012821 +0100" stop="20261112020900 +0100" channel="SalTV.TV">
+    <title lang="es">¿ERES HUMANO?</title>
+    <desc lang="es">La cultura de la manera mas loca en un programa de entretenimiento de la mano de Curro Romero, que no es el torero.</desc>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
+  </programme>
+  <programme start="20261112020900 +0100" stop="20261112024926 +0100" channel="SalTV.TV">
+    <title lang="es">SANO Y CLARO</title>
     <desc lang="es">Programa de información de cuidados y bienestar del ser humano.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
@@ -69308,16 +69421,154 @@ El Marc guanya el concurs de manualitats, però l'Eva descobreix que no ha jugat
     <desc lang="es">21:30 – 23:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261111170000 +0100" stop="20261111205500 +0100" channel="9LaLoma.TV">
-    <title lang="es">Fiesta del Primer Aceite</title>
-    <desc lang="es">Entrevistas</desc>
-    <category lang="es">news magazine</category>
-    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
-  </programme>
-  <programme start="20261111205500 +0100" stop="20261111212500 +0100" channel="9LaLoma.TV">
+  <programme start="20261111205500 +0100" stop="20261111214500 +0100" channel="9LaLoma.TV">
     <title lang="es">Informativos 9</title>
     <desc lang="es">Las noticias de la jornada con Yolanda Jiménez en Informativos 9</desc>
     <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261111214500 +0100" stop="20261111220100 +0100" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261111220100 +0100" stop="20261112001700 +0100" channel="9LaLoma.TV">
+    <title lang="es">Inicio del Curso UNED</title>
+    <desc lang="es">Acto de apertura del curso académico 2026-2027 de la UNED Jaén Úbeda</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112001700 +0100" stop="20261112010500 +0100" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112010500 +0100" stop="20261112011900 +0100" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112011900 +0100" stop="20261112024400 +0100" channel="9LaLoma.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Baeza Diversa, Isabel Catena y Visibles Jaén</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112024400 +0100" stop="20261112031100 +0100" channel="9LaLoma.TV">
+    <title lang="es">De la Penumbra al Monte. Arias Belcantistas y Zarzuela</title>
+    <desc lang="es">Espectáculo a cargo de Diferarte</desc>
+    <category lang="es">performing arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112031100 +0100" stop="20261112061800 +0100" channel="9LaLoma.TV">
+    <title lang="es">Flamenco</title>
+    <desc lang="es">Manuel Ortiz Romero. Manuel de Monte de Mairena. Manuel Fernandez Peroles</desc>
+    <category lang="es">music ballet dance</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112061800 +0100" stop="20261112074700 +0100" channel="9LaLoma.TV">
+    <title lang="es">Joana Jiménez</title>
+    <desc lang="es">Concierto Carmona 2026</desc>
+    <category lang="es">music ballet dance</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112074700 +0100" stop="20261112080400 +0100" channel="9LaLoma.TV">
+    <title lang="es">Cities We Love GCPHE</title>
+    <desc lang="es">Reportaje</desc>
+    <category lang="es">documentary</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112080400 +0100" stop="20261112085200 +0100" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112085200 +0100" stop="20261112090700 +0100" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112090700 +0100" stop="20261112094400 +0100" channel="9LaLoma.TV">
+    <title lang="es">En su salsa</title>
+    <desc lang="es">Recetas de cocina y consejos para preparar sabrosos platos</desc>
+    <category lang="es">leisure hobbies</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112094400 +0100" stop="20261112101900 +0100" channel="9LaLoma.TV">
+    <title lang="es">Entre plantas</title>
+    <desc lang="es">Cuidado de plantas en el hogar y jardin</desc>
+    <category lang="es">leisure hobbies</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112101900 +0100" stop="20261112112100 +0100" channel="9LaLoma.TV">
+    <title lang="es">Pets Life</title>
+    <desc lang="es">Todo sobre nuestras mascotas. Consejos, cuidados, etc.</desc>
+    <category lang="es">leisure hobbies</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112112100 +0100" stop="20261112122600 +0100" channel="9LaLoma.TV">
+    <title lang="es">Movie On</title>
+    <desc lang="es">Programa sobre el septimo arte con noticias y novedades</desc>
+    <category lang="es">movie drama</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112122600 +0100" stop="20261112125300 +0100" channel="9LaLoma.TV">
+    <title lang="es">De la Penumbra al Monte. Arias Belcantistas y Zarzuela</title>
+    <desc lang="es">Espectáculo a cargo de Diferarte</desc>
+    <category lang="es">performing arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112125300 +0100" stop="20261112142000 +0100" channel="9LaLoma.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Baeza Diversa, Isabel Catena y Visibles Jaén</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112142000 +0100" stop="20261112150700 +0100" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112150700 +0100" stop="20261112173100 +0100" channel="9LaLoma.TV">
+    <title lang="es">Inicio del Curso UNED</title>
+    <desc lang="es">Acto de apertura del curso académico 2026-2027 de la UNED Jaén Úbeda</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112173100 +0100" stop="20261112190200 +0100" channel="9LaLoma.TV">
+    <title lang="es">Emprende. AOVEs Tempranos</title>
+    <desc lang="es">SCA La Carrera</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112190200 +0100" stop="20261112193000 +0100" channel="9LaLoma.TV">
+    <title lang="es">De la Penumbra al Monte. Arias Belcantistas y Zarzuela</title>
+    <desc lang="es">Espectáculo a cargo de Diferarte</desc>
+    <category lang="es">performing arts</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112193000 +0100" stop="20261112205700 +0100" channel="9LaLoma.TV">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Baeza Diversa, Isabel Catena y Visibles Jaén</desc>
+    <category lang="es">news magazine</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112205700 +0100" stop="20261112213900 +0100" channel="9LaLoma.TV">
+    <title lang="es">Informativos 9</title>
+    <desc lang="es">Las noticias de la jornada en Informativos 9</desc>
+    <category lang="es">news current affairs</category>
+    <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
+  </programme>
+  <programme start="20261112213900 +0100" stop="20261112214700 +0100" channel="9LaLoma.TV">
+    <title lang="es">El Tiempo</title>
+    <desc lang="es">Previsión meteorológica con Manuel J. Villacañas</desc>
+    <category lang="es">news weather report</category>
     <icon src="https://pbs.twimg.com/profile_images/1786001762538721280/cEocA8T__200x200.jpg" />
   </programme>
 </tv>
