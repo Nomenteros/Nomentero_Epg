@@ -54169,783 +54169,773 @@ Juanjo Martín (colaborador externo).</desc>
     <title lang="es">TONI ROVIRA Y TÚ</title>
     <icon src="https://punt3.es/epg/rovira.jpg" />
   </programme>
-  <programme start="20261119040000 +0100" stop="20261119050000 +0100" channel="Vinx.TV">
+  <programme start="20261119050000 +0100" stop="20261119060000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119050000 +0100" stop="20261119070000 +0100" channel="Vinx.TV">
+  <programme start="20261119060000 +0100" stop="20261119080000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261119070000 +0100" stop="20261119113000 +0100" channel="Vinx.TV">
+  <programme start="20261119080000 +0100" stop="20261119123000 +0100" channel="Vinx.TV">
     <title lang="es">Despierta Asturias</title>
     <desc lang="es">Programa matinal de VINX.</desc>
     <icon src="https://i.ibb.co/QF1YX8yJ/DESPIERTA-ASTURIAS.png" />
   </programme>
-  <programme start="20261119113000 +0100" stop="20261119123000 +0100" channel="Vinx.TV">
+  <programme start="20261119123000 +0100" stop="20261119133000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119123000 +0100" stop="20261119140000 +0100" channel="Vinx.TV">
+  <programme start="20261119133000 +0100" stop="20261119150000 +0100" channel="Vinx.TV">
     <title lang="es">Despierta Asturias</title>
     <desc lang="es">Programa matinal de VINX.</desc>
     <icon src="https://i.ibb.co/QF1YX8yJ/DESPIERTA-ASTURIAS.png" />
-  </programme>
-  <programme start="20261119140000 +0100" stop="20261119150000 +0100" channel="Vinx.TV">
-    <title lang="es">Actualidad Asturias</title>
-    <desc lang="es">Actualidad informativa y deportiva.</desc>
-    <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
   <programme start="20261119150000 +0100" stop="20261119160000 +0100" channel="Vinx.TV">
-    <title lang="es">Diario de un hortelano</title>
-    <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
-    <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
-  </programme>
-  <programme start="20261119160000 +0100" stop="20261119170000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119170000 +0100" stop="20261119173000 +0100" channel="Vinx.TV">
-    <title lang="es">La cocina de Gloria</title>
-    <desc lang="es">Programa de cocina.</desc>
-    <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
+  <programme start="20261119160000 +0100" stop="20261119170000 +0100" channel="Vinx.TV">
+    <title lang="es">Diario de un hortelano</title>
+    <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
+    <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261119173000 +0100" stop="20261119180000 +0100" channel="Vinx.TV">
+  <programme start="20261119170000 +0100" stop="20261119180000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
   <programme start="20261119180000 +0100" stop="20261119183000 +0100" channel="Vinx.TV">
-    <title lang="es">Actualidad Asturias</title>
-    <desc lang="es">Actualidad informativa y deportiva.</desc>
-    <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
+    <title lang="es">La cocina de Gloria</title>
+    <desc lang="es">Programa de cocina.</desc>
+    <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
   <programme start="20261119183000 +0100" stop="20261119190000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119190000 +0100" stop="20261119210000 +0100" channel="Vinx.TV">
+  <programme start="20261119190000 +0100" stop="20261119193000 +0100" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
+  </programme>
+  <programme start="20261119193000 +0100" stop="20261119200000 +0100" channel="Vinx.TV">
+    <title lang="es">Actualidad Asturias</title>
+    <desc lang="es">Actualidad informativa y deportiva.</desc>
+    <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
+  </programme>
+  <programme start="20261119200000 +0100" stop="20261119220000 +0100" channel="Vinx.TV">
     <title lang="es">Deporte asturiano</title>
     <desc lang="es">Deporte asturiano.</desc>
     <icon src="https://i.ibb.co/GNgZpG4/DEPORTES-VINX.png" />
   </programme>
-  <programme start="20261119210000 +0100" stop="20261119213000 +0100" channel="Vinx.TV">
+  <programme start="20261119220000 +0100" stop="20261119223000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119213000 +0100" stop="20261119220000 +0100" channel="Vinx.TV">
+  <programme start="20261119223000 +0100" stop="20261119230000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119220000 +0100" stop="20261119230000 +0100" channel="Vinx.TV">
+  <programme start="20261119230000 +0100" stop="20261120000000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261119230000 +0100" stop="20261119233000 +0100" channel="Vinx.TV">
+  <programme start="20261120000000 +0100" stop="20261120003000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261119233000 +0100" stop="20261120010000 +0100" channel="Vinx.TV">
+  <programme start="20261120003000 +0100" stop="20261120020000 +0100" channel="Vinx.TV">
     <title lang="es">Deporte asturiano</title>
     <desc lang="es">Deporte asturiano.</desc>
     <icon src="https://i.ibb.co/GNgZpG4/DEPORTES-VINX.png" />
   </programme>
-  <programme start="20261120010000 +0100" stop="20261120013000 +0100" channel="Vinx.TV">
+  <programme start="20261120020000 +0100" stop="20261120023000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261120013000 +0100" stop="20261120020000 +0100" channel="Vinx.TV">
+  <programme start="20261120023000 +0100" stop="20261120030000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120020000 +0100" stop="20261120040000 +0100" channel="Vinx.TV">
+  <programme start="20261120030000 +0100" stop="20261120050000 +0100" channel="Vinx.TV">
     <title lang="es">Sporting atlético - gijón industrial</title>
     <desc lang="es">Sporting atlético - gijón industrial.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261120040000 +0100" stop="20261120043000 +0100" channel="Vinx.TV">
+  <programme start="20261120050000 +0100" stop="20261120053000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="Vinx.TV">
+  <programme start="20261120053000 +0100" stop="20261120060000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120050000 +0100" stop="20261120070000 +0100" channel="Vinx.TV">
+  <programme start="20261120060000 +0100" stop="20261120080000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261120070000 +0100" stop="20261120113000 +0100" channel="Vinx.TV">
+  <programme start="20261120080000 +0100" stop="20261120123000 +0100" channel="Vinx.TV">
     <title lang="es">Despierta Asturias</title>
     <desc lang="es">Programa matinal de VINX.</desc>
     <icon src="https://i.ibb.co/QF1YX8yJ/DESPIERTA-ASTURIAS.png" />
   </programme>
-  <programme start="20261120113000 +0100" stop="20261120123000 +0100" channel="Vinx.TV">
+  <programme start="20261120123000 +0100" stop="20261120133000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120123000 +0100" stop="20261120140000 +0100" channel="Vinx.TV">
+  <programme start="20261120133000 +0100" stop="20261120150000 +0100" channel="Vinx.TV">
     <title lang="es">Despierta Asturias</title>
     <desc lang="es">Programa matinal de VINX.</desc>
     <icon src="https://i.ibb.co/QF1YX8yJ/DESPIERTA-ASTURIAS.png" />
-  </programme>
-  <programme start="20261120140000 +0100" stop="20261120150000 +0100" channel="Vinx.TV">
-    <title lang="es">Diario Vinx</title>
-    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
-    <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
   <programme start="20261120150000 +0100" stop="20261120160000 +0100" channel="Vinx.TV">
+    <title lang="es">Diario Vinx</title>
+    <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
+    <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
+  </programme>
+  <programme start="20261120160000 +0100" stop="20261120170000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261120160000 +0100" stop="20261120170000 +0100" channel="Vinx.TV">
+  <programme start="20261120170000 +0100" stop="20261120180000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261120170000 +0100" stop="20261120173000 +0100" channel="Vinx.TV">
+  <programme start="20261120180000 +0100" stop="20261120183000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261120173000 +0100" stop="20261120190000 +0100" channel="Vinx.TV">
+  <programme start="20261120183000 +0100" stop="20261120200000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120190000 +0100" stop="20261120200000 +0100" channel="Vinx.TV">
+  <programme start="20261120200000 +0100" stop="20261120210000 +0100" channel="Vinx.TV">
     <title lang="es">Sporting Atlético - Gijón Industrial</title>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261120200000 +0100" stop="20261120213000 +0100" channel="Vinx.TV">
+  <programme start="20261120210000 +0100" stop="20261120223000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120213000 +0100" stop="20261120220000 +0100" channel="Vinx.TV">
+  <programme start="20261120223000 +0100" stop="20261120230000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261120220000 +0100" stop="20261120230000 +0100" channel="Vinx.TV">
+  <programme start="20261120230000 +0100" stop="20261121000000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261120230000 +0100" stop="20261121010000 +0100" channel="Vinx.TV">
+  <programme start="20261121000000 +0100" stop="20261121020000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261121010000 +0100" stop="20261121013000 +0100" channel="Vinx.TV">
+  <programme start="20261121020000 +0100" stop="20261121023000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261121013000 +0100" stop="20261121020000 +0100" channel="Vinx.TV">
+  <programme start="20261121023000 +0100" stop="20261121030000 +0100" channel="Vinx.TV">
     <title lang="es">Actualidad Asturias</title>
     <desc lang="es">Actualidad informativa y deportiva.</desc>
     <icon src="https://i.ibb.co/N6zPc6kj/ACTUALIDAD-ASTURIAS.png" />
   </programme>
-  <programme start="20261121020000 +0100" stop="20261121040000 +0100" channel="Vinx.TV">
+  <programme start="20261121030000 +0100" stop="20261121050000 +0100" channel="Vinx.TV">
     <title lang="es">Enamorados de la vida con Capi</title>
     <desc lang="es">José Luis Capitán, Capi para los amigos, un atleta experto en carreras de montaña, padece ELA.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261121040000 +0100" stop="20261121060000 +0100" channel="Vinx.TV">
+  <programme start="20261121050000 +0100" stop="20261121070000 +0100" channel="Vinx.TV">
     <title lang="es">La camarina</title>
     <desc lang="es">Programa deportivo sobre el mundo del motor, con las pruebas más destacadas.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261121060000 +0100" stop="20261121080000 +0100" channel="Vinx.TV">
+  <programme start="20261121070000 +0100" stop="20261121090000 +0100" channel="Vinx.TV">
     <title lang="es">Fin de Emisión</title>
     <desc lang="es">Fin de Emisión.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261121080000 +0100" stop="20261121100000 +0100" channel="Vinx.TV">
+  <programme start="20261121090000 +0100" stop="20261121110000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261121100000 +0100" stop="20261121130000 +0100" channel="Vinx.TV">
+  <programme start="20261121110000 +0100" stop="20261121140000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261121130000 +0100" stop="20261121143000 +0100" channel="Vinx.TV">
+  <programme start="20261121140000 +0100" stop="20261121153000 +0100" channel="Vinx.TV">
     <title lang="es">Mirando al futuro</title>
     <desc lang="es">Mirando al futuro.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261121143000 +0100" stop="20261121160000 +0100" channel="Vinx.TV">
+  <programme start="20261121153000 +0100" stop="20261121170000 +0100" channel="Vinx.TV">
     <title lang="es">Rugby asturiano</title>
     <desc lang="es">Partido de rugby entre equipos asturianos.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
     <episode-num system="onscreen">S2021 E19</episode-num>
   </programme>
-  <programme start="20261121160000 +0100" stop="20261121190000 +0100" channel="Vinx.TV">
+  <programme start="20261121170000 +0100" stop="20261121200000 +0100" channel="Vinx.TV">
     <title lang="es">Fin de Emisión</title>
     <desc lang="es">Fin de Emisión.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261121190000 +0100" stop="20261121210000 +0100" channel="Vinx.TV">
+  <programme start="20261121200000 +0100" stop="20261121220000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261121210000 +0100" stop="20261121213000 +0100" channel="Vinx.TV">
+  <programme start="20261121220000 +0100" stop="20261121223000 +0100" channel="Vinx.TV">
     <title lang="es">Diario de un hortelano</title>
     <desc lang="es">Descubre cómo mantener a punto tu huerta, con todos los trucos e información necesaria.</desc>
     <icon src="https://i.ibb.co/JFkG44BZ/DIARIO-HORTELANO.png" />
   </programme>
-  <programme start="20261121213000 +0100" stop="20261122010000 +0100" channel="Vinx.TV">
+  <programme start="20261121223000 +0100" stop="20261122020000 +0100" channel="Vinx.TV">
     <title lang="es">Mirando al futuro</title>
     <desc lang="es">Mirando al futuro.</desc>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261122010000 +0100" stop="20261122020000 +0100" channel="Vinx.TV">
+  <programme start="20261122020000 +0100" stop="20261122030000 +0100" channel="Vinx.TV">
     <title lang="es">L'alderique</title>
     <icon src="https://i.ibb.co/TMmFmT4B/vinx-bug.png" />
   </programme>
-  <programme start="20261122020000 +0100" stop="20261122040000 +0100" channel="Vinx.TV">
+  <programme start="20261122030000 +0100" stop="20261122050000 +0100" channel="Vinx.TV">
     <title lang="es">Diario Vinx</title>
     <desc lang="es">Óscar Fernández es el encargado de llevar a todos los espectadores la actualidad del deporte de la región en Diario Vinx. Si quieres estar al día de todo lo que pasa en el deporte asturiano, tienes una cita.</desc>
     <icon src="https://i.ibb.co/hJxx2Dks/DIARIO-VINX.png" />
   </programme>
-  <programme start="20261119040000 +0100" stop="20261119100000 +0100" channel="Medi1.TV">
+  <programme start="20261119050000 +0100" stop="20261119110000 +0100" channel="Medi1.TV">
     <title lang="es">Masae El Akhebar</title>
     <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119100000 +0100" stop="20261119103000 +0100" channel="Medi1.TV">
+  <programme start="20261119110000 +0100" stop="20261119113000 +0100" channel="Medi1.TV">
     <title lang="es">Adabo almarid</title>
     <desc lang="es">Adib Al-Murid.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119103000 +0100" stop="20261119110000 +0100" channel="Medi1.TV">
+  <programme start="20261119113000 +0100" stop="20261119120000 +0100" channel="Medi1.TV">
     <title lang="es">Patch Work Ramadan</title>
     <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119110000 +0100" stop="20261119124500 +0100" channel="Medi1.TV">
+  <programme start="20261119120000 +0100" stop="20261119134500 +0100" channel="Medi1.TV">
     <title lang="es">Sabah El Akhbar</title>
     <desc lang="es">Nouvelles du matin en arabe.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119124500 +0100" stop="20261119130000 +0100" channel="Medi1.TV">
+  <programme start="20261119134500 +0100" stop="20261119140000 +0100" channel="Medi1.TV">
     <title lang="es">tariqo el maali</title>
     <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119130000 +0100" stop="20261119134500 +0100" channel="Medi1.TV">
+  <programme start="20261119140000 +0100" stop="20261119144500 +0100" channel="Medi1.TV">
     <title lang="es">Malaaib</title>
     <desc lang="es">Bulletin du matin.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119134500 +0100" stop="20261119141500 +0100" channel="Medi1.TV">
+  <programme start="20261119144500 +0100" stop="20261119151500 +0100" channel="Medi1.TV">
     <title lang="es">Adabo almarid</title>
     <desc lang="es">Adib Al-Murid.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119141500 +0100" stop="20261119144500 +0100" channel="Medi1.TV">
+  <programme start="20261119151500 +0100" stop="20261119154500 +0100" channel="Medi1.TV">
     <title lang="es">Sport Time</title>
     <desc lang="es">National and international sports news.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119144500 +0100" stop="20261119151500 +0100" channel="Medi1.TV">
+  <programme start="20261119154500 +0100" stop="20261119161500 +0100" channel="Medi1.TV">
     <title lang="es">Chhiwa whkaya</title>
     <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119151500 +0100" stop="20261119153000 +0100" channel="Medi1.TV">
+  <programme start="20261119161500 +0100" stop="20261119163000 +0100" channel="Medi1.TV">
     <title lang="es">wlad bladi</title>
     <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119153000 +0100" stop="20261119160000 +0100" channel="Medi1.TV">
+  <programme start="20261119163000 +0100" stop="20261119170000 +0100" channel="Medi1.TV">
     <title lang="es">Dayf El Tahrir</title>
     <desc lang="es">Programme de l'éditeur invité.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119160000 +0100" stop="20261119163000 +0100" channel="Medi1.TV">
+  <programme start="20261119170000 +0100" stop="20261119173000 +0100" channel="Medi1.TV">
     <title lang="es">Madar El Akhebar</title>
     <desc lang="es">Orbit news en arabe.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119163000 +0100" stop="20261119170000 +0100" channel="Medi1.TV">
+  <programme start="20261119173000 +0100" stop="20261119180000 +0100" channel="Medi1.TV">
     <title lang="es">Mojtama altahadi</title>
     <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119170000 +0100" stop="20261119180000 +0100" channel="Medi1.TV">
+  <programme start="20261119180000 +0100" stop="20261119190000 +0100" channel="Medi1.TV">
     <title lang="es">Mawdouaa El Yawm</title>
     <desc lang="es">Un talk-show quotidien qui traite des questions les plus actuelles de la journée. Le programme accueille des officiels, des experts et des acteurs de divers domaines afin de permettre au spectateur de mieux comprendre les enjeux de la société et du monde qui l'entoure. Il cherche, par des discussions interactives, à simplifier les dossiers d'affaires publiques et autres questions internationales et à répond.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119180000 +0100" stop="20261119181500 +0100" channel="Medi1.TV">
-    <title lang="es">Nachrato adahira</title>
-    <desc lang="es">Nachrato adahira.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119181500 +0100" stop="20261119183000 +0100" channel="Medi1.TV">
-    <title lang="es">tariqo el maali</title>
-    <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119183000 +0100" stop="20261119191500 +0100" channel="Medi1.TV">
+  <programme start="20261119190000 +0100" stop="20261119191500 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato adahira</title>
     <desc lang="es">Nachrato adahira.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
   <programme start="20261119191500 +0100" stop="20261119193000 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119193000 +0100" stop="20261119194500 +0100" channel="Medi1.TV">
-    <title lang="es">Madar El Akhebar</title>
-    <desc lang="es">Orbit news en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119194500 +0100" stop="20261119201500 +0100" channel="Medi1.TV">
-    <title lang="es">wlad bladi</title>
-    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119201500 +0100" stop="20261119203000 +0100" channel="Medi1.TV">
-    <title lang="es">Nohafid aal sihati</title>
-    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119203000 +0100" stop="20261119210000 +0100" channel="Medi1.TV">
-    <title lang="es">Mojtama altahadi</title>
-    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119210000 +0100" stop="20261119211500 +0100" channel="Medi1.TV">
-    <title lang="es">Ghorfat El Akhbar</title>
-    <desc lang="es">Salle de presse Une émission d'actualités qui met en lumière les principales actualités nationales et internationales.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119211500 +0100" stop="20261119213000 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119213000 +0100" stop="20261119220000 +0100" channel="Medi1.TV">
-    <title lang="es">Patch Work Ramadan</title>
-    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119220000 +0100" stop="20261119224500 +0100" channel="Medi1.TV">
-    <title lang="es">Ramadan maana</title>
-    <desc lang="es">Ramadan maana.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261119224500 +0100" stop="20261120000000 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120000000 +0100" stop="20261120004500 +0100" channel="Medi1.TV">
-    <title lang="es">Ramadan maana</title>
-    <desc lang="es">Ramadan maana.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120004500 +0100" stop="20261120010000 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120010000 +0100" stop="20261120013000 +0100" channel="Medi1.TV">
-    <title lang="es">Nachrato atamina</title>
-    <desc lang="es">Nachrato atamina.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120013000 +0100" stop="20261120014500 +0100" channel="Medi1.TV">
-    <title lang="es">Masae El Akhebar</title>
-    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120014500 +0100" stop="20261120021500 +0100" channel="Medi1.TV">
-    <title lang="es">Nohafid aal sihati</title>
-    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120021500 +0100" stop="20261120023000 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120023000 +0100" stop="20261120030000 +0100" channel="Medi1.TV">
-    <title lang="es">Dayf El Tahrir</title>
-    <desc lang="es">Programme de l'éditeur invité.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120030000 +0100" stop="20261120040000 +0100" channel="Medi1.TV">
-    <title lang="es">Ma Warae El Hadat</title>
-    <desc lang="es">Au-delà de l'événement est un programme en direct qui tente de présenter des sujets de discussion liés à l'actualité, avec des invités spécialisés dans divers domaines.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120040000 +0100" stop="20261120100000 +0100" channel="Medi1.TV">
-    <title lang="es">Masae El Akhebar</title>
-    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120100000 +0100" stop="20261120103000 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120103000 +0100" stop="20261120110000 +0100" channel="Medi1.TV">
-    <title lang="es">Patch Work Ramadan</title>
-    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120110000 +0100" stop="20261120124500 +0100" channel="Medi1.TV">
-    <title lang="es">Sabah El Akhbar</title>
-    <desc lang="es">Nouvelles du matin en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120124500 +0100" stop="20261120130000 +0100" channel="Medi1.TV">
     <title lang="es">tariqo el maali</title>
     <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261120130000 +0100" stop="20261120134500 +0100" channel="Medi1.TV">
-    <title lang="es">Malaaib</title>
-    <desc lang="es">Bulletin du matin.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120134500 +0100" stop="20261120141500 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120141500 +0100" stop="20261120144500 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120144500 +0100" stop="20261120151500 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120151500 +0100" stop="20261120153000 +0100" channel="Medi1.TV">
-    <title lang="es">wlad bladi</title>
-    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120153000 +0100" stop="20261120160000 +0100" channel="Medi1.TV">
-    <title lang="es">Dayf El Tahrir</title>
-    <desc lang="es">Programme de l'éditeur invité.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120160000 +0100" stop="20261120163000 +0100" channel="Medi1.TV">
-    <title lang="es">Madar El Akhebar</title>
-    <desc lang="es">Orbit news en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120163000 +0100" stop="20261120170000 +0100" channel="Medi1.TV">
-    <title lang="es">Mojtama altahadi</title>
-    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120170000 +0100" stop="20261120180000 +0100" channel="Medi1.TV">
-    <title lang="es">Mawdouaa El Yawm</title>
-    <desc lang="es">Un talk-show quotidien qui traite des questions les plus actuelles de la journée. Le programme accueille des officiels, des experts et des acteurs de divers domaines afin de permettre au spectateur de mieux comprendre les enjeux de la société et du monde qui l'entoure. Il cherche, par des discussions interactives, à simplifier les dossiers d'affaires publiques et autres questions internationales et à répond.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120180000 +0100" stop="20261120181500 +0100" channel="Medi1.TV">
+  <programme start="20261119193000 +0100" stop="20261119201500 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato adahira</title>
     <desc lang="es">Nachrato adahira.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261120181500 +0100" stop="20261120183000 +0100" channel="Medi1.TV">
+  <programme start="20261119201500 +0100" stop="20261119203000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119203000 +0100" stop="20261119204500 +0100" channel="Medi1.TV">
+    <title lang="es">Madar El Akhebar</title>
+    <desc lang="es">Orbit news en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119204500 +0100" stop="20261119211500 +0100" channel="Medi1.TV">
+    <title lang="es">wlad bladi</title>
+    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119211500 +0100" stop="20261119213000 +0100" channel="Medi1.TV">
+    <title lang="es">Nohafid aal sihati</title>
+    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119213000 +0100" stop="20261119220000 +0100" channel="Medi1.TV">
+    <title lang="es">Mojtama altahadi</title>
+    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119220000 +0100" stop="20261119221500 +0100" channel="Medi1.TV">
+    <title lang="es">Ghorfat El Akhbar</title>
+    <desc lang="es">Salle de presse Une émission d'actualités qui met en lumière les principales actualités nationales et internationales.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119221500 +0100" stop="20261119223000 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119223000 +0100" stop="20261119230000 +0100" channel="Medi1.TV">
+    <title lang="es">Patch Work Ramadan</title>
+    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119230000 +0100" stop="20261119234500 +0100" channel="Medi1.TV">
+    <title lang="es">Ramadan maana</title>
+    <desc lang="es">Ramadan maana.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119234500 +0100" stop="20261120010000 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120010000 +0100" stop="20261120014500 +0100" channel="Medi1.TV">
+    <title lang="es">Ramadan maana</title>
+    <desc lang="es">Ramadan maana.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120014500 +0100" stop="20261120020000 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120020000 +0100" stop="20261120023000 +0100" channel="Medi1.TV">
+    <title lang="es">Nachrato atamina</title>
+    <desc lang="es">Nachrato atamina.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120023000 +0100" stop="20261120024500 +0100" channel="Medi1.TV">
+    <title lang="es">Masae El Akhebar</title>
+    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120024500 +0100" stop="20261120031500 +0100" channel="Medi1.TV">
+    <title lang="es">Nohafid aal sihati</title>
+    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120031500 +0100" stop="20261120033000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120033000 +0100" stop="20261120040000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120040000 +0100" stop="20261120050000 +0100" channel="Medi1.TV">
+    <title lang="es">Ma Warae El Hadat</title>
+    <desc lang="es">Au-delà de l'événement est un programme en direct qui tente de présenter des sujets de discussion liés à l'actualité, avec des invités spécialisés dans divers domaines.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120050000 +0100" stop="20261120110000 +0100" channel="Medi1.TV">
+    <title lang="es">Masae El Akhebar</title>
+    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120110000 +0100" stop="20261120113000 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120113000 +0100" stop="20261120120000 +0100" channel="Medi1.TV">
+    <title lang="es">Patch Work Ramadan</title>
+    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120120000 +0100" stop="20261120134500 +0100" channel="Medi1.TV">
+    <title lang="es">Sabah El Akhbar</title>
+    <desc lang="es">Nouvelles du matin en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120134500 +0100" stop="20261120140000 +0100" channel="Medi1.TV">
     <title lang="es">tariqo el maali</title>
     <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261120183000 +0100" stop="20261120191500 +0100" channel="Medi1.TV">
+  <programme start="20261120140000 +0100" stop="20261120144500 +0100" channel="Medi1.TV">
+    <title lang="es">Malaaib</title>
+    <desc lang="es">Bulletin du matin.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120144500 +0100" stop="20261120151500 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120151500 +0100" stop="20261120154500 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120154500 +0100" stop="20261120161500 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120161500 +0100" stop="20261120163000 +0100" channel="Medi1.TV">
+    <title lang="es">wlad bladi</title>
+    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120163000 +0100" stop="20261120170000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120170000 +0100" stop="20261120173000 +0100" channel="Medi1.TV">
+    <title lang="es">Madar El Akhebar</title>
+    <desc lang="es">Orbit news en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120173000 +0100" stop="20261120180000 +0100" channel="Medi1.TV">
+    <title lang="es">Mojtama altahadi</title>
+    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120180000 +0100" stop="20261120190000 +0100" channel="Medi1.TV">
+    <title lang="es">Mawdouaa El Yawm</title>
+    <desc lang="es">Un talk-show quotidien qui traite des questions les plus actuelles de la journée. Le programme accueille des officiels, des experts et des acteurs de divers domaines afin de permettre au spectateur de mieux comprendre les enjeux de la société et du monde qui l'entoure. Il cherche, par des discussions interactives, à simplifier les dossiers d'affaires publiques et autres questions internationales et à répond.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120190000 +0100" stop="20261120191500 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato adahira</title>
     <desc lang="es">Nachrato adahira.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
   <programme start="20261120191500 +0100" stop="20261120193000 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120193000 +0100" stop="20261120194500 +0100" channel="Medi1.TV">
-    <title lang="es">Madar El Akhebar</title>
-    <desc lang="es">Orbit news en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120194500 +0100" stop="20261120201500 +0100" channel="Medi1.TV">
-    <title lang="es">wlad bladi</title>
-    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120201500 +0100" stop="20261120203000 +0100" channel="Medi1.TV">
-    <title lang="es">Nohafid aal sihati</title>
-    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120203000 +0100" stop="20261120210000 +0100" channel="Medi1.TV">
-    <title lang="es">Mojtama altahadi</title>
-    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120210000 +0100" stop="20261120211500 +0100" channel="Medi1.TV">
-    <title lang="es">Ghorfat El Akhbar</title>
-    <desc lang="es">Salle de presse Une émission d'actualités qui met en lumière les principales actualités nationales et internationales.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120211500 +0100" stop="20261120213000 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120213000 +0100" stop="20261120220000 +0100" channel="Medi1.TV">
-    <title lang="es">Patch Work Ramadan</title>
-    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120220000 +0100" stop="20261120224500 +0100" channel="Medi1.TV">
-    <title lang="es">Ramadan maana</title>
-    <desc lang="es">Ramadan maana.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261120224500 +0100" stop="20261121000000 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121000000 +0100" stop="20261121004500 +0100" channel="Medi1.TV">
-    <title lang="es">Ramadan maana</title>
-    <desc lang="es">Ramadan maana.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121004500 +0100" stop="20261121010000 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121010000 +0100" stop="20261121013000 +0100" channel="Medi1.TV">
-    <title lang="es">Nachrato atamina</title>
-    <desc lang="es">Nachrato atamina.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121013000 +0100" stop="20261121014500 +0100" channel="Medi1.TV">
-    <title lang="es">Masae El Akhebar</title>
-    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121014500 +0100" stop="20261121021500 +0100" channel="Medi1.TV">
-    <title lang="es">Nohafid aal sihati</title>
-    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121021500 +0100" stop="20261121023000 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121023000 +0100" stop="20261121030000 +0100" channel="Medi1.TV">
-    <title lang="es">Dayf El Tahrir</title>
-    <desc lang="es">Programme de l'éditeur invité.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121030000 +0100" stop="20261121040000 +0100" channel="Medi1.TV">
-    <title lang="es">Ma Warae El Hadat</title>
-    <desc lang="es">Au-delà de l'événement est un programme en direct qui tente de présenter des sujets de discussion liés à l'actualité, avec des invités spécialisés dans divers domaines.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121040000 +0100" stop="20261121100000 +0100" channel="Medi1.TV">
-    <title lang="es">Masae El Akhebar</title>
-    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121100000 +0100" stop="20261121103000 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121103000 +0100" stop="20261121110000 +0100" channel="Medi1.TV">
-    <title lang="es">Patch Work Ramadan</title>
-    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121110000 +0100" stop="20261121124500 +0100" channel="Medi1.TV">
-    <title lang="es">Sabah El Akhbar</title>
-    <desc lang="es">Nouvelles du matin en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121124500 +0100" stop="20261121130000 +0100" channel="Medi1.TV">
     <title lang="es">tariqo el maali</title>
     <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121130000 +0100" stop="20261121134500 +0100" channel="Medi1.TV">
-    <title lang="es">Malaaib</title>
-    <desc lang="es">Bulletin du matin.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121134500 +0100" stop="20261121141500 +0100" channel="Medi1.TV">
-    <title lang="es">Adabo almarid</title>
-    <desc lang="es">Adib Al-Murid.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121141500 +0100" stop="20261121144500 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121144500 +0100" stop="20261121151500 +0100" channel="Medi1.TV">
-    <title lang="es">Chhiwa whkaya</title>
-    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121151500 +0100" stop="20261121153000 +0100" channel="Medi1.TV">
-    <title lang="es">wlad bladi</title>
-    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121153000 +0100" stop="20261121160000 +0100" channel="Medi1.TV">
-    <title lang="es">Dayf El Tahrir</title>
-    <desc lang="es">Programme de l'éditeur invité.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121160000 +0100" stop="20261121163000 +0100" channel="Medi1.TV">
-    <title lang="es">Madar El Akhebar</title>
-    <desc lang="es">Orbit news en arabe.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121163000 +0100" stop="20261121170000 +0100" channel="Medi1.TV">
-    <title lang="es">Mojtama altahadi</title>
-    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121170000 +0100" stop="20261121180000 +0100" channel="Medi1.TV">
-    <title lang="es">Mawdouaa El Yawm</title>
-    <desc lang="es">Un talk-show quotidien qui traite des questions les plus actuelles de la journée. Le programme accueille des officiels, des experts et des acteurs de divers domaines afin de permettre au spectateur de mieux comprendre les enjeux de la société et du monde qui l'entoure. Il cherche, par des discussions interactives, à simplifier les dossiers d'affaires publiques et autres questions internationales et à répond.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261121180000 +0100" stop="20261121181500 +0100" channel="Medi1.TV">
+  <programme start="20261120193000 +0100" stop="20261120201500 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato adahira</title>
     <desc lang="es">Nachrato adahira.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121181500 +0100" stop="20261121183000 +0100" channel="Medi1.TV">
+  <programme start="20261120201500 +0100" stop="20261120203000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120203000 +0100" stop="20261120204500 +0100" channel="Medi1.TV">
+    <title lang="es">Madar El Akhebar</title>
+    <desc lang="es">Orbit news en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120204500 +0100" stop="20261120211500 +0100" channel="Medi1.TV">
+    <title lang="es">wlad bladi</title>
+    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120211500 +0100" stop="20261120213000 +0100" channel="Medi1.TV">
+    <title lang="es">Nohafid aal sihati</title>
+    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120213000 +0100" stop="20261120220000 +0100" channel="Medi1.TV">
+    <title lang="es">Mojtama altahadi</title>
+    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120220000 +0100" stop="20261120221500 +0100" channel="Medi1.TV">
+    <title lang="es">Ghorfat El Akhbar</title>
+    <desc lang="es">Salle de presse Une émission d'actualités qui met en lumière les principales actualités nationales et internationales.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120221500 +0100" stop="20261120223000 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120223000 +0100" stop="20261120230000 +0100" channel="Medi1.TV">
+    <title lang="es">Patch Work Ramadan</title>
+    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120230000 +0100" stop="20261120234500 +0100" channel="Medi1.TV">
+    <title lang="es">Ramadan maana</title>
+    <desc lang="es">Ramadan maana.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261120234500 +0100" stop="20261121010000 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121010000 +0100" stop="20261121014500 +0100" channel="Medi1.TV">
+    <title lang="es">Ramadan maana</title>
+    <desc lang="es">Ramadan maana.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121014500 +0100" stop="20261121020000 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121020000 +0100" stop="20261121023000 +0100" channel="Medi1.TV">
+    <title lang="es">Nachrato atamina</title>
+    <desc lang="es">Nachrato atamina.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121023000 +0100" stop="20261121024500 +0100" channel="Medi1.TV">
+    <title lang="es">Masae El Akhebar</title>
+    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121024500 +0100" stop="20261121031500 +0100" channel="Medi1.TV">
+    <title lang="es">Nohafid aal sihati</title>
+    <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121031500 +0100" stop="20261121033000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121033000 +0100" stop="20261121040000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121040000 +0100" stop="20261121050000 +0100" channel="Medi1.TV">
+    <title lang="es">Ma Warae El Hadat</title>
+    <desc lang="es">Au-delà de l'événement est un programme en direct qui tente de présenter des sujets de discussion liés à l'actualité, avec des invités spécialisés dans divers domaines.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121050000 +0100" stop="20261121110000 +0100" channel="Medi1.TV">
+    <title lang="es">Masae El Akhebar</title>
+    <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121110000 +0100" stop="20261121113000 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121113000 +0100" stop="20261121120000 +0100" channel="Medi1.TV">
+    <title lang="es">Patch Work Ramadan</title>
+    <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121120000 +0100" stop="20261121134500 +0100" channel="Medi1.TV">
+    <title lang="es">Sabah El Akhbar</title>
+    <desc lang="es">Nouvelles du matin en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121134500 +0100" stop="20261121140000 +0100" channel="Medi1.TV">
     <title lang="es">tariqo el maali</title>
     <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121183000 +0100" stop="20261121191500 +0100" channel="Medi1.TV">
+  <programme start="20261121140000 +0100" stop="20261121144500 +0100" channel="Medi1.TV">
+    <title lang="es">Malaaib</title>
+    <desc lang="es">Bulletin du matin.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121144500 +0100" stop="20261121151500 +0100" channel="Medi1.TV">
+    <title lang="es">Adabo almarid</title>
+    <desc lang="es">Adib Al-Murid.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121151500 +0100" stop="20261121154500 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121154500 +0100" stop="20261121161500 +0100" channel="Medi1.TV">
+    <title lang="es">Chhiwa whkaya</title>
+    <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121161500 +0100" stop="20261121163000 +0100" channel="Medi1.TV">
+    <title lang="es">wlad bladi</title>
+    <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121163000 +0100" stop="20261121170000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121170000 +0100" stop="20261121173000 +0100" channel="Medi1.TV">
+    <title lang="es">Madar El Akhebar</title>
+    <desc lang="es">Orbit news en arabe.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121173000 +0100" stop="20261121180000 +0100" channel="Medi1.TV">
+    <title lang="es">Mojtama altahadi</title>
+    <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121180000 +0100" stop="20261121190000 +0100" channel="Medi1.TV">
+    <title lang="es">Mawdouaa El Yawm</title>
+    <desc lang="es">Un talk-show quotidien qui traite des questions les plus actuelles de la journée. Le programme accueille des officiels, des experts et des acteurs de divers domaines afin de permettre au spectateur de mieux comprendre les enjeux de la société et du monde qui l'entoure. Il cherche, par des discussions interactives, à simplifier les dossiers d'affaires publiques et autres questions internationales et à répond.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121190000 +0100" stop="20261121191500 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato adahira</title>
     <desc lang="es">Nachrato adahira.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
   <programme start="20261121191500 +0100" stop="20261121193000 +0100" channel="Medi1.TV">
+    <title lang="es">tariqo el maali</title>
+    <desc lang="es">Un programme qui nous rappelle un ensemble de valeurs et comprend leur signification.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121193000 +0100" stop="20261121201500 +0100" channel="Medi1.TV">
+    <title lang="es">Nachrato adahira</title>
+    <desc lang="es">Nachrato adahira.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261121201500 +0100" stop="20261121203000 +0100" channel="Medi1.TV">
     <title lang="es">Sport Time</title>
     <desc lang="es">National and international sports news.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121193000 +0100" stop="20261121194500 +0100" channel="Medi1.TV">
+  <programme start="20261121203000 +0100" stop="20261121204500 +0100" channel="Medi1.TV">
     <title lang="es">Madar El Akhebar</title>
     <desc lang="es">Orbit news en arabe.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121194500 +0100" stop="20261121201500 +0100" channel="Medi1.TV">
+  <programme start="20261121204500 +0100" stop="20261121211500 +0100" channel="Medi1.TV">
     <title lang="es">wlad bladi</title>
     <desc lang="es">Wlad Bladi le rendez-vous qui fait connaître des parcours de vies, des métiers connus, respectés ou parfois peu glorieux. Dans "wlad bladi" Mountassir part en immersion pour saisir le cSur du quotidien de ses intervenants.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121201500 +0100" stop="20261121203000 +0100" channel="Medi1.TV">
+  <programme start="20261121211500 +0100" stop="20261121213000 +0100" channel="Medi1.TV">
     <title lang="es">Nohafid aal sihati</title>
     <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121203000 +0100" stop="20261121210000 +0100" channel="Medi1.TV">
+  <programme start="20261121213000 +0100" stop="20261121220000 +0100" channel="Medi1.TV">
     <title lang="es">Mojtama altahadi</title>
     <desc lang="es">Le programme Challenge Community nous expose aux défis que traverse notre société.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121210000 +0100" stop="20261121211500 +0100" channel="Medi1.TV">
+  <programme start="20261121220000 +0100" stop="20261121221500 +0100" channel="Medi1.TV">
     <title lang="es">Ghorfat El Akhbar</title>
     <desc lang="es">Salle de presse Une émission d'actualités qui met en lumière les principales actualités nationales et internationales.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121211500 +0100" stop="20261121213000 +0100" channel="Medi1.TV">
+  <programme start="20261121221500 +0100" stop="20261121223000 +0100" channel="Medi1.TV">
     <title lang="es">Adabo almarid</title>
     <desc lang="es">Adib Al-Murid.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121213000 +0100" stop="20261121220000 +0100" channel="Medi1.TV">
+  <programme start="20261121223000 +0100" stop="20261121230000 +0100" channel="Medi1.TV">
     <title lang="es">Patch Work Ramadan</title>
     <desc lang="es">Patchwork Ramadan est une émission qui présente l'actualité des artistes marocains, arabes et internationaux et propose des dialogues avec des personnalités du monde de l'art et de la création.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121220000 +0100" stop="20261121224500 +0100" channel="Medi1.TV">
+  <programme start="20261121230000 +0100" stop="20261121234500 +0100" channel="Medi1.TV">
     <title lang="es">Ramadan maana</title>
     <desc lang="es">Ramadan maana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261121224500 +0100" stop="20261122000000 +0100" channel="Medi1.TV">
+  <programme start="20261121234500 +0100" stop="20261122010000 +0100" channel="Medi1.TV">
     <title lang="es">Chhiwa whkaya</title>
     <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261122000000 +0100" stop="20261122004500 +0100" channel="Medi1.TV">
+  <programme start="20261122010000 +0100" stop="20261122014500 +0100" channel="Medi1.TV">
     <title lang="es">Ramadan maana</title>
     <desc lang="es">Ramadan maana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261122004500 +0100" stop="20261122010000 +0100" channel="Medi1.TV">
+  <programme start="20261122014500 +0100" stop="20261122020000 +0100" channel="Medi1.TV">
     <title lang="es">Chhiwa whkaya</title>
     <desc lang="es">Programme 'Shahiwa wa Hikaya ', dans lequel traditions et histoire se réunissent pour célébrer la richesse de la cuisine marocaine.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261122010000 +0100" stop="20261122013000 +0100" channel="Medi1.TV">
+  <programme start="20261122020000 +0100" stop="20261122023000 +0100" channel="Medi1.TV">
     <title lang="es">Nachrato atamina</title>
     <desc lang="es">Nachrato atamina.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261122013000 +0100" stop="20261122014500 +0100" channel="Medi1.TV">
+  <programme start="20261122023000 +0100" stop="20261122024500 +0100" channel="Medi1.TV">
     <title lang="es">Masae El Akhebar</title>
     <desc lang="es">Voir les nouvelles les plus importantes du monde.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261122014500 +0100" stop="20261122021500 +0100" channel="Medi1.TV">
+  <programme start="20261122024500 +0100" stop="20261122031500 +0100" channel="Medi1.TV">
     <title lang="es">Nohafid aal sihati</title>
     <desc lang="es">Le programme Garde ma santé fournit un ensemble de conseils pour maintenir la santé.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261122021500 +0100" stop="20261122023000 +0100" channel="Medi1.TV">
-    <title lang="es">Sport Time</title>
-    <desc lang="es">National and international sports news.</desc>
-    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
-  </programme>
-  <programme start="20261122023000 +0100" stop="20261122030000 +0100" channel="Medi1.TV">
-    <title lang="es">Dayf El Tahrir</title>
-    <desc lang="es">Programme de l'éditeur invité.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
   <programme start="20261122031500 +0100" stop="20261122033000 +0100" channel="Medi1.TV">
@@ -54978,402 +54968,412 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Programme de l'éditeur invité.</desc>
     <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
   </programme>
-  <programme start="20261119040000 +0100" stop="20261119053000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261122061500 +0100" stop="20261122063000 +0100" channel="Medi1.TV">
+    <title lang="es">Sport Time</title>
+    <desc lang="es">National and international sports news.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261122063000 +0100" stop="20261122070000 +0100" channel="Medi1.TV">
+    <title lang="es">Dayf El Tahrir</title>
+    <desc lang="es">Programme de l'éditeur invité.</desc>
+    <icon src="https://metadata.agiletv.es/_assets/fc/0f/fc0f15cb47441f5eaf8161fe67cab980a01eb35ad242c71968981eb02ebb1203.jpg" />
+  </programme>
+  <programme start="20261119050000 +0100" stop="20261119063000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El Curubito</title>
     <desc lang="es">Show deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119053000 +0100" stop="20261119060000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119063000 +0100" stop="20261119070000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo madrugada</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119060000 +0100" stop="20261119090000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119070000 +0100" stop="20261119100000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Reposiciones</title>
     <desc lang="es">Reposiciones de la programación diaria de TeleVigo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119090000 +0100" stop="20261119120000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119100000 +0100" stop="20261119130000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo madrugada</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119120000 +0100" stop="20261119123000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119130000 +0100" stop="20261119133000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Programación cadena SER</title>
     <desc lang="es">Repasamos las entrevistas más destacadas de nuestros compañeros de la Cadena SER.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119123000 +0100" stop="20261119133000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119133000 +0100" stop="20261119143000 +0100" channel="TELEVIGO.TV">
     <title lang="es">La Cena de los Idiotés</title>
     <desc lang="es">Programa de debate en la mesa con invitados semanales.</desc>
     <icon src="https://metadata.agiletv.es/_assets/cd/5c/cd5c67b5bbdc345461eac8ad77b5f4ac9fc1a0e6e7b4ef194ec12bf7cfd077cd.jpg" />
   </programme>
-  <programme start="20261119133000 +0100" stop="20261119140000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119143000 +0100" stop="20261119150000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Entre líneas</title>
     <desc lang="es">Entrevistamos a las personas más importantes de Vigo para conocer mejor la realidad de nuestra ciudad.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119140000 +0100" stop="20261119143000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119150000 +0100" stop="20261119153000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Hoy por hoy Vigo</title>
     <desc lang="es">Entrevista a las personas más importantes de la actualidad viguesa para Cadena SER - RadioVigo y TeleVigo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119143000 +0100" stop="20261119150000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119153000 +0100" stop="20261119160000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Ponte las pilas</title>
     <desc lang="es">Ponte las pilas con nuestros coaches deportivos del Olimpico de león, que diariamente pondrán a tu disposición una amplia variedad de ejercicios que podrás realizar desde el salón de tu casa.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119150000 +0100" stop="20261119151000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119160000 +0100" stop="20261119161000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119151000 +0100" stop="20261119153000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119161000 +0100" stop="20261119163000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">Este espacio enseña a preparar los platos de la abuela: los guisos, las verduras de la huerta, los postres deliciosos acompañados de trucos, sugerencias a través de recetas, sencillas y fáciles.</desc>
     <icon src="https://metadata.agiletv.es/_assets/04/b1/04b194631f8a5b0b40e03ffb9880e9ed4e7db9f6b44cbe33c77713c7e1d31951.jpg" />
   </programme>
-  <programme start="20261119153000 +0100" stop="20261119160000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119163000 +0100" stop="20261119170000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119160000 +0100" stop="20261119171000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119170000 +0100" stop="20261119181000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Aquí hay cantera</title>
     <desc lang="es">Analizaremos los partidos de los más pequeños, descubriremos futuras promesas del fútbol de nuestra comarca y hablaremos sobre los valores y la cultura de este deporte.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119171000 +0100" stop="20261119173000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119181000 +0100" stop="20261119183000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo mediodía</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119173000 +0100" stop="20261119180000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119183000 +0100" stop="20261119190000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119180000 +0100" stop="20261119190000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119190000 +0100" stop="20261119200000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Repara y recicla</title>
     <desc lang="es">Repara, transforma y crea. Descubre trucos, herramientas y técnicas para dar una segunda vida a objetos, muebles y rincones del hogar.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119190000 +0100" stop="20261119191000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119200000 +0100" stop="20261119201000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119191000 +0100" stop="20261119210000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119201000 +0100" stop="20261119220000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Un grito en la oscuridad</title>
     <desc lang="es">Una madre, cuyo hijo fue asesinado en un ataque de un Dingo en el territorio norte del Outback, Australia, lucha por demostrar su inocencia.</desc>
     <icon src="https://metadata.agiletv.es/_assets/f0/04/f0041749339a702a9f2c9cc24291b7024d1441d5bf1eefe5bc080ceff4011a1e.jpg" />
   </programme>
-  <programme start="20261119210000 +0100" stop="20261119211000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119220000 +0100" stop="20261119221000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119211000 +0100" stop="20261119220000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119221000 +0100" stop="20261119230000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Show Business News</title>
     <desc lang="es">Con un enfoque fresco y dinámico, Show Business News combina actualidad, nostalgia y discusión para ofrecer una visión completa y entretenida del mundo del espectáculo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119220000 +0100" stop="20261119223000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119230000 +0100" stop="20261119233000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Área de juego</title>
     <desc lang="es">Toda la actualidad deportiva de Vigo con Jacobo Buceta y sus colaboradores.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119223000 +0100" stop="20261119230000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261119233000 +0100" stop="20261120000000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119230000 +0100" stop="20261119231000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120000000 +0100" stop="20261120001000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261119231000 +0100" stop="20261120003000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120001000 +0100" stop="20261120013000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo a debate</title>
     <desc lang="es">Los temas de actualidad a debate.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120003000 +0100" stop="20261120010000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120013000 +0100" stop="20261120020000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo noche</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120010000 +0100" stop="20261120020000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120020000 +0100" stop="20261120030000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo de cerca</title>
     <desc lang="es">El alcalde de Vigo, Abel Caballero, se acerca a la ciudadanía contestando a todas las preguntas de los vigueses.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120020000 +0100" stop="20261120030000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120030000 +0100" stop="20261120040000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cambio de Rasante</title>
     <desc lang="es">Cambio de Rasante es el programa del motor hecho para ti, que estás interesado en los últimos lanzamientos de las principales marcas y en toda la actualidad del mundo del motor.</desc>
     <icon src="https://metadata.agiletv.es/_assets/45/bf/45bf14aa83770666b2063a73e7d04aa1c950cb2c51c2bf741f9bd86f2147ee5a.jpg" />
   </programme>
-  <programme start="20261120030000 +0100" stop="20261120033000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120040000 +0100" stop="20261120043000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo medianoche</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120033000 +0100" stop="20261120040000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120043000 +0100" stop="20261120050000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El tarot de Rosi Vilas</title>
     <desc lang="es">Rosi Vilas responde en directo a las consultas de los televidentes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/f2/56/f2561a11b72fb9c5e018a3211126afd3b404fa77a6cdd0b7141fe4e495f57166.jpg" />
   </programme>
-  <programme start="20261120040000 +0100" stop="20261120053000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120050000 +0100" stop="20261120063000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El Curubito</title>
     <desc lang="es">Show deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120053000 +0100" stop="20261120060000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120063000 +0100" stop="20261120070000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo madrugada</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120060000 +0100" stop="20261120090000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120070000 +0100" stop="20261120100000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Reposiciones</title>
     <desc lang="es">Reposiciones de la programación diaria de TeleVigo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120090000 +0100" stop="20261120120000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120100000 +0100" stop="20261120130000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo madrugada</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120120000 +0100" stop="20261120123000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120130000 +0100" stop="20261120133000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Terreta gourmet</title>
     <desc lang="es">Visita las mejores localizaciones gastronómicas de la Comunidad Valenciana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120123000 +0100" stop="20261120133000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120133000 +0100" stop="20261120143000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Se buscan locos por la cordura</title>
     <desc lang="es">Entrevistamos a personajes de toda índole del mundo del arte, escritores, pintores, músicos, ilusionistas o empresarios. Buscamos la parte más cuerda de los temas que abordamos, de ahí el nombre del espacio.</desc>
     <icon src="https://metadata.agiletv.es/_assets/4b/ca/4bca605b9570ceb06efcfaf9fb1ef4cef0ec61a94ae79139b1977b65a463df41.jpg" />
   </programme>
-  <programme start="20261120133000 +0100" stop="20261120143000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120143000 +0100" stop="20261120153000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo a debate</title>
     <desc lang="es">Los temas de actualidad a debate.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120143000 +0100" stop="20261120150000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120153000 +0100" stop="20261120160000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Ponte las pilas</title>
     <desc lang="es">Ponte las pilas con nuestros coaches deportivos del Olimpico de león, que diariamente pondrán a tu disposición una amplia variedad de ejercicios que podrás realizar desde el salón de tu casa.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120150000 +0100" stop="20261120151000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120160000 +0100" stop="20261120161000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120151000 +0100" stop="20261120153000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120161000 +0100" stop="20261120163000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">Este espacio enseña a preparar los platos de la abuela: los guisos, las verduras de la huerta, los postres deliciosos acompañados de trucos, sugerencias a través de recetas, sencillas y fáciles.</desc>
     <icon src="https://metadata.agiletv.es/_assets/04/b1/04b194631f8a5b0b40e03ffb9880e9ed4e7db9f6b44cbe33c77713c7e1d31951.jpg" />
   </programme>
-  <programme start="20261120153000 +0100" stop="20261120160000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120163000 +0100" stop="20261120170000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120160000 +0100" stop="20261120171000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120170000 +0100" stop="20261120181000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo de cerca</title>
     <desc lang="es">El alcalde de Vigo, Abel Caballero, se acerca a la ciudadanía contestando a todas las preguntas de los vigueses.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120171000 +0100" stop="20261120173000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120181000 +0100" stop="20261120183000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo mediodía</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120173000 +0100" stop="20261120180000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120183000 +0100" stop="20261120190000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120180000 +0100" stop="20261120190000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120190000 +0100" stop="20261120200000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cambio de Rasante</title>
     <desc lang="es">Cambio de Rasante es el programa del motor hecho para ti, que estás interesado en los últimos lanzamientos de las principales marcas y en toda la actualidad del mundo del motor.</desc>
     <icon src="https://metadata.agiletv.es/_assets/45/bf/45bf14aa83770666b2063a73e7d04aa1c950cb2c51c2bf741f9bd86f2147ee5a.jpg" />
   </programme>
-  <programme start="20261120190000 +0100" stop="20261120191000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120200000 +0100" stop="20261120201000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120191000 +0100" stop="20261120201000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120201000 +0100" stop="20261120211000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Serie: "un hombre en casa"</title>
     <desc lang="es">Chrissy y Jo viven en un apartamento del distrito londinense de Earls Court. Al día siguiente de la fiesta de despedida de la chica que compartía el piso con ellas, no tienen más remedio que empezar a buscar una nueva compañera para poder pagar el alquiler. Pero, de repente, descubren a Robin Tripp, un invitado desconocido que se ha quedado dormido en el baño. Una vez recuperadas del susto y al corriente de sus habilidades culinarias, las chicas.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120201000 +0100" stop="20261120210000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120211000 +0100" stop="20261120220000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Serie: "los roper"</title>
     <desc lang="es">Serie de TV (1976-1979). 5 temporadas. 38 episodios. George y Mildred Roper se acaban de mudar a un barrio de clase media. Con el cambio Mildred pretende subir en la escala social, aunque lo único que consigue es ser una snob; mientras tanto, George sólo sueña con ver la televisión y beber cerveza.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120210000 +0100" stop="20261120211000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120220000 +0100" stop="20261120221000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120211000 +0100" stop="20261120223000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120221000 +0100" stop="20261120233000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Show Business News</title>
     <desc lang="es">Con un enfoque fresco y dinámico, Show Business News combina actualidad, nostalgia y discusión para ofrecer una visión completa y entretenida del mundo del espectáculo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120223000 +0100" stop="20261120230000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261120233000 +0100" stop="20261121000000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120230000 +0100" stop="20261120231000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121000000 +0100" stop="20261121001000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Boletín informativo</title>
     <desc lang="es">Resumen con toda la información de Vigo y su área metropolitana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261120231000 +0100" stop="20261120233000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121001000 +0100" stop="20261121003000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Academia play</title>
     <desc lang="es">Programa realizado con la técnica de animación 'vídeo scribing' donde se tratan grandes temas históricos o pequeños trucos educativos.</desc>
     <icon src="https://metadata.agiletv.es/_assets/82/ba/82ba457697726c5d66b1854ef5445d3d722affd445c5581afbd6e31b869652f3.jpg" />
   </programme>
-  <programme start="20261120233000 +0100" stop="20261121000000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121003000 +0100" stop="20261121010000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cousas de Comer</title>
     <desc lang="es">Programa semanal dedicado al mundo de la gastronomía y a Galicia, aunque a veces también nos escapamos a Portugal.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121000000 +0100" stop="20261121003000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121010000 +0100" stop="20261121013000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Entre líneas</title>
     <desc lang="es">Entrevistamos a las personas más importantes de Vigo para conocer mejor la realidad de nuestra ciudad.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121003000 +0100" stop="20261121010000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121013000 +0100" stop="20261121020000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo noche</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121010000 +0100" stop="20261121030000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121020000 +0100" stop="20261121040000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Furia de titanes</title>
     <desc lang="es">Una aventura épica que recupera para el cine contemporáneo algunos de los mitos de la Antigüedad Griega. En esta ocasión, Perseo, hijo del dios Zeus, debe superar una serie de difíciles pruebas.</desc>
     <icon src="https://metadata.agiletv.es/_assets/b5/9d/b59d7054ef5dbabb45a51771c5693092b3d358048097ba1e28bc894e69998b2a.jpg" />
   </programme>
-  <programme start="20261121030000 +0100" stop="20261121033000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121040000 +0100" stop="20261121043000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Informativo madrugada</title>
     <desc lang="es">Toda la información de Vigo y su área metropolitana al detalle.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121033000 +0100" stop="20261121040000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121043000 +0100" stop="20261121050000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El tarot de Rosi Vilas</title>
     <desc lang="es">Rosi Vilas responde en directo a las consultas de los televidentes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/f2/56/f2561a11b72fb9c5e018a3211126afd3b404fa77a6cdd0b7141fe4e495f57166.jpg" />
   </programme>
-  <programme start="20261121040000 +0100" stop="20261121053000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121050000 +0100" stop="20261121063000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El Curubito</title>
     <desc lang="es">Show deportivo en el que el fútbol se debate con garra y sin filtros.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121053000 +0100" stop="20261121090000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121063000 +0100" stop="20261121100000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Reposiciones</title>
     <desc lang="es">Reposiciones de la programación diaria de TeleVigo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121090000 +0100" stop="20261121120000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121100000 +0100" stop="20261121130000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cinco días</title>
     <desc lang="es">Repaso de las noticias más destacadas de la semana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121120000 +0100" stop="20261121130000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121130000 +0100" stop="20261121140000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cambio de Rasante</title>
     <desc lang="es">Cambio de Rasante es el programa del motor hecho para ti, que estás interesado en los últimos lanzamientos de las principales marcas y en toda la actualidad del mundo del motor.</desc>
     <icon src="https://metadata.agiletv.es/_assets/45/bf/45bf14aa83770666b2063a73e7d04aa1c950cb2c51c2bf741f9bd86f2147ee5a.jpg" />
   </programme>
-  <programme start="20261121130000 +0100" stop="20261121133000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121140000 +0100" stop="20261121143000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121133000 +0100" stop="20261121140000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121143000 +0100" stop="20261121150000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Hoy por hoy Vigo</title>
     <desc lang="es">Entrevista a las personas más importantes de la actualidad viguesa para Cadena SER - RadioVigo y TeleVigo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121140000 +0100" stop="20261121143000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121150000 +0100" stop="20261121153000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Entre líneas</title>
     <desc lang="es">Entrevistamos a las personas más importantes de Vigo para conocer mejor la realidad de nuestra ciudad.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121143000 +0100" stop="20261121150000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121153000 +0100" stop="20261121160000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Ponte las pilas</title>
     <desc lang="es">Ponte las pilas con nuestros coaches deportivos del Olimpico de león, que diariamente pondrán a tu disposición una amplia variedad de ejercicios que podrás realizar desde el salón de tu casa.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121150000 +0100" stop="20261121153000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121160000 +0100" stop="20261121163000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cocina familiar</title>
     <desc lang="es">Este espacio enseña a preparar los platos de la abuela: los guisos, las verduras de la huerta, los postres deliciosos acompañados de trucos, sugerencias a través de recetas, sencillas y fáciles.</desc>
     <icon src="https://metadata.agiletv.es/_assets/04/b1/04b194631f8a5b0b40e03ffb9880e9ed4e7db9f6b44cbe33c77713c7e1d31951.jpg" />
   </programme>
-  <programme start="20261121153000 +0100" stop="20261121160000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121163000 +0100" stop="20261121170000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Terreta gourmet</title>
     <desc lang="es">Visita las mejores localizaciones gastronómicas de la Comunidad Valenciana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121160000 +0100" stop="20261121163000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121170000 +0100" stop="20261121173000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cousas de Comer</title>
     <desc lang="es">Programa semanal dedicado al mundo de la gastronomía y a Galicia, aunque a veces también nos escapamos a Portugal.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121163000 +0100" stop="20261121170000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121173000 +0100" stop="20261121180000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Plató abierto</title>
     <desc lang="es">Magazine local donde te contamos lo que te interesa. Cultura, sociedad y la actualidad más cercana, de Vigo y área metropolitana a través de entrevistas y reportajes.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121170000 +0100" stop="20261121180000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121180000 +0100" stop="20261121190000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cinco días</title>
     <desc lang="es">Repaso de las noticias más destacadas de la semana.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121180000 +0100" stop="20261121190000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121190000 +0100" stop="20261121200000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo a debate</title>
     <desc lang="es">Los temas de actualidad a debate.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121190000 +0100" stop="20261121200000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121200000 +0100" stop="20261121210000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Vigo de cerca</title>
     <desc lang="es">El alcalde de Vigo, Abel Caballero, se acerca a la ciudadanía contestando a todas las preguntas de los vigueses.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121200000 +0100" stop="20261121210000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121210000 +0100" stop="20261121220000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Se buscan locos por la cordura</title>
     <desc lang="es">Entrevistamos a personajes de toda índole del mundo del arte, escritores, pintores, músicos, ilusionistas o empresarios. Buscamos la parte más cuerda de los temas que abordamos, de ahí el nombre del espacio.</desc>
     <icon src="https://metadata.agiletv.es/_assets/4b/ca/4bca605b9570ceb06efcfaf9fb1ef4cef0ec61a94ae79139b1977b65a463df41.jpg" />
   </programme>
-  <programme start="20261121210000 +0100" stop="20261121213000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121220000 +0100" stop="20261121223000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Tacones y asfalto</title>
     <desc lang="es">Programa dedicado al lifestyle, tendencias, moda, redcarpet, estrenos, premios, cine, arte y cultura nacional e internacional. Con entrevistas a personajes de total actualidad y firmas de tendencia total.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121213000 +0100" stop="20261121224500 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121223000 +0100" stop="20261121234500 +0100" channel="TELEVIGO.TV">
     <title lang="es">Show Business News</title>
     <desc lang="es">Con un enfoque fresco y dinámico, Show Business News combina actualidad, nostalgia y discusión para ofrecer una visión completa y entretenida del mundo del espectáculo.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261121224500 +0100" stop="20261121231500 +0100" channel="TELEVIGO.TV">
+  <programme start="20261121234500 +0100" stop="20261122001500 +0100" channel="TELEVIGO.TV">
     <title lang="es">El acomodador</title>
     <desc lang="es">Programa dedicado al cine donde se comentan y repasan las últimas novedades de la cartelera. El espacio muestra trailers, fichas de reparto, datos técnicos, críticas y la acogida que está teniendo el filme en taquilla.</desc>
     <icon src="https://metadata.agiletv.es/_assets/23/ac/23acf4de191ebdd833a3a352c72e0900e44810a9cb587708543c15c369d97d25.jpg" />
   </programme>
-  <programme start="20261121231500 +0100" stop="20261122010000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261122001500 +0100" stop="20261122020000 +0100" channel="TELEVIGO.TV">
     <title lang="es">El graduado</title>
     <desc lang="es">Benjamin Braddock acaba de terminar la carrera. Cuando regresa a su ciudad, una madre de familia lo seduce, pero él acabará enamorándose de su hija...</desc>
     <icon src="https://metadata.agiletv.es/_assets/96/12/96125de02b54473514e25dd3223ff6d076ba28cd048f7bdea641d0aa84996d6e.jpg" />
   </programme>
-  <programme start="20261122010000 +0100" stop="20261122024500 +0100" channel="TELEVIGO.TV">
+  <programme start="20261122020000 +0100" stop="20261122034500 +0100" channel="TELEVIGO.TV">
     <title lang="es">Agatha</title>
     <desc lang="es">En 1926, la famosa escritora de novelas policíacas Agatha Christie, una mujer frágil y dependiente casada con un coronel, desaparece misteriosamente. Wally Stanton, un conocido periodista americano, investiga el extraño caso.</desc>
     <icon src="https://metadata.agiletv.es/_assets/64/60/64602b4038565ed065910c70ef9d3391bf6d1871107ad9a1f86efc5f5746b591.png" />
   </programme>
-  <programme start="20261122024500 +0100" stop="20261122043000 +0100" channel="TELEVIGO.TV">
+  <programme start="20261122034500 +0100" stop="20261122053000 +0100" channel="TELEVIGO.TV">
     <title lang="es">Cómo matar a su propia esposa</title>
     <desc lang="es">Cuando Stanley, el escritor de una exitosa tira de cómic en el periódico, hace que el protagonista de su tira asesine a su mujer, y en la vida real su verdadera mujer desaparece, Stanley es arrestado por la policía.</desc>
     <icon src="https://metadata.agiletv.es/_assets/20/1d/201d7731ccac9b564f7799bd212b28022adcf5382e7eabaccbf3c67ae44decd7.jpg" />
@@ -64765,11 +64765,6 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Almería 24 Horas Noticias es el informativo de referencia en la provincia. Un espacio riguroso, cercano y comprometido, presentado por Marina Peralta, Salvador Martínez y José Martínez</desc>
     <icon src="https://i.ibb.co/d4R5YSSN/ALMERIA-24-TV.jpg" />
   </programme>
-  <programme start="20261119202652 +0100" stop="20261119205623 +0100" channel="TUYA.TV">
-    <title lang="es">COMO LA VIDA</title>
-    <desc lang="es">Programa 09 - Un programa de testimonios anónimos, historias de lucha y superación.  Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
-    <icon src="https://tuyatv.com/assets/posters/epg/comolavida.jpg?v=1784716107" />
-  </programme>
   <programme start="20261119205623 +0100" stop="20261119213008 +0100" channel="TUYA.TV">
     <title lang="es">COMO LA VIDA (T2)</title>
     <desc lang="es">Programa 05 - Temporada 2 - Un programa de testimonios anónimos, historias de lucha y superación.  Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
@@ -65211,10 +65206,15 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">P11 - Recorre nuestros mercados con Raquel Ramírez. Consejos, precios, recetas y mucho más.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/elmercado.jpg?v=1784716108" />
   </programme>
-  <programme start="20261121093517 +0100" stop="20261121095505 +0100" channel="TUYA.TV">
+  <programme start="20261121093517 +0100" stop="20261121095511 +0100" channel="TUYA.TV">
     <title lang="es">QUÉ BASTINAZO</title>
     <desc lang="es">El programa donde tu participación es clave. Participa y pásalo en grande con Raquel Ramírez y Fernando Santes.</desc>
     <icon src="https://tuyatv.com/assets/posters/epg/quebastinazo.jpg?v=1792105711" />
+  </programme>
+  <programme start="20261121095511 +0100" stop="20261121104323 +0100" channel="TUYA.TV">
+    <title lang="es">MÁS DE CERCA</title>
+    <desc lang="es">Hoy, un salto contra el bullying; los consejos para mejorar en la cocina; y una historia de superación de un culturista.</desc>
+    <icon src="https://tuyatv.com/assets/posters/epg/masdecerca.jpg?v=1792081316" />
   </programme>
   <programme start="20261119000000 +0100" stop="20261119010000 +0100" channel="DiezTV_Ubeda.TV">
     <title lang="es">Noticias Diez TV: Úbeda</title>
@@ -65781,11 +65781,6 @@ Juanjo Martín (colaborador externo).</desc>
     <desc lang="es">Redifusiones de la programación local de Diez TV Andújar.</desc>
     <icon src="https://static.dieztv.es/caratulas/6a7516dbc87159.19869778.jpg" />
   </programme>
-  <programme start="20261119202309 +0100" stop="20261119210015 +0100" channel="SalTV.TV">
-    <title lang="es">SIN CORTES</title>
-    <desc lang="es">Toda la información diaria sin cortes.</desc>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
-  </programme>
   <programme start="20261119210015 +0100" stop="20261119215238 +0100" channel="SalTV.TV">
     <title lang="es">¿ERES HUMANO?</title>
     <desc lang="es">La cultura de la manera mas loca en un programa de entretenimiento de la mano de Curro Romero, que no es el torero.</desc>
@@ -65867,6 +65862,11 @@ Juanjo Martín (colaborador externo).</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
   </programme>
   <programme start="20261120100944 +0100" stop="20261120103154 +0100" channel="SalTV.TV">
+    <title lang="es">SIN CORTES</title>
+    <desc lang="es">Toda la información diaria sin cortes.</desc>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
+  </programme>
+  <programme start="20261120103154 +0100" stop="20261120110859 +0100" channel="SalTV.TV">
     <title lang="es">SIN CORTES</title>
     <desc lang="es">Toda la información diaria sin cortes.</desc>
     <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpjCXfs87gsblPSSvO9tdfXdlNlZ_RIMGJ1l6DOsCUA&amp;s=10" />
@@ -68101,592 +68101,592 @@ El patriarcat ens ha situat en una desigualtat constant. Tot i així, comencem a
     <sub-title lang="es">Con Lorenzo Fernández</sub-title>
     <icon src="https://image.ondacero.es/clipping/cmsimages02/2020/04/17/6FBD6E5D-F5DD-42C8-9761-7EE6469127A5.png" />
   </programme>
-  <programme start="20261119084000 +0200" stop="20261119092000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119084000 +0100" stop="20261119092000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">08:40 – 09:20</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261119093000 +0200" stop="20261119113000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119093000 +0100" stop="20261119113000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Rebujina</title>
     <desc lang="es">09:30 – 11:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_0218177984b104ff7a4a960cf09237751193bdb3.jpeg" />
   </programme>
-  <programme start="20261119113000 +0200" stop="20261119114000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119113000 +0100" stop="20261119114000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">11:30 – 11:40</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119114000 +0200" stop="20261119144000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119114000 +0100" stop="20261119144000 +0100" channel="Teleonuba.TV">
     <title lang="es">Medallas de Oro de la Diputación Provincial</title>
     <desc lang="es">11:40 – 14:40</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261119144000 +0200" stop="20261119153000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119144000 +0100" stop="20261119153000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">14:40 – 15:30</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261119153000 +0200" stop="20261119154000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119153000 +0100" stop="20261119154000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">15:30 – 15:40</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119154000 +0200" stop="20261119161000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119154000 +0100" stop="20261119161000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">15:40 – 16:10</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261119161000 +0200" stop="20261119171000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119161000 +0100" stop="20261119171000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">16:10 – 17:10</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2016/02/laPara-250x175.jpg" />
   </programme>
-  <programme start="20261119171000 +0200" stop="20261119175000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119171000 +0100" stop="20261119175000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">17:10 – 17:50</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261119175000 +0200" stop="20261119182000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119175000 +0100" stop="20261119182000 +0100" channel="Teleonuba.TV">
     <title lang="es">Con Sello Condado -</title>
     <desc lang="es">17:50 – 18:20</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119182000 +0200" stop="20261119191000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119182000 +0100" stop="20261119191000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva - El Almendro</title>
     <desc lang="es">18:20 – 19:10</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261119191000 +0200" stop="20261119204000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119191000 +0100" stop="20261119204000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Tertulia Recreativista</title>
     <desc lang="es">19:10 – 20:40</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2018/10/Captura-de-pantalla-2018-10-09-a-las-11.41.091-300x190.png" />
   </programme>
-  <programme start="20261119204000 +0200" stop="20261119212000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119204000 +0100" stop="20261119212000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">20:40 – 21:20</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261119212000 +0200" stop="20261119213000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119212000 +0100" stop="20261119213000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">21:20 – 21:30</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119213000 +0200" stop="20261119225000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119213000 +0100" stop="20261119225000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva - Escacena</title>
     <desc lang="es">21:30 – 22:50</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261119225000 +0200" stop="20261119235000 +0200" channel="Teleonuba.TV">
+  <programme start="20261119225000 +0100" stop="20261119235000 +0100" channel="Teleonuba.TV">
     <title lang="es">HOY debatimos</title>
     <desc lang="es">22:50 – 23:50</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_7d89538a2bd9d96aa3efa23609ee262d19592001.jpeg" />
   </programme>
-  <programme start="20261119003000 +0200" stop="20261119004000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119003000 +0100" stop="20261119004000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">00:30 – 00:40</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261119004000 +0200" stop="20261119090000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119004000 +0100" stop="20261119090000 +0100" channel="CanalCosta.TV">
     <title lang="es">Especial Reportajes</title>
     <desc lang="es">00:40 – 09:00</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119090000 +0200" stop="20261119094000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119090000 +0100" stop="20261119094000 +0100" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">09:00 – 09:40</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
-  <programme start="20261119094000 +0200" stop="20261119095000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119094000 +0100" stop="20261119095000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">09:40 – 09:50</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261119095000 +0200" stop="20261119112000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119095000 +0100" stop="20261119112000 +0100" channel="CanalCosta.TV">
     <title lang="es">Encuentro de Danzas</title>
     <desc lang="es">09:50 – 11:20</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119112000 +0200" stop="20261119115000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119112000 +0100" stop="20261119115000 +0100" channel="CanalCosta.TV">
     <title lang="es">Procesión de San Diego de Alcalá en Ayamonte</title>
     <desc lang="es">11:20 – 11:50</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119115000 +0200" stop="20261119142000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119115000 +0100" stop="20261119142000 +0100" channel="CanalCosta.TV">
     <title lang="es">Directo-Medallas de Huelva desde Isla Cristina</title>
     <desc lang="es">11:50 – 14:20</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119142000 +0200" stop="20261119145000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119142000 +0100" stop="20261119145000 +0100" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">14:20 – 14:50</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
-  <programme start="20261119145000 +0200" stop="20261119150000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119145000 +0100" stop="20261119150000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">14:50 – 15:00</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261119150000 +0200" stop="20261119170000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119150000 +0100" stop="20261119170000 +0100" channel="CanalCosta.TV">
     <title lang="es">Especial Reportajes</title>
     <desc lang="es">15:00 – 17:00</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119170000 +0200" stop="20261119173000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119170000 +0100" stop="20261119173000 +0100" channel="CanalCosta.TV">
     <title lang="es">Especial Reportajes</title>
     <desc lang="es">17:00 – 17:30</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119173000 +0200" stop="20261119202000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119173000 +0100" stop="20261119202000 +0100" channel="CanalCosta.TV">
     <title lang="es">Medallas de Oro de la Provincia de Huelva</title>
     <desc lang="es">17:30 – 20:20</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261119202000 +0200" stop="20261119205000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119202000 +0100" stop="20261119205000 +0100" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">20:20 – 20:50</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
-  <programme start="20261119205000 +0200" stop="20261119210000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119205000 +0100" stop="20261119210000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">20:50 – 21:00</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261119213000 +0200" stop="20261119223000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119213000 +0100" stop="20261119223000 +0100" channel="CanalCosta.TV">
     <title lang="es">Primer Tramo</title>
     <desc lang="es">21:30 – 22:30</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2017/11/Primer-Tramo-300x166.jpg" />
   </programme>
-  <programme start="20261119223000 +0200" stop="20261119233000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119223000 +0100" stop="20261119233000 +0100" channel="CanalCosta.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">22:30 – 23:30</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
   </programme>
-  <programme start="20261119233000 +0200" stop="20261120000000 +0200" channel="CanalCosta.TV">
+  <programme start="20261119233000 +0100" stop="20261120000000 +0100" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">23:30 – 00:00</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
-  <programme start="20261119090000 +0200" stop="20261119100000 +0200" channel="Condavision.TV">
+  <programme start="20261119090000 +0100" stop="20261119100000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">09:00 – 10:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261119100000 +0200" stop="20261119110000 +0200" channel="Condavision.TV">
+  <programme start="20261119100000 +0100" stop="20261119110000 +0100" channel="Condavision.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">10:00 – 11:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
   </programme>
-  <programme start="20261119110000 +0200" stop="20261119120000 +0200" channel="Condavision.TV">
+  <programme start="20261119110000 +0100" stop="20261119120000 +0100" channel="Condavision.TV">
     <title lang="es">Especiales Condado</title>
     <desc lang="es">11:00 – 12:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119143000 +0200" channel="Condavision.TV">
+  <programme start="20261119120000 +0100" stop="20261119143000 +0100" channel="Condavision.TV">
     <title lang="es">MEDALLAS DE ORO DE LA PROVINCIA</title>
     <desc lang="es">12:00 – 14:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2018/06/dip-300x168.jpg" />
   </programme>
-  <programme start="20261119143000 +0200" stop="20261119150000 +0200" channel="Condavision.TV">
+  <programme start="20261119143000 +0100" stop="20261119150000 +0100" channel="Condavision.TV">
     <title lang="es">Cocina La Vida con ÁNGEL RIVAS</title>
     <desc lang="es">14:30 – 15:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2021/10/87b73aae-2a2b-4e99-9851-c08ed00eed9f-300x200.jpg" />
   </programme>
-  <programme start="20261119150000 +0200" stop="20261119160000 +0200" channel="Condavision.TV">
+  <programme start="20261119150000 +0100" stop="20261119160000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">15:00 – 16:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261119160000 +0200" stop="20261119180000 +0200" channel="Condavision.TV">
+  <programme start="20261119160000 +0100" stop="20261119180000 +0100" channel="Condavision.TV">
     <title lang="es">Especiales Condado</title>
     <desc lang="es">16:00 – 18:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
   </programme>
-  <programme start="20261119180000 +0200" stop="20261119203000 +0200" channel="Condavision.TV">
+  <programme start="20261119180000 +0100" stop="20261119203000 +0100" channel="Condavision.TV">
     <title lang="es">MEDALLAS DE ORO DE LA PROVINCIA</title>
     <desc lang="es">18:00 – 20:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2018/06/dip-300x168.jpg" />
   </programme>
-  <programme start="20261119203000 +0200" stop="20261119213000 +0200" channel="Condavision.TV">
+  <programme start="20261119203000 +0100" stop="20261119213000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">20:30 – 21:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261119213000 +0200" stop="20261119220000 +0200" channel="Condavision.TV">
+  <programme start="20261119213000 +0100" stop="20261119220000 +0100" channel="Condavision.TV">
     <title lang="es">CUAL ES TU CALLE</title>
     <desc lang="es">21:30 – 22:00</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119220000 +0200" stop="20261119232000 +0200" channel="Condavision.TV">
+  <programme start="20261119220000 +0100" stop="20261119232000 +0100" channel="Condavision.TV">
     <title lang="es">Somos Huelva en Escacena del Campo</title>
     <desc lang="es">22:00 – 23:20</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261119232000 +0200" stop="20261119235000 +0200" channel="Condavision.TV">
+  <programme start="20261119232000 +0100" stop="20261119235000 +0100" channel="Condavision.TV">
     <title lang="es">Especiales Condado</title>
     <desc lang="es">23:20 – 23:50</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
   </programme>
-  <programme start="20261120090000 +0200" stop="20261120094000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120090000 +0100" stop="20261120094000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">09:00 – 09:40</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261120094000 +0200" stop="20261120095000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120094000 +0100" stop="20261120095000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">09:40 – 09:50</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261120095000 +0200" stop="20261120124000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120095000 +0100" stop="20261120124000 +0100" channel="Teleonuba.TV">
     <title lang="es">Medallas de Oro de la Diputación Provincial</title>
     <desc lang="es">09:50 – 12:40</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261120124000 +0200" stop="20261120132000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120124000 +0100" stop="20261120132000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">12:40 – 13:20</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261120132000 +0200" stop="20261120143000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120132000 +0100" stop="20261120143000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva - Escacena</title>
     <desc lang="es">13:20 – 14:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261120143000 +0200" stop="20261120151000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120143000 +0100" stop="20261120151000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">14:30 – 15:10</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261120151000 +0200" stop="20261120152000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120151000 +0100" stop="20261120152000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">15:10 – 15:20</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261120152000 +0200" stop="20261120162000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120152000 +0100" stop="20261120162000 +0100" channel="Teleonuba.TV">
     <title lang="es">HOY debatimos</title>
     <desc lang="es">15:20 – 16:20</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_7d89538a2bd9d96aa3efa23609ee262d19592001.jpeg" />
   </programme>
-  <programme start="20261120162000 +0200" stop="20261120170000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120162000 +0100" stop="20261120170000 +0100" channel="Teleonuba.TV">
     <title lang="es">XXXIII Premio de Arquitectura 2026</title>
     <desc lang="es">16:20 – 17:00</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261120170000 +0200" stop="20261120174000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120170000 +0100" stop="20261120174000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">17:00 – 17:40</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261120174000 +0200" stop="20261120183000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120174000 +0100" stop="20261120183000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva - El Almendro</title>
     <desc lang="es">17:40 – 18:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261120183000 +0200" stop="20261120203000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120183000 +0100" stop="20261120203000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Rebujina</title>
     <desc lang="es">18:30 – 20:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_0218177984b104ff7a4a960cf09237751193bdb3.jpeg" />
   </programme>
-  <programme start="20261120203000 +0200" stop="20261120211000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120203000 +0100" stop="20261120211000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba</title>
     <desc lang="es">20:30 – 21:10</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261120211000 +0200" stop="20261120212000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120211000 +0100" stop="20261120212000 +0100" channel="Teleonuba.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">21:10 – 21:20</desc>
     <icon src="https://graph.facebook.com/Teleonuba/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261120213000 +0200" stop="20261120221000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120213000 +0100" stop="20261120221000 +0100" channel="Teleonuba.TV">
     <title lang="es">Descubriendo Huelva - La Sierra 1</title>
     <desc lang="es">21:30 – 22:10</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_296308b0d66ae892b44111346135027ff3b54699.jpeg" />
   </programme>
-  <programme start="20261120221000 +0200" stop="20261120231000 +0200" channel="Teleonuba.TV">
+  <programme start="20261120221000 +0100" stop="20261120231000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">22:10 – 23:10</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2016/02/laPara-250x175.jpg" />
   </programme>
-  <programme start="20261120000000 +0200" stop="20261120001000 +0200" channel="CanalCosta.TV">
+  <programme start="20261120000000 +0100" stop="20261120001000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">00:00 – 00:10</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261120001000 +0200" stop="20261120090000 +0200" channel="CanalCosta.TV">
+  <programme start="20261120001000 +0100" stop="20261120090000 +0100" channel="CanalCosta.TV">
     <title lang="es">Especial Reportajes</title>
     <desc lang="es">00:10 – 09:00</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261120090000 +0200" stop="20261120094000 +0200" channel="CanalCosta.TV">
+  <programme start="20261120090000 +0100" stop="20261120094000 +0100" channel="CanalCosta.TV">
     <title lang="es">Informativo</title>
     <desc lang="es">09:00 – 09:40</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/11/Informativo2-300x170.jpg" />
   </programme>
-  <programme start="20261120094000 +0200" stop="20261120095000 +0200" channel="CanalCosta.TV">
+  <programme start="20261120094000 +0100" stop="20261120095000 +0100" channel="CanalCosta.TV">
     <title lang="es">El Tiempo</title>
     <desc lang="es">09:40 – 09:50</desc>
     <icon src="https://canalcostatv.es/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-16-at-08.31.44-1.jpeg" />
   </programme>
-  <programme start="20261120095000 +0200" stop="20261120112000 +0200" channel="CanalCosta.TV">
+  <programme start="20261120095000 +0100" stop="20261120112000 +0100" channel="CanalCosta.TV">
     <title lang="es">Especial Reportajes</title>
     <desc lang="es">09:50 – 11:20</desc>
     <icon src="https://www.canalcostatv.es/wp-content/uploads/2014/01/cabecera-reportajes.jpg" />
   </programme>
-  <programme start="20261120090000 +0200" stop="20261120100000 +0200" channel="Condavision.TV">
+  <programme start="20261120090000 +0100" stop="20261120100000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">09:00 – 10:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261120100000 +0200" stop="20261120110000 +0200" channel="Condavision.TV">
+  <programme start="20261120100000 +0100" stop="20261120110000 +0100" channel="Condavision.TV">
     <title lang="es">Somos Huelva en Escacena del Campo</title>
     <desc lang="es">10:00 – 11:00</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261120110000 +0200" stop="20261120130000 +0200" channel="Condavision.TV">
+  <programme start="20261120110000 +0100" stop="20261120130000 +0100" channel="Condavision.TV">
     <title lang="es">Especiales Condado</title>
     <desc lang="es">11:00 – 13:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
   </programme>
-  <programme start="20261120130000 +0200" stop="20261120140000 +0200" channel="Condavision.TV">
+  <programme start="20261120130000 +0100" stop="20261120140000 +0100" channel="Condavision.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">13:00 – 14:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
   </programme>
-  <programme start="20261120140000 +0200" stop="20261120143000 +0200" channel="Condavision.TV">
+  <programme start="20261120140000 +0100" stop="20261120143000 +0100" channel="Condavision.TV">
     <title lang="es">Cocina de Temporada</title>
     <desc lang="es">14:00 – 14:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2020/10/cocina-d-logo-web-300x182.png" />
   </programme>
-  <programme start="20261120143000 +0200" stop="20261120150000 +0200" channel="Condavision.TV">
+  <programme start="20261120143000 +0100" stop="20261120150000 +0100" channel="Condavision.TV">
     <title lang="es">Cocer y Catar</title>
     <desc lang="es">14:30 – 15:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2020/01/CocerCatar_300x194.jpg" />
   </programme>
-  <programme start="20261120150000 +0200" stop="20261120160000 +0200" channel="Condavision.TV">
+  <programme start="20261120150000 +0100" stop="20261120160000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">15:00 – 16:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261120160000 +0200" stop="20261120173000 +0200" channel="Condavision.TV">
+  <programme start="20261120160000 +0100" stop="20261120173000 +0100" channel="Condavision.TV">
     <title lang="es">Especiales Condado</title>
     <desc lang="es">16:00 – 17:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2017/09/Carton-Web-Especiales-Condado-2017-300x168.jpg" />
   </programme>
-  <programme start="20261120173000 +0200" stop="20261120200000 +0200" channel="Condavision.TV">
+  <programme start="20261120173000 +0100" stop="20261120200000 +0100" channel="Condavision.TV">
     <title lang="es">MEDALLAS DE ORO DE LA PROVINCIA</title>
     <desc lang="es">17:30 – 20:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2018/06/dip-300x168.jpg" />
   </programme>
-  <programme start="20261120203000 +0200" stop="20261120213000 +0200" channel="Condavision.TV">
+  <programme start="20261120203000 +0100" stop="20261120213000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos</title>
     <desc lang="es">20:30 – 21:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261120213000 +0200" stop="20261120220000 +0200" channel="Condavision.TV">
+  <programme start="20261120213000 +0100" stop="20261120220000 +0100" channel="Condavision.TV">
     <title lang="es">En Clave Condado</title>
     <desc lang="es">21:30 – 22:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2019/09/en-clave-condado-300x208.jpg" />
   </programme>
-  <programme start="20261120220000 +0200" stop="20261120223000 +0200" channel="Condavision.TV">
+  <programme start="20261120220000 +0100" stop="20261120223000 +0100" channel="Condavision.TV">
     <title lang="es">DEPORTE EN ROSA</title>
     <desc lang="es">22:00 – 22:30</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261120223000 +0200" stop="20261120231000 +0200" channel="Condavision.TV">
+  <programme start="20261120223000 +0100" stop="20261120231000 +0100" channel="Condavision.TV">
     <title lang="es">Descubriendo Huelva - Sierra de Huelva</title>
     <desc lang="es">22:30 – 23:10</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261121090000 +0200" stop="20261121103000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121090000 +0100" stop="20261121103000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">09:00 – 10:30</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261121103000 +0200" stop="20261121110000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121103000 +0100" stop="20261121110000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">10:30 – 11:00</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261121110000 +0200" stop="20261121115000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121110000 +0100" stop="20261121115000 +0100" channel="Teleonuba.TV">
     <title lang="es">Descubriendo Huelva - La Sierra 1</title>
     <desc lang="es">11:00 – 11:50</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_296308b0d66ae892b44111346135027ff3b54699.jpeg" />
   </programme>
-  <programme start="20261121115000 +0200" stop="20261121133000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121115000 +0100" stop="20261121133000 +0100" channel="Teleonuba.TV">
     <title lang="es">III Encuentro de Danzas de la provincia</title>
     <desc lang="es">11:50 – 13:30</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261121133000 +0200" stop="20261121143000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121133000 +0100" stop="20261121143000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">13:30 – 14:30</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2016/02/laPara-250x175.jpg" />
   </programme>
-  <programme start="20261121143000 +0200" stop="20261121160000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121143000 +0100" stop="20261121160000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">14:30 – 16:00</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261121160000 +0200" stop="20261121173000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121160000 +0100" stop="20261121173000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Tertulia Recreativista</title>
     <desc lang="es">16:00 – 17:30</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2018/10/Captura-de-pantalla-2018-10-09-a-las-11.41.091-300x190.png" />
   </programme>
-  <programme start="20261121173000 +0200" stop="20261121184000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121173000 +0100" stop="20261121184000 +0100" channel="Teleonuba.TV">
     <title lang="es">Encuentro de Encajeras en Jabugo</title>
     <desc lang="es">17:30 – 18:40</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261121184000 +0200" stop="20261121193000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121184000 +0100" stop="20261121193000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva - Escacena</title>
     <desc lang="es">18:40 – 19:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261121193000 +0200" stop="20261121203000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121193000 +0100" stop="20261121203000 +0100" channel="Teleonuba.TV">
     <title lang="es">HOY debatimos</title>
     <desc lang="es">19:30 – 20:30</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_7d89538a2bd9d96aa3efa23609ee262d19592001.jpeg" />
   </programme>
-  <programme start="20261121203000 +0200" stop="20261121220000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121203000 +0100" stop="20261121220000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">20:30 – 22:00</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261121220000 +0200" stop="20261122000000 +0200" channel="Teleonuba.TV">
+  <programme start="20261121220000 +0100" stop="20261122000000 +0100" channel="Teleonuba.TV">
     <title lang="es">La Rebujina</title>
     <desc lang="es">22:00 – 00:00</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_0218177984b104ff7a4a960cf09237751193bdb3.jpeg" />
   </programme>
-  <programme start="20261121090000 +0200" stop="20261121110000 +0200" channel="Condavision.TV">
+  <programme start="20261121090000 +0100" stop="20261121110000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">09:00 – 11:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261121110000 +0200" stop="20261121120000 +0200" channel="Condavision.TV">
+  <programme start="20261121110000 +0100" stop="20261121120000 +0100" channel="Condavision.TV">
     <title lang="es">HOY DEBATIMOS</title>
     <desc lang="es">11:00 – 12:00</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261121120000 +0200" stop="20261121123000 +0200" channel="Condavision.TV">
+  <programme start="20261121120000 +0100" stop="20261121123000 +0100" channel="Condavision.TV">
     <title lang="es">En Clave Condado</title>
     <desc lang="es">12:00 – 12:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2019/09/en-clave-condado-300x208.jpg" />
   </programme>
-  <programme start="20261121123000 +0200" stop="20261121131000 +0200" channel="Condavision.TV">
+  <programme start="20261121123000 +0100" stop="20261121131000 +0100" channel="Condavision.TV">
     <title lang="es">Descubriendo Huelva - Sierra de Huelva</title>
     <desc lang="es">12:30 – 13:10</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261121140000 +0200" stop="20261121143000 +0200" channel="Condavision.TV">
+  <programme start="20261121140000 +0100" stop="20261121143000 +0100" channel="Condavision.TV">
     <title lang="es">Cocina de Temporada</title>
     <desc lang="es">14:00 – 14:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2020/10/cocina-d-logo-web-300x182.png" />
   </programme>
-  <programme start="20261121143000 +0200" stop="20261121163000 +0200" channel="Condavision.TV">
+  <programme start="20261121143000 +0100" stop="20261121163000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">14:30 – 16:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261121163000 +0200" stop="20261121171000 +0200" channel="Condavision.TV">
+  <programme start="20261121163000 +0100" stop="20261121171000 +0100" channel="Condavision.TV">
     <title lang="es">Somos Huelva en El Almendro</title>
     <desc lang="es">16:30 – 17:10</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261121171000 +0200" stop="20261121175000 +0200" channel="Condavision.TV">
+  <programme start="20261121171000 +0100" stop="20261121175000 +0100" channel="Condavision.TV">
     <title lang="es">Somos Huelva en Escacena del Campo</title>
     <desc lang="es">17:10 – 17:50</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261121203000 +0200" stop="20261121223000 +0200" channel="Condavision.TV">
+  <programme start="20261121203000 +0100" stop="20261121223000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">20:30 – 22:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261122090000 +0200" stop="20261122103000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122090000 +0100" stop="20261122103000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">09:00 – 10:30</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261122103000 +0200" stop="20261122110000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122103000 +0100" stop="20261122110000 +0100" channel="Teleonuba.TV">
     <title lang="es">Festival de Cine Iberoamericano de Huelva</title>
     <desc lang="es">10:30 – 11:00</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261122110000 +0200" stop="20261122115000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122110000 +0100" stop="20261122115000 +0100" channel="Teleonuba.TV">
     <title lang="es">Somos Huelva</title>
     <desc lang="es">11:00 – 11:50</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_fe5212b7db756315a1456968ed7fbdd11bb2df6d.jpeg" />
   </programme>
-  <programme start="20261122115000 +0200" stop="20261122123000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122115000 +0100" stop="20261122123000 +0100" channel="Teleonuba.TV">
     <title lang="es">Encuentro de Encajeras en Jabugo</title>
     <desc lang="es">11:50 – 12:30</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261122123000 +0200" stop="20261122143000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122123000 +0100" stop="20261122143000 +0100" channel="Teleonuba.TV">
     <title lang="es">XI Encuentro de Campanilleros en Fuenteheridos</title>
     <desc lang="es">12:30 – 14:30</desc>
     <icon src="https://manager.azhr.tv/images/bg_programs_0bdf68f7a9c2fd540611746d1301fc35bddf1422.jpeg" />
   </programme>
-  <programme start="20261122143000 +0200" stop="20261122160000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122143000 +0100" stop="20261122160000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">14:30 – 16:00</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261122160000 +0200" stop="20261122170000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122160000 +0100" stop="20261122170000 +0100" channel="Teleonuba.TV">
     <title lang="es">HOY debatimos</title>
     <desc lang="es">16:00 – 17:00</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_7d89538a2bd9d96aa3efa23609ee262d19592001.jpeg" />
   </programme>
-  <programme start="20261122170000 +0200" stop="20261122200000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122170000 +0100" stop="20261122200000 +0100" channel="Teleonuba.TV">
     <title lang="es">Recreativo de Huelva - C.D. Badajoz</title>
     <desc lang="es">17:00 – 20:00</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_3b1f968a2464a2ab80b9f9e34a99c978070b438d.jpeg" />
   </programme>
-  <programme start="20261122203000 +0200" stop="20261122220000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122203000 +0100" stop="20261122220000 +0100" channel="Teleonuba.TV">
     <title lang="es">Informativos Teleonuba (Fin de Semana)</title>
     <desc lang="es">20:30 – 22:00</desc>
     <icon src="https://www.teleonuba.es/wp-content/uploads/2017/10/Still0927_00000-300x168.jpg" />
   </programme>
-  <programme start="20261122220000 +0200" stop="20261123000000 +0200" channel="Teleonuba.TV">
+  <programme start="20261122220000 +0100" stop="20261123000000 +0100" channel="Teleonuba.TV">
     <title lang="es">Recreativo de Huelva - C.D. Badajoz</title>
     <desc lang="es">22:00 – 00:00</desc>
     <icon src="https://manager.azhr.tv/images/cover_programs_3b1f968a2464a2ab80b9f9e34a99c978070b438d.jpeg" />
   </programme>
-  <programme start="20261122090000 +0200" stop="20261122110000 +0200" channel="Condavision.TV">
+  <programme start="20261122090000 +0100" stop="20261122110000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">09:00 – 11:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261122110000 +0200" stop="20261122120000 +0200" channel="Condavision.TV">
+  <programme start="20261122110000 +0100" stop="20261122120000 +0100" channel="Condavision.TV">
     <title lang="es">La Pará Rociera</title>
     <desc lang="es">11:00 – 12:00</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2016/10/LA-PARA-ROCIERA-300x168.jpg" />
   </programme>
-  <programme start="20261122120000 +0200" stop="20261122133000 +0200" channel="Condavision.TV">
+  <programme start="20261122120000 +0100" stop="20261122133000 +0100" channel="Condavision.TV">
     <title lang="es">Plenos</title>
     <desc lang="es">12:00 – 13:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/02/DSC_0099.jpg" />
   </programme>
-  <programme start="20261122140000 +0200" stop="20261122143000 +0200" channel="Condavision.TV">
+  <programme start="20261122140000 +0100" stop="20261122143000 +0100" channel="Condavision.TV">
     <title lang="es">Cocina La Vida con ÁNGEL RIVAS</title>
     <desc lang="es">14:00 – 14:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2021/10/87b73aae-2a2b-4e99-9851-c08ed00eed9f-300x200.jpg" />
   </programme>
-  <programme start="20261122143000 +0200" stop="20261122163000 +0200" channel="Condavision.TV">
+  <programme start="20261122143000 +0100" stop="20261122163000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">14:30 – 16:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261122170000 +0200" stop="20261122193000 +0200" channel="Condavision.TV">
+  <programme start="20261122170000 +0100" stop="20261122193000 +0100" channel="Condavision.TV">
     <title lang="es">RECREATIVO HUELVA</title>
     <desc lang="es">17:00 – 19:30</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
   </programme>
-  <programme start="20261122203000 +0200" stop="20261122223000 +0200" channel="Condavision.TV">
+  <programme start="20261122203000 +0100" stop="20261122223000 +0100" channel="Condavision.TV">
     <title lang="es">Informativos Fin de Semana</title>
     <desc lang="es">20:30 – 22:30</desc>
     <icon src="https://www.condavision.es/wp-content/uploads/2014/10/CONDAVISION-NOTICIAS-300x164.jpg" />
   </programme>
-  <programme start="20261122223000 +0200" stop="20261122231000 +0200" channel="Condavision.TV">
+  <programme start="20261122223000 +0100" stop="20261122231000 +0100" channel="Condavision.TV">
     <title lang="es">Descubriendo Huelva - Sierra de Huelva</title>
     <desc lang="es">22:30 – 23:10</desc>
     <icon src="https://graph.facebook.com/condavision/picture?width=200&amp;height=200" />
