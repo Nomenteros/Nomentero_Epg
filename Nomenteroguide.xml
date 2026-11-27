@@ -1290,13 +1290,13 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M24HP518438" />
   </programme>
-  <programme start="20261127153000 +0100" stop="20261127153500 +0100" channel="LA 1">
+  <programme start="20261127153000 +0100" stop="20261127153600 +0100" channel="LA 1">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP3921384" />
   </programme>
-  <programme start="20261127153500 +0100" stop="20261127154000 +0100" channel="LA 1">
+  <programme start="20261127153600 +0100" stop="20261127154000 +0100" channel="LA 1">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
     <category lang="es">Información</category>
@@ -1308,26 +1308,27 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP2189999" />
   </programme>
-  <programme start="20261127155000 +0100" stop="20261127175000 +0100" channel="LA 1">
+  <programme start="20261127155000 +0100" stop="20261127175500 +0100" channel="LA 1">
     <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4383285" />
+    <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4463918" />
+    <episode-num system="onscreen">T3 Ep.235</episode-num>
   </programme>
-  <programme start="20261127175000 +0100" stop="20261127184000 +0100" channel="LA 1">
+  <programme start="20261127175500 +0100" stop="20261127184400 +0100" channel="LA 1">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Escándalo en palacio cuando sale a la luz la verdad sobre don Hernando. El marqués pide perdón a los Gálvez de Aguirre, pero su tiempo en el Valle podría acabar aquí. Mientras, Enriqueta, Mercedes y Victoria preparan una decisiva reunión con el notario.</desc>
     <category lang="es">Series</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4314916" />
+    <episode-num system="onscreen">T4 Ep.113</episode-num>
   </programme>
-  <programme start="20261127184000 +0100" stop="20261127193500 +0100" channel="LA 1">
+  <programme start="20261127184400 +0100" stop="20261127194100 +0100" channel="LA 1">
     <title lang="es">La Promesa</title>
     <desc lang="es">Lorenzo acepta el ritmo de Ciro para entregar los planos: poco a poco. Es importante que nadie los eche en falta. Además, Máximo le advierte que le está vigilando….</desc>
     <category lang="es">Series</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MTVEP4463920" />
     <episode-num system="onscreen">T1 Ep.956</episode-num>
   </programme>
-  <programme start="20261127193500 +0100" stop="20261127203000 +0100" channel="LA 1">
+  <programme start="20261127194100 +0100" stop="20261127203000 +0100" channel="LA 1">
     <title lang="es">La Promesa</title>
     <desc lang="es">Jacobo sorprende a Martina y Adriano besándose. Cómo tienen tan poco cuidado. Lorenzo informa a Ciro de que la logia ya recibió los primeros planos cuando los sorprende Máximo, que advierte a Julieta que los vigile: algo se traen entre manos.</desc>
     <category lang="es">Series</category>
@@ -1629,32 +1630,33 @@
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P620504" />
   </programme>
-  <programme start="20261127143500 +0100" stop="20261127153500 +0100" channel="LA 2">
+  <programme start="20261127143500 +0100" stop="20261127153600 +0100" channel="LA 2">
     <title lang="es">El cazador</title>
     <desc lang="es">Concurso de preguntas y respuestas en el que concursantes anónimos luchan frente a un concursante profesional de la televisión para obtener un gran premio final. En el programa, los cuatro concursantes unirán sus conocimientos para ganar al 'cazador'.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P2162698" />
     <episode-num system="onscreen">T8 Ep.142</episode-num>
   </programme>
-  <programme start="20261127153500 +0100" stop="20261127163000 +0100" channel="LA 2">
+  <programme start="20261127153600 +0100" stop="20261127162900 +0100" channel="LA 2">
     <title lang="es">Saber y ganar</title>
-    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.</desc>
+    <desc lang="es">Programa concurso diario en el que tres participantes demuestran sus conocimientos y su agilidad mental.</desc>
     <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4400076" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4464295" />
+    <episode-num system="onscreen">T30 Ep.671</episode-num>
   </programme>
-  <programme start="20261127163000 +0100" stop="20261127172000 +0100" channel="LA 2">
+  <programme start="20261127162900 +0100" stop="20261127172100 +0100" channel="LA 2">
     <title lang="es">La reina de la noche</title>
     <desc lang="es">Los depredadores se preparan para salir de caza durante la noche en el bosque mediterráneo. Entre ellos la jineta, la reina de la noche, un carnívoro que se adapta a casi todos los ecosistemas y, aunque es una especie africana, ha colonizado la península Ibérica.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P1652670" />
   </programme>
-  <programme start="20261127172000 +0100" stop="20261127175500 +0100" channel="LA 2">
+  <programme start="20261127172100 +0100" stop="20261127175200 +0100" channel="LA 2">
     <title lang="es">Oso perezoso, el nacimiento de un príncipe</title>
     <desc lang="es">La extraordinaria historia de un valiente cachorro de oso perezoso que descubre lo que se necesita para sobrevivir en la naturaleza.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MLA2P4330439" />
   </programme>
-  <programme start="20261127175500 +0100" stop="20261127203500 +0100" channel="LA 2">
+  <programme start="20261127175200 +0100" stop="20261127203500 +0100" channel="LA 2">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
     <category lang="es">Entretenimiento</category>
@@ -1961,53 +1963,53 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4454671" />
     <episode-num system="onscreen">T1 Ep.26</episode-num>
   </programme>
-  <programme start="20261127135600 +0100" stop="20261127150000 +0100" channel="Antena 3">
+  <programme start="20261127135600 +0100" stop="20261127145800 +0100" channel="Antena 3">
     <title lang="es">La ruleta de la suerte</title>
     <desc lang="es">Concurso presentado por Jorge Fernández. Cada día participan tres concursantes que se enfrentan a un panel en blanco en el que los jugadores deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. Según la opción elegida, los concursantes pueden comprar una vocal o intentar resolver directamente el puzzle.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4454679" />
     <episode-num system="onscreen">T2026 Ep.4811</episode-num>
   </programme>
-  <programme start="20261127150000 +0100" stop="20261127153000 +0100" channel="Antena 3">
+  <programme start="20261127145800 +0100" stop="20261127153000 +0100" channel="Antena 3">
     <title lang="es">Antena 3 Noticias 1</title>
     <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P758302" />
   </programme>
-  <programme start="20261127153000 +0100" stop="20261127153500 +0100" channel="Antena 3">
+  <programme start="20261127153000 +0100" stop="20261127153900 +0100" channel="Antena 3">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P1105271" />
   </programme>
-  <programme start="20261127153500 +0100" stop="20261127154000 +0100" channel="Antena 3">
+  <programme start="20261127153900 +0100" stop="20261127155000 +0100" channel="Antena 3">
     <title lang="es">Al detalle</title>
     <desc lang="es">Espacio informativo dedicado al análisis en profundidad de temas de interés para la sociedad y cuestiones relevantes de la actualidad.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4454687" />
     <episode-num system="onscreen">T1 Ep.327</episode-num>
   </programme>
-  <programme start="20261127154000 +0100" stop="20261127154500 +0100" channel="Antena 3">
+  <programme start="20261127155000 +0100" stop="20261127155600 +0100" channel="Antena 3">
     <title lang="es">Tu tiempo con Roberto Brasero</title>
     <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P997438" />
   </programme>
-  <programme start="20261127154500 +0100" stop="20261127170000 +0100" channel="Antena 3">
+  <programme start="20261127155600 +0100" stop="20261127170000 +0100" channel="Antena 3">
     <title lang="es">Sueños de libertad</title>
     <desc lang="es">Begoña Montes es una mujer atrapada en un matrimonio abusivo que busca la libertad para ella y su hijastra. Pero la España de 1958 no promete grandes oportunidades para una mujer sola.</desc>
     <category lang="es">Series</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4454699" />
     <episode-num system="onscreen">T1 Ep.699</episode-num>
   </programme>
-  <programme start="20261127170000 +0100" stop="20261127200000 +0100" channel="Antena 3">
+  <programme start="20261127170000 +0100" stop="20261127200600 +0100" channel="Antena 3">
     <title lang="es">Y ahora, Sonsoles</title>
     <desc lang="es">Programa de actualidad en directo presentado por Sonsoles Ónega. Contará con los mejores invitados y colaboradores en plató para comentar las noticias y sucesos más relevantes de cada día.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MA3P4454719" />
     <episode-num system="onscreen">T5 Ep.1042</episode-num>
   </programme>
-  <programme start="20261127200000 +0100" stop="20261127210000 +0100" channel="Antena 3">
+  <programme start="20261127200600 +0100" stop="20261127210000 +0100" channel="Antena 3">
     <title lang="es">Pasapalabra</title>
     <desc lang="es">El mítico concurso vuelve renovado a la que fuera su casa con Roberto Leal al frente del formato. Pasapalabra es uno de los formatos más queridos por la audiencia, con 20 años de historia en la televisión española, se trata de uno de los concursos más potentes a nivel internacional.</desc>
     <category lang="es">Entretenimiento</category>
@@ -2314,32 +2316,32 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4462109" />
     <episode-num system="onscreen">T8 Ep.85</episode-num>
   </programme>
-  <programme start="20261127140000 +0100" stop="20261127145500 +0100" channel="Cuatro">
+  <programme start="20261127140000 +0100" stop="20261127145400 +0100" channel="Cuatro">
     <title lang="es">Noticias Cuatro mediodía</title>
     <desc lang="es">Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P3890348" />
   </programme>
-  <programme start="20261127145500 +0100" stop="20261127151500 +0100" channel="Cuatro">
+  <programme start="20261127145400 +0100" stop="20261127151700 +0100" channel="Cuatro">
     <title lang="es">ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
     <desc lang="es">Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, ''El Desmarque de Cuatro'' ofrece imágenes curiosas del universo deportivo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4371446" />
   </programme>
-  <programme start="20261127151500 +0100" stop="20261127153000 +0100" channel="Cuatro">
+  <programme start="20261127151700 +0100" stop="20261127152700 +0100" channel="Cuatro">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
-  <programme start="20261127153000 +0100" stop="20261127190000 +0100" channel="Cuatro">
+  <programme start="20261127152700 +0100" stop="20261127190100 +0100" channel="Cuatro">
     <title lang="es">Todo es mentira</title>
     <desc lang="es">Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MC4P4462111" />
     <episode-num system="onscreen">T11 Ep.84</episode-num>
   </programme>
-  <programme start="20261127190000 +0100" stop="20261127200000 +0100" channel="Cuatro">
+  <programme start="20261127190100 +0100" stop="20261127200000 +0100" channel="Cuatro">
     <title lang="es">Lo sabe, no lo sabe</title>
     <desc lang="es">Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.</desc>
     <category lang="es">Entretenimiento</category>
@@ -2597,53 +2599,53 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4462081" />
     <episode-num system="onscreen">T3 Ep.25</episode-num>
   </programme>
-  <programme start="20261127134500 +0100" stop="20261127150000 +0100" channel="Telecinco">
+  <programme start="20261127134500 +0100" stop="20261127145700 +0100" channel="Telecinco">
     <title lang="es">Vamos a ver</title>
     <desc lang="es">Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4462083" />
     <episode-num system="onscreen">T6 Ep.64</episode-num>
   </programme>
-  <programme start="20261127150000 +0100" stop="20261127154000 +0100" channel="Telecinco">
+  <programme start="20261127145700 +0100" stop="20261127153900 +0100" channel="Telecinco">
     <title lang="es">Informativos Telecinco</title>
     <desc lang="es">Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P3899147" />
   </programme>
-  <programme start="20261127154000 +0100" stop="20261127154500 +0100" channel="Telecinco">
+  <programme start="20261127153900 +0100" stop="20261127155100 +0100" channel="Telecinco">
     <title lang="es">El Desmarque Telecinco</title>
     <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4207085" />
   </programme>
-  <programme start="20261127154500 +0100" stop="20261127155000 +0100" channel="Telecinco">
+  <programme start="20261127155100 +0100" stop="20261127155900 +0100" channel="Telecinco">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P1373654" />
   </programme>
-  <programme start="20261127155000 +0100" stop="20261127180000 +0100" channel="Telecinco">
+  <programme start="20261127155900 +0100" stop="20261127174500 +0100" channel="Telecinco">
     <title lang="es">La tarde se mueve</title>
     <desc lang="es">Ion Aramendi y sus colaboradores te traen de lunes a viernes la última hora de la actualidad y la crónica social.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4462085" />
     <episode-num system="onscreen">T1 Ep.38</episode-num>
   </programme>
-  <programme start="20261127180000 +0100" stop="20261127190000 +0100" channel="Telecinco">
+  <programme start="20261127174500 +0100" stop="20261127185600 +0100" channel="Telecinco">
     <title lang="es">El Diario de Jorge</title>
     <desc lang="es">Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4462087" />
     <episode-num system="onscreen">T7 Ep.37</episode-num>
   </programme>
-  <programme start="20261127190000 +0100" stop="20261127200000 +0100" channel="Telecinco">
+  <programme start="20261127185600 +0100" stop="20261127195900 +0100" channel="Telecinco">
     <title lang="es">Rueda la Letra</title>
     <desc lang="es">Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MT5P4462089" />
     <episode-num system="onscreen">T1 Ep.74</episode-num>
   </programme>
-  <programme start="20261127200000 +0100" stop="20261127210500 +0100" channel="Telecinco">
+  <programme start="20261127195900 +0100" stop="20261127210500 +0100" channel="Telecinco">
     <title lang="es">¡Allá tú! Diarios</title>
     <desc lang="es">Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -2900,39 +2902,39 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4454460" />
     <episode-num system="onscreen">T17 Ep.3986</episode-num>
   </programme>
-  <programme start="20261127142400 +0100" stop="20261127151000 +0100" channel="La Sexta">
+  <programme start="20261127142400 +0100" stop="20261127150700 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias</title>
     <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP575379" />
   </programme>
-  <programme start="20261127151000 +0100" stop="20261127152000 +0100" channel="La Sexta">
+  <programme start="20261127150700 +0100" stop="20261127151700 +0100" channel="La Sexta">
     <title lang="es">laSexta Deportes</title>
     <desc lang="es">Conducido por José Luis Sánchez, este espacio ofrece la más completa información del fútbol, el baloncesto nacional e internacional y lo más destacado del deporte en general. Para analizar los eventos y las polémicas, el programa cuenta con la opinión de especialistas.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP764081" />
   </programme>
-  <programme start="20261127152000 +0100" stop="20261127153000 +0100" channel="La Sexta">
+  <programme start="20261127151700 +0100" stop="20261127152600 +0100" channel="La Sexta">
     <title lang="es">laSexta Meteo</title>
     <desc lang="es">Tras el informativo, ''laSexta Meteo'' ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP985259" />
   </programme>
-  <programme start="20261127153000 +0100" stop="20261127170000 +0100" channel="La Sexta">
+  <programme start="20261127152600 +0100" stop="20261127170000 +0100" channel="La Sexta">
     <title lang="es">Zapeando</title>
     <desc lang="es">En 'Zapeando' se hace eco de los que se cuece en las Redes Sociales, comentan y hacen quinielas con las audiencias, elaboran divertidos montajes y, por supuesto, tampoco faltan vídeos de zapping. 'Zapeando' pone su ojo crítico en los detalles más sutiles de programas, series, concursos, informativos... Detalles que quizá a los espectadores se le han escapado pero no a los guionistas de este programa.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4454462" />
     <episode-num system="onscreen">T14 Ep.3240</episode-num>
   </programme>
-  <programme start="20261127170000 +0100" stop="20261127200000 +0100" channel="La Sexta">
+  <programme start="20261127170000 +0100" stop="20261127200100 +0100" channel="La Sexta">
     <title lang="es">Más vale tarde</title>
     <desc lang="es">Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSEXTAP4454464" />
     <episode-num system="onscreen">T15 Ep.3550</episode-num>
   </programme>
-  <programme start="20261127200000 +0100" stop="20261127210000 +0100" channel="La Sexta">
+  <programme start="20261127200100 +0100" stop="20261127210000 +0100" channel="La Sexta">
     <title lang="es">laSexta Noticias</title>
     <desc lang="es">Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.</desc>
     <category lang="es">Información</category>
@@ -23418,71 +23420,71 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3359249" />
     <episode-num system="onscreen">T269</episode-num>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127095500 +0100" channel="M+ Deportes">
+  <programme start="20261127080000 +0100" stop="20261127095200 +0100" channel="M+ Deportes">
     <title lang="es">Copa Davis. Fase Final: Gran Bretaña - Alemania Evento 3</title>
     <desc lang="es">España afronta la Final a 8 de la Copa Davis en Bolonia con el objetivo de conquistar su séptima Ensaladera. La selección capitaneada por David Ferrer está compuesta por Carlos Alcaraz, que viene de ganar las ATP Finals, Rafa Jódar, Dani Mérida, Pedro Martínez y Marcel Granollers.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4506512" />
   </programme>
-  <programme start="20261127095500 +0100" stop="20261127120000 +0100" channel="M+ Deportes">
+  <programme start="20261127095200 +0100" stop="20261127120100 +0100" channel="M+ Deportes">
     <title lang="es">Euroliga de baloncesto: FC Barcelona - Fenerbahce</title>
     <desc lang="es">Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia, que aspiran a reeditar el éxito de la pasada temporada de Blancos y Taronjas que llegaron a disputar la Final 4. Este curso los enemigos a batir serán los dos equipos griegos, Olympiakos y Panathinaikos. Los Rojos, actuales campeones, vuelve a ser los grandes favoritos. Los Verdes se han reforzado mucho este verano para tratar de volver a ser campeones de Europa. Los banquillos hablarán castellano, con 7 entrenadores españoles: Laso, Pascual, Albert, Mumbrú, Martínez, Navarro y Peñarroya.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504600" />
   </programme>
-  <programme start="20261127120000 +0100" stop="20261127123000 +0100" channel="M+ Deportes">
+  <programme start="20261127120100 +0100" stop="20261127122900 +0100" channel="M+ Deportes">
     <title lang="es">ATP Tour This Week</title>
     <desc lang="es">ATP Tour This Week.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3824946" />
     <episode-num system="onscreen">T46</episode-num>
   </programme>
-  <programme start="20261127123000 +0100" stop="20261127142500 +0100" channel="M+ Deportes">
+  <programme start="20261127122900 +0100" stop="20261127143000 +0100" channel="M+ Deportes">
     <title lang="es">Euroliga de baloncesto: Real Madrid - Zalgiris</title>
     <desc lang="es">Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia, que aspiran a reeditar el éxito de la pasada temporada de Blancos y Taronjas que llegaron a disputar la Final 4. Este curso los enemigos a batir serán los dos equipos griegos, Olympiakos y Panathinaikos. Los Rojos, actuales campeones, vuelve a ser los grandes favoritos. Los Verdes se han reforzado mucho este verano para tratar de volver a ser campeones de Europa. Los banquillos hablarán castellano, con 7 entrenadores españoles: Laso, Pascual, Albert, Mumbrú, Martínez, Navarro y Peñarroya.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514148" />
   </programme>
-  <programme start="20261127142500 +0100" stop="20261127145500 +0100" channel="M+ Deportes">
+  <programme start="20261127143000 +0100" stop="20261127150200 +0100" channel="M+ Deportes">
     <title lang="es">Eurofighters</title>
     <desc lang="es">Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas de Europa.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4503389" />
     <episode-num system="onscreen">T26/27 Ep.10</episode-num>
   </programme>
-  <programme start="20261127145500 +0100" stop="20261127165000 +0100" channel="M+ Deportes">
+  <programme start="20261127150200 +0100" stop="20261127170100 +0100" channel="M+ Deportes">
     <title lang="es">FIBA Copa del Mundo. Clasificatorios: Montenegro - España</title>
     <desc lang="es">Las 32 mejores selecciones de Europa competirán durante las 3 ventanas FIBA para clasificarse para el Mundial de Catar 2027. La selección española, dirigida por Chus Mateo, marcha con paso firme en esta primera fase.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4517374" />
   </programme>
-  <programme start="20261127165000 +0100" stop="20261127172000 +0100" channel="M+ Deportes">
+  <programme start="20261127170100 +0100" stop="20261127173100 +0100" channel="M+ Deportes">
     <title lang="es">World of free sports</title>
     <desc lang="es">El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4022933" />
     <episode-num system="onscreen">T46</episode-num>
   </programme>
-  <programme start="20261127172000 +0100" stop="20261127191200 +0100" channel="M+ Deportes">
+  <programme start="20261127173100 +0100" stop="20261127192700 +0100" channel="M+ Deportes">
     <title lang="es">Euroliga de baloncesto: Valencia Basket - Panathinaikos</title>
     <desc lang="es">El Roig Arena revivirá la revancha de uno de los mejores duelos de playoffs de la historia de la Euroliga. El líder, Valencia Basket (10-3), recibe al gran favorito, Panathinaikos (9-4). El equipo de Xavi Albert tiene el segundo mejor ataque de Europa y los de Obradovic son la segunda mejor defensa. T.J. Shorts, el MVP del primer mes de competición, se enfrentará a su ex equipo, en el que Kendrick Nunn vuelve a ser el máximo anotador con casi 20 puntos por partido.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4504660" />
   </programme>
-  <programme start="20261127191200 +0100" stop="20261127200700 +0100" channel="M+ Deportes">
+  <programme start="20261127192700 +0100" stop="20261127202300 +0100" channel="M+ Deportes">
     <title lang="es">Highlights SailGP</title>
     <sub-title lang="es">Dubái</sub-title>
     <desc lang="es">Resumen con los mejores momentos de SailGP.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4380288" />
   </programme>
-  <programme start="20261127200700 +0100" stop="20261127220200 +0100" channel="M+ Deportes">
+  <programme start="20261127202300 +0100" stop="20261127222700 +0100" channel="M+ Deportes">
     <title lang="es">Euroliga de baloncesto: Baskonia - Efes</title>
     <desc lang="es">Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514829" />
   </programme>
-  <programme start="20261127220200 +0100" stop="20261127230000 +0100" channel="M+ Deportes">
+  <programme start="20261127222700 +0100" stop="20261127230000 +0100" channel="M+ Deportes">
     <title lang="es">World of free sports</title>
     <desc lang="es">El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
     <category lang="es">Deportes</category>
@@ -23616,38 +23618,43 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4406652" />
   </programme>
-  <programme start="20261127154500 +0100" stop="20261127160000 +0100" channel="M+ Deportes 2">
+  <programme start="20261127154500 +0100" stop="20261127161400 +0100" channel="M+ Deportes 2">
     <title lang="es">La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title lang="es">TBC</sub-title>
+    <sub-title lang="es">Italia - Rep.Checa Partido 1</sub-title>
     <desc lang="es">Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2713305V4438288" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2719626V4438279" />
   </programme>
-  <programme start="20261127160000 +0100" stop="20261127180000 +0100" channel="M+ Deportes 2">
-    <title lang="es">Copa Davis. Fase Final: Semifinal 1 Evento 1</title>
+  <programme start="20261127161400 +0100" stop="20261127174800 +0100" channel="M+ Deportes 2">
+    <title lang="es">Copa Davis. Fase Final: Italia - Chequia Partido 1</title>
     <desc lang="es">España afronta la Final a 8 de la Copa Davis en Bolonia con el objetivo de conquistar su séptima Ensaladera. La selección capitaneada por David Ferrer está compuesta por Carlos Alcaraz, que viene de ganar las ATP Finals, Rafa Jódar, Dani Mérida, Pedro Martínez y Marcel Granollers.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518121" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4521219" />
   </programme>
-  <programme start="20261127180000 +0100" stop="20261127181500 +0100" channel="M+ Deportes 2">
+  <programme start="20261127174800 +0100" stop="20261127181500 +0100" channel="M+ Deportes 2">
     <title lang="es">La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title lang="es">TBC</sub-title>
+    <sub-title lang="es">Italia - Rep.Checa Partido 2</sub-title>
     <desc lang="es">Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2713305V4438288" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2719627V4438280" />
   </programme>
-  <programme start="20261127181500 +0100" stop="20261127201500 +0100" channel="M+ Deportes 2">
-    <title lang="es">Copa Davis. Fase Final: Semifinal 1 Evento 2</title>
+  <programme start="20261127181500 +0100" stop="20261127195400 +0100" channel="M+ Deportes 2">
+    <title lang="es">Copa Davis. Fase Final: Italia - Chequia Partido 2</title>
     <desc lang="es">España afronta la Final a 8 de la Copa Davis en Bolonia con el objetivo de conquistar su séptima Ensaladera. La selección capitaneada por David Ferrer está compuesta por Carlos Alcaraz, que viene de ganar las ATP Finals, Rafa Jódar, Dani Mérida, Pedro Martínez y Marcel Granollers.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518121" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4521221" />
   </programme>
-  <programme start="20261127201500 +0100" stop="20261127203000 +0100" channel="M+ Deportes 2">
+  <programme start="20261127195400 +0100" stop="20261127200900 +0100" channel="M+ Deportes 2">
     <title lang="es">La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title lang="es">TBC</sub-title>
+    <sub-title lang="es">Italia - Rep.Checa Partido 3</sub-title>
     <desc lang="es">Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2713305V4438288" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2719628V4438281" />
+  </programme>
+  <programme start="20261127200900 +0100" stop="20261127203000 +0100" channel="M+ Deportes 2">
+    <title lang="es">13ª edición del Máster del Rafa Nadal Tour by Santander</title>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4519349" />
   </programme>
   <programme start="20261127203000 +0100" stop="20261127223000 +0100" channel="M+ Deportes 2">
     <title lang="es">Copa Davis. Fase Final: Semifinal 1 Evento 3</title>
@@ -23940,58 +23947,66 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515968" />
   </programme>
-  <programme start="20261127140000 +0100" stop="20261127170000 +0100" channel="M+ Golf">
+  <programme start="20261127140000 +0100" stop="20261127164800 +0100" channel="M+ Golf">
     <title lang="es">Ladies European Tour: Andalucía Costa del Sol. Open de España. Jornada 2</title>
     <desc lang="es">La Cala Resort en Mijas pone el broche de oro a la temporada en el Ladies European Tour. En esta 24 edición de nuestro Open, 14 españolas pelearán por ganar en casa y sumar el quinto trofeo para España en este torneo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515968" />
   </programme>
-  <programme start="20261127170000 +0100" stop="20261127180500 +0100" channel="M+ Golf">
+  <programme start="20261127164800 +0100" stop="20261127175300 +0100" channel="M+ Golf">
     <title lang="es">Película Oficial Masters de Augusta 2026</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4468045" />
   </programme>
-  <programme start="20261127180500 +0100" stop="20261127190000 +0100" channel="M+ Golf">
+  <programme start="20261127175300 +0100" stop="20261127184800 +0100" channel="M+ Golf">
     <title lang="es">The Legends Tour</title>
     <sub-title lang="es">Vietnam</sub-title>
-    <desc lang="es">El Staysure Tour, el circuito senior europeo se relanza con una nueva imagen y un nuevo nombre: Legends Tour. Porque son leyendas, capitanes ganadores de Ryder Cup, campeones de major e iconos de golf los que al cumplir los 50 años se enfrentan en el circuito de Europa de seniors, y los que hacen también las delicias de aquellos que tiene la oportunidad de jugar con ellos en los proams de los torneos de la temporada. Arranca esta nueva serie de programas que resumirá la temporada de este nuevo Legends Tour.</desc>
+    <desc lang="es">El Staysure Tour entra ya en la recta final de la temporada con su visita a Vietnam Cada torneo es clave para mantener la tarjeta de cara a la próxima temporada.e iconos de golf los que al cumplir los 50 años se enfrentan en el circuito de Europa de seniors, y los que hacen también las delicias de aquellos que tiene la oportunidad de jugar con ellos en los proams de los torneos de la temporada. Arranca esta nueva serie de programas que resumirá la temporada de este nuevo Legends Tour.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3932509" />
   </programme>
-  <programme start="20261127190000 +0100" stop="20261127192500 +0100" channel="M+ Golf">
+  <programme start="20261127184800 +0100" stop="20261127191300 +0100" channel="M+ Golf">
     <title lang="es">Santander Golf Tour</title>
     <sub-title lang="es">Empordá Letas</sub-title>
     <desc lang="es">El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2713670V4191016" />
   </programme>
-  <programme start="20261127192500 +0100" stop="20261127194500 +0100" channel="M+ Golf">
+  <programme start="20261127191300 +0100" stop="20261127193300 +0100" channel="M+ Golf">
     <title lang="es">Sueños de Golf</title>
     <sub-title lang="es">Bubba</sub-title>
     <desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4456586" />
   </programme>
-  <programme start="20261127194500 +0100" stop="20261127224500 +0100" channel="M+ Golf">
+  <programme start="20261127193300 +0100" stop="20261127222200 +0100" channel="M+ Golf">
     <title lang="es">Ladies European Tour: Andalucía Costa del Sol. Open de España. Jornada 2</title>
     <desc lang="es">La Cala Resort en Mijas pone el broche de oro a la temporada en el Ladies European Tour. En esta 24 edición de nuestro Open, 14 españolas pelearán por ganar en casa y sumar el quinto trofeo para España en este torneo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4515968" />
   </programme>
-  <programme start="20261127224500 +0100" stop="20261127230400 +0100" channel="M+ Golf">
+  <programme start="20261127222200 +0100" stop="20261127223700 +0100" channel="M+ Golf">
     <title lang="es">Sueños de Golf</title>
     <sub-title lang="es">Bubba</sub-title>
     <desc lang="es">Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4456586" />
   </programme>
-  <programme start="20261127230400 +0100" stop="20261128005900 +0100" channel="M+ Golf">
+  <programme start="20261127223700 +0100" stop="20261127230000 +0100" channel="M+ Golf">
+    <title lang="es">Lara Academy</title>
+    <sub-title lang="es">Resolviendo situaciones extrañas</sub-title>
+    <desc lang="es">José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales de juego, consultas de los espectadores y análisis de los profesionales del circuito.</desc>
+    <category lang="es">Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3652068" />
+    <episode-num system="onscreen">T5</episode-num>
+  </programme>
+  <programme start="20261127230000 +0100" stop="20261128005500 +0100" channel="M+ Golf">
     <title lang="es">DP World Tour: BMW Australian PGA Championship. Jornada 3. Parte 1</title>
     <desc lang="es">Primer torneo de la temporada en el DP World Tour. Defiende título David Puig y seis españoles lucharán por la victoria el domingo.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4519913" />
   </programme>
-  <programme start="20261128005900 +0100" stop="20261128041000 +0100" channel="M+ Golf">
+  <programme start="20261128005500 +0100" stop="20261128041000 +0100" channel="M+ Golf">
     <title lang="es">DP World Tour: BMW Australian PGA Championship. Jornada 3. Parte 2</title>
     <desc lang="es">Primer torneo de la temporada en el DP World Tour. Defiende título David Puig y seis españoles lucharán por la victoria el domingo.</desc>
     <category lang="es">Deportes</category>
@@ -24179,152 +24194,153 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518441" />
   </programme>
-  <programme start="20261127140000 +0100" stop="20261127142500 +0100" channel="DAZN F1">
+  <programme start="20261127140000 +0100" stop="20261127142700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Previo Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518443" />
   </programme>
-  <programme start="20261127142500 +0100" stop="20261127154000 +0100" channel="DAZN F1">
+  <programme start="20261127142700 +0100" stop="20261127153900 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518443" />
   </programme>
-  <programme start="20261127154000 +0100" stop="20261127155800 +0100" channel="DAZN F1">
+  <programme start="20261127153900 +0100" stop="20261127155800 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Post Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518443" />
   </programme>
-  <programme start="20261127155800 +0100" stop="20261127164500 +0100" channel="DAZN F1">
+  <programme start="20261127155800 +0100" stop="20261127164400 +0100" channel="DAZN F1">
     <title lang="es">Campeonato F2 de la FIA - Catar</title>
     <sub-title lang="es">Clasificación</sub-title>
     <desc lang="es">Las Fórmula 2 es la antesala de la Fórmula 1 y prepara a jóvenes pilotos para sobresalir después en la categoría reina. Un campeonato que finalizará en el trazado árabe de Yas Marina el 26 de noviembre, después de celebrar 22 carreras en 11 prestigiosos circuitos.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518731" />
   </programme>
-  <programme start="20261127164500 +0100" stop="20261127173000 +0100" channel="DAZN F1">
+  <programme start="20261127164400 +0100" stop="20261127173000 +0100" channel="DAZN F1">
     <title lang="es">Gearbox</title>
     <desc lang="es">Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2706425V4220782" />
     <episode-num system="onscreen">T29</episode-num>
   </programme>
-  <programme start="20261127173000 +0100" stop="20261127175500 +0100" channel="DAZN F1">
+  <programme start="20261127173000 +0100" stop="20261127175700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Previo Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518445" />
   </programme>
-  <programme start="20261127175500 +0100" stop="20261127191000 +0100" channel="DAZN F1">
+  <programme start="20261127175700 +0100" stop="20261127192200 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518445" />
   </programme>
-  <programme start="20261127191000 +0100" stop="20261127193000 +0100" channel="DAZN F1">
+  <programme start="20261127192200 +0100" stop="20261127193900 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Post Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518445" />
   </programme>
-  <programme start="20261127193000 +0100" stop="20261127195700 +0100" channel="DAZN F1">
+  <programme start="20261127193900 +0100" stop="20261127200100 +0100" channel="DAZN F1">
     <title lang="es">Código F1</title>
     <sub-title lang="es">Las Vegas</sub-title>
     <desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2710983V4220728" />
   </programme>
-  <programme start="20261127195700 +0100" stop="20261127210000 +0100" channel="DAZN F1">
+  <programme start="20261127200100 +0100" stop="20261127211000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518443" />
   </programme>
-  <programme start="20261127210000 +0100" stop="20261127220000 +0100" channel="DAZN F1">
+  <programme start="20261127211000 +0100" stop="20261127221000 +0100" channel="DAZN F1">
     <title lang="es">Bravissimo</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2470416V4215349" />
   </programme>
-  <programme start="20261127220000 +0100" stop="20261127230500 +0100" channel="DAZN F1">
+  <programme start="20261127221000 +0100" stop="20261127233200 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518445" />
   </programme>
-  <programme start="20261127230500 +0100" stop="20261128012000 +0100" channel="DAZN F1">
+  <programme start="20261127233200 +0100" stop="20261128014700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Brasil</title>
     <sub-title lang="es">Carrera</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4514691" />
   </programme>
-  <programme start="20261128012000 +0100" stop="20261128032000 +0100" channel="DAZN F1">
+  <programme start="20261128014700 +0100" stop="20261128034800 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1: GP de Países Bajos: Carrera</title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4265736" />
   </programme>
-  <programme start="20261128032000 +0100" stop="20261128052500 +0100" channel="DAZN F1">
+  <programme start="20261128034800 +0100" stop="20261128055200 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1: GP de Baréin: Carrera</title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4082025" />
   </programme>
-  <programme start="20261128052500 +0100" stop="20261128055000 +0100" channel="DAZN F1">
+  <programme start="20261128055200 +0100" stop="20261128061500 +0100" channel="DAZN F1">
     <title lang="es">Código F1</title>
     <sub-title lang="es">Brasil</sub-title>
     <desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2700762V4220727" />
   </programme>
-  <programme start="20261128055000 +0100" stop="20261128080000 +0100" channel="DAZN F1">
+  <programme start="20261128061500 +0100" stop="20261128082500 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de México</title>
     <sub-title lang="es">Carrera</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4427771" />
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128090500 +0100" channel="DAZN F1">
-    <title lang="es">Decoded: Hamilton</title>
-    <desc lang="es">Decoded: Hamilton.</desc>
+  <programme start="20261128082500 +0100" stop="20261128084800 +0100" channel="DAZN F1">
+    <title lang="es">Código F1</title>
+    <sub-title lang="es">Las Vegas</sub-title>
+    <desc lang="es">Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
     <category lang="es">Deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2366788V4113388" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2710983V4220728" />
   </programme>
-  <programme start="20261128090500 +0100" stop="20261128105500 +0100" channel="DAZN F1">
+  <programme start="20261128084800 +0100" stop="20261128103800 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1: GP de Italia: Carrera</title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4283635" />
   </programme>
-  <programme start="20261128105500 +0100" stop="20261128111500 +0100" channel="DAZN F1">
+  <programme start="20261128103800 +0100" stop="20261128105800 +0100" channel="DAZN F1">
     <title lang="es">75 años de F1</title>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2432037V4179999" />
   </programme>
-  <programme start="20261128111500 +0100" stop="20261128124000 +0100" channel="DAZN F1">
+  <programme start="20261128105800 +0100" stop="20261128122300 +0100" channel="DAZN F1">
     <title lang="es">Decoded: Alonso</title>
     <desc lang="es">Decoded: Alonso.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2183050V3906471" />
   </programme>
-  <programme start="20261128124000 +0100" stop="20261128135000 +0100" channel="DAZN F1">
+  <programme start="20261128122300 +0100" stop="20261128133700 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 1</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518443" />
   </programme>
-  <programme start="20261128135000 +0100" stop="20261128150000 +0100" channel="DAZN F1">
+  <programme start="20261128133700 +0100" stop="20261128150000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 2</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -24387,14 +24403,14 @@
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/M2710983V4220728" />
   </programme>
-  <programme start="20261128213000 +0100" stop="20261128223500 +0100" channel="DAZN F1">
+  <programme start="20261128213000 +0100" stop="20261128224000 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Libres 3</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4518447" />
   </programme>
-  <programme start="20261128223500 +0100" stop="20261128234500 +0100" channel="DAZN F1">
+  <programme start="20261128224000 +0100" stop="20261128234500 +0100" channel="DAZN F1">
     <title lang="es">Mundial F1 - GP de Catar</title>
     <sub-title lang="es">Clasificación</sub-title>
     <desc lang="es">Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -25227,7 +25243,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MESP2P4450781" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261127074500 +0100" stop="20261127083000 +0100" channel="Eurosport 2">
+  <programme start="20261127074500 +0100" stop="20261127082800 +0100" channel="Eurosport 2">
     <title lang="es">Copa del mundo de esquí alpino M - Gurgl</title>
     <sub-title lang="es">Eslalon - 2ª manga</sub-title>
     <desc lang="es">La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.</desc>
@@ -25235,7 +25251,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MESP2P4450783" />
     <episode-num system="onscreen">T26/27</episode-num>
   </programme>
-  <programme start="20261127083000 +0100" stop="20261127091500 +0100" channel="Eurosport 2">
+  <programme start="20261127082800 +0100" stop="20261127091500 +0100" channel="Eurosport 2">
     <title lang="es">Copa del mundo de esquí alpino F - Gurgl</title>
     <sub-title lang="es">Eslalon - 1ª manga</sub-title>
     <desc lang="es">La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.</desc>
@@ -57470,44 +57486,44 @@
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP479467" />
   </programme>
-  <programme start="20261127053500 +0100" stop="20261127062000 +0100" channel="etb1ON">
-    <title lang="es">Wazemank</title>
-    <desc lang="es">Programa de humor que refleja las inquietudes de la sociedad euskaldun mediante personajes y situaciones cómicas. Este espacio está compuesto por variados gags ágiles que parodian programas y series de ETB. ''Wazemank'' está presentado y protagonizado por Anjel Alkain.</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P490491" />
-  </programme>
-  <programme start="20261127062000 +0100" stop="20261127065500 +0100" channel="etb1ON">
+  <programme start="20261127060200 +0100" stop="20261127065500 +0100" channel="etb1ON">
     <title lang="es">Mihiluze</title>
     <desc lang="es">Presentado por Antton Telleria e Ilaski Serrano, ''Mihiluze'' es un concurso que tiene como objetivo dar con los tres concursantes más parlanchines, divertidos y salseros. El espacio es un compendio de pruebas divertidas y teorías interesantes sobre los vascos.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P3484277" />
   </programme>
-  <programme start="20261127065500 +0100" stop="20261127071500 +0100" channel="etb1ON">
+  <programme start="20261127065500 +0100" stop="20261127072300 +0100" channel="etb1ON">
     <title lang="es">Euskal Herritik</title>
     <desc lang="es">Koldo San Sebastian dirige esta serie documental que pretende mostrar lugares, personajes o tradiciones que tienen un mismo denominador común: Euskal Herria. Un repaso detallado a las gentes y costumbres que componen la sociedad civil vasca.</desc>
     <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P253337" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB1P253337" />
   </programme>
-  <programme start="20261127071500 +0100" stop="20261127072500 +0100" channel="etb1ON">
-    <title lang="es">Euskal sukaldaritzaren ezinbestekoak</title>
-    <desc lang="es">De la mano de Javi Rivero vamos a descubrir los 20 platos imprescindibles de la cocina vasca, platos que han hecho de nuestra gastronomía una de las mejores del mundo.</desc>
-    <category lang="es">Ocio y Aficiones</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4258526" />
+  <programme start="20261127072300 +0100" stop="20261127072500 +0100" channel="etb1ON">
+    <title lang="es">Euskal Herria Hegan</title>
+    <desc lang="es">EUSKAL HERRIA HEGAN Una mirada desde el aire es una serie documental de 9 capítulos de 50 minutos. Un espectacular viaje para los sentidos que recorre nuestra tierra desde el aire, mostrando su esencia como nunca antes se ha visto. Una experiencia visual que recorre los espacios naturales más bellos y la arquitectura más espectacular y los fusiona con la historia, las tradiciones de sus habitantes y los mitos y leyendas que habitan cada rincón de Euskal Herria. La música es parte esencial del alma de esta serie documental y, junto con la narración, desempeña un papel central en cada capítulo. La banda sonora original compuesta para la serie por el multipremiado compositor Fernando Velázquez nos acompañará durante cada episodio. Generarán emociones y crearán una atmósfera única mientras visitamos los lugares más impresionantes de nuestra tierra. Una producción de Leike Produkzioak para EITB Media  EITB Media 2025.</desc>
+    <category lang="es">Documentales</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4178044" />
   </programme>
-  <programme start="20261127072500 +0100" stop="20261127081000 +0100" channel="etb1ON">
+  <programme start="20261127072500 +0100" stop="20261127072900 +0100" channel="etb1ON">
+    <title lang="es">Euskal Herria Hegan</title>
+    <desc lang="es">EUSKAL HERRIA HEGAN Una mirada desde el aire es una serie documental de 9 capítulos de 50 minutos. Un espectacular viaje para los sentidos que recorre nuestra tierra desde el aire, mostrando su esencia como nunca antes se ha visto. Una experiencia visual que recorre los espacios naturales más bellos y la arquitectura más espectacular y los fusiona con la historia, las tradiciones de sus habitantes y los mitos y leyendas que habitan cada rincón de Euskal Herria. La música es parte esencial del alma de esta serie documental y, junto con la narración, desempeña un papel central en cada capítulo. La banda sonora original compuesta para la serie por el multipremiado compositor Fernando Velázquez nos acompañará durante cada episodio. Generarán emociones y crearán una atmósfera única mientras visitamos los lugares más impresionantes de nuestra tierra. Una producción de Leike Produkzioak para EITB Media  EITB Media 2025.</desc>
+    <category lang="es">Documentales</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4178044" />
+  </programme>
+  <programme start="20261127072900 +0100" stop="20261127081300 +0100" channel="etb1ON">
     <title lang="es">Txoriene</title>
     <desc lang="es">Espacio culinario que cada semana recibe a un chef que elaborará los platos en una casa modular construida por Eko Etxe. El programa, capitaneado por el cocinero y corredor de montaña vizcaino Zigor Iturrieta, muestra el bagaje y el trabajo de estos profesionales.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1248635" />
   </programme>
-  <programme start="20261127081000 +0100" stop="20261127090000 +0100" channel="etb1ON">
+  <programme start="20261127081300 +0100" stop="20261127085900 +0100" channel="etb1ON">
     <title lang="es">Armintz Gorrotxategi Sukalerrian</title>
     <desc lang="es">Programa de cocina presentado por Armintz Gorrotxategi.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4403697" />
   </programme>
-  <programme start="20261127090000 +0100" stop="20261127110000 +0100" channel="etb1ON">
-    <title lang="es">Egun on</title>
+  <programme start="20261127085900 +0100" stop="20261127110000 +0100" channel="etb1ON">
+    <title lang="es">Egun on Euskadi</title>
     <desc lang="es">Informativo matinal que incluye las últimas noticias, el tiempo, el estado del tráfico, además de una entrevista y una tertulia. Estepan Aldamiz-Etxebarria es el encargado de conducir este espacio diario de dos horas.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P824124" />
@@ -57518,83 +57534,101 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB1P4165693" />
   </programme>
-  <programme start="20261127114000 +0100" stop="20261127114500 +0100" channel="etb1ON">
-    <title lang="es">EITB Kultura</title>
+  <programme start="20261127114000 +0100" stop="20261127114900 +0100" channel="etb1ON">
+    <title lang="es">EiTB Kultura</title>
     <desc lang="es">Programa cultural que muestras los trabajos, creaciones y proyectos de artistas y creadores vascos.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP479467" />
   </programme>
-  <programme start="20261127114500 +0100" stop="20261127121500 +0100" channel="etb1ON">
+  <programme start="20261127114900 +0100" stop="20261127121800 +0100" channel="etb1ON">
     <title lang="es">Abenturaroa</title>
     <desc lang="es">Programa dedicado a los distintos deportes de aventura.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247633" />
   </programme>
-  <programme start="20261127121500 +0100" stop="20261127122000 +0100" channel="etb1ON">
-    <title lang="es">KULT_planak</title>
+  <programme start="20261127121800 +0100" stop="20261127122100 +0100" channel="etb1ON">
+    <title lang="es">KULT Agenda</title>
     <desc lang="es">La agenda cultural de EITB reúne en un solo espacio los mejores planes de Euskal Herria. Conciertos, teatro, danza, cine, exposiciones, festivales y mucho más para llenar tu agenda de cultura, conectar con el talento local e internacional y descubrir la riqueza cultural de nuestro entorno.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4310923" />
   </programme>
-  <programme start="20261127122000 +0100" stop="20261127122500 +0100" channel="etb1ON">
-    <title lang="es">Euskal Herria hegan. Paisaiak</title>
+  <programme start="20261127122100 +0100" stop="20261127122600 +0100" channel="etb1ON">
+    <title lang="es">Euskal Herria Hegan</title>
     <desc lang="es">EUSKAL HERRIA HEGAN Una mirada desde el aire es una serie documental de 9 capítulos de 50 minutos. Un espectacular viaje para los sentidos que recorre nuestra tierra desde el aire, mostrando su esencia como nunca antes se ha visto. Una experiencia visual que recorre los espacios naturales más bellos y la arquitectura más espectacular y los fusiona con la historia, las tradiciones de sus habitantes y los mitos y leyendas que habitan cada rincón de Euskal Herria. La música es parte esencial del alma de esta serie documental y, junto con la narración, desempeña un papel central en cada capítulo. La banda sonora original compuesta para la serie por el multipremiado compositor Fernando Velázquez nos acompañará durante cada episodio. Generarán emociones y crearán una atmósfera única mientras visitamos los lugares más impresionantes de nuestra tierra. Una producción de Leike Produkzioak para EITB Media  EITB Media 2025.</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4178044" />
   </programme>
-  <programme start="20261127122500 +0100" stop="20261127131500 +0100" channel="etb1ON">
+  <programme start="20261127122600 +0100" stop="20261127131500 +0100" channel="etb1ON">
     <title lang="es">Joseba Arguiñano Sukalerrian</title>
     <desc lang="es">Programa de cocina que ofrece una manera diferente de disfrutar de la gastronomía de Euskal Herria y de sus fiestas. En cada edición, Joseba Arguiñano recibe a un invitado en su plató y comentan todas las curiosidades de la receta que elaboran.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P3497835" />
   </programme>
-  <programme start="20261127131500 +0100" stop="20261127140000 +0100" channel="etb1ON">
+  <programme start="20261127131500 +0100" stop="20261127135900 +0100" channel="etb1ON">
     <title lang="es">Txoriene</title>
     <desc lang="es">Espacio culinario que cada semana recibe a un chef que elaborará los platos en una casa modular construida por Eko Etxe. El programa, capitaneado por el cocinero y corredor de montaña vizcaino Zigor Iturrieta, muestra el bagaje y el trabajo de estos profesionales.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1248635" />
   </programme>
-  <programme start="20261127140000 +0100" stop="20261127143500 +0100" channel="etb1ON">
+  <programme start="20261127135900 +0100" stop="20261127143400 +0100" channel="etb1ON">
     <title lang="es">Gaur Egun</title>
     <desc lang="es">Informativo presentado por Xabier Usabiaga. Las noticias relacionadas con Euskal Herria tienen especial relevancia, aunque también hay tiempo para echarle un vistazo a la actualidad de fuera del País Vasco.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1376347" />
   </programme>
-  <programme start="20261127143500 +0100" stop="20261127145000 +0100" channel="etb1ON">
+  <programme start="20261127143400 +0100" stop="20261127145100 +0100" channel="etb1ON">
     <title lang="es">Kirolak ETB1</title>
     <desc lang="es">Espacio informativo dedicado a la actualidad deportiva presentador por Íñigo Barrena y Ana Ramos.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1427070" />
   </programme>
-  <programme start="20261127145000 +0100" stop="20261127145500 +0100" channel="etb1ON">
-    <title lang="es">KULT_planak</title>
+  <programme start="20261127145100 +0100" stop="20261127145400 +0100" channel="etb1ON">
+    <title lang="es">KULT Agenda</title>
     <desc lang="es">La agenda cultural de EITB reúne en un solo espacio los mejores planes de Euskal Herria. Conciertos, teatro, danza, cine, exposiciones, festivales y mucho más para llenar tu agenda de cultura, conectar con el talento local e internacional y descubrir la riqueza cultural de nuestro entorno.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4310923" />
   </programme>
-  <programme start="20261127145500 +0100" stop="20261127151000 +0100" channel="etb1ON">
+  <programme start="20261127145400 +0100" stop="20261127151200 +0100" channel="etb1ON">
     <title lang="es">Eguraldia ETB1</title>
     <desc lang="es">Gure lurraldeko eguraldiaren iragarpenarekin batera, meteorologiarekin eta aldaketa klimatikoarekin lotutako eduki interesgarriak biltzen ditu saioak.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247541" />
   </programme>
-  <programme start="20261127151000 +0100" stop="20261127152000 +0100" channel="etb1ON">
-    <title lang="es">Iparraldearen orena</title>
+  <programme start="20261127151200 +0100" stop="20261127152300 +0100" channel="etb1ON">
+    <title lang="es">Iparraldearen Orena</title>
     <desc lang="es">Breve repaso a la actualidad de Iparralde, la parte del País Vasco que pertenece a Francia. En él tienen cabida las noticias de las tres provincias de la Euskadi continental: Lapurdi, Nafarroa Beherea y Zuberoa.</desc>
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P245183" />
   </programme>
-  <programme start="20261127152000 +0100" stop="20261127185500 +0100" channel="etb1ON">
+  <programme start="20261127152300 +0100" stop="20261127171100 +0100" channel="etb1ON">
     <title lang="es">Biba zuek!</title>
     <desc lang="es">Maddalen Arzallusek eta Xabier Sukiak aurkeztutako saioa. Gaurkotasuna eta gai sozialak jorratzeaz gain, egunero protagonista bat izango dute, eta kolaboratzaile zerrenda luzea.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1817044" />
   </programme>
-  <programme start="20261127185500 +0100" stop="20261127194500 +0100" channel="etb1ON">
+  <programme start="20261127171100 +0100" stop="20261127171500 +0100" channel="etb1ON">
+    <title lang="es">Euskal Herria Hegan</title>
+    <desc lang="es">EUSKAL HERRIA HEGAN Una mirada desde el aire es una serie documental de 9 capítulos de 50 minutos. Un espectacular viaje para los sentidos que recorre nuestra tierra desde el aire, mostrando su esencia como nunca antes se ha visto. Una experiencia visual que recorre los espacios naturales más bellos y la arquitectura más espectacular y los fusiona con la historia, las tradiciones de sus habitantes y los mitos y leyendas que habitan cada rincón de Euskal Herria. La música es parte esencial del alma de esta serie documental y, junto con la narración, desempeña un papel central en cada capítulo. La banda sonora original compuesta para la serie por el multipremiado compositor Fernando Velázquez nos acompañará durante cada episodio. Generarán emociones y crearán una atmósfera única mientras visitamos los lugares más impresionantes de nuestra tierra. Una producción de Leike Produkzioak para EITB Media  EITB Media 2025.</desc>
+    <category lang="es">Documentales</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4178044" />
+  </programme>
+  <programme start="20261127171500 +0100" stop="20261127185500 +0100" channel="etb1ON">
+    <title lang="es">Biba zuek!</title>
+    <desc lang="es">Maddalen Arzallusek eta Xabier Sukiak aurkeztutako saioa. Gaurkotasuna eta gai sozialak jorratzeaz gain, egunero protagonista bat izango dute, eta kolaboratzaile zerrenda luzea.</desc>
+    <category lang="es">Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1817044" />
+  </programme>
+  <programme start="20261127185500 +0100" stop="20261127194400 +0100" channel="etb1ON">
     <title lang="es">Armintz Gorrotxategi Sukalerrian</title>
     <desc lang="es">Programa de cocina presentado por Armintz Gorrotxategi.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4403697" />
+  </programme>
+  <programme start="20261127194400 +0100" stop="20261127194500 +0100" channel="etb1ON">
+    <title lang="es">Eguraldia ETB1</title>
+    <desc lang="es">Gure lurraldeko eguraldiaren iragarpenarekin batera, meteorologiarekin eta aldaketa klimatikoarekin lotutako eduki interesgarriak biltzen ditu saioak.</desc>
+    <category lang="es">Información</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247541" />
   </programme>
   <programme start="20261127194500 +0100" stop="20261127200000 +0100" channel="etb1ON">
     <title lang="es">Eguraldia ETB1</title>
@@ -57629,7 +57663,7 @@
     <episode-num system="onscreen">T13 Ep.2</episode-num>
   </programme>
   <programme start="20261127220500 +0100" stop="20261128002500 +0100" channel="etb1ON">
-    <title lang="es">ETB Kantxa</title>
+    <title lang="es">Pilota: ETB Kantxa</title>
     <desc lang="es">Retransmisión deportiva.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4258655" />
@@ -57670,53 +57704,52 @@
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P3484277" />
   </programme>
-  <programme start="20261128062500 +0100" stop="20261128071000 +0100" channel="etb1ON">
+  <programme start="20261128062500 +0100" stop="20261128065500 +0100" channel="etb1ON">
     <title lang="es">Euskal Herritik</title>
     <desc lang="es">Koldo San Sebastian dirige esta serie documental que pretende mostrar lugares, personajes o tradiciones que tienen un mismo denominador común: Euskal Herria. Un repaso detallado a las gentes y costumbres que componen la sociedad civil vasca.</desc>
     <category lang="es">Documentales</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P253337" />
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB1P253337" />
   </programme>
-  <programme start="20261128071000 +0100" stop="20261128072000 +0100" channel="etb1ON">
+  <programme start="20261128065500 +0100" stop="20261128070500 +0100" channel="etb1ON">
     <title lang="es">Euskal sukaldaritzaren ezinbestekoak</title>
     <desc lang="es">De la mano de Javi Rivero vamos a descubrir los 20 platos imprescindibles de la cocina vasca, platos que han hecho de nuestra gastronomía una de las mejores del mundo.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4258526" />
   </programme>
-  <programme start="20261128072000 +0100" stop="20261128073000 +0100" channel="etb1ON">
-    <title lang="es">Euskal sukaldaritzaren ezinbestekoak</title>
-    <desc lang="es">De la mano de Javi Rivero vamos a descubrir los 20 platos imprescindibles de la cocina vasca, platos que han hecho de nuestra gastronomía una de las mejores del mundo.</desc>
-    <category lang="es">Ocio y Aficiones</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4258526" />
-  </programme>
-  <programme start="20261128073000 +0100" stop="20261128082000 +0100" channel="etb1ON">
+  <programme start="20261128070500 +0100" stop="20261128075000 +0100" channel="etb1ON">
     <title lang="es">Txoriene</title>
     <desc lang="es">Espacio culinario que cada semana recibe a un chef que elaborará los platos en una casa modular construida por Eko Etxe. El programa, capitaneado por el cocinero y corredor de montaña vizcaino Zigor Iturrieta, muestra el bagaje y el trabajo de estos profesionales.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1248635" />
   </programme>
-  <programme start="20261128082000 +0100" stop="20261128090000 +0100" channel="etb1ON">
+  <programme start="20261128075000 +0100" stop="20261128083500 +0100" channel="etb1ON">
     <title lang="es">Txoriene</title>
     <desc lang="es">Espacio culinario que cada semana recibe a un chef que elaborará los platos en una casa modular construida por Eko Etxe. El programa, capitaneado por el cocinero y corredor de montaña vizcaino Zigor Iturrieta, muestra el bagaje y el trabajo de estos profesionales.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1248635" />
   </programme>
-  <programme start="20261128090000 +0100" stop="20261128095000 +0100" channel="etb1ON">
+  <programme start="20261128083500 +0100" stop="20261128092500 +0100" channel="etb1ON">
     <title lang="es">Txoriene</title>
     <desc lang="es">Espacio culinario que cada semana recibe a un chef que elaborará los platos en una casa modular construida por Eko Etxe. El programa, capitaneado por el cocinero y corredor de montaña vizcaino Zigor Iturrieta, muestra el bagaje y el trabajo de estos profesionales.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1248635" />
   </programme>
-  <programme start="20261128095000 +0100" stop="20261128103500 +0100" channel="etb1ON">
+  <programme start="20261128092500 +0100" stop="20261128101000 +0100" channel="etb1ON">
     <title lang="es">Armintz Gorrotxategi Sukalerrian</title>
     <desc lang="es">Programa de cocina presentado por Armintz Gorrotxategi.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4403697" />
   </programme>
-  <programme start="20261128103500 +0100" stop="20261128112000 +0100" channel="etb1ON">
+  <programme start="20261128101000 +0100" stop="20261128105500 +0100" channel="etb1ON">
     <title lang="es">Armintz Gorrotxategi Sukalerrian</title>
     <desc lang="es">Programa de cocina presentado por Armintz Gorrotxategi.</desc>
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4403697" />
+  </programme>
+  <programme start="20261128105500 +0100" stop="20261128112000 +0100" channel="etb1ON">
+    <title lang="es">Euskal Eskultura Bizirik</title>
+    <desc lang="es">Recoge dos exposiciones de escultura celebradas en noviembre de 2025 en Oiartzun: una en la capilla San Juan, junto al retablo de Jerónimo Larrea y obras de escultores locales, destacando la pieza sonora ''Akorde'' de Anton Mendizabal; y otra en los jardines de Arizmendienea, con obras de ocho escultores vascos. El documental muestra talleres con jóvenes, la creación de esculturas efímeras, visitas guiadas y la amplia participación de público de todas las edades.</desc>
+    <category lang="es">Documentales</category>
   </programme>
   <programme start="20261128112000 +0100" stop="20261128115000 +0100" channel="etb1ON">
     <title lang="es">EITB Kultura</title>
@@ -57736,13 +57769,13 @@
     <category lang="es">Ocio y Aficiones</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP245236" />
   </programme>
-  <programme start="20261128125500 +0100" stop="20261128133000 +0100" channel="etb1ON">
+  <programme start="20261128125500 +0100" stop="20261128132500 +0100" channel="etb1ON">
     <title lang="es">Artefaktua</title>
     <desc lang="es">Espacio de literatura dirigido y presentado por Yolanda Mendiola en el que entrevista a un escritor para conocer su obra y universo. Además, el programa incluye diversas secciones relacionadas con el mundo de las letras.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P3119720" />
   </programme>
-  <programme start="20261128133000 +0100" stop="20261128140000 +0100" channel="etb1ON">
+  <programme start="20261128132500 +0100" stop="20261128140000 +0100" channel="etb1ON">
     <title lang="es">Teknopolis</title>
     <desc lang="es">Programa que toma como eje principal la ciencia y la tecnología, presentado por Iñaki Leturia.</desc>
     <category lang="es">Ocio y Aficiones</category>
@@ -57772,20 +57805,14 @@
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP479467" />
   </programme>
-  <programme start="20261128151000 +0100" stop="20261128152000 +0100" channel="etb1ON">
-    <title lang="es">EITB Kultura</title>
-    <desc lang="es">Programa cultural que muestras los trabajos, creaciones y proyectos de artistas y creadores vascos.</desc>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP479467" />
-  </programme>
-  <programme start="20261128152000 +0100" stop="20261128170500 +0100" channel="etb1ON">
+  <programme start="20261128151000 +0100" stop="20261128170500 +0100" channel="etb1ON">
     <title lang="es">Kirolak ETB1</title>
     <desc lang="es">Espacio informativo dedicado a la actualidad deportiva presentador por Íñigo Barrena y Ana Ramos.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1427070" />
   </programme>
   <programme start="20261128170500 +0100" stop="20261128200000 +0100" channel="etb1ON">
-    <title lang="es">ETB Kantxa</title>
+    <title lang="es">Pilota: ETB Kantxa</title>
     <desc lang="es">Retransmisión deportiva.</desc>
     <category lang="es">Deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4258655" />
@@ -57808,43 +57835,49 @@
     <category lang="es">Información</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247541" />
   </programme>
-  <programme start="20261128210500 +0100" stop="20261128221000 +0100" channel="etb1ON">
+  <programme start="20261128210500 +0100" stop="20261128222000 +0100" channel="etb1ON">
     <title lang="es">Euskal Herriko bertsolari txapelketa 2026</title>
     <desc lang="es">Bertsolaris: Amets Arzallus, Beñat Gaztelumendi, Gorka Pagonabarraga, Saloa Alkaiza, Xabat Galletebeitia, Xabal Illarregi. Gai-jartzailea: Aizpea Garmendia.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METBP4433717" />
   </programme>
-  <programme start="20261128221000 +0100" stop="20261128233500 +0100" channel="etb1ON">
+  <programme start="20261128222000 +0100" stop="20261128234500 +0100" channel="etb1ON">
     <title lang="es">San Josetako trikiti jaialdia</title>
     <desc lang="es">En Azpeitia se celebra de los festivales más tradicionales de la sociedad vasca. La edición del presente año quiere homenajear a las diferentes generaciones de trikitilaris del festival guipuzcoano, con siete parejas en el acordeón.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1458112" />
   </programme>
-  <programme start="20261128233500 +0100" stop="20261129005500 +0100" channel="etb1ON">
+  <programme start="20261128234500 +0100" stop="20261129005500 +0100" channel="etb1ON">
     <title lang="es">Los Panchos Bilbon</title>
     <desc lang="es">Concierto. ofrecido por el grupo mexicano Los Panchos en el teatro Campos Eliseos de Bilbao.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1269453" />
   </programme>
-  <programme start="20261129005500 +0100" stop="20261129020000 +0100" channel="etb1ON">
+  <programme start="20261129005500 +0100" stop="20261129010500 +0100" channel="etb1ON">
     <title lang="es">61. Donostiako jazzaldia</title>
     <desc lang="es">61 edición del Festival de Jazz de San Sebastián.</desc>
     <category lang="es">Música</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4427703" />
   </programme>
-  <programme start="20261129020000 +0100" stop="20261129031500 +0100" channel="etb1ON">
+  <programme start="20261129010500 +0100" stop="20261129021000 +0100" channel="etb1ON">
+    <title lang="es">61. Donostiako jazzaldia</title>
+    <desc lang="es">61 edición del Festival de Jazz de San Sebastián.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P4427703" />
+  </programme>
+  <programme start="20261129021000 +0100" stop="20261129032500 +0100" channel="etb1ON">
     <title lang="es">Herri Txiki, Infernu Handi</title>
     <desc lang="es">Mikel Pagadi y Zuhaitz Gurrutxaga visitarán los pueblos más pequeños de Euskal Herria. Conocerán a sus habitantes y realizarán un monólogo sobre sus vivencias en la localidad.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247517" />
   </programme>
-  <programme start="20261129031500 +0100" stop="20261129043000 +0100" channel="etb1ON">
+  <programme start="20261129032500 +0100" stop="20261129044500 +0100" channel="etb1ON">
     <title lang="es">Herri Txiki, Infernu Handi</title>
     <desc lang="es">Mikel Pagadi y Zuhaitz Gurrutxaga visitarán los pueblos más pequeños de Euskal Herria. Conocerán a sus habitantes y realizarán un monólogo sobre sus vivencias en la localidad.</desc>
     <category lang="es">Entretenimiento</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/METB3P1247517" />
   </programme>
-  <programme start="20261129043000 +0100" stop="20261129052000 +0100" channel="etb1ON">
+  <programme start="20261129044500 +0100" stop="20261129053000 +0100" channel="etb1ON">
     <title lang="es">Wazemank</title>
     <desc lang="es">Programa de humor que refleja las inquietudes de la sociedad euskaldun mediante personajes y situaciones cómicas. Este espacio está compuesto por variados gags ágiles que parodian programas y series de ETB. ''Wazemank'' está presentado y protagonizado por Anjel Alkain.</desc>
     <category lang="es">Entretenimiento</category>
@@ -60075,85 +60108,85 @@
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1911852" />
   </programme>
-  <programme start="20261128052400 +0100" stop="20261128064200 +0100" channel="Squirrel">
+  <programme start="20261128052400 +0100" stop="20261128064900 +0100" channel="Squirrel">
     <title lang="es">Torremolinos 73</title>
     <desc lang="es">Alfredo López es un cansado vendedor de enciclopedias a domicilio y Carmen, su esposa fiel, es peluquera. Sus vidas cambian para siempre cuando se empiezan a vender en los quioscos las enciclopedias por fascículos semanales. Es entonces cuando la editorial Montoya, en la que trabaja Alfredo, les hace una proposición: realizar películas eróticas de súper 8 'caseras' que se venderán en los países escandinavos bajo la excusa de una falsa enciclopedia de la reproducción en el mundo. Debido a una situación económica muy difícil y al deseo de Carmen de tener un hijo, la pareja acepta la oferta, pero antes debe participar en un curso acelerado sobre "cómo hacer películas eróticas".</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4107932" />
   </programme>
-  <programme start="20261128064200 +0100" stop="20261128084400 +0100" channel="Squirrel">
+  <programme start="20261128064900 +0100" stop="20261128084700 +0100" channel="Squirrel">
     <title lang="es">El quinto poder</title>
     <desc lang="es">En 2007, el periodista australiano Julian Assange y el informático alemán Daniel Domscheit-Berg ponen en marcha WikiLeaks, una plataforma que permite denunciar de forma anónima y filtrar información secreta, iluminando los oscuros recovecos de los secretos gubernamentales y los crímenes corporativos. Pronto revelan más noticias que las más prestigiosas agencias de comunicación del mundo juntas.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1120819" />
   </programme>
-  <programme start="20261128084400 +0100" stop="20261128101500 +0100" channel="Squirrel">
+  <programme start="20261128084700 +0100" stop="20261128101900 +0100" channel="Squirrel">
     <title lang="es">Viaje al centro de la Tierra</title>
     <desc lang="es">Un mundo diferente dentro de nuestro propio planeta.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP766639" />
   </programme>
-  <programme start="20261128101500 +0100" stop="20261128120100 +0100" channel="Squirrel">
+  <programme start="20261128101900 +0100" stop="20261128120600 +0100" channel="Squirrel">
     <title lang="es">La última cazadora de dragones</title>
     <desc lang="es">En un mundo fantástico en el que la tecnología empieza a reemplazar a la magia, Jennifer Strange, una joven huérfana, descubre su destino para convertirse en la última cazadora de dragones.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1479532" />
   </programme>
-  <programme start="20261128120100 +0100" stop="20261128133300 +0100" channel="Squirrel">
+  <programme start="20261128120600 +0100" stop="20261128133800 +0100" channel="Squirrel">
     <title lang="es">Juego de Dragones</title>
     <desc lang="es">Para salvar su Reino de un ejército de feroces muertos vivientes, un valeroso grupo de guerreros deberá viajar a través de las tierras prohibidas, haciendo frente a temibles criaturas.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP4327706" />
   </programme>
-  <programme start="20261128133300 +0100" stop="20261128151600 +0100" channel="Squirrel">
+  <programme start="20261128133800 +0100" stop="20261128152200 +0100" channel="Squirrel">
     <title lang="es">Peso pesado</title>
     <desc lang="es">Scott Voss es un profesor de biología de 42 años en un instituto en decadencia. Cuando los recortes amenazan con cancelar las clases de música y despedir al profesor a cargo de éstas, Scott comienza a recaudar dinero como luchador de artes marciales mixtas. Todos piensan que Scott está chalado -sobre todo la enfermera del instituto, Bella-, pero en su cruzada, a medida que se compromete más y más a luchar por los estudiantes, acaba teniendo tal éxito que logra unir a todo el instituto.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1057545" />
   </programme>
-  <programme start="20261128151600 +0100" stop="20261128171400 +0100" channel="Squirrel">
+  <programme start="20261128152200 +0100" stop="20261128172000 +0100" channel="Squirrel">
     <title lang="es">The Green Hornet</title>
     <desc lang="es">Britt Reid es un aburrido playboy que ha heredado de su padre un periódico: el Daily Sentinel. Sin embargo, oculta un secreto, ya que de noche se convierte en un héroe enmascarado que lucha contra el crimen, siendo auxiliado en esta tarea por su fiel ayudante Kato, todo un experto en las artes marciales.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP906188" />
   </programme>
-  <programme start="20261128171400 +0100" stop="20261128184900 +0100" channel="Squirrel">
+  <programme start="20261128172000 +0100" stop="20261128185400 +0100" channel="Squirrel">
     <title lang="es">Tolerancia Cero</title>
     <desc lang="es">¿Por qué se está deteniendo a niños de cinco años en los colegios americanos? En un intento de evitar casos como el de Columbine, la aplicación de las políticas de tolerancia cero en los colegios, ha supuesto la emisión de multas, detenciones y encarcelamientos de cientos de miles de niños por 'delitos' como masticar chicle, llegar tarde a clase o hacer garabatos en una libreta. ¿Se han convertido los colegios americanos en un camino a la cárcel?</desc>
     <category lang="es">Documentales</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1362427" />
   </programme>
-  <programme start="20261128184900 +0100" stop="20261128203200 +0100" channel="Squirrel">
+  <programme start="20261128185400 +0100" stop="20261128203800 +0100" channel="Squirrel">
     <title lang="es">Miss Bala</title>
     <desc lang="es">La ganadora de un concurso de belleza se ve obligada a trabajar para un jefe del crimen después de ser testigo de un asesinato. Una nueva versión de la película de 2011, 'Miss Bala', dirigida por Gerardo Naranjo y protagonizada por Stephanie Sigman.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1657764" />
   </programme>
-  <programme start="20261128203200 +0100" stop="20261128220000 +0100" channel="Squirrel">
+  <programme start="20261128203800 +0100" stop="20261128220600 +0100" channel="Squirrel">
     <title lang="es">Ultravioleta</title>
     <desc lang="es">A finales del siglo XXI aparece una nueva raza de seres humanos que tiene una mutación genética: están dotados de una asombrosa velocidad, de una resistencia sobrehumana y de una destacada inteligencia. Cuando el gobierno ve que el número de mutantes va en aumento y no puede controlar la situación, no tiene otro remedio que aislarlos.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP480183" />
   </programme>
-  <programme start="20261128220000 +0100" stop="20261128235800 +0100" channel="Squirrel">
+  <programme start="20261128220600 +0100" stop="20261129000500 +0100" channel="Squirrel">
     <title lang="es">Sicario: El día del soldado</title>
     <desc lang="es">Cada año, miles de personas son introducidas ilegalmente en Estados Unidos desde México a cambio de dinero. Sin embargo, por la frontera controlada por los cárteles mexicanos están entrando ahora, junto a los inmigrantes habituales, terroristas islámicos.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1523377" />
   </programme>
-  <programme start="20261128235800 +0100" stop="20261129012700 +0100" channel="Squirrel">
+  <programme start="20261129000500 +0100" stop="20261129013400 +0100" channel="Squirrel">
     <title lang="es">El arcángel</title>
     <desc lang="es">Cuando Ryder, un misterioso forastero, aparece de repente en un pequeño pueblo, la vida de sus habitantes, que viven sometidos al yugo del cacique local, cambia para siempre. Armado con su biblia, su motocicleta y su sed de venganza, Ryder hace frente al dictador al más puro estilo policial, demostrando que la justicia aún pega fuerte.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP901665" />
   </programme>
-  <programme start="20261129012700 +0100" stop="20261129031100 +0100" channel="Squirrel">
+  <programme start="20261129013400 +0100" stop="20261129031900 +0100" channel="Squirrel">
     <title lang="es">Driven: el origen de la leyenda</title>
     <desc lang="es">Jim Hoffman se enfrenta a un juicio por narcotráfico. Años antes, en 1977, Jim era detenido como sospechoso en un aeropuerto privado, pero conseguía librarse del FBI con un trato y empezaba una nueva vida junto a su familia en un barrio residencial del sur de California. Allí entabla amistad con uno de sus vecinos, que resulta ser el diseñador de su coche: John DeLorean, el famoso ingeniero y empresario automovilístico.</desc>
     <category lang="es">Cine</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula5/MSQUIP1664211" />
   </programme>
-  <programme start="20261129031100 +0100" stop="20261129043500 +0100" channel="Squirrel">
+  <programme start="20261129031900 +0100" stop="20261129044300 +0100" channel="Squirrel">
     <title lang="es">Black Water</title>
     <desc lang="es">Durante un relajante viaje de vacaciones al interior de Australia, Grace (Diana Glenn), su novio Adam (Andy Rodoreda) y su hermana pequeña Lee (Maeve Dermody) deciden adentrarse hacia una zona que rara vez ven los turistas. Con la ayuda de Jim (Ben Oxenbould), el guía local, se hacen con una barca deseosos de vivir aventuras y realizar lo que sería un típico recorrido por el río.</desc>
     <category lang="es">Cine</category>
@@ -85169,28 +85202,35 @@
     <desc lang="es">L'Uni, que ja té assegurada la 1a posició, disputa l'última jornada a la fase de grups. Les gironines aspiren a la 5a victòria en 6 partits.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/8/9/1683887425998.jpg" />
   </programme>
-  <programme start="20261127001000 +0100" stop="20261127004000 +0100" channel="TV3Cat_CAT">
+  <programme start="20261127001846 +0100" stop="20261127040000 +0100" channel="TV3Cat_CAT">
     <title lang="es">Notícies 3CatInfo</title>
     <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
   </programme>
-  <programme start="20261127004000 +0100" stop="20261127040000 +0100" channel="TV3Cat_CAT">
-    <title lang="es">Notícies 3CatInfo</title>
-    <desc lang="es">Espai informatiu amb notícies d'informació general, esportiva i previsió meteorològica.</desc>
-    <icon src="http://img.3cat.cat/multimedia/jpg/7/8/1758059590887.jpg" />
-  </programme>
-  <programme start="20261127040000 +0100" stop="20261127050000 +0100" channel="TV3Cat_CAT">
+  <programme start="20261127040000 +0100" stop="20261127050026 +0100" channel="TV3Cat_CAT">
     <title lang="es">Blues a l'estudi - Bernat Font Trio</title>
     <desc lang="es">Aquest jove pianista barceloní ha consolidat la seva formació després de la publicació del primer disc. Va rebre el guardó de Millor Nova Proposta de la revista "Jaç" i no ha parat de tocar per tot l'estat.El repertori d'avui veu dels clàssics i oscil·la entre el blues i el swing. Ivan Kovacevic al contrabaix, Martí Elías a la bateria i el mateix Font al piano: un trio que desprèn una energia càlida i sincera.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/7/2/1775816868527.jpg" />
   </programme>
-  <programme start="20261127050000 +0100" stop="20261127054500 +0100" channel="TV3Cat_CAT">
+  <programme start="20261127050026 +0100" stop="20261127054705 +0100" channel="TV3Cat_CAT">
     <title lang="es">Fusió i swing a l'estudi - ALBERT BELLO &amp; ORIOL SAÑA SWING EXPERIMENT</title>
     <desc lang="es">Des de la incursió d'Albert Bello al jazz manouche, s'ha convertit en un dinamitzador de l'estil a Catalunya. Ha dirigit el primer festival dedicat a Django Reinhart a tot l'estat i ha organitzat diferents esdeveniments al voltant del gyspsy jazz. Bello es fa  acompanyar d'Oriol Saña al violí. Completen el quintet: Laurent Bozzetto a la guitarra rítmica, Rod Devile al contrabaix i Vivién García també a la guitarra rítmica.</desc>
     <icon src="http://img.3cat.cat/multimedia/jpg/6/4/1775817543346.jpg" />
   </programme>
-  <programme start="20261127054500 +0100" stop="20261127060000 +0100" channel="TV3Cat_CAT">
-    <title lang="es">Videoclips catalans</title>
+  <programme start="20261127054705 +0100" stop="20261127054848 +0100" channel="TV3Cat_CAT">
+    <title lang="es">Videoclips catalans - Vienna &amp; Maluks - Tanta aigua tan prop de casa</title>
+    <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
+  </programme>
+  <programme start="20261127054848 +0100" stop="20261127055224 +0100" channel="TV3Cat_CAT">
+    <title lang="es">Videoclips catalans - Itaca band - Com una bala</title>
+    <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
+  </programme>
+  <programme start="20261127055224 +0100" stop="20261127055548 +0100" channel="TV3Cat_CAT">
+    <title lang="es">Videoclips catalans - Land Of Coconuts - Surt del meu cap</title>
+    <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
+  </programme>
+  <programme start="20261127055548 +0100" stop="20261127060000 +0100" channel="TV3Cat_CAT">
+    <title lang="es">Videoclips catalans - Manu Guix - Com dues gotes d'aigua</title>
     <icon src="http://img.3cat.cat/multimedia/jpg/3/7/1576752758973.jpg" />
   </programme>
   <programme start="20261127060000 +0100" stop="20261127080000 +0100" channel="TV3Cat_CAT">
@@ -85408,11 +85448,11 @@
     <title lang="es">Motor - Trial Indoor de Madrid / Campionat del Món FIM X-Trial 2026</title>
     <desc lang="es">Primera prova del Campionat del Món. Comença un nou repte per a Toni Bou, el gran dominador històric del trial.</desc>
   </programme>
-  <programme start="20261127103000 +0100" stop="20261127143000 +0100" channel="Sport 2">
-    <title lang="es">** Sense nom ** - Roda de premsa d'inici de la jornada electoral</title>
-  </programme>
   <programme start="20261127123000 +0100" stop="20261127130000 +0100" channel="Sport 2">
     <title lang="es">** Sense nom ** - Roda de premsa posterior al Consell de Ministres</title>
+  </programme>
+  <programme start="20261127103000 +0100" stop="20261127143000 +0100" channel="Sport 2">
+    <title lang="es">** Sense nom ** - Roda de premsa d'inici de la jornada electoral</title>
   </programme>
   <programme start="20261127143000 +0100" stop="20261127183000 +0100" channel="Sport 2">
     <title lang="es">** Sense nom ** - Roda de premsa d'avanç de la participació a les 14.30 h</title>
@@ -85420,11 +85460,22 @@
   <programme start="20261127183000 +0100" stop="20261127220000 +0100" channel="Sport 2">
     <title lang="es">** Sense nom ** - Roda de premsa d'avanç de la participació a les 18.30 h</title>
   </programme>
+  <programme start="20261127190000 +0100" stop="20261127190000 +0100" channel="Sport 3">
+    <title lang="es">Tot Costa</title>
+    <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
+    <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
+    <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
+  </programme>
   <programme start="20261127190000 +0100" stop="20261128125500 +0100" channel="Sport 3">
     <title lang="es">Tot Costa</title>
     <sub-title lang="es">Anàlisi rigorós, però també desenfadat, de tota l'actualitat esportiva</sub-title>
     <desc lang="es">Jordi Costa i Sònia Gelmà analitzen diàriament de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.</desc>
     <icon src="http://img.3cat.cat/multimedia/png/5/1/1773910250715.png" />
+  </programme>
+  <programme start="20261128125500 +0100" stop="20261128190000 +0100" channel="Sport 3">
+    <title lang="es">Hoquei patins - CH Mataró-Marineda / OK Lliga / J6</title>
+    <desc lang="es">Les desenes classificades contra les onzenes. Les mataronines tenen 6 punts gràcies a 2 victòries. El conjunt de la Corunya en té 4 després d'1 partit guanyat i 1 d'empatat. Els dos equips han encaixat 3 derrotes.</desc>
+    <icon src="http://img.3cat.cat/multimedia/jpg/9/4/1682429525549.jpg" />
   </programme>
   <programme start="20261127000000 +0100" stop="20261127005000 +0100" channel="BonDia.TV">
     <title lang="es">Trau la llengua - Les paraules importades</title>
